@@ -1,4 +1,10 @@
-<img src="https://mutfakyazilimevi.com/favicon.ico" alt="Mutfak Yazılımevi Stats" height="150" />
+<p align="center">
+  <a href="https://www.mutfakyazilimevi.com"><img src="https://mutfakyazilimevi.com/logo.png" width="180" /></a>
+</p>
+<p align="center">
+  <a href="https://www.mutfakyazilimevi.com">Mutfak Yazılımevi</a>
+</p>
+
 
 # Mutfak Yazılımevi
 
