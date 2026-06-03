@@ -270,11 +270,32 @@ Erime % = (ReelFiyat_şimdi − Fiyat_baz) / Fiyat_baz
 
 ---
 
-## 9. Açık Konular / Karar Bekleyenler
+## 9. Kararlar ve Açık Konular
 
-1. **COGS verisi** nasıl girilecek? (manuel UI / Excel import / muhasebe entegrasyonu)
-2. **Frontend:** Angular mı React mi? (org ikisini de kullanıyor)
-3. **Repo:** Ürün için adanmış repo (`mutfak-yazilimevi/trendyol-finance`) açılacak mı?
-4. **Reklam gideri** kâra dahil edilecek mi? (Trendyol reklam API'si ayrı yetki ister)
-5. **Rakip/pazar verisi** kapsamı ve hukuki sınırlar (scraping riski).
-6. Trendyol finans endpoint'lerinin **birebir teyidi** (alan adları, kalem tipleri, limitler).
+### Verilen kararlar (2026-06-03)
+- **COGS girişi:** Üç yöntem de desteklenecek → (a) manuel UI, (b) Excel/CSV import, (c) muhasebe entegrasyonu (ileride). Veri modeli `ProductCost.Source` alanıyla kaynağı ayırır.
+- **Web Frontend:** **Angular**.
+- **Mobil:** **React Native** (Android + iOS) — tek kod tabanı.
+- **Repo:** Şimdilik iskelet bu repoda `trendyol-finance-saas/` altında; ürünleşince adanmış repoya taşınır.
+
+### Açık konular
+1. **Reklam gideri** kâra dahil edilecek mi? (Trendyol reklam API'si ayrı yetki ister)
+2. **Rakip/pazar verisi** kapsamı ve hukuki sınırlar (scraping riski).
+3. Trendyol finans endpoint'lerinin **birebir teyidi** (alan adları, kalem tipleri, limitler).
+4. Muhasebe entegrasyonu için hedef sistem(ler) (Logo, Mikro, Paraşüt, e-Fatura sağlayıcıları?).
+
+---
+
+## 10. Çözüm Yapısı (bu repodaki iskelet)
+
+```
+trendyol-finance-saas/
+├─ docs/                      # bu doküman
+├─ backend/                   # .NET 8 çözümü (API + Worker + katmanlar)
+├─ web/                       # Angular yönetim paneli
+└─ mobile/                    # React Native (Android + iOS)
+```
+
+> Bu ortamda `dotnet`/Angular CLI bulunmadığından dosyalar elle oluşturuldu;
+> her klasördeki `README.md` derleme/çalıştırma adımlarını ve (gerekiyorsa)
+> CLI ile yeniden üretme komutlarını içerir.

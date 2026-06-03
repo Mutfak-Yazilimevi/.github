@@ -1,0 +1,16 @@
+# .NET
+bin/
+obj/
+*.user
+TrendyolFinance.sln    # generate-solution.sh ile üretilir
+
+# Node / Angular / React Native
+node_modules/
+dist/
+.expo/
+*.log
+
+# IDE
+.vs/
+.idea/
+.vscode/
