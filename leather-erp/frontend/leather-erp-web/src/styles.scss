@@ -1,0 +1,20 @@
+/* Genel stiller */
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; background: #f7f8fa; }
+
+.page-title { font-size: 22px; font-weight: 600; margin: 0 0 16px; }
+
+.cards { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); }
+
+.row { display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start; }
+.row > * { flex: 1 1 320px; }
+
+.full-width { width: 100%; }
+.spacer { flex: 1 1 auto; }
+.muted { color: rgba(0,0,0,0.6); }
+.right { text-align: right; }
+.low { color: #d32f2f; font-weight: 600; }
+
+table.full { width: 100%; }
+.mb { margin-bottom: 16px; }
+.mt { margin-top: 16px; }

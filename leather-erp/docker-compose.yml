@@ -1,0 +1,40 @@
+services:
+  db:
+    image: postgres:16
+    container_name: leather-erp-db
+    environment:
+      POSTGRES_DB: leather_erp
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  api:
+    build: ./backend
+    container_name: leather-erp-api
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      ConnectionStrings__DefaultConnection: "Host=db;Port=5432;Database=leather_erp;Username=postgres;Password=${POSTGRES_PASSWORD:-postgres}"
+      Jwt__Key: "${JWT_KEY:-GELISTIRME-ICIN-GUVENSIZ-VARSAYILAN-ANAHTAR-DEGISTIRIN-1234567890}"
+    ports:
+      - "5080:8080"
+
+  web:
+    build: ./frontend/leather-erp-web
+    container_name: leather-erp-web
+    depends_on:
+      - api
+    ports:
+      - "8080:80"
+
+volumes:
+  pgdata:

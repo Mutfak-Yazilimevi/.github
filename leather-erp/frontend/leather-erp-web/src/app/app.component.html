@@ -1,0 +1,27 @@
+@if (auth.isLoggedIn()) {
+  <mat-toolbar color="primary" class="topbar">
+    <button mat-icon-button (click)="drawer.toggle()"><mat-icon>menu</mat-icon></button>
+    <span class="brand">🐂 Leather ERP</span>
+    <span class="spacer"></span>
+    <span class="user">{{ auth.username() }}</span>
+    <button mat-icon-button (click)="logout()" title="Çıkış"><mat-icon>logout</mat-icon></button>
+  </mat-toolbar>
+
+  <mat-sidenav-container class="container">
+    <mat-sidenav #drawer mode="side" opened class="sidenav">
+      <mat-nav-list>
+        @for (item of nav; track item.path) {
+          <a mat-list-item [routerLink]="item.path" routerLinkActive="active">
+            <mat-icon matListItemIcon>{{ item.icon }}</mat-icon>
+            <span matListItemTitle>{{ item.label }}</span>
+          </a>
+        }
+      </mat-nav-list>
+    </mat-sidenav>
+    <mat-sidenav-content class="content">
+      <router-outlet></router-outlet>
+    </mat-sidenav-content>
+  </mat-sidenav-container>
+} @else {
+  <router-outlet></router-outlet>
+}

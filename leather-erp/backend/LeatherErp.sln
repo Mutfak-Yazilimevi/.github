@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{27F41BA0-28FA-4EF8-873D-126131543D22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeatherErp.Domain", "src\LeatherErp.Domain\LeatherErp.Domain.csproj", "{99EC124D-32F7-4DA6-822D-3B795D290695}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeatherErp.Application", "src\LeatherErp.Application\LeatherErp.Application.csproj", "{C66DF18E-48B5-4BE0-B9E2-6FFAC4B96E05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeatherErp.Infrastructure", "src\LeatherErp.Infrastructure\LeatherErp.Infrastructure.csproj", "{4C5EC3C3-CBA5-4F52-97D7-E0953D19EFC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeatherErp.Api", "src\LeatherErp.Api\LeatherErp.Api.csproj", "{E3C3EFE7-63D2-4AD2-98AF-2ED9F3071709}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{7028F0D8-A54F-4B3E-9B45-D1ED63290251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeatherErp.Application.Tests", "tests\LeatherErp.Application.Tests\LeatherErp.Application.Tests.csproj", "{EE889C48-4F01-447A-960C-80F68971A729}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99EC124D-32F7-4DA6-822D-3B795D290695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99EC124D-32F7-4DA6-822D-3B795D290695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99EC124D-32F7-4DA6-822D-3B795D290695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99EC124D-32F7-4DA6-822D-3B795D290695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C66DF18E-48B5-4BE0-B9E2-6FFAC4B96E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66DF18E-48B5-4BE0-B9E2-6FFAC4B96E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66DF18E-48B5-4BE0-B9E2-6FFAC4B96E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66DF18E-48B5-4BE0-B9E2-6FFAC4B96E05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C5EC3C3-CBA5-4F52-97D7-E0953D19EFC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C5EC3C3-CBA5-4F52-97D7-E0953D19EFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C5EC3C3-CBA5-4F52-97D7-E0953D19EFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C5EC3C3-CBA5-4F52-97D7-E0953D19EFC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3C3EFE7-63D2-4AD2-98AF-2ED9F3071709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3C3EFE7-63D2-4AD2-98AF-2ED9F3071709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3C3EFE7-63D2-4AD2-98AF-2ED9F3071709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3C3EFE7-63D2-4AD2-98AF-2ED9F3071709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE889C48-4F01-447A-960C-80F68971A729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE889C48-4F01-447A-960C-80F68971A729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE889C48-4F01-447A-960C-80F68971A729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE889C48-4F01-447A-960C-80F68971A729}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{99EC124D-32F7-4DA6-822D-3B795D290695} = {27F41BA0-28FA-4EF8-873D-126131543D22}
+		{C66DF18E-48B5-4BE0-B9E2-6FFAC4B96E05} = {27F41BA0-28FA-4EF8-873D-126131543D22}
+		{4C5EC3C3-CBA5-4F52-97D7-E0953D19EFC5} = {27F41BA0-28FA-4EF8-873D-126131543D22}
+		{E3C3EFE7-63D2-4AD2-98AF-2ED9F3071709} = {27F41BA0-28FA-4EF8-873D-126131543D22}
+		{EE889C48-4F01-447A-960C-80F68971A729} = {7028F0D8-A54F-4B3E-9B45-D1ED63290251}
+	EndGlobalSection
+EndGlobal

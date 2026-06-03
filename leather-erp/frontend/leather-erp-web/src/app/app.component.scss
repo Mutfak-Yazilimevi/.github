@@ -1,0 +1,32 @@
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  .brand { font-weight: 600; margin-left: 8px; }
+  .spacer { flex: 1 1 auto; }
+  .user { margin-right: 8px; opacity: 0.9; font-size: 14px; }
+}
+
+.container {
+  height: calc(100vh - 64px);
+}
+
+.sidenav {
+  width: 240px;
+  border-right: 1px solid rgba(0, 0, 0, 0.08);
+
+  .active {
+    background: rgba(63, 81, 181, 0.12);
+    font-weight: 600;
+  }
+}
+
+.content {
+  padding: 20px;
+  background: #f7f8fa;
+}
+
+@media (max-width: 700px) {
+  .sidenav { width: 200px; }
+  .content { padding: 12px; }
+}
