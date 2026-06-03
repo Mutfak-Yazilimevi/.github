@@ -32,12 +32,27 @@ POST   /api/cogs/import          # Excel/CSV (multipart) → satır doğrulama r
 GET    /api/cogs/{productId}     # ürünün maliyet geçmişi (effective-dated)
 ```
 
-## Reel Fiyat (F4) / Ölü Stok (F5) / Öngörü (F6)
+## Reel Fiyat (F4) / Ölü Stok (F5) / Öngörü (F6) / Öneriler (F7)
 ```
-GET /api/pricing/real?productId=...        # nominal vs reel (TÜFE) seri
+GET /api/pricing/real?productId=...        # nominal vs reel (TÜFE) seri + erime %
 GET /api/inventory/dead-stock?days=90      # N gündür satılmayanlar + bağlı sermaye
-GET /api/forecast/sales?productId=...      # ileri dönem tahmin
+GET /api/forecast/sales?barcode=&horizon=3 # ileri dönem ciro tahmini + trend
+GET /api/recommendations                    # kural tabanlı pazarlama/fiyat önerileri
 ```
 
-> Bu sözleşme iskelettir; alanlar implementasyonla netleşecek. Backend'de yalnızca
-> `/api/profit/summary` örnek olarak uygulanmıştır.
+## Dashboard (F2)
+```
+GET /api/dashboard?month=2026-06
+→ { currentPeriod, previousPeriod, revenueGrowthPercent,
+    health: { score, grade, breakdown } }
+```
+
+## Mağaza bağlama
+```
+POST /api/selleraccounts/connect
+  { storeName, trendyolSellerId, apiKey, apiSecret }   # kimlikler şifreli saklanır
+→ backfill arka planda (Hangfire) başlar
+```
+
+> Bu sözleşme iskelettir; alanlar implementasyonla netleşebilir. Tüm uçlar backend'de
+> iskelet olarak uygulanmıştır (derleme yerelde doğrulanmalı).

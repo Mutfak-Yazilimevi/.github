@@ -25,10 +25,10 @@ trendyol-finance-saas/
 | F3 | Hakediş mutabakatı ("Trendyol doğru mu hesaplamış?") | İskelet (ReconciliationService + endpoint) |
 | F4 | Enflasyona göre reel fiyat erimesi (TÜİK) | İskelet (RealPriceService + endpoint) |
 | F5 | Ölü stok / yavaş satan tespiti | İskelet (DeadStockService + endpoint) |
-| F6 | Öngörü / forecast | Planlı |
-| F7 | Pazar araştırması & pazarlama önerileri | Planlı |
+| F6 | Öngörü / forecast | İskelet (ForecastService + endpoint) |
+| F7 | Pazarlama/fiyat önerileri | İskelet (RecommendationService + endpoint) |
 
-Ayrıca: **COGS** (manuel + Excel/CSV import) ve **Ingestion** (Hangfire ile backfill + saatlik senkron) iskeleti hazır.
+Ayrıca: **COGS** (manuel + Excel/CSV import), **Ingestion** (Hangfire ile backfill + saatlik senkron) ve **Dashboard** (sağlık skoru) iskeleti hazır. Pazar araştırması (rakip verisi) açık konu olarak duruyor (resmî API'de yok).
 
 ## Kararlar
 - **Model:** Multi-tenant SaaS · **Backend:** .NET 8 + PostgreSQL · **Web:** Angular · **Mobil:** React Native

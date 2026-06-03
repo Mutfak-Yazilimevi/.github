@@ -37,6 +37,8 @@ builder.Services.AddScoped<ReconciliationService>();
 builder.Services.AddScoped<DeadStockService>();
 builder.Services.AddScoped<RealPriceService>();
 builder.Services.AddScoped<HealthScoreCalculator>();
+builder.Services.AddScoped<ForecastService>();
+builder.Services.AddScoped<RecommendationService>();
 builder.Services.AddScoped<CogsCsvParser>();
 
 // Ingestion
