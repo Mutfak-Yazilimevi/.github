@@ -1,13 +1,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.0" />
-    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.0" />
+    <PackageReference Include="Hangfire.Core" Version="1.8.14" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="8.0.0" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.0" />
-    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="8.0.0" />
-    <PackageReference Include="Microsoft.AspNetCore.DataProtection" Version="8.0.0" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TrendyolFinance.Domain\TrendyolFinance.Domain.csproj" />
     <ProjectReference Include="..\TrendyolFinance.Application\TrendyolFinance.Application.csproj" />
+    <ProjectReference Include="..\TrendyolFinance.Integration\TrendyolFinance.Integration.csproj" />
+    <ProjectReference Include="..\TrendyolFinance.Infrastructure\TrendyolFinance.Infrastructure.csproj" />
   </ItemGroup>
 </Project>

@@ -12,6 +12,7 @@ dotnet sln add \
   src/TrendyolFinance.Application/TrendyolFinance.Application.csproj \
   src/TrendyolFinance.Integration/TrendyolFinance.Integration.csproj \
   src/TrendyolFinance.Infrastructure/TrendyolFinance.Infrastructure.csproj \
+  src/TrendyolFinance.Ingestion/TrendyolFinance.Ingestion.csproj \
   src/TrendyolFinance.Api/TrendyolFinance.Api.csproj \
   tests/TrendyolFinance.UnitTests/TrendyolFinance.UnitTests.csproj
 

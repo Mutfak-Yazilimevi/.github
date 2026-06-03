@@ -32,6 +32,7 @@ public class AppDbContext : DbContext
     public DbSet<ProductCost> ProductCosts => Set<ProductCost>();
     public DbSet<PriceSnapshot> PriceSnapshots => Set<PriceSnapshot>();
     public DbSet<InflationIndex> InflationIndices => Set<InflationIndex>();
+    public DbSet<CategoryCommission> CategoryCommissions => Set<CategoryCommission>();
 
     protected override void OnModelCreating(ModelBuilder b)
     {
@@ -45,6 +46,7 @@ public class AppDbContext : DbContext
             .IsUnique();
 
         b.Entity<InflationIndex>().HasKey(x => x.YearMonth);
+        b.Entity<CategoryCommission>().HasKey(x => x.TrendyolCategoryId);
 
         // Çoklu kiracı izolasyonu: ITenantScoped varlıklarına global filtre.
         ApplyTenantFilter<AppUser>(b);

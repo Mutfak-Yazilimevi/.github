@@ -21,12 +21,14 @@ trendyol-finance-saas/
 | Kod | Özellik | Durum |
 |-----|---------|-------|
 | F1 | Ürün/kategori/dönem gerçek kâr (COGS dahil) | İskelet (ProfitCalculator + endpoint) |
-| F2 | Aylık/yıllık kârlılık & sağlık skoru | Planlı |
-| F3 | Hakediş mutabakatı ("Trendyol doğru mu hesaplamış?") | İskelet (ReconciliationService) |
-| F4 | Enflasyona göre reel fiyat erimesi (TÜİK) | Planlı |
-| F5 | Ölü stok / yavaş satan tespiti | Planlı |
+| F2 | Aylık/yıllık kârlılık & sağlık skoru | İskelet (HealthScoreCalculator) |
+| F3 | Hakediş mutabakatı ("Trendyol doğru mu hesaplamış?") | İskelet (ReconciliationService + endpoint) |
+| F4 | Enflasyona göre reel fiyat erimesi (TÜİK) | İskelet (RealPriceService + endpoint) |
+| F5 | Ölü stok / yavaş satan tespiti | İskelet (DeadStockService + endpoint) |
 | F6 | Öngörü / forecast | Planlı |
 | F7 | Pazar araştırması & pazarlama önerileri | Planlı |
+
+Ayrıca: **COGS** (manuel + Excel/CSV import) ve **Ingestion** (Hangfire ile backfill + saatlik senkron) iskeleti hazır.
 
 ## Kararlar
 - **Model:** Multi-tenant SaaS · **Backend:** .NET 8 + PostgreSQL · **Web:** Angular · **Mobil:** React Native

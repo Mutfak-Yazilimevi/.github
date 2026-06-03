@@ -1,0 +1,3 @@
+barcode,purchasePrice,vatRate,packagingCost,otherCost,effectiveFrom
+ORNEK-BARKOD-1,40.50,20,2.00,1.00,2026-01-01
+ORNEK-BARKOD-2,30.00,10,1.50,0.00,2026-02-15

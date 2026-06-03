@@ -1,6 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+    <PackageReference Include="ClosedXML" Version="0.104.1" />
+    <PackageReference Include="Hangfire.AspNetCore" Version="1.8.14" />
+    <PackageReference Include="Hangfire.PostgreSql" Version="1.20.10" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.0">
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
@@ -9,5 +12,6 @@
     <ProjectReference Include="..\TrendyolFinance.Application\TrendyolFinance.Application.csproj" />
     <ProjectReference Include="..\TrendyolFinance.Infrastructure\TrendyolFinance.Infrastructure.csproj" />
     <ProjectReference Include="..\TrendyolFinance.Integration\TrendyolFinance.Integration.csproj" />
+    <ProjectReference Include="..\TrendyolFinance.Ingestion\TrendyolFinance.Ingestion.csproj" />
   </ItemGroup>
 </Project>
