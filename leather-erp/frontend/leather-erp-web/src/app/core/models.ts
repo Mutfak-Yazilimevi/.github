@@ -132,6 +132,9 @@ export interface ReportSummary {
   lowStockCount: number;
   productionOrderCount: number;
   unitsProduced: number;
+  totalRevenue: number;
+  totalProfit: number;
+  unitsSold: number;
 }
 
 export interface ProductionTrendPoint {
@@ -139,6 +142,22 @@ export interface ProductionTrendPoint {
   label: string;
   units: number;
   value: number;
+  salesUnits: number;
+  revenue: number;
+}
+
+export interface SalesOrder {
+  id: string;
+  productId: string;
+  product?: Product;
+  quantity: number;
+  saleDate: string;
+  unitPrice: number;
+  unitCost: number;
+  customerName?: string;
+  notes?: string;
+  revenue: number;
+  profit: number;
 }
 
 export interface ProductProfitability {

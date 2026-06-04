@@ -16,6 +16,7 @@ public interface IAppDbContext
     DbSet<Product> Products { get; }
     DbSet<ProductRecipe> Recipes { get; }
     DbSet<ProductionOrder> ProductionOrders { get; }
+    DbSet<SalesOrder> SalesOrders { get; }
     DbSet<FinishedGoodsInventory> FinishedGoods { get; }
     DbSet<AppSettings> Settings { get; }
     DbSet<User> Users { get; }

@@ -30,6 +30,7 @@ export class AppComponent implements OnInit {
     { path: '/products', label: 'Ürünler & Reçete', icon: 'category' },
     { path: '/pricing', label: 'Maliyet & Fiyat', icon: 'calculate' },
     { path: '/production', label: 'Üretim & Mamul', icon: 'precision_manufacturing' },
+    { path: '/sales', label: 'Satış', icon: 'point_of_sale' },
     { path: '/reports', label: 'Raporlar', icon: 'bar_chart' },
     { path: '/settings', label: 'Ayarlar', icon: 'settings' }
   ];

@@ -22,6 +22,11 @@ public record ReportSummary
     public int LowStockCount { get; init; }
     public int ProductionOrderCount { get; init; }
     public int UnitsProduced { get; init; }
+    /// <summary>Toplam satış cirosu (tüm zamanlar).</summary>
+    public decimal TotalRevenue { get; init; }
+    /// <summary>Toplam satış kârı (ciro − COGS).</summary>
+    public decimal TotalProfit { get; init; }
+    public int UnitsSold { get; init; }
 }
 
 /// <summary>Zaman serisi (aylık) üretim noktası — grafik için.</summary>
@@ -35,6 +40,10 @@ public record ProductionTrendPoint
     public int Units { get; init; }
     /// <summary>O ay üretilen mamulün maliyet değeri (Σ birim maliyet × adet).</summary>
     public decimal Value { get; init; }
+    /// <summary>O ay satılan adet.</summary>
+    public int SalesUnits { get; init; }
+    /// <summary>O ay satış cirosu.</summary>
+    public decimal Revenue { get; init; }
 }
 
 /// <summary>Ürün bazında kârlılık satırı.</summary>

@@ -26,6 +26,7 @@ public class ReportService
         var levels = await _stock.GetStockLevelsAsync(ct);
         var finished = await _db.FinishedGoods.AsNoTracking().ToListAsync(ct);
         var orders = await _db.ProductionOrders.AsNoTracking().ToListAsync(ct);
+        var sales = await _db.SalesOrders.AsNoTracking().ToListAsync(ct);
 
         return new ReportSummary
         {
@@ -35,7 +36,10 @@ public class ReportService
             FinishedGoodsValue = finished.Sum(f => f.QuantityOnHand * f.AverageUnitCost),
             FinishedGoodsUnits = finished.Sum(f => f.QuantityOnHand),
             ProductionOrderCount = orders.Count,
-            UnitsProduced = orders.Where(o => o.Status == ProductionStatus.Confirmed).Sum(o => o.Quantity)
+            UnitsProduced = orders.Where(o => o.Status == ProductionStatus.Confirmed).Sum(o => o.Quantity),
+            TotalRevenue = sales.Sum(x => x.Quantity * x.UnitPrice),
+            TotalProfit = sales.Sum(x => x.Quantity * (x.UnitPrice - x.UnitCost)),
+            UnitsSold = sales.Sum(x => x.Quantity)
         };
     }
 
@@ -57,24 +61,35 @@ public class ReportService
         var orders = await _db.ProductionOrders.AsNoTracking()
             .Where(o => o.Status == ProductionStatus.Confirmed && o.OrderDate >= start)
             .ToListAsync(ct);
+        var sales = await _db.SalesOrders.AsNoTracking()
+            .Where(x => x.SaleDate >= start)
+            .ToListAsync(ct);
 
-        var byMonth = orders
+        var prodByMonth = orders
             .GroupBy(o => (o.OrderDate.Year, o.OrderDate.Month))
             .ToDictionary(g => g.Key, g => (
                 Units: g.Sum(o => o.Quantity),
                 Value: g.Sum(o => o.UnitCostSnapshot * o.Quantity)));
+        var salesByMonth = sales
+            .GroupBy(x => (x.SaleDate.Year, x.SaleDate.Month))
+            .ToDictionary(g => g.Key, g => (
+                Units: g.Sum(x => x.Quantity),
+                Revenue: g.Sum(x => x.Quantity * x.UnitPrice)));
 
         var points = new List<ProductionTrendPoint>(months);
         for (var i = 0; i < months; i++)
         {
             var d = start.AddMonths(i);
-            byMonth.TryGetValue((d.Year, d.Month), out var agg);
+            prodByMonth.TryGetValue((d.Year, d.Month), out var prod);
+            salesByMonth.TryGetValue((d.Year, d.Month), out var sale);
             points.Add(new ProductionTrendPoint
             {
                 Period = $"{d.Year:0000}-{d.Month:00}",
                 Label = $"{MonthAbbr[d.Month - 1]} {d.Year}",
-                Units = agg.Units,
-                Value = agg.Value
+                Units = prod.Units,
+                Value = prod.Value,
+                SalesUnits = sale.Units,
+                Revenue = sale.Revenue
             });
         }
         return points;

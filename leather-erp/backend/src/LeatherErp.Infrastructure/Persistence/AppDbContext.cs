@@ -16,6 +16,7 @@ public class AppDbContext : DbContext, IAppDbContext
     public DbSet<Product> Products => Set<Product>();
     public DbSet<ProductRecipe> Recipes => Set<ProductRecipe>();
     public DbSet<ProductionOrder> ProductionOrders => Set<ProductionOrder>();
+    public DbSet<SalesOrder> SalesOrders => Set<SalesOrder>();
     public DbSet<FinishedGoodsInventory> FinishedGoods => Set<FinishedGoodsInventory>();
     public DbSet<AppSettings> Settings => Set<AppSettings>();
     public DbSet<User> Users => Set<User>();

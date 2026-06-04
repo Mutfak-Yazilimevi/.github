@@ -11,6 +11,7 @@ public static class DependencyInjection
         services.AddSingleton<CostCalculationService>();
         services.AddSingleton<PricingService>();
         services.AddScoped<ProductionService>();
+        services.AddScoped<SalesService>();
         services.AddScoped<StockService>();
         services.AddScoped<ProductCostingService>();
         services.AddScoped<ReportService>();

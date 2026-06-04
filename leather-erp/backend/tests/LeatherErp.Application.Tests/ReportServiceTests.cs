@@ -79,6 +79,8 @@ public class ReportServiceTests
             new ProductionOrder { ProductId = productId, Quantity = 4, Status = Domain.Enums.ProductionStatus.Confirmed, UnitCostSnapshot = 50m, OrderDate = now.AddMonths(-1) },
             // Taslak emir sayılmamalı.
             new ProductionOrder { ProductId = productId, Quantity = 9, Status = Domain.Enums.ProductionStatus.Draft, OrderDate = now });
+        // Bu ay 2 adet satış (gelir serisi için).
+        db.SalesOrders.Add(new SalesOrder { ProductId = productId, Quantity = 2, UnitPrice = 290m, UnitCost = 170m, SaleDate = now });
         db.SaveChanges();
 
         var trend = await BuildService(db).GetProductionTrendAsync(6);
@@ -86,6 +88,8 @@ public class ReportServiceTests
         Assert.Equal(6, trend.Count);                       // 6 ay, sürekli
         Assert.Equal(5, trend[^1].Units);                   // bu ay: 3 + 2
         Assert.Equal(500m, trend[^1].Value);                // 5 × 100
+        Assert.Equal(2, trend[^1].SalesUnits);              // bu ay satış adedi
+        Assert.Equal(580m, trend[^1].Revenue);              // 2 × 290
         Assert.Equal(4, trend[^2].Units);                   // geçen ay
         Assert.Equal(200m, trend[^2].Value);                // 4 × 50
         Assert.All(trend.Take(4), p => Assert.Equal(0, p.Units));   // önceki aylar sıfır

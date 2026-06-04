@@ -88,6 +88,20 @@ public class ProductionOrderConfig : IEntityTypeConfiguration<ProductionOrder>
     }
 }
 
+public class SalesOrderConfig : IEntityTypeConfiguration<SalesOrder>
+{
+    public void Configure(EntityTypeBuilder<SalesOrder> b)
+    {
+        b.Property(x => x.UnitPrice).HasPrecision(18, 4);
+        b.Property(x => x.UnitCost).HasPrecision(18, 4);
+        b.Ignore(x => x.Revenue);
+        b.Ignore(x => x.Profit);
+        b.HasOne(x => x.Product).WithMany()
+            .HasForeignKey(x => x.ProductId).OnDelete(DeleteBehavior.Restrict);
+        b.HasIndex(x => x.SaleDate);
+    }
+}
+
 public class FinishedGoodsConfig : IEntityTypeConfiguration<FinishedGoodsInventory>
 {
     public void Configure(EntityTypeBuilder<FinishedGoodsInventory> b)

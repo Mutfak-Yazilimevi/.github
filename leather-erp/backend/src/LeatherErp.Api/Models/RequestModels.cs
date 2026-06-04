@@ -30,6 +30,14 @@ public record RecipeRequest(
 
 public record ProductionOrderRequest(Guid ProductId, int Quantity, string? Notes);
 
+public record SalesOrderRequest(
+    Guid ProductId,
+    int Quantity,
+    decimal UnitPrice,
+    string? CustomerName,
+    string? Notes,
+    DateTime? SaleDate);
+
 public record SettingsRequest(
     UnitOfMeasure DisplayUnit,
     string CurrencyCode,
