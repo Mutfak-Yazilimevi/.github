@@ -41,10 +41,10 @@ public class ProductSyncService
             .ToDictionaryAsync(p => p.Barcode, ct);
 
         // Bugün zaten snapshot alınmış ürünler (gün içi tekrar çalışmaya karşı).
-        var snappedToday = await _db.PriceSnapshots.IgnoreQueryFilters()
+        var snappedToday = (await _db.PriceSnapshots.IgnoreQueryFilters()
             .Where(s => s.TenantId == account.TenantId && s.CapturedOn == today)
             .Select(s => s.ProductId)
-            .ToHashSetAsync(ct);
+            .ToListAsync(ct)).ToHashSet();
 
         var count = 0;
         await foreach (var dto in _catalog.StreamProductsAsync(_credentials.Resolve(account), ct))

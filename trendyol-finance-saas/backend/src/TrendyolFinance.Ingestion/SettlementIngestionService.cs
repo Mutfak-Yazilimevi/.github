@@ -69,11 +69,11 @@ public class SettlementIngestionService
         DateTimeOffset start, DateTimeOffset end, CancellationToken ct)
     {
         // Bu pencerede zaten kayıtlı kalem id'leri (idempotent upsert için).
-        var existingIds = await _db.SettlementTransactions.IgnoreQueryFilters()
+        var existingIds = (await _db.SettlementTransactions.IgnoreQueryFilters()
             .Where(t => t.SellerAccountId == sellerAccountId
                 && t.TransactionDate >= start && t.TransactionDate <= end)
             .Select(t => t.TrendyolTransactionId)
-            .ToHashSetAsync(ct);
+            .ToListAsync(ct)).ToHashSet();
 
         var buffer = new List<Domain.Finance.SettlementTransaction>(512);
         var added = 0;
