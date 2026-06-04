@@ -28,7 +28,7 @@ Architecture benzeri) yapı.
 | `GET  /api/recommendations` | Pazarlama/fiyat önerileri (F7) |
 | `GET  /api/dashboard` | Sağlık skoru + KPI özeti (F2) |
 | `POST /api/cogs`, `POST /api/cogs/import`, `GET /api/cogs/{id}` | COGS: manuel + Excel/CSV + geçmiş |
-| `/hangfire` | Arka plan iş panosu (saatlik settlement, günlük komisyon, aylık TÜFE) |
+| `/hangfire` | Arka plan iş panosu (saatlik settlement, günlük komisyon + ürün/fiyat, aylık TÜFE) |
 
 ## Yapılandırma (appsettings)
 

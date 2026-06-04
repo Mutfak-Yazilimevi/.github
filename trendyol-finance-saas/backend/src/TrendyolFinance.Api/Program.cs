@@ -80,6 +80,7 @@ builder.Services.AddScoped<CogsCsvParser>();
 builder.Services.AddScoped<SettlementIngestionService>();
 builder.Services.AddScoped<InflationImportService>();
 builder.Services.AddScoped<CategoryCommissionSyncService>();
+builder.Services.AddScoped<ProductSyncService>();
 builder.Services.AddScoped<AccountingCostImportService>();
 builder.Services.AddScoped<IngestionJobs>();
 
@@ -107,6 +108,8 @@ RecurringJob.AddOrUpdate<IngestionJobs>(
     "settlement-sync-hourly", j => j.SyncAllActiveAsync(CancellationToken.None), Cron.Hourly);
 RecurringJob.AddOrUpdate<IngestionJobs>(
     "category-commission-daily", j => j.SyncCategoryCommissionsAsync(CancellationToken.None), Cron.Daily);
+RecurringJob.AddOrUpdate<IngestionJobs>(
+    "product-sync-daily", j => j.SyncAllProductsAsync(CancellationToken.None), Cron.Daily);
 RecurringJob.AddOrUpdate<IngestionJobs>(
     "inflation-monthly", j => j.ImportInflationAsync(CancellationToken.None), Cron.Monthly);
 
