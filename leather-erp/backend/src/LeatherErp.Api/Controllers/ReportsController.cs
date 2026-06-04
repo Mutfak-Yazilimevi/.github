@@ -21,4 +21,9 @@ public class ReportsController : ControllerBase
     [HttpGet("profitability")]
     public async Task<ActionResult<List<ProductProfitability>>> Profitability()
         => Ok(await _reports.GetProfitabilityAsync());
+
+    /// <summary>Aylık üretim trend'i (grafik için). Varsayılan son 6 ay.</summary>
+    [HttpGet("production-trend")]
+    public async Task<ActionResult<List<ProductionTrendPoint>>> ProductionTrend([FromQuery] int months = 6)
+        => Ok(await _reports.GetProductionTrendAsync(months));
 }

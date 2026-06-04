@@ -24,6 +24,19 @@ public record ReportSummary
     public int UnitsProduced { get; init; }
 }
 
+/// <summary>Zaman serisi (aylık) üretim noktası — grafik için.</summary>
+public record ProductionTrendPoint
+{
+    /// <summary>Sıralanabilir dönem anahtarı, "yyyy-MM" (örn. "2026-03").</summary>
+    public string Period { get; init; } = string.Empty;
+    /// <summary>Gösterim etiketi (örn. "Mar 2026").</summary>
+    public string Label { get; init; } = string.Empty;
+    /// <summary>O ay onaylanan üretim adedi.</summary>
+    public int Units { get; init; }
+    /// <summary>O ay üretilen mamulün maliyet değeri (Σ birim maliyet × adet).</summary>
+    public decimal Value { get; init; }
+}
+
 /// <summary>Ürün bazında kârlılık satırı.</summary>
 public record ProductProfitability
 {

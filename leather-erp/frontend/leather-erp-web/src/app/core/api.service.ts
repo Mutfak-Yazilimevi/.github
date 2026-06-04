@@ -5,7 +5,7 @@ import { environment } from '../../environments/environment';
 import {
   AppSettings, CostBreakdown, FinishedGoods, LeatherLot, LeatherType,
   PricingResult, Product, ProductionOrder, ProductPricing, ProductProfitability,
-  Recipe, ReportSummary, StockLevel, Supplier, UnitOfMeasure
+  ProductionTrendPoint, Recipe, ReportSummary, StockLevel, Supplier, UnitOfMeasure
 } from './models';
 
 /** Tüm backend uçlarını saran tek API servisi. */
@@ -64,4 +64,7 @@ export class ApiService {
   // --- Raporlar ---
   reportSummary(): Observable<ReportSummary> { return this.http.get<ReportSummary>(`${this.api}/reports/summary`); }
   profitability(): Observable<ProductProfitability[]> { return this.http.get<ProductProfitability[]>(`${this.api}/reports/profitability`); }
+  productionTrend(months = 6): Observable<ProductionTrendPoint[]> {
+    return this.http.get<ProductionTrendPoint[]>(`${this.api}/reports/production-trend?months=${months}`);
+  }
 }

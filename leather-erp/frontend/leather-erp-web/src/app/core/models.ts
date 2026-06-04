@@ -134,6 +134,13 @@ export interface ReportSummary {
   unitsProduced: number;
 }
 
+export interface ProductionTrendPoint {
+  period: string;
+  label: string;
+  units: number;
+  value: number;
+}
+
 export interface ProductProfitability {
   productId: string;
   productName: string;

@@ -67,6 +67,31 @@ public class ReportServiceTests
     }
 
     [Fact]
+    public async Task GetProductionTrend_BucketsByMonth_AndZeroFills()
+    {
+        var db = Seed();
+        var productId = db.Products.First().Id;
+        var now = DateTime.UtcNow;
+        // Bu ay 2 onaylı emir, geçen ay 1; aradaki/diğer aylar boş kalmalı.
+        db.ProductionOrders.AddRange(
+            new ProductionOrder { ProductId = productId, Quantity = 3, Status = Domain.Enums.ProductionStatus.Confirmed, UnitCostSnapshot = 100m, OrderDate = now },
+            new ProductionOrder { ProductId = productId, Quantity = 2, Status = Domain.Enums.ProductionStatus.Confirmed, UnitCostSnapshot = 100m, OrderDate = now },
+            new ProductionOrder { ProductId = productId, Quantity = 4, Status = Domain.Enums.ProductionStatus.Confirmed, UnitCostSnapshot = 50m, OrderDate = now.AddMonths(-1) },
+            // Taslak emir sayılmamalı.
+            new ProductionOrder { ProductId = productId, Quantity = 9, Status = Domain.Enums.ProductionStatus.Draft, OrderDate = now });
+        db.SaveChanges();
+
+        var trend = await BuildService(db).GetProductionTrendAsync(6);
+
+        Assert.Equal(6, trend.Count);                       // 6 ay, sürekli
+        Assert.Equal(5, trend[^1].Units);                   // bu ay: 3 + 2
+        Assert.Equal(500m, trend[^1].Value);                // 5 × 100
+        Assert.Equal(4, trend[^2].Units);                   // geçen ay
+        Assert.Equal(200m, trend[^2].Value);                // 4 × 50
+        Assert.All(trend.Take(4), p => Assert.Equal(0, p.Units));   // önceki aylar sıfır
+    }
+
+    [Fact]
     public async Task GetProfitability_IgnoresProductsWithoutRecipe()
     {
         var db = Seed();

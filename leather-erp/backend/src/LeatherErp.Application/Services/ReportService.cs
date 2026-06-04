@@ -39,6 +39,47 @@ public class ReportService
         };
     }
 
+    private static readonly string[] MonthAbbr =
+        { "Oca", "Şub", "Mar", "Nis", "May", "Haz", "Tem", "Ağu", "Eyl", "Eki", "Kas", "Ara" };
+
+    /// <summary>
+    /// Son <paramref name="months"/> ay için aylık üretim trend'ini döndürür (onaylanan emirler).
+    /// Üretim olmayan aylar sıfır değerle doldurulur, böylece grafik sürekli olur.
+    /// </summary>
+    public async Task<List<ProductionTrendPoint>> GetProductionTrendAsync(int months = 6, CancellationToken ct = default)
+    {
+        if (months < 1) months = 1;
+        if (months > 36) months = 36;
+
+        var now = DateTime.UtcNow;
+        var start = new DateTime(now.Year, now.Month, 1, 0, 0, 0, DateTimeKind.Utc).AddMonths(-(months - 1));
+
+        var orders = await _db.ProductionOrders.AsNoTracking()
+            .Where(o => o.Status == ProductionStatus.Confirmed && o.OrderDate >= start)
+            .ToListAsync(ct);
+
+        var byMonth = orders
+            .GroupBy(o => (o.OrderDate.Year, o.OrderDate.Month))
+            .ToDictionary(g => g.Key, g => (
+                Units: g.Sum(o => o.Quantity),
+                Value: g.Sum(o => o.UnitCostSnapshot * o.Quantity)));
+
+        var points = new List<ProductionTrendPoint>(months);
+        for (var i = 0; i < months; i++)
+        {
+            var d = start.AddMonths(i);
+            byMonth.TryGetValue((d.Year, d.Month), out var agg);
+            points.Add(new ProductionTrendPoint
+            {
+                Period = $"{d.Year:0000}-{d.Month:00}",
+                Label = $"{MonthAbbr[d.Month - 1]} {d.Year}",
+                Units = agg.Units,
+                Value = agg.Value
+            });
+        }
+        return points;
+    }
+
     /// <summary>Reçetesi olan aktif ürünler için kârlılık tablosu üretir.</summary>
     public async Task<List<ProductProfitability>> GetProfitabilityAsync(CancellationToken ct = default)
     {
