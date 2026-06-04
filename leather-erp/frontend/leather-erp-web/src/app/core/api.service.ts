@@ -4,7 +4,8 @@ import { Observable } from 'rxjs';
 import { environment } from '../../environments/environment';
 import {
   AppSettings, CostBreakdown, FinishedGoods, LeatherLot, LeatherType,
-  PricingResult, Product, ProductionOrder, ProductPricing, Recipe, StockLevel, Supplier, UnitOfMeasure
+  PricingResult, Product, ProductionOrder, ProductPricing, ProductProfitability,
+  Recipe, ReportSummary, StockLevel, Supplier, UnitOfMeasure
 } from './models';
 
 /** Tüm backend uçlarını saran tek API servisi. */
@@ -59,4 +60,8 @@ export class ApiService {
   pricingForProduct(productId: string): Observable<ProductPricing> {
     return this.http.get<ProductPricing>(`${this.api}/pricing/product/${productId}`);
   }
+
+  // --- Raporlar ---
+  reportSummary(): Observable<ReportSummary> { return this.http.get<ReportSummary>(`${this.api}/reports/summary`); }
+  profitability(): Observable<ProductProfitability[]> { return this.http.get<ProductProfitability[]>(`${this.api}/reports/profitability`); }
 }

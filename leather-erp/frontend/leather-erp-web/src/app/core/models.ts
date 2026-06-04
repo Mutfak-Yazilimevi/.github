@@ -123,3 +123,23 @@ export interface ProductPricing {
   appliedProfitMargin: number;
   appliedVatRate: number;
 }
+
+export interface ReportSummary {
+  totalLeatherStockDm2: number;
+  leatherStockValue: number;
+  finishedGoodsValue: number;
+  finishedGoodsUnits: number;
+  lowStockCount: number;
+  productionOrderCount: number;
+  unitsProduced: number;
+}
+
+export interface ProductProfitability {
+  productId: string;
+  productName: string;
+  unitCost: number;
+  salePrice: number;
+  unitProfit: number;
+  profitMargin: number;
+  producibleUnits: number;
+}
