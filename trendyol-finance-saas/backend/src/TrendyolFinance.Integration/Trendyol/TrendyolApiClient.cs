@@ -78,7 +78,7 @@ public class TrendyolApiClient : ITrendyolApiClient
         request.Headers.UserAgent.ParseAdd($"{credentials.SellerId} - SelfIntegration");
     }
 
-    internal static IEnumerable<(DateTimeOffset Start, DateTimeOffset End)> SliceWindows(
+    public static IEnumerable<(DateTimeOffset Start, DateTimeOffset End)> SliceWindows(
         DateTimeOffset start, DateTimeOffset end, int maxDays)
     {
         var cursor = start;

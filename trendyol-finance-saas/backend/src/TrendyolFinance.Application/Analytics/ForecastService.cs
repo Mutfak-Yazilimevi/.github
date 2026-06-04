@@ -55,7 +55,7 @@ public class ForecastService
         return denom == 0 ? 0 : (n * sxy - sx * sy) / denom;
     }
 
-    internal static int NextYearMonth(int ym)
+    public static int NextYearMonth(int ym)
     {
         var year = ym / 100;
         var month = ym % 100;
