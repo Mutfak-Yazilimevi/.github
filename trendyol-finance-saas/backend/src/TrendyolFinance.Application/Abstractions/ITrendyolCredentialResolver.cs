@@ -1,5 +1,4 @@
 using TrendyolFinance.Domain.Sellers;
-using TrendyolFinance.Integration.Trendyol;
 
 namespace TrendyolFinance.Application.Abstractions;
 

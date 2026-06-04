@@ -3,6 +3,7 @@ using Microsoft.Extensions.Logging;
 using TrendyolFinance.Application.Abstractions;
 using TrendyolFinance.Infrastructure.Persistence;
 using TrendyolFinance.Integration.Trendyol;
+// TrendyolCredentials artık Application.Abstractions altında (yukarıda using mevcut).
 
 namespace TrendyolFinance.Ingestion;
 

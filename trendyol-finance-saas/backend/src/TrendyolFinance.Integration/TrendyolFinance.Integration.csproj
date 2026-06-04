@@ -6,5 +6,6 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TrendyolFinance.Domain\TrendyolFinance.Domain.csproj" />
+    <ProjectReference Include="..\TrendyolFinance.Application\TrendyolFinance.Application.csproj" />
   </ItemGroup>
 </Project>

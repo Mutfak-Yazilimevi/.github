@@ -14,6 +14,3 @@ public class TrendyolOptions
     /// <summary>Sayfa boyutu.</summary>
     public int PageSize { get; set; } = 500;
 }
-
-/// <summary>Tek bir mağaza için çözülmüş (decrypt edilmiş) kimlik bilgileri.</summary>
-public record TrendyolCredentials(long SellerId, string ApiKey, string ApiSecret);

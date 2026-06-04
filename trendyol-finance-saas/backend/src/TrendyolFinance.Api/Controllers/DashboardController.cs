@@ -46,12 +46,21 @@ public class DashboardController : ControllerBase
         var returnRate = current.GrossRevenue == 0 ? 0
             : Math.Round(current.Deductions / current.GrossRevenue * 100, 2);
 
+        // Stok devir hızı (yıllık): dönemdeki satış adedi / mevcut toplam stok, yıla ölçeklenmiş.
+        var soldUnits = await _db.SettlementTransactions
+            .CountAsync(t => t.TransactionType == SettlementTransactionType.Sale
+                && t.TransactionDate >= curFrom && t.TransactionDate < curTo, ct);
+        var totalStock = await _db.Products.SumAsync(p => p.CurrentStock, ct);
+        var periodDays = Math.Max((curTo - curFrom).TotalDays, 1);
+        var turnover = totalStock <= 0 ? 0
+            : Math.Round((decimal)(soldUnits / (double)totalStock * (365.0 / periodDays)), 2);
+
         var health = _health.Calculate(new HealthInputs(
             MarginPercent: current.MarginPercent,
             MarginTrendPercent: marginTrend,
             ReturnRatePercent: returnRate,
             RevenueGrowthPercent: growth,
-            StockTurnover: 4)); // TODO: gerçek stok devir hızı (satış adedi / ort. stok)
+            StockTurnover: turnover));
 
         return Ok(new DashboardResponse(current, previous, growth, health));
     }

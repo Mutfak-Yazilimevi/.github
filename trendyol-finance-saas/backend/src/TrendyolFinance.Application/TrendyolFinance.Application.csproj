@@ -1,6 +1,5 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <ItemGroup>
     <ProjectReference Include="..\TrendyolFinance.Domain\TrendyolFinance.Domain.csproj" />
-    <ProjectReference Include="..\TrendyolFinance.Integration\TrendyolFinance.Integration.csproj" />
   </ItemGroup>
 </Project>

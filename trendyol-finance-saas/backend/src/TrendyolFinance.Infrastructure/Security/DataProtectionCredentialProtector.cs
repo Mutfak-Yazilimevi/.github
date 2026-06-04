@@ -1,7 +1,6 @@
 using Microsoft.AspNetCore.DataProtection;
 using TrendyolFinance.Application.Abstractions;
 using TrendyolFinance.Domain.Sellers;
-using TrendyolFinance.Integration.Trendyol;
 
 namespace TrendyolFinance.Infrastructure.Security;
 

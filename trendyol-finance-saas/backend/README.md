@@ -8,10 +8,10 @@ Architecture benzeri) yapı.
 | Proje | Sorumluluk |
 |-------|-----------|
 | `Domain` | Saf alan modeli (entity, enum, kurallar). Dış bağımlılık yok. |
-| `Application` | Kullanım senaryoları: `ProfitCalculator` (F1/F2), `ReconciliationService` (F3). |
-| `Integration` | Trendyol API istemcisi (Basic Auth, pencere dilimleme), TÜİK sağlayıcısı. |
-| `Infrastructure` | EF Core `AppDbContext`, PostgreSQL, tenant global filtresi, kimlik şifreleme (Data Protection). |
-| `Ingestion` | Hangfire job'ları: settlement backfill + saatlik artımlı senkron (idempotent upsert). |
+| `Application` | Use-case'ler + port'lar (ProfitCalculator, Reconciliation, Analytics, Cogs, `IInflationProvider`, `IAccountingProvider`). Dış bağımlılık yok. |
+| `Integration` | Adaptörler: Trendyol finans/katalog istemcisi, TÜİK (EVDS) TÜFE, Paraşüt muhasebe. (Bağımlılık yönü: Integration → Application) |
+| `Infrastructure` | EF Core `AppDbContext`, PostgreSQL, tenant global filtresi, kimlik şifreleme (Data Protection), design-time factory. |
+| `Ingestion` | Hangfire job'ları: settlement backfill + saatlik senkron, TÜFE (aylık), kategori komisyon (günlük), muhasebe maliyet içe aktarımı. |
 | `Api` | ASP.NET Core Web API, controller'lar, DI, Swagger, Hangfire dashboard. |
 | `tests/UnitTests` | xUnit — kâr, mutabakat, ölü stok, reel fiyat, CSV import, pencere dilimleme. |
 
@@ -24,8 +24,28 @@ Architecture benzeri) yapı.
 | `GET  /api/reconciliation` | Hakediş komisyon sapmaları (F3) |
 | `GET  /api/pricing/real` | Enflasyona göre reel fiyat (F4) |
 | `GET  /api/inventory/dead-stock` | Ölü stok / yavaş satan (F5) |
+| `GET  /api/forecast/sales` | Satış öngörüsü (F6) |
+| `GET  /api/recommendations` | Pazarlama/fiyat önerileri (F7) |
+| `GET  /api/dashboard` | Sağlık skoru + KPI özeti (F2) |
 | `POST /api/cogs`, `POST /api/cogs/import`, `GET /api/cogs/{id}` | COGS: manuel + Excel/CSV + geçmiş |
-| `/hangfire` | Arka plan iş panosu |
+| `/hangfire` | Arka plan iş panosu (saatlik settlement, günlük komisyon, aylık TÜFE) |
+
+## Yapılandırma (appsettings)
+
+| Bölüm | Anahtar | Açıklama |
+|-------|---------|----------|
+| `Jwt` | `Authority`, `Audience` | Kimlik sağlayıcısı (boşsa dev'de `X-Tenant-Id` header'ı kullanılır) |
+| `Trendyol` | `BaseUrl` | API taban adresi (resmî dokümandan teyit) |
+| `Tuik` | `ApiKey`, `SeriesCode` | TCMB EVDS anahtarı + TÜFE seri kodu |
+| `Parasut` | `CompanyId`, `AccessToken` | Muhasebe entegrasyonu (iskelet) |
+
+## Migration
+
+```bash
+# AppDbContextFactory sayesinde tasarım zamanı çalışır:
+dotnet ef migrations add Initial -p src/TrendyolFinance.Infrastructure -s src/TrendyolFinance.Api
+dotnet ef database update -p src/TrendyolFinance.Infrastructure -s src/TrendyolFinance.Api
+```
 
 ## Çalıştırma (yerel, .NET 8 SDK gerekir)
 
@@ -47,15 +67,13 @@ dotnet run --project src/TrendyolFinance.Api
 - **Trendyol uç noktaları** (`TrendyolApiClient`) resmî dokümandan birebir
   doğrulanacak — portal bu ortamdan 403 verdiği için canlı teyit yapılamadı.
   İşaretli yerler: `BaseUrl`, settlement yolu, alan adları.
-- **Tenant çözümü** MVP'de `X-Tenant-Id` header'ı ile; üretimde JWT claim'i.
-- **API sırları** (`ApiKeyEncrypted`/`ApiSecretEncrypted`) şifreli saklanır;
-  şifreleme dönüştürücüsü Infrastructure'da eklenecek (Data Protection / KMS).
+- **Tenant çözümü** JWT `tenant_id` claim'inden; dev'de `X-Tenant-Id` header'ı fallback.
+- **API sırları** (`ApiKeyEncrypted`/`ApiSecretEncrypted`) Data Protection ile şifreli; üretimde anahtar halkası kalıcı depo/KMS'e alınmalı.
 
 ## Sıradaki adımlar (kod)
 
-1. **EF Core migration**: `dotnet ef migrations add Initial -p src/TrendyolFinance.Infrastructure -s src/TrendyolFinance.Api`.
-2. **TÜİK içe aktarımı**: TÜFE serisini `InflationIndex`'e dolduran job + kategori komisyon senkronu (`CategoryCommission`).
-3. **Muhasebe entegrasyonu** adaptörü (Paraşüt/Logo/Mikro) → `CostSource.AccountingIntegration`.
-4. **Forecast (F6)** ve **öneriler (F7)** servisleri.
-5. **JWT auth + abonelik**; tenant çözümünü header yerine claim'e taşı.
-6. **Hangfire.PostgreSql** depolama ayarını kurulu sürüme göre teyit et (string overload vs `UseNpgsqlConnection`).
+1. **EF migration üret + DB'yi kur** (yukarıdaki komutlar).
+2. **TÜİK EVDS** yanıt şemasını/seri kodunu canlı doğrula; **Paraşüt** OAuth2 + alış faturası çekimini tamamla.
+3. **Ürün/fiyat senkronu**: Trendyol ürün servisinden `Product` + günlük `PriceSnapshot` doldur (F4/F5 verisi).
+4. **Abonelik & faturalandırma** (plan limitleri), controller'lara `[Authorize]` + rol politikaları.
+5. **Hangfire.PostgreSql** depolama çağrısını kurulu sürüme göre teyit et (string overload vs `UseNpgsqlConnection`).

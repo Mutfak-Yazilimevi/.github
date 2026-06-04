@@ -282,7 +282,7 @@ Erime % = (ReelFiyat_şimdi − Fiyat_baz) / Fiyat_baz
 1. **Reklam gideri** kâra dahil edilecek mi? (Trendyol reklam API'si ayrı yetki ister)
 2. **Rakip/pazar verisi** kapsamı ve hukuki sınırlar (scraping riski).
 3. Trendyol finans endpoint'lerinin **birebir teyidi** (alan adları, kalem tipleri, limitler).
-4. Muhasebe entegrasyonu için hedef sistem(ler) (Logo, Mikro, Paraşüt, e-Fatura sağlayıcıları?).
+4. Muhasebe entegrasyonu: **ilk adaptör Paraşüt** seçildi (`IAccountingProvider` ile genişletilebilir; Logo/Mikro sonra). OAuth2 + alış faturası çekimi tamamlanacak.
 
 ---
 

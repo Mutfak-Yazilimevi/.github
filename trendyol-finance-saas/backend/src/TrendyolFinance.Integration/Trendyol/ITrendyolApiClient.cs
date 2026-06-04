@@ -1,3 +1,4 @@
+using TrendyolFinance.Application.Abstractions;
 using TrendyolFinance.Integration.Trendyol.Models;
 
 namespace TrendyolFinance.Integration.Trendyol;

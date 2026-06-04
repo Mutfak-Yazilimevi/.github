@@ -7,11 +7,19 @@ namespace TrendyolFinance.Ingestion;
 public class IngestionJobs
 {
     private readonly SettlementIngestionService _settlements;
+    private readonly InflationImportService _inflation;
+    private readonly CategoryCommissionSyncService _commissions;
     private readonly AppDbContext _db;
 
-    public IngestionJobs(SettlementIngestionService settlements, AppDbContext db)
+    public IngestionJobs(
+        SettlementIngestionService settlements,
+        InflationImportService inflation,
+        CategoryCommissionSyncService commissions,
+        AppDbContext db)
     {
         _settlements = settlements;
+        _inflation = inflation;
+        _commissions = commissions;
         _db = db;
     }
 
@@ -30,4 +38,12 @@ public class IngestionJobs
         foreach (var id in accountIds)
             await _settlements.SyncIncrementalAsync(id, ct);
     }
+
+    /// <summary>Aylık TÜFE içe aktarımı (recurring).</summary>
+    public Task ImportInflationAsync(CancellationToken ct = default) =>
+        _inflation.ImportAsync(ct: ct);
+
+    /// <summary>Günlük kategori komisyon senkronu (recurring).</summary>
+    public Task SyncCategoryCommissionsAsync(CancellationToken ct = default) =>
+        _commissions.SyncAsync(ct);
 }

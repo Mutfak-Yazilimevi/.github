@@ -4,6 +4,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using TrendyolFinance.Application.Abstractions;
 using TrendyolFinance.Integration.Trendyol.Models;
 
 namespace TrendyolFinance.Integration.Trendyol;
