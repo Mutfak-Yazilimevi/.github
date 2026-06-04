@@ -25,16 +25,11 @@ jobs:
         with:
           dotnet-version: "8.0.x"
 
-      - name: Create solution file
-        run: |
-          dotnet new sln -n TrendyolFinance
-          dotnet sln add $(find src tests -name '*.csproj')
-
-      - name: Restore
-        run: dotnet restore TrendyolFinance.sln
-
-      - name: Build
-        run: dotnet build TrendyolFinance.sln --no-restore -c Release
+      # Çözüm dosyası kullanmıyoruz: bazı SDK'lar .slnx üretip .sln ile uyumsuzluğa yol açıyor.
+      # Api tüm üretim zincirini (Domain/Application/Integration/Infrastructure/Ingestion),
+      # test projesi de Application+Integration'ı transitif olarak derler.
+      - name: Build (Api)
+        run: dotnet build src/TrendyolFinance.Api/TrendyolFinance.Api.csproj -c Release
 
       - name: Test
-        run: dotnet test TrendyolFinance.sln --no-build -c Release --verbosity normal
+        run: dotnet test tests/TrendyolFinance.UnitTests/TrendyolFinance.UnitTests.csproj -c Release --verbosity normal
