@@ -1,0 +1,38 @@
+name: Trendyol Finance Backend CI
+
+on:
+  push:
+    branches: ["claude/trendyol-api-integration-C7w1k"]
+    paths:
+      - "trendyol-finance-saas/backend/**"
+      - ".github/workflows/trendyol-finance-ci.yml"
+  pull_request:
+    paths:
+      - "trendyol-finance-saas/backend/**"
+      - ".github/workflows/trendyol-finance-ci.yml"
+
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: trendyol-finance-saas/backend
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup .NET 8
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "8.0.x"
+
+      - name: Generate solution file
+        run: bash generate-solution.sh
+
+      - name: Restore
+        run: dotnet restore TrendyolFinance.sln
+
+      - name: Build
+        run: dotnet build TrendyolFinance.sln --no-restore -c Release
+
+      - name: Test
+        run: dotnet test TrendyolFinance.sln --no-build -c Release --verbosity normal

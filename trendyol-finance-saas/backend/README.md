@@ -39,6 +39,13 @@ Architecture benzeri) yapı.
 | `Tuik` | `ApiKey`, `SeriesCode` | TCMB EVDS anahtarı + TÜFE seri kodu |
 | `Parasut` | `CompanyId`, `AccessToken` | Muhasebe entegrasyonu (iskelet) |
 
+## Docker ile çalıştırma
+
+```bash
+cd backend
+docker compose up --build       # PostgreSQL + API (http://localhost:8080)
+```
+
 ## Migration
 
 ```bash
