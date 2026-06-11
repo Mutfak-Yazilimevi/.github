@@ -35,7 +35,7 @@
 - [x] #4 — [openai/skills](https://github.com/openai/skills) (44) → `dev-` ✅ (⚠️ lisans yok — force-all)
 - [x] #5 — [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) (23, MIT) → `dev-` ✅
 - [x] #6 — [obra/superpowers](https://github.com/obra/superpowers) (14, MIT) → `dev-` ✅
-- [x] #7 — [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) → `mkt-` ✅ (plan kararı: yalnız `marketing-skill/` alt kümesi = 48, dedupe)
+- [x] #7 — [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) → `ali-` ✅ (**hepsi: 347 görünür skill**; `.gemini` vb. 410 tool-mirror kopya hariç; çakışmalar kategori ekiyle korundu)
 - [x] #8 — [cloudflare/skills](https://github.com/cloudflare/skills) (9, MIT) → `dev-` ✅
 - [x] #15 — [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) (24, MIT) → `dev-` ✅
 - [x] #16 — [dotnet/skills](https://github.com/dotnet/skills) (100, MIT) → `dev-dotnet-` ✅ **seçmeli: `dotnet-test` + `dotnet-diag` + `dotnet-ai` plugin'leri**
@@ -113,7 +113,7 @@
 ## Doğrulama & Bakım (Bölüm 9)
 
 - [~] `/doctor` ile tam tanı _(interaktif — proje açılışında çalıştırılır)_
-- [x] `/context` ile yüklenen skill/agent/hook doğrula ✅ _(1271 skill + 63 agent Claude Code tarafından keşfedildi)_
+- [x] `/context` ile yüklenen skill/agent/hook doğrula ✅ _(1606 skill + 63 agent Claude Code tarafından keşfedildi)_
 - [~] `/permissions` kontrol _(interaktif; `settings.json` allow/deny tanımlı)_
 - [x] Skill yolu `.claude/skills/<ad>/SKILL.md` doğrulandı mı? ✅ (düz yapı, önekli)
 - [x] `.git` artıkları temizlendi mi? ✅ (0 artık)
@@ -127,7 +127,7 @@
 | Faz 0 — İskelet | 3 | 3 | ✅ |
 | Faz 1 — Memory | 1 | 1 | ✅ |
 | Faz 2 — Rules | 4 | 4 | ✅ |
-| Faz 3 — Skills | 33 | 34 | ✅ (1271 aktif skill + kataloglar force-add) |
+| Faz 3 — Skills | 33 | 34 | ✅ (1606 aktif skill + kataloglar force-add) |
 | Faz 4 — Hooks | 3 | 3 | ✅ |
 | Faz 5 — Agents | 8 | 8 | ✅ (63 agent) |
 | Faz 6 — MCP | 2 | 1 | 🔄 (GitHub/DB MCP = proje-özel token) |
