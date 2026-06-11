@@ -108,7 +108,7 @@
 
 - [ ] `CLAUDE.md` (kök, .NET odaklı şablon)
 - [ ] `.claude/settings.json` (permissions + hooks)
-- [ ] `.gitignore`'a ekle: `CLAUDE.local.md`, `.claude/settings.local.json`, `_staging/`, `_catalog/`
+- [x] `.gitignore`'a ekle: `CLAUDE.local.md`, `.claude/settings.local.json`, `_staging/`, `_catalog/` ✅
 
 ## Doğrulama & Bakım (Bölüm 9)
 

@@ -41,3 +41,10 @@ obj/
 *.ipa
 .gradle/
 local.properties
+
+# --- Claude Code (Bölüm 8.3) ---
+CLAUDE.local.md
+.claude/settings.local.md
+.claude/settings.local.json
+_staging/
+_catalog/
