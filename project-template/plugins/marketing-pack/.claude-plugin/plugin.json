@@ -1,0 +1,7 @@
+{
+  "name": "marketing-pack",
+  "version": "1.0.0",
+  "description": "Pazarlama paketi — teknik SEO çekirdeği + geniş marketing ve growth-ops skill'leri.",
+  "author": "Mutfak Yazılımevi",
+  "skills": ["./skills/"]
+}

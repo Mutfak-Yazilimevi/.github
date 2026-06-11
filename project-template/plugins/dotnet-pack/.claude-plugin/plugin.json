@@ -1,0 +1,8 @@
+{
+  "name": "dotnet-pack",
+  "version": "1.0.0",
+  "description": ".NET geliştirme paketi — dotnet skills (test/diag/ai) + Akka.NET/Roslyn/performans agent'ları.",
+  "author": "Mutfak Yazılımevi",
+  "skills": ["./skills/"],
+  "agents": ["./agents/"]
+}

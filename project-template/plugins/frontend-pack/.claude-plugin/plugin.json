@@ -1,0 +1,7 @@
+{
+  "name": "frontend-pack",
+  "version": "1.0.0",
+  "description": "Frontend paketi — premium UI üretimi, UI/UX denetimi ve generative-UI (grafik/diyagram).",
+  "author": "Mutfak Yazılımevi",
+  "skills": ["./skills/"]
+}

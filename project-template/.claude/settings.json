@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": ["Read:**", "Bash:git *", "Write:**/*.md"],
+    "deny": ["Read:env:*", "Bash:sudo *", "Read:.env*"]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": ".claude/hooks/validate-bash.sh",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
+}
