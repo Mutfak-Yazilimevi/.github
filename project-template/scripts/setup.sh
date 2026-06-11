@@ -39,7 +39,7 @@ do_cybersec() {
   echo "== #31 — cybersec SAVUNMA alt kümesi → .claude/skills/sec-* =="
   src="$(mktemp -d)"
   clone https://github.com/mukul975/Anthropic-Cybersecurity-Skills "$src/cybersec"
-  OFF='^exploiting-|attack-test|attack-simulation|-attack$|penetration-test|pentest|password-cracking|hash-cracking|with-metasploit|spearphishing|phishing-simulation|simulation-campaign|clickjacking-attack|cache-poisoning|request-smuggling|-hijacking|prototype-pollution|mass-assignment|policy-bypass|csp-bypass|-bypass$|bypass-|authentication-bypass|weaponiz|red-team|broken-function-level|broken-object|oauth-misconfiguration|smb-vulnerabilities'
+  OFF='^exploiting-|attack-test|attack-simulation|-attack$|penetration-test|pentest|password-cracking|hash-cracking|with-metasploit|spearphishing|phishing-simulation|simulation-campaign|clickjacking-attack|cache-poisoning|request-smuggling|-hijacking|prototype-pollution|mass-assignment|policy-bypass|csp-bypass|-bypass$|bypass-|authentication-bypass|weaponiz|red-team|broken-function-level|broken-object|oauth-misconfiguration|smb-vulnerabilities|c2-infrastructure|sliver|evilginx|lazagne|with-wmiexec|with-impacket|bloodhound|forced-browsing|domain-persistence|initial-access|credential-access-with|reconnaissance|social-engineering-pretext|directory-traversal-testing|privilege-escalation-on-linux|second-order|blind-ssrf|ssrf-vulnerability-exploitation|binary-exploitation'
   n=0
   while IFS= read -r f; do
     d=$(dirname "$f"); base=$(basename "$d")
