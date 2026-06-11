@@ -78,9 +78,9 @@
 
 ## Faz 4 — Hooks
 
-- [ ] `.claude/hooks/validate-bash.sh` yaz
-- [ ] `settings.json`'a `PreToolUse` Bash matcher ekle (Bölüm 8.2)
-- [ ] SEO hook'unu manuel/opt-in olarak işaretle
+- [x] `.claude/hooks/validate-bash.sh` yaz ✅ (tehlikeli desen → exit 2; test edildi)
+- [x] `settings.json`'a `PreToolUse` Bash matcher ekle (Bölüm 8.2) ✅
+- [~] SEO hook'unu manuel/opt-in olarak işaretle _(SEO skill #14 henüz ingest edilmedi — Faz 3.2 `_staging`; eklenince geçerli)_
 
 ## Faz 5 — Sub-Agents
 
@@ -95,8 +95,8 @@
 
 ## Faz 6 — MCP
 
-- [ ] `.mcp.json`'a takım sunucularını ekle (GitHub, DB)
-- [ ] SA2'nin beklediği `context7` ve `sequential-thinking` MCP'lerini kur **veya** agent frontmatter'larından çıkar
+- [~] `.mcp.json`'a takım sunucularını ekle (GitHub, DB) _(GitHub/DB proje-özel, token/connection string gerektirir — kurulumda eklenir)_
+- [x] SA2'nin beklediği `context7` ve `sequential-thinking` MCP'lerini kur ✅ (`.mcp.json`'a eklendi)
 
 ## Faz 7 — Plugin Paketleme
 
@@ -106,8 +106,8 @@
 
 ## Bootstrap Dosyaları (Bölüm 8)
 
-- [ ] `CLAUDE.md` (kök, .NET odaklı şablon)
-- [ ] `.claude/settings.json` (permissions + hooks)
+- [x] `CLAUDE.md` (kök, .NET odaklı şablon) ✅ (Faz 1)
+- [x] `.claude/settings.json` (permissions + hooks) ✅
 - [x] `.gitignore`'a ekle: `CLAUDE.local.md`, `.claude/settings.local.json`, `_staging/`, `_catalog/` ✅
 
 ## Doğrulama & Bakım (Bölüm 9)
@@ -128,11 +128,11 @@
 | Faz 1 — Memory | 1 | 1 | ✅ |
 | Faz 2 — Rules | 4 | 3 | 🔄 |
 | Faz 3 — Skills | 33 | 17 | 🔄 (209 skill ingest edildi) |
-| Faz 4 — Hooks | 3 | 0 | ⏳ |
+| Faz 4 — Hooks | 3 | 2 | 🔄 |
 | Faz 5 — Agents | 8 | 7 | 🔄 (51 agent ingest edildi) |
-| Faz 6 — MCP | 2 | 0 | ⏳ |
+| Faz 6 — MCP | 2 | 1 | 🔄 |
 | Faz 7 — Plugin | 3 | 0 | ⏳ |
-| Bootstrap | 3 | 0 | ⏳ |
+| Bootstrap | 3 | 3 | ✅ |
 | Doğrulama | 5 | 0 | ⏳ |
 
 > Not: "Biten" sütunu, master planda `✅ eklendi` veya kesin karar (`❌ alınmadı`) olarak işaretlenmiş kalemleri kapsar. `⏳ işlendi` durumundakiler `[~]` ile gösterilir ve henüz tamamlanmış sayılmaz.
