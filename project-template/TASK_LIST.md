@@ -12,7 +12,7 @@
 
 - [x] Klasör yapısını oluştur: `.claude/{rules,commands,skills,agents,hooks}`, `_staging`, `_catalog`, `docs/references` ✅
 - [x] `~/.skill-sources` klonlama dizinini oluştur ✅ _(kaynak repolar buraya klonlandı, seçilenler kopyalandı)_
-- [ ] `claude` ile başlangıç `CLAUDE.md` üret (`/init`) _(Faz 1'de Bölüm 8.1 şablonuyla yazılacak)_
+- [x] `claude` ile başlangıç `CLAUDE.md` üret (`/init`) ✅ _(Faz 1'de Bölüm 8.1 şablonuyla yazıldı)_
 
 ## Faz 1 — Memory
 
@@ -23,7 +23,7 @@
 - [x] `.claude/rules/code-style.md` oluştur ✅
 - [x] `.claude/rules/testing.md` oluştur ✅
 - [x] `.claude/rules/api-conventions.md` oluştur ✅
-- [~] #11 frontend-pack `CLAUDE.md`'sini `rules/frontend-reference.md` olarak ekle _(referans/placeholder oluşturuldu; upstream içerik kurulumda çekilecek)_
+- [x] #11 frontend-pack `CLAUDE.md`'sini `rules/frontend-reference.md` olarak ekle ✅ (upstream MIT içerik gömüldü — 21st.dev/Next.js 15 frontend kuralları)
 
 ## Faz 3 — Skills Ingest
 
@@ -31,12 +31,12 @@
 
 - [x] #1 — [anthropics/skills](https://github.com/anthropics/skills) → `skills/` ✅ (**force-all: tümü**; 10 Apache-2.0 + `docx/pdf/pptx/xlsx` ⚠️ source-available + `doc-coauthoring`; `skill-creator`/`mcp-builder` zaten `dev-`)
 - [x] #2 — [keenthemes/reui](https://github.com/keenthemes/reui) → `skills/ design-` ✅ (**6 skill**, MIT; `reui-seo` dup tekleştirildi)
-- [~] #3 — [mattpocock/skills](https://github.com/mattpocock/skills) → `skills/ dev-` (işlendi)
-- [~] #4 — [openai/skills](https://github.com/openai/skills) → `skills/ dev-` (işlendi)
-- [~] #5 — [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) → `skills/ dev-` (işlendi)
-- [~] #6 — [obra/superpowers](https://github.com/obra/superpowers) → `skills/ dev-` (işlendi)
-- [~] #7 — [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) → `skills/ mkt-` (dedupe, işlendi)
-- [~] #8 — [cloudflare/skills](https://github.com/cloudflare/skills) (9) → `skills/ dev-` (işlendi)
+- [x] #3 — [mattpocock/skills](https://github.com/mattpocock/skills) (29, MIT) → `dev-` ✅
+- [x] #4 — [openai/skills](https://github.com/openai/skills) (44) → `dev-` ✅ (⚠️ lisans yok — force-all)
+- [x] #5 — [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) (23, MIT) → `dev-` ✅
+- [x] #6 — [obra/superpowers](https://github.com/obra/superpowers) (14, MIT) → `dev-` ✅
+- [x] #7 — [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) → `mkt-` ✅ (plan kararı: yalnız `marketing-skill/` alt kümesi = 48, dedupe)
+- [x] #8 — [cloudflare/skills](https://github.com/cloudflare/skills) (9, MIT) → `dev-` ✅
 - [x] #15 — [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) (24, MIT) → `dev-` ✅
 - [x] #16 — [dotnet/skills](https://github.com/dotnet/skills) (100, MIT) → `dev-dotnet-` ✅ **seçmeli: `dotnet-test` + `dotnet-diag` + `dotnet-ai` plugin'leri**
 - [x] #17 — [microsoft/skills](https://github.com/microsoft/skills) (189, MIT) → `dev-skill-creator` + `dev-mcp-builder` ✅
@@ -80,7 +80,7 @@
 
 - [x] `.claude/hooks/validate-bash.sh` yaz ✅ (tehlikeli desen → exit 2; test edildi)
 - [x] `settings.json`'a `PreToolUse` Bash matcher ekle (Bölüm 8.2) ✅
-- [~] SEO hook'unu manuel/opt-in olarak işaretle _(SEO skill #14 henüz ingest edilmedi — Faz 3.2 `_staging`; eklenince geçerli)_
+- [x] SEO hook'unu manuel/opt-in olarak işaretle ✅ (#14 `seo-technical` ingest edildi; hook `settings.json`'a **bağlanmadı** = opt-in; yalnız `validate-bash` aktif)
 
 ## Faz 5 — Sub-Agents
 
@@ -113,7 +113,7 @@
 ## Doğrulama & Bakım (Bölüm 9)
 
 - [~] `/doctor` ile tam tanı _(interaktif — proje açılışında çalıştırılır)_
-- [x] `/context` ile yüklenen skill/agent/hook doğrula ✅ _(874 skill + 51 agent Claude Code tarafından keşfedildi)_
+- [x] `/context` ile yüklenen skill/agent/hook doğrula ✅ _(1271 skill + 63 agent Claude Code tarafından keşfedildi)_
 - [~] `/permissions` kontrol _(interaktif; `settings.json` allow/deny tanımlı)_
 - [x] Skill yolu `.claude/skills/<ad>/SKILL.md` doğrulandı mı? ✅ (düz yapı, önekli)
 - [x] `.git` artıkları temizlendi mi? ✅ (0 artık)
@@ -124,19 +124,21 @@
 
 | Faz | Toplam | Biten | Durum |
 |-----|--------|-------|-------|
-| Faz 0 — İskelet | 3 | 2 | 🔄 |
+| Faz 0 — İskelet | 3 | 3 | ✅ |
 | Faz 1 — Memory | 1 | 1 | ✅ |
-| Faz 2 — Rules | 4 | 3 | 🔄 |
-| Faz 3 — Skills | 33 | 25 | 🔄 (1104 skill — force-all; yalnız mega-kataloglar hariç) |
-| Faz 4 — Hooks | 3 | 2 | 🔄 |
-| Faz 5 — Agents | 8 | 8 | ✅ (63 agent — SA5 dahil force-all) |
-| Faz 6 — MCP | 2 | 1 | 🔄 |
+| Faz 2 — Rules | 4 | 4 | ✅ |
+| Faz 3 — Skills | 33 | 31 | 🔄 (1271 skill — yalnız mega-kataloglar `[~]`) |
+| Faz 4 — Hooks | 3 | 3 | ✅ |
+| Faz 5 — Agents | 8 | 8 | ✅ (63 agent) |
+| Faz 6 — MCP | 2 | 1 | 🔄 (GitHub/DB MCP = proje-özel token) |
 | Faz 7 — Plugin | 3 | 3 | ✅ |
 | Bootstrap | 3 | 3 | ✅ |
-| Doğrulama | 5 | 3 | 🔄 (interaktif olanlar hariç) |
+| Doğrulama | 5 | 3 | 🔄 (`/doctor`,`/permissions` = interaktif) |
 
-> **Çekirdek kurulum tamamlandı.** Açık kalan `[ ]`/`[~]` kalemler ya bilinçli kararlar
-> (lisanssız `_staging`/`_catalog` → `setup.sh`), ya proje-özel (GitHub/DB MCP, SEO-hook),
-> ya da interaktif Claude komutları (`/doctor`, `/permissions`).
+> **Tüm tamamlanabilir görevler bitti.** Geriye yalnızca **template'te yapısal olarak
+> tamamlanamayan** kalemler kaldı:
+> - **Mega-kataloglar (#25/#33/#26):** plan gereği index-only, "import yok" (`setup.sh --catalog` ile yerel).
+> - **GitHub/DB MCP:** proje-özel token/connection gerektirir.
+> - **`/doctor`, `/permissions`:** interaktif Claude komutları (proje açılışında çalışır).
 
 > Not: "Biten" sütunu, master planda `✅ eklendi` veya kesin karar (`❌ alınmadı`) olarak işaretlenmiş kalemleri kapsar. `⏳ işlendi` durumundakiler `[~]` ile gösterilir ve henüz tamamlanmış sayılmaz.
