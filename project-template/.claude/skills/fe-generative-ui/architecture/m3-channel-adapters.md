@@ -1,0 +1,447 @@
+# M3 架构：渠道适配层（Channel Adapter Layer）
+
+## 定位
+
+M1 定义了 widget 输出格式（`show-widget` 围栏），M2 提取了框架无关的渲染库 `generative-ui-renderer`。M3 解决的问题是：**不同渠道的消息容器能力天差地别，如何让 generative-ui 的能力在各渠道落地？**
+
+M3 不是单一的渠道集成，而是一个渠道适配层——每个渠道一个 adapter，按渠道能力选择最优渲染策略。
+
+> 开发计划见 [`m3-development-plan.md`](m3-development-plan.md)
+
+---
+
+## 渠道能力矩阵
+
+| 能力 | Web (Playground) | 飞书 Bot | Telegram Bot | QQ Bot |
+|------|:----------------:|:--------:|:------------:|:------:|
+| 嵌入任意 HTML/JS | ✅ iframe | ❌ | ❌ | ❌ |
+| 流式 DOM 预览 | ✅ | ❌ | ❌ | ❌ |
+| 富文本卡片 | — | ✅ 交互卡片 | ❌ | ✅ Ark 消息 |
+| 按钮回调 | ✅ JS | ✅ 卡片按钮 | ✅ inline keyboard | ✅ 按钮交互 |
+| 内嵌网页 | ✅ | ✅ H5 小程序 | ✅ Mini App | ✅ QQ 小程序 |
+| 发送图片 | ✅ | ✅ | ✅ | ✅ |
+
+关键结论：只有 Web 能做满血体验（流式预览 → iframe）。其他渠道必须降级。
+
+---
+
+## 核心架构
+
+```
+                    ┌─────────────────────────────┐
+                    │   OpenClaw Agent Runtime     │
+                    │                              │
+                    │  模型输出 show-widget 围栏    │
+                    └──────────┬──────────────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │  Widget Interceptor  │
+                    │                      │
+                    │  检测 show-widget     │
+                    │  解析 {title,         │
+                    │        widget_code}  │
+                    └──────────┬───────────┘
+                               │
+                    ┌──────────▼───────────┐
+                    │  Channel Router      │
+                    │                      │
+                    │  按渠道类型分发        │
+                    └──┬───┬───┬───┬───┬──┘
+                       │   │   │   │
+          ┌────────────┘   │   │   └────────────┐
+          ▼                ▼   ▼                ▼
+    ┌──────────┐  ┌─────┐ ┌──┐ ┌────────┐  ┌──────────┐
+    │  Web     │  │ 飞书│ │Te│ │  QQ    │  │  微信    │
+    │ Adapter  │  │Adapt│ │le│ │Adapter │  │ Adapter  │
+    └──────────┘  └─────┘ └──┘ └────────┘  └──────────┘
+```
+
+---
+
+## 渲染策略分层
+
+每个 adapter 根据 widget 类型和渠道能力，从以下策略中选择：
+
+### 策略 A：满血渲染（Full Rendering）
+
+适用渠道：Web
+
+```
+Token 流 → 流式 DOM 预览 → sandbox iframe（generative-ui-renderer 完整流水线）
+```
+
+- 直接使用 M2 的 `generative-ui-renderer`
+- Web 通过 iframe 承载
+- 支持流式预览、JS 交互、drill-down 追问
+- 体验最完整，零降级
+
+### 策略 B：静态图片 + 轻交互（Image + Callback）
+
+适用渠道：飞书、Telegram、QQ
+
+```
+show-widget 围栏
+  → headless browser 渲染成 PNG
+  → 发送图片到渠道
+  → 提取 onclick 中的 __widgetSendMessage 调用
+  → 转换为渠道原生按钮（飞书卡片按钮 / Telegram inline keyboard / QQ 按钮交互）
+```
+
+这是大多数渠道的主力策略。视觉效果完整（图片），轻交互通过原生按钮实现。
+
+---
+
+## 策略选择矩阵
+
+| Widget 类型 | Web | 飞书 | Telegram | QQ |
+|------------|:---:|:----:|:--------:|:--:|
+| SVG 流程图/架构图 | A | B | B | B |
+| Chart.js 数据图表 | A | B | B | B |
+| 指标卡片/对比表格 | A | B | B | B |
+| 交互组件（计算器/表单） | A | B | B | B |
+| SVG 插画/生成艺术 | A | B | B | B |
+
+选择逻辑伪代码：
+
+```javascript
+function selectStrategy(channel, widgetCode) {
+  // 满血渠道直接走 renderer
+  if (channel.supportsIframe) return 'A';
+
+  // 默认：图片 + 按钮
+  return 'B';
+}
+```
+
+---
+
+## Widget Interceptor
+
+Interceptor 是整个适配层的入口，位于 Agent Runtime 和渠道投递之间。它的职责是从模型输出中检测并提取 widget，然后交给 Channel Router。
+
+### 接口定义
+
+```typescript
+interface WidgetBlock {
+  title: string;           // snake_case widget 标识
+  widgetCode: string;      // 原始 HTML/SVG 片段
+  rawFence: string;        // 完整的 show-widget 围栏（含 ```show-widget ... ```）
+  textBefore: string;      // 围栏前的文本（Layer 1 Summary）
+  textAfter: string;       // 围栏后的文本（Layer 3 Notes）
+}
+
+interface InterceptResult {
+  hasWidget: boolean;
+  widgets: WidgetBlock[];
+  plainText: string;       // 去除所有围栏后的纯文本（降级兜底用）
+}
+
+function interceptWidgets(modelOutput: string): InterceptResult;
+```
+
+### 复用关系
+
+Interceptor 的核心解析逻辑直接复用 M2 `stream-parser` 的 `parseShowWidgetFence()`。区别在于：
+- M2 的 parser 面向流式场景（逐 chunk 喂入）
+- Interceptor 面向完整输出（模型回复结束后一次性解析）
+
+两者共享同一套围栏检测正则和 JSON 提取逻辑。
+
+---
+
+## Channel Adapter 接口
+
+每个渠道实现一个 adapter，遵循统一接口：
+
+```typescript
+interface ChannelAdapter {
+  /** 渠道标识 */
+  readonly channelType: string;
+
+  /** 渠道能力声明 */
+  readonly capabilities: {
+    supportsIframe: boolean;
+    supportsRichCard: boolean;
+    supportsWebApp: boolean;
+    supportsImage: boolean;
+    supportsInlineButton: boolean;
+  };
+
+  /**
+   * 投递一条包含 widget 的消息
+   * @param context  会话上下文（用户 ID、会话 ID 等）
+   * @param intercept  Interceptor 解析结果
+   * @param strategy  Channel Router 选定的渲染策略
+   */
+  deliver(
+    context: ChannelContext,
+    intercept: InterceptResult,
+    strategy: RenderStrategy
+  ): Promise<DeliverResult>;
+
+  /**
+   * 处理用户在渠道内的交互回调
+   * （飞书卡片按钮点击、Telegram inline keyboard 回调等）
+   */
+  handleCallback(callback: ChannelCallback): Promise<string>;
+}
+```
+
+---
+
+## 各渠道 Adapter 设计
+
+### 飞书 Adapter
+
+飞书 Bot 支持普通消息（图片/文本）和 Markdown 卡片。当前采用策略 B（截图 + 按钮）。
+
+```
+show-widget 围栏
+  │
+  └─ 所有 widget
+      → 策略 B：headless 渲染 PNG → 发送图片消息
+      → 提取 drill-down 按钮 → 附加 inline 按钮
+```
+
+### Telegram Adapter
+
+Telegram Bot API 消息格式有限，核心策略是图片 + inline keyboard。
+
+```
+show-widget 围栏
+  │
+  └─ 所有 widget
+      → 策略 B：headless 渲染 PNG
+      → sendPhoto + caption（Layer 1 Summary 文本）
+      → 提取 drill-down → inline_keyboard 按钮
+```
+
+Telegram inline keyboard 映射：
+
+```javascript
+// widget_code 中的 drill-down 按钮
+// onclick="window.__widgetSendMessage('详细介绍 JWT 的签名过程')"
+
+// → Telegram inline keyboard
+{
+  "inline_keyboard": [
+    [
+      {
+        "text": "JWT 签名过程",
+        "callback_data": "drill:详细介绍 JWT 的签名过程"
+      }
+    ]
+  ]
+}
+```
+
+### QQ Bot Adapter
+
+QQ Bot 支持 Ark 富文本消息和按钮交互，能力介于飞书和 Telegram 之间。
+
+```
+show-widget 围栏
+  │
+  └─ 所有 widget
+      → 策略 B：headless 渲染 PNG → 发送图片消息
+      → 提取 drill-down → 按钮交互组件
+```
+
+---
+
+## 图片渲染服务（Widget Screenshot Service）
+
+策略 B 的核心依赖。将 widget_code 渲染成 PNG 图片，供非满血渠道使用。
+
+### 流程
+
+```
+widget_code
+  → 拼装完整 HTML 文档（复用 M2 iframe-renderer 的 buildWidgetDoc）
+  → headless browser 加载（Playwright / Puppeteer）
+  → 等待渲染就绪（字体加载、Chart.js 动画完成、SVG 布局稳定）
+  → 截图 → PNG buffer
+  → 返回 / 上传到 CDN
+```
+
+### 关键细节
+
+- HTML 文档拼装直接复用 M2 `iframe-renderer` 的 `buildWidgetDoc()`，确保图片渲染结果与 iframe 内一致
+- 等待策略：`networkidle` + 额外 500ms 延迟（Chart.js 动画默认 400ms）
+- 视口宽度：680px（与 system prompt 中 SVG viewBox `width="680"` 对齐）
+- 高度：自适应（`document.body.scrollHeight`）
+- 像素密度：`deviceScaleFactor: 2`（Retina 清晰度）
+- 深色/浅色：根据用户偏好或渠道设置注入对应 CSS 变量
+- 超时兜底：3 秒未就绪则强制截图，避免阻塞投递
+
+### 部署形态
+
+两种选择，按规模决定：
+
+1. **进程内调用**（小规模）— Agent Runtime 进程内启动 headless browser 实例池，直接调用。简单，但吃内存。
+2. **独立微服务**（大规模）— 独立的截图服务，接收 widget_code，返回 PNG URL。可水平扩展，支持缓存（相同 widget_code hash → 复用已有图片）。
+
+---
+
+## Drill-down 交互适配
+
+Widget 的 drill-down 设计（Layer 4）依赖 `window.__widgetSendMessage(text)`，在不同渠道需要不同的桥接方式。
+
+### 提取 drill-down 按钮
+
+从 widget_code 中提取所有 `__widgetSendMessage` 调用：
+
+```javascript
+function extractDrillDowns(widgetCode) {
+  const re = /window\.__widgetSendMessage\(\s*['"](.+?)['"]\s*\)/g;
+  const drillDowns = [];
+  let m;
+  while ((m = re.exec(widgetCode)) !== null) {
+    drillDowns.push({
+      query: m[1],
+      label: summarizeQuery(m[1]),  // "详细介绍 JWT 签名过程" → "JWT 签名过程"
+    });
+  }
+  return drillDowns;
+}
+```
+
+### 各渠道映射
+
+| 渠道 | drill-down 实现 | 回调处理 |
+|------|----------------|---------|
+| Web | `__widgetSendMessage` → postMessage → 父页面监听 | 原生，无需适配 |
+| 飞书 | 卡片按钮 → action 回调 URL → webhook → 发送追问 | `handleCallback` 解析 action value |
+| Telegram | inline keyboard → callback_data → Bot API update → 发送追问 | `handleCallback` 解析 callback_data |
+| QQ | 按钮交互 → 回调事件 → 发送追问 | `handleCallback` 解析按钮 payload |
+
+---
+
+## 与 OpenClaw 的集成点
+
+M3 不是独立运行的服务，而是嵌入 OpenClaw Agent Runtime 的一个中间件层。
+
+### 在 Agent Runtime 中的位置
+
+```
+用户消息 → Agent Runtime → 模型调用 → 模型输出
+                                         │
+                                         ▼
+                                  ┌──────────────┐
+                                  │ Widget        │
+                                  │ Interceptor   │
+                                  │ (M3 中间件)    │
+                                  └──────┬───────┘
+                                         │
+                              ┌──────────▼──────────┐
+                              │                     │
+                         有 widget              无 widget
+                              │                     │
+                              ▼                     ▼
+                      Channel Router          直接投递文本
+                              │
+                              ▼
+                      Adapter.deliver()
+```
+
+### 集成方式
+
+M3 作为 OpenClaw 消息投递流水线的一个 middleware：
+
+```typescript
+// OpenClaw Agent Runtime 伪代码
+async function deliverMessage(channelCtx, modelOutput) {
+  // M3 中间件：检测 widget
+  const intercept = interceptWidgets(modelOutput);
+
+  if (!intercept.hasWidget) {
+    // 无 widget，走原有投递逻辑
+    return channel.sendText(channelCtx, modelOutput);
+  }
+
+  // 有 widget，走 M3 适配层
+  const adapter = getAdapter(channelCtx.channelType);
+  const strategy = selectStrategy(adapter.capabilities, intercept);
+  return adapter.deliver(channelCtx, intercept, strategy);
+}
+```
+
+### Skill 层面无需改动
+
+M1 的 Prompt Skill 定义了模型的输出格式（`show-widget` 围栏）。这个格式是渠道无关的——模型不需要知道用户在哪个渠道，它只管输出 widget。渠道适配完全在投递层处理。
+
+这意味着：
+- `prompts/system.md` 不需要任何修改
+- `generative-ui-renderer`（M2）不需要任何修改
+- 新增的只是 Interceptor + Router + Adapters
+
+---
+
+## 模块依赖关系
+
+```
+M1 Prompt Skill
+  │
+  │  定义 show-widget 围栏格式
+  │
+  ▼
+M2 generative-ui-renderer
+  │
+  │  提供：parseShowWidgetFence()  ← Interceptor 复用
+  │  提供：buildWidgetDoc()        ← Screenshot Service 复用
+  │  提供：WidgetRenderer          ← Web Adapter 直接使用
+  │
+  ▼
+M3 Channel Adapter Layer
+  ├── widget-interceptor     复用 M2 stream-parser
+  ├── channel-router         策略选择逻辑
+  ├── screenshot-service     复用 M2 iframe-renderer
+  ├── adapters/
+  │   ├── web.ts             复用 M2 renderer（已有，playground 就是）
+  │   ├── feishu.ts          图片 + 按钮
+  │   ├── telegram.ts        图片 + inline keyboard
+  │   └── qq.ts              图片 + 按钮交互
+  └── drill-down-extractor   提取 __widgetSendMessage 调用
+```
+
+---
+
+## 开放问题
+
+以下问题在 M2 完成后、M3 开发计划制定前需要明确：
+
+### 1. Screenshot Service 的部署形态
+
+进程内 vs 独立微服务？取决于 OpenClaw 的部署架构和并发量。如果 Agent Runtime 是 serverless（如 Lambda），headless browser 不适合进程内启动，需要独立服务。
+
+### 2. 流式体验在非满血渠道的处理
+
+模型输出是流式的，但策略 B/C/D 都需要等围栏闭合后才能处理。在等待期间，非满血渠道的用户看到什么？
+
+选项：
+- a) 先发送 Layer 1 Summary 文本，widget 就绪后再发图片/卡片（两条消息）
+- b) 等整个回复完成后一次性发送（一条消息，但延迟更高）
+- c) 发送"正在生成图表…"占位消息，就绪后编辑替换（飞书/Telegram 支持消息编辑）
+
+### 3. Planner（截断恢复）在非满血渠道的行为
+
+M2 的 Planner 在 widget 被截断时会触发多步生成。在非满血渠道：
+- Planner 的中间状态（planning、subtask_start 等）如何展示？
+- 最终组装的 widget 是否需要特殊处理？
+
+建议：Planner 逻辑不变，最终组装完成后再交给 Interceptor → Router → Adapter 流水线。中间状态可以通过渠道的"正在输入…"指示器或占位消息来体现。
+
+---
+
+## 总结
+
+M3 的核心思路是**一次生成，多渠道适配**：
+
+- 模型输出格式不变（M1 Skill）
+- 渲染库不变（M2 Renderer）
+- 新增一个渠道适配中间件层，按渠道能力选择最优渲染策略
+- 满血渠道（Web）直接用 renderer，其他渠道通过图片 + 按钮降级
+- drill-down 交互通过各渠道原生按钮机制桥接
+
+这个架构让 Skill 和 Renderer 保持通用，渠道扩展只需新增 adapter，不影响上游。

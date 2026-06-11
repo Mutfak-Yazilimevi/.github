@@ -11,7 +11,7 @@
 ## Faz 0 — İskelet
 
 - [x] Klasör yapısını oluştur: `.claude/{rules,commands,skills,agents,hooks}`, `_staging`, `_catalog`, `docs/references` ✅
-- [ ] `~/.skill-sources` klonlama dizinini oluştur _(makineye özel; repo şablonuna girmez — kurulum sırasında oluşturulur)_
+- [x] `~/.skill-sources` klonlama dizinini oluştur ✅ _(kaynak repolar buraya klonlandı, seçilenler kopyalandı)_
 - [ ] `claude` ile başlangıç `CLAUDE.md` üret (`/init`) _(Faz 1'de Bölüm 8.1 şablonuyla yazılacak)_
 
 ## Faz 1 — Memory
@@ -37,18 +37,18 @@
 - [~] #6 — [obra/superpowers](https://github.com/obra/superpowers) → `skills/ dev-` (işlendi)
 - [~] #7 — [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) → `skills/ mkt-` (dedupe, işlendi)
 - [~] #8 — [cloudflare/skills](https://github.com/cloudflare/skills) (9) → `skills/ dev-` (işlendi)
-- [ ] #15 — [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) (24, MIT) → `skills/ dev-` **yüksek değer**
-- [ ] #16 — [dotnet/skills](https://github.com/dotnet/skills) (100, MIT) → `skills/ dev-dotnet-` **seçmeli, yüksek değer**
-- [ ] #17 — [microsoft/skills](https://github.com/microsoft/skills) (189, MIT) → `dev-skill-creator` + `dev-mcp-builder`
-- [ ] #12 — [ziguishian/premium-ui-builder-skill](https://github.com/ziguishian/premium-ui-builder-skill) (1) → `skills/ fe-premium-ui`
-- [ ] #13 — [Stevenshanmukh/UI-UX-Consultant](https://github.com/Stevenshanmukh/Claude_UI-UX-Design-Consultant-Skill) (1) → `skills/ fe-uiux-audit`
-- [ ] #18 — [ai-freer/generative-ui-skill](https://github.com/ai-freer/generative-ui-skill) (1, Chrome CDP) → `skills/ fe-generative-ui`
-- [ ] #27 — [phuryn/pm-skills](https://github.com/phuryn/pm-skills) (68, MIT) → `skills/ pm-`
-- [ ] #32 — [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) (44, MIT) → `skills/ mkt-`
-- [ ] #36 — [ericosiu/ai-marketing-skills](https://github.com/ericosiu/ai-marketing-skills) (22, MIT) → `skills/ mkt-`
-- [ ] #34 — [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) (5, MIT) → `skills/`
-- [ ] #30 — [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) (4, CC — atıf) → `skills/ research-`
-- [ ] `.git` artıklarını temizle: `find .claude/skills -name .git -type d -prune -exec rm -rf {} +`
+- [x] #15 — [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) (24, MIT) → `dev-` ✅
+- [x] #16 — [dotnet/skills](https://github.com/dotnet/skills) (100, MIT) → `dev-dotnet-` ✅ **seçmeli: `dotnet-test` + `dotnet-diag` + `dotnet-ai` plugin'leri**
+- [x] #17 — [microsoft/skills](https://github.com/microsoft/skills) (189, MIT) → `dev-skill-creator` + `dev-mcp-builder` ✅
+- [x] #12 — [ziguishian/premium-ui-builder-skill](https://github.com/ziguishian/premium-ui-builder-skill) (1) → `fe-premium-ui` ✅
+- [x] #13 — [Stevenshanmukh/UI-UX-Consultant](https://github.com/Stevenshanmukh/Claude_UI-UX-Design-Consultant-Skill) (1) → `fe-uiux-audit` ✅
+- [x] #18 — [ai-freer/generative-ui-skill](https://github.com/ai-freer/generative-ui-skill) (1, Chrome CDP) → `fe-generative-ui` ✅
+- [x] #27 — [phuryn/pm-skills](https://github.com/phuryn/pm-skills) (68, MIT) → `pm-` ✅
+- [x] #32 — [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) (44, MIT) → `mkt-` ✅
+- [x] #36 — [ericosiu/ai-marketing-skills](https://github.com/ericosiu/ai-marketing-skills) (22, MIT) → `mkt-` ✅
+- [x] #34 — [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) (5, MIT) → `skills/` ✅
+- [x] #30 — [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) (4, CC — atıf) → `research-` ✅
+- [x] `.git` artıklarını temizle ✅ (kopyalama sırasında strip edildi — 0 artık)
 
 ### 3.2 İzole / koşullu → `_staging/`
 
@@ -84,10 +84,10 @@
 
 ## Faz 5 — Sub-Agents
 
-- [ ] SA2 — [lst97/claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents) (37, MIT) → `agents/` **birincil**; MCP/tool referanslarını gözden geçir
-- [ ] SA4 — [Aaronontheweb/dotnet-skills](https://github.com/Aaronontheweb/dotnet-skills) (6, MIT) → `agents/` **.NET gold**
-- [ ] SA1 — [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents): yalnız `tech-lead-orchestrator`, `team-configurator`, `project-analyst`
-- [ ] SA8 — [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) (5, MIT) → blog pipeline
+- [x] SA2 — [lst97/claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents) (37, MIT) → `agents/` ✅ **birincil** ⚠️ MCP/tool referansları Faz 6'da gözden geçirilecek
+- [x] SA4 — [Aaronontheweb/dotnet-skills](https://github.com/Aaronontheweb/dotnet-skills) (6, MIT) → `agents/` ✅ **.NET gold**
+- [x] SA1 — [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents): `tech-lead-orchestrator`, `team-configurator`, `project-analyst` ✅
+- [x] SA8 — [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) (5, MIT) → blog pipeline ✅
 - [ ] SA5 — [zhsama/claude-sub-agent](https://github.com/zhsama/claude-sub-agent) (12) → `_staging/` (lisans yok)
 - [x] SA3 — a-list-of (index) → `_catalog/`, kaynak değil → **karar: katalog**
 - [x] SA6 — claude-seo (1): minimal → **karar verildi**
@@ -124,12 +124,12 @@
 
 | Faz | Toplam | Biten | Durum |
 |-----|--------|-------|-------|
-| Faz 0 — İskelet | 3 | 1 | 🔄 |
+| Faz 0 — İskelet | 3 | 2 | 🔄 |
 | Faz 1 — Memory | 1 | 1 | ✅ |
 | Faz 2 — Rules | 4 | 3 | 🔄 |
-| Faz 3 — Skills | 33 | 5 | 🔄 |
+| Faz 3 — Skills | 33 | 17 | 🔄 (209 skill ingest edildi) |
 | Faz 4 — Hooks | 3 | 0 | ⏳ |
-| Faz 5 — Agents | 8 | 3 | 🔄 |
+| Faz 5 — Agents | 8 | 7 | 🔄 (51 agent ingest edildi) |
 | Faz 6 — MCP | 2 | 0 | ⏳ |
 | Faz 7 — Plugin | 3 | 0 | ⏳ |
 | Bootstrap | 3 | 0 | ⏳ |

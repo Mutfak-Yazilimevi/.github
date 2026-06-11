@@ -1,0 +1,9 @@
+.env
+.env.local
+.DS_Store
+node_modules/
+imagine/
+dist/
+!packages/renderer/dist/
+demo/
+custom-providers.json
