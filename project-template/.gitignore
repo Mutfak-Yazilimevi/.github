@@ -48,3 +48,7 @@ CLAUDE.local.md
 .claude/settings.local.json
 _staging/
 _catalog/
+
+# --- Faz 7: materyalize edilen plugin içeriği (build-plugins.sh üretir) ---
+plugins/*/skills/
+plugins/*/agents/

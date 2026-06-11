@@ -100,9 +100,9 @@
 
 ## Faz 7 — Plugin Paketleme
 
-- [ ] `dotnet-pack` plugin'i (#16 + SA4)
-- [ ] `frontend-pack` plugin'i (#12, #13, #18)
-- [ ] `marketing-pack` plugin'i (#14, #32, #36)
+- [x] `dotnet-pack` plugin'i (#16 + SA4) ✅ — manifest + `build-plugins.sh` (37 skill + 6 agent)
+- [x] `frontend-pack` plugin'i (#12, #13, #18) ✅ — manifest (3 skill)
+- [x] `marketing-pack` plugin'i (#14, #32, #36) ✅ — manifest (67 skill)
 
 ## Bootstrap Dosyaları (Bölüm 8)
 
@@ -131,7 +131,7 @@
 | Faz 4 — Hooks | 3 | 2 | 🔄 |
 | Faz 5 — Agents | 8 | 7 | 🔄 (51 agent ingest edildi) |
 | Faz 6 — MCP | 2 | 1 | 🔄 |
-| Faz 7 — Plugin | 3 | 0 | ⏳ |
+| Faz 7 — Plugin | 3 | 3 | ✅ |
 | Bootstrap | 3 | 3 | ✅ |
 | Doğrulama | 5 | 0 | ⏳ |
 
