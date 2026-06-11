@@ -10,9 +10,9 @@
 
 ## Faz 0 — İskelet
 
-- [ ] Proje kökünde klasör yapısını oluştur: `.claude/{rules,commands,skills,agents,hooks}`, `_staging`, `_catalog`, `docs/references`
-- [ ] `~/.skill-sources` klonlama dizinini oluştur
-- [ ] `claude` ile başlangıç `CLAUDE.md` üret (`/init`)
+- [x] Klasör yapısını oluştur: `.claude/{rules,commands,skills,agents,hooks}`, `_staging`, `_catalog`, `docs/references` ✅
+- [ ] `~/.skill-sources` klonlama dizinini oluştur _(makineye özel; repo şablonuna girmez — kurulum sırasında oluşturulur)_
+- [ ] `claude` ile başlangıç `CLAUDE.md` üret (`/init`) _(Faz 1'de Bölüm 8.1 şablonuyla yazılacak)_
 
 ## Faz 1 — Memory
 
@@ -124,7 +124,7 @@
 
 | Faz | Toplam | Biten | Durum |
 |-----|--------|-------|-------|
-| Faz 0 — İskelet | 3 | 0 | ⏳ |
+| Faz 0 — İskelet | 3 | 1 | 🔄 |
 | Faz 1 — Memory | 1 | 0 | ⏳ |
 | Faz 2 — Rules | 4 | 0 | ⏳ |
 | Faz 3 — Skills | 33 | 5 | 🔄 |
