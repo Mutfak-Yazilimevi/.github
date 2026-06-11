@@ -1,0 +1,39 @@
+name: CI
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main, develop]
+
+jobs:
+  build:
+    name: Build & Test
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # --- Node tabanlı projeler için ---
+      # - name: Setup Node
+      #   uses: actions/setup-node@v4
+      #   with:
+      #     node-version: 20
+      #     cache: npm
+      # - run: npm ci
+      # - run: npm run lint --if-present
+      # - run: npm test --if-present
+      # - run: npm run build --if-present
+
+      # --- .NET tabanlı projeler için ---
+      # - name: Setup .NET
+      #   uses: actions/setup-dotnet@v4
+      #   with:
+      #     dotnet-version: 8.0.x
+      # - run: dotnet restore
+      # - run: dotnet build --no-restore --configuration Release
+      # - run: dotnet test --no-build --configuration Release
+
+      - name: Placeholder
+        run: echo "Projeye uygun build adımlarını yukarıdan etkinleştirin."

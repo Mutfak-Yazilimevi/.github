@@ -1,0 +1,43 @@
+# --- Genel ---
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.env
+.env.local
+.env.*.local
+
+# --- Node / Frontend ---
+node_modules/
+dist/
+build/
+coverage/
+.angular/
+.next/
+.cache/
+npm-debug.log*
+yarn-error.log*
+
+# --- .NET / Backend ---
+bin/
+obj/
+*.user
+*.suo
+*.dll
+*.pdb
+[Dd]ebug/
+[Rr]elease/
+
+# --- IDE / Editor ---
+.vs/
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+
+# --- Mobile ---
+*.keystore
+*.apk
+*.ipa
+.gradle/
+local.properties
