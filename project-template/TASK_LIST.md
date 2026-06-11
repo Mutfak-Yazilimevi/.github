@@ -29,8 +29,8 @@
 
 ### 3.1 Temiz / yüksek değer
 
-- [x] #1 — [anthropics/skills](https://github.com/anthropics/skills) (17) → `skills/` **eklendi**
-- [x] #2 — [keenthemes/reui](https://github.com/keenthemes/reui) (6) → `skills/ design-` **eklendi**
+- [x] #1 — [anthropics/skills](https://github.com/anthropics/skills) → `skills/` ✅ (**10 Apache-2.0 skill**; `docx/pdf/pptx/xlsx` source-available, `skill-creator`/`mcp-builder` dedupe — `dev-` mevcut, `doc-coauthoring` lisanssız → **hariç**)
+- [x] #2 — [keenthemes/reui](https://github.com/keenthemes/reui) → `skills/ design-` ✅ (**6 skill**, MIT; `reui-seo` dup tekleştirildi)
 - [~] #3 — [mattpocock/skills](https://github.com/mattpocock/skills) → `skills/ dev-` (işlendi)
 - [~] #4 — [openai/skills](https://github.com/openai/skills) → `skills/ dev-` (işlendi)
 - [~] #5 — [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) → `skills/ dev-` (işlendi)
@@ -58,7 +58,7 @@
 - [~] #24 — [markdown-viewer/skills](https://github.com/markdown-viewer/skills) → `_staging/` _(lisans yok → `setup.sh --staging`)_
 - [~] #10 — [ihlamury/design-skills](https://github.com/ihlamury/design-skills) (87) → `_staging/` _(lisans yok → `setup.sh --staging`)_
 - [~] #23 — [remotion-dev/skills](https://github.com/remotion-dev/skills) → `_staging/` _(lisans belirsiz → `setup.sh --staging`)_
-- [x] #31 — [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) → `skills/ sec-` ✅ (Apache-2.0; **648 savunma skill**; saldırgan/exploit **106 skill filtrelendi** — merge öncesi gözden geçirmede C2/evilginx/lazagne/bloodhound vb. 16 ek saldırgan skill tespit edilip kaldırıldı)
+- [~] #31 — [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) → `skills/ sec-` _(kullanıcı kararıyla repodan **kaldırıldı**; isteyen `setup.sh --cybersec` ile savunma alt kümesini yerel çekebilir)_
 
 ### 3.3 Kataloglar (index, import yok) → `_catalog/`
 
@@ -127,7 +127,7 @@
 | Faz 0 — İskelet | 3 | 2 | 🔄 |
 | Faz 1 — Memory | 1 | 1 | ✅ |
 | Faz 2 — Rules | 4 | 3 | 🔄 |
-| Faz 3 — Skills | 33 | 20 | 🔄 (858 skill commit; `_staging`/`_catalog` `setup.sh`) |
+| Faz 3 — Skills | 33 | 19 | 🔄 (226 skill commit; cybersec & `_staging`/`_catalog` `setup.sh`) |
 | Faz 4 — Hooks | 3 | 2 | 🔄 |
 | Faz 5 — Agents | 8 | 7 | 🔄 (51 agent ingest edildi) |
 | Faz 6 — MCP | 2 | 1 | 🔄 |
