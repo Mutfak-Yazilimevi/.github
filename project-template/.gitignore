@@ -47,7 +47,7 @@ CLAUDE.local.md
 .claude/settings.local.md
 .claude/settings.local.json
 _staging/
-_catalog/
+# _catalog/ — force-add kararıyla repoya dahil edildi (mega-kataloglar #25/#33/#26)
 
 # --- Faz 7: materyalize edilen plugin içeriği (build-plugins.sh üretir) ---
 plugins/*/skills/
