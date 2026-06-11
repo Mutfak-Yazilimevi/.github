@@ -29,8 +29,8 @@
 
 ### 3.1 Temiz / yüksek değer
 
-- [x] #1 — [anthropics/skills](https://github.com/anthropics/skills) (17) → `skills/` **eklendi**
-- [x] #2 — [keenthemes/reui](https://github.com/keenthemes/reui) (6) → `skills/ design-` **eklendi**
+- [x] #1 — [anthropics/skills](https://github.com/anthropics/skills) → `skills/` ✅ (**10 Apache-2.0 skill**; `docx/pdf/pptx/xlsx` source-available, `skill-creator`/`mcp-builder` dedupe — `dev-` mevcut, `doc-coauthoring` lisanssız → **hariç**)
+- [x] #2 — [keenthemes/reui](https://github.com/keenthemes/reui) → `skills/ design-` ✅ (**6 skill**, MIT; `reui-seo` dup tekleştirildi)
 - [~] #3 — [mattpocock/skills](https://github.com/mattpocock/skills) → `skills/ dev-` (işlendi)
 - [~] #4 — [openai/skills](https://github.com/openai/skills) → `skills/ dev-` (işlendi)
 - [~] #5 — [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) → `skills/ dev-` (işlendi)
@@ -127,7 +127,7 @@
 | Faz 0 — İskelet | 3 | 2 | 🔄 |
 | Faz 1 — Memory | 1 | 1 | ✅ |
 | Faz 2 — Rules | 4 | 3 | 🔄 |
-| Faz 3 — Skills | 33 | 19 | 🔄 (210 skill commit; cybersec & `_staging`/`_catalog` `setup.sh`) |
+| Faz 3 — Skills | 33 | 19 | 🔄 (226 skill commit; cybersec & `_staging`/`_catalog` `setup.sh`) |
 | Faz 4 — Hooks | 3 | 2 | 🔄 |
 | Faz 5 — Agents | 8 | 7 | 🔄 (51 agent ingest edildi) |
 | Faz 6 — MCP | 2 | 1 | 🔄 |
