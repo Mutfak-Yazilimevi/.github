@@ -16,7 +16,7 @@
 
 ## Faz 1 — Memory
 
-- [ ] Kök `CLAUDE.md` dosyasını Bölüm 8.1 şablonuyla yaz (<200 satır, .NET odaklı)
+- [x] Kök `CLAUDE.md` dosyasını Bölüm 8.1 şablonuyla yaz (<200 satır, .NET odaklı) ✅
 
 ## Faz 2 — Rules
 
@@ -125,7 +125,7 @@
 | Faz | Toplam | Biten | Durum |
 |-----|--------|-------|-------|
 | Faz 0 — İskelet | 3 | 1 | 🔄 |
-| Faz 1 — Memory | 1 | 0 | ⏳ |
+| Faz 1 — Memory | 1 | 1 | ✅ |
 | Faz 2 — Rules | 4 | 0 | ⏳ |
 | Faz 3 — Skills | 33 | 5 | 🔄 |
 | Faz 4 — Hooks | 3 | 0 | ⏳ |
