@@ -112,11 +112,11 @@
 
 ## Doğrulama & Bakım (Bölüm 9)
 
-- [ ] `/doctor` ile tam tanı
-- [ ] `/context` ile yüklenen skill/agent/hook doğrula
-- [ ] `/permissions` kontrol
-- [ ] Skill yolu `.claude/skills/<ad>/SKILL.md` doğrulandı mı?
-- [ ] `.git` artıkları temizlendi mi?
+- [~] `/doctor` ile tam tanı _(interaktif — proje açılışında çalıştırılır)_
+- [x] `/context` ile yüklenen skill/agent/hook doğrula ✅ _(874 skill + 51 agent Claude Code tarafından keşfedildi)_
+- [~] `/permissions` kontrol _(interaktif; `settings.json` allow/deny tanımlı)_
+- [x] Skill yolu `.claude/skills/<ad>/SKILL.md` doğrulandı mı? ✅ (düz yapı, önekli)
+- [x] `.git` artıkları temizlendi mi? ✅ (0 artık)
 
 ---
 
@@ -133,6 +133,10 @@
 | Faz 6 — MCP | 2 | 1 | 🔄 |
 | Faz 7 — Plugin | 3 | 3 | ✅ |
 | Bootstrap | 3 | 3 | ✅ |
-| Doğrulama | 5 | 0 | ⏳ |
+| Doğrulama | 5 | 3 | 🔄 (interaktif olanlar hariç) |
+
+> **Çekirdek kurulum tamamlandı.** Açık kalan `[ ]`/`[~]` kalemler ya bilinçli kararlar
+> (lisanssız `_staging`/`_catalog` → `setup.sh`), ya proje-özel (GitHub/DB MCP, SEO-hook),
+> ya da interaktif Claude komutları (`/doctor`, `/permissions`).
 
 > Not: "Biten" sütunu, master planda `✅ eklendi` veya kesin karar (`❌ alınmadı`) olarak işaretlenmiş kalemleri kapsar. `⏳ işlendi` durumundakiler `[~]` ile gösterilir ve henüz tamamlanmış sayılmaz.
