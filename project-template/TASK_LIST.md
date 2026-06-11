@@ -29,7 +29,7 @@
 
 ### 3.1 Temiz / yüksek değer
 
-- [x] #1 — [anthropics/skills](https://github.com/anthropics/skills) → `skills/` ✅ (**10 Apache-2.0 skill**; `docx/pdf/pptx/xlsx` source-available, `skill-creator`/`mcp-builder` dedupe — `dev-` mevcut, `doc-coauthoring` lisanssız → **hariç**)
+- [x] #1 — [anthropics/skills](https://github.com/anthropics/skills) → `skills/` ✅ (**force-all: tümü**; 10 Apache-2.0 + `docx/pdf/pptx/xlsx` ⚠️ source-available + `doc-coauthoring`; `skill-creator`/`mcp-builder` zaten `dev-`)
 - [x] #2 — [keenthemes/reui](https://github.com/keenthemes/reui) → `skills/ design-` ✅ (**6 skill**, MIT; `reui-seo` dup tekleştirildi)
 - [~] #3 — [mattpocock/skills](https://github.com/mattpocock/skills) → `skills/ dev-` (işlendi)
 - [~] #4 — [openai/skills](https://github.com/openai/skills) → `skills/ dev-` (işlendi)
@@ -53,12 +53,12 @@
 ### 3.2 İzole / koşullu → `_staging/`
 
 - [x] #14 — [metawhisp/amazing-seo-skill](https://github.com/metawhisp/amazing-seo-skill) → `skills/seo-technical` ✅ (Apache-2.0, izole; install.sh **çalıştırılmadı**)
-- [~] #21 — [master5d/claude-design-skills](https://github.com/master5d/claude-design-skills) → `_staging/` _(lisans yok → commit edilmez; `setup.sh --staging`)_
-- [~] #22 — [slavingia/skills](https://github.com/slavingia/skills) → `_staging/ pm-` _(lisans yok → `setup.sh --staging`)_
-- [~] #24 — [markdown-viewer/skills](https://github.com/markdown-viewer/skills) → `_staging/` _(lisans yok → `setup.sh --staging`)_
-- [~] #10 — [ihlamury/design-skills](https://github.com/ihlamury/design-skills) (87) → `_staging/` _(lisans yok → `setup.sh --staging`)_
-- [~] #23 — [remotion-dev/skills](https://github.com/remotion-dev/skills) → `_staging/` _(lisans belirsiz → `setup.sh --staging`)_
-- [~] #31 — [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) → `skills/ sec-` _(kullanıcı kararıyla repodan **kaldırıldı**; isteyen `setup.sh --cybersec` ile savunma alt kümesini yerel çekebilir)_
+- [x] #21 — [master5d/claude-design-skills](https://github.com/master5d/claude-design-skills) (6) → `design-` ✅ (force-all; ⚠️ lisans yok)
+- [x] #22 — [slavingia/skills](https://github.com/slavingia/skills) (10) → `pm-` ✅ (force-all; ⚠️ lisans yok)
+- [x] #24 — [markdown-viewer/skills](https://github.com/markdown-viewer/skills) (15) → `md-` ✅ (force-all; ⚠️ lisans yok)
+- [x] #10 — [ihlamury/design-skills](https://github.com/ihlamury/design-skills) (87) → `design-` ✅ (force-all; ⚠️ lisans yok)
+- [x] #23 — [remotion-dev/skills](https://github.com/remotion-dev/skills) (1) → `remotion` ✅ (force-all; ⚠️ lisans belirsiz)
+- [x] #31 — [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) → `sec-` ✅ (force-all: **tam 754 skill, filtresiz** — ⚠️ saldırgan/exploit dahil)
 
 ### 3.3 Kataloglar (index, import yok) → `_catalog/`
 
@@ -88,7 +88,7 @@
 - [x] SA4 — [Aaronontheweb/dotnet-skills](https://github.com/Aaronontheweb/dotnet-skills) (6, MIT) → `agents/` ✅ **.NET gold**
 - [x] SA1 — [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents): `tech-lead-orchestrator`, `team-configurator`, `project-analyst` ✅
 - [x] SA8 — [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) (5, MIT) → blog pipeline ✅
-- [~] SA5 — [zhsama/claude-sub-agent](https://github.com/zhsama/claude-sub-agent) (12) → `_staging/` _(lisans yok → `setup.sh --staging`)_
+- [x] SA5 — [zhsama/claude-sub-agent](https://github.com/zhsama/claude-sub-agent) (12) → `agents/` ✅ (force-all; ⚠️ lisans yok)
 - [x] SA3 — a-list-of (index) → `_catalog/`, kaynak değil → **karar: katalog**
 - [x] SA6 — claude-seo (1): minimal → **karar verildi**
 - [x] SA7 — claude-code-system-prompts (352): agent değil / IP-hassas → **alınmıyor**
@@ -127,9 +127,9 @@
 | Faz 0 — İskelet | 3 | 2 | 🔄 |
 | Faz 1 — Memory | 1 | 1 | ✅ |
 | Faz 2 — Rules | 4 | 3 | 🔄 |
-| Faz 3 — Skills | 33 | 19 | 🔄 (226 skill commit; cybersec & `_staging`/`_catalog` `setup.sh`) |
+| Faz 3 — Skills | 33 | 25 | 🔄 (1104 skill — force-all; yalnız mega-kataloglar hariç) |
 | Faz 4 — Hooks | 3 | 2 | 🔄 |
-| Faz 5 — Agents | 8 | 7 | 🔄 (51 agent ingest edildi) |
+| Faz 5 — Agents | 8 | 8 | ✅ (63 agent — SA5 dahil force-all) |
 | Faz 6 — MCP | 2 | 1 | 🔄 |
 | Faz 7 — Plugin | 3 | 3 | ✅ |
 | Bootstrap | 3 | 3 | ✅ |
