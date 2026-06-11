@@ -52,23 +52,23 @@
 
 ### 3.2 İzole / koşullu → `_staging/`
 
-- [ ] #14 — [metawhisp/amazing-seo-skill](https://github.com/metawhisp/amazing-seo-skill) → `skills/ seo-technical` (izole, hook opt-in, install.sh ÇALIŞTIRMA)
-- [ ] #21 — [master5d/claude-design-skills](https://github.com/master5d/claude-design-skills) → `_staging/` (lisans yok)
-- [ ] #22 — [slavingia/skills](https://github.com/slavingia/skills) → `_staging/ pm-` (lisans yok)
-- [ ] #24 — [markdown-viewer/skills](https://github.com/markdown-viewer/skills) → `_staging/` (lisans yok)
-- [ ] #10 — [ihlamury/design-skills](https://github.com/ihlamury/design-skills) (87) → `_staging/` (lisans yok)
-- [ ] #23 — [remotion-dev/skills](https://github.com/remotion-dev/skills) → `_staging/` (niş, lisans belirsiz)
-- [ ] #31 — [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) → `_staging/` (YALNIZ savunma alt kümesi; saldırı/exploit ALMA)
+- [x] #14 — [metawhisp/amazing-seo-skill](https://github.com/metawhisp/amazing-seo-skill) → `skills/seo-technical` ✅ (Apache-2.0, izole; install.sh **çalıştırılmadı**)
+- [~] #21 — [master5d/claude-design-skills](https://github.com/master5d/claude-design-skills) → `_staging/` _(lisans yok → commit edilmez; `setup.sh --staging`)_
+- [~] #22 — [slavingia/skills](https://github.com/slavingia/skills) → `_staging/ pm-` _(lisans yok → `setup.sh --staging`)_
+- [~] #24 — [markdown-viewer/skills](https://github.com/markdown-viewer/skills) → `_staging/` _(lisans yok → `setup.sh --staging`)_
+- [~] #10 — [ihlamury/design-skills](https://github.com/ihlamury/design-skills) (87) → `_staging/` _(lisans yok → `setup.sh --staging`)_
+- [~] #23 — [remotion-dev/skills](https://github.com/remotion-dev/skills) → `_staging/` _(lisans belirsiz → `setup.sh --staging`)_
+- [~] #31 — [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) → `skills/ sec-` _(Apache-2.0; savunma alt kümesi `setup.sh --cybersec` ile — saldırgan 90 skill filtrelenir; commit kararı kullanıcıya bağlı)_
 
 ### 3.3 Kataloglar (index, import yok) → `_catalog/`
 
-- [ ] #25 — [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) (864) → `_catalog/`
-- [ ] #33 — [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) (880) → `_catalog/`
-- [ ] #26 — [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) (1.527+) → `_catalog/`
+- [~] #25 — [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) (864) → `_catalog/` _(`setup.sh --catalog`; import yok)_
+- [~] #33 — [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) (880) → `_catalog/` _(`setup.sh --catalog`)_
+- [~] #26 — [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) (1.527+) → `_catalog/` _(`setup.sh --catalog`)_
 
 ### 3.4 Skill değil / referans
 
-- [ ] #28 — [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) → `docs/references/app-ideas`
+- [x] #28 — [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) → `docs/references/app-ideas` ✅ (MIT)
 
 ### Alınmayacaklar (karar verildi)
 
@@ -88,7 +88,7 @@
 - [x] SA4 — [Aaronontheweb/dotnet-skills](https://github.com/Aaronontheweb/dotnet-skills) (6, MIT) → `agents/` ✅ **.NET gold**
 - [x] SA1 — [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents): `tech-lead-orchestrator`, `team-configurator`, `project-analyst` ✅
 - [x] SA8 — [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) (5, MIT) → blog pipeline ✅
-- [ ] SA5 — [zhsama/claude-sub-agent](https://github.com/zhsama/claude-sub-agent) (12) → `_staging/` (lisans yok)
+- [~] SA5 — [zhsama/claude-sub-agent](https://github.com/zhsama/claude-sub-agent) (12) → `_staging/` _(lisans yok → `setup.sh --staging`)_
 - [x] SA3 — a-list-of (index) → `_catalog/`, kaynak değil → **karar: katalog**
 - [x] SA6 — claude-seo (1): minimal → **karar verildi**
 - [x] SA7 — claude-code-system-prompts (352): agent değil / IP-hassas → **alınmıyor**
@@ -127,7 +127,7 @@
 | Faz 0 — İskelet | 3 | 2 | 🔄 |
 | Faz 1 — Memory | 1 | 1 | ✅ |
 | Faz 2 — Rules | 4 | 3 | 🔄 |
-| Faz 3 — Skills | 33 | 17 | 🔄 (209 skill ingest edildi) |
+| Faz 3 — Skills | 33 | 19 | 🔄 (210 skill commit + kalanlar `setup.sh`) |
 | Faz 4 — Hooks | 3 | 2 | 🔄 |
 | Faz 5 — Agents | 8 | 7 | 🔄 (51 agent ingest edildi) |
 | Faz 6 — MCP | 2 | 1 | 🔄 |
