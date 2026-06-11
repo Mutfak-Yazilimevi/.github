@@ -62,9 +62,9 @@
 
 ### 3.3 Kataloglar (index, import yok) → `_catalog/`
 
-- [~] #25 — [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) (864) → `_catalog/` _(`setup.sh --catalog`; import yok)_
-- [~] #33 — [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) (880) → `_catalog/` _(`setup.sh --catalog`)_
-- [~] #26 — [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) (1.527+) → `_catalog/` _(`setup.sh --catalog`)_
+- [x] #25 — [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) (864) → `_catalog/` ✅ (force-add; ⚠️ lisans yok)
+- [x] #33 — [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) (880) → `_catalog/` ✅ (force-add; ⚠️ lisans yok)
+- [x] #26 — [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) (4850) → `_catalog/` ✅ (force-add; CC BY 4.0+MIT; ⚠️ ~249MB)
 
 ### 3.4 Skill değil / referans
 
@@ -127,7 +127,7 @@
 | Faz 0 — İskelet | 3 | 3 | ✅ |
 | Faz 1 — Memory | 1 | 1 | ✅ |
 | Faz 2 — Rules | 4 | 4 | ✅ |
-| Faz 3 — Skills | 33 | 31 | 🔄 (1271 skill — yalnız mega-kataloglar `[~]`) |
+| Faz 3 — Skills | 33 | 34 | ✅ (1271 aktif skill + kataloglar force-add) |
 | Faz 4 — Hooks | 3 | 3 | ✅ |
 | Faz 5 — Agents | 8 | 8 | ✅ (63 agent) |
 | Faz 6 — MCP | 2 | 1 | 🔄 (GitHub/DB MCP = proje-özel token) |
