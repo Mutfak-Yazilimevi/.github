@@ -20,10 +20,10 @@
 
 ## Faz 2 — Rules
 
-- [ ] `.claude/rules/code-style.md` oluştur
-- [ ] `.claude/rules/testing.md` oluştur
-- [ ] `.claude/rules/api-conventions.md` oluştur
-- [ ] #11 frontend-pack `CLAUDE.md`'sini `rules/frontend-reference.md` olarak ekle
+- [x] `.claude/rules/code-style.md` oluştur ✅
+- [x] `.claude/rules/testing.md` oluştur ✅
+- [x] `.claude/rules/api-conventions.md` oluştur ✅
+- [~] #11 frontend-pack `CLAUDE.md`'sini `rules/frontend-reference.md` olarak ekle _(referans/placeholder oluşturuldu; upstream içerik kurulumda çekilecek)_
 
 ## Faz 3 — Skills Ingest
 
@@ -126,7 +126,7 @@
 |-----|--------|-------|-------|
 | Faz 0 — İskelet | 3 | 1 | 🔄 |
 | Faz 1 — Memory | 1 | 1 | ✅ |
-| Faz 2 — Rules | 4 | 0 | ⏳ |
+| Faz 2 — Rules | 4 | 3 | 🔄 |
 | Faz 3 — Skills | 33 | 5 | 🔄 |
 | Faz 4 — Hooks | 3 | 0 | ⏳ |
 | Faz 5 — Agents | 8 | 3 | 🔄 |
