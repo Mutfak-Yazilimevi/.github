@@ -29,11 +29,11 @@ Pick a lane, then execute phase by phase. Skip phases deliberately, never accide
 | Planning | `dev-planning-and-task-breakdown`, `dev-writing-plans`, `pm-sprint-plan`, `pm-outcome-roadmap` · agent `spec-planner` |
 | Requirements | `pm-create-prd`, `dev-to-prd`, `pm-user-stories`, `dev-idea-refine` · agent `spec-analyst` |
 | System Design | `dev-dotnet-architecture-selection`, `dev-system-design-scaling`, `dev-api-and-interface-design` · agent `spec-architect`, `backend-architect` · rule `architecture.md` |
-| Implementation | `dev-executing-plans`, `dev-incremental-implementation`, `dev-tdd`, `dev-low-level-design` · agent `spec-developer` + language pros · cmd `/bootstrap` |
-| Testing & QA | `dev-test-driven-development`, `dev-qa` · agent `spec-tester`, `qa-expert`, `test-automator` · cmd `/test-all` |
-| Deployment | `dev-ci-cd-and-automation`, `dev-shipping-and-launch` · agent `deployment-engineer` · cmd `/deploy` |
-| Maintenance | `dev-deprecation-and-migration` · agent `legacy-modernizer`, `debugger` · cmd `/fix-issue` |
-| Evaluation | `dev-observability-and-instrumentation` · agent `performance-engineer`, `spec-validator` · cmd `/review` |
+| Implementation | `dev-executing-plans`, `dev-incremental-implementation`, `dev-tdd`, `dev-low-level-design` · agent `spec-developer` + language pros · cmd `/mutfak-bootstrap` |
+| Testing & QA | `dev-test-driven-development`, `dev-qa` · agent `spec-tester`, `qa-expert`, `test-automator` · cmd `/mutfak-test-all` |
+| Deployment | `dev-ci-cd-and-automation`, `dev-shipping-and-launch` · agent `deployment-engineer` · cmd `/mutfak-deploy` |
+| Maintenance | `dev-deprecation-and-migration` · agent `legacy-modernizer`, `debugger` · cmd `/mutfak-fix-issue` |
+| Evaluation | `dev-observability-and-instrumentation` · agent `performance-engineer`, `spec-validator` · cmd `/mutfak-review` |
 
 ## ADLC — phase → what to use
 
