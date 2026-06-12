@@ -56,8 +56,20 @@ not silently assumed.
 - **Inventing requirements** — fill gaps by asking, not assuming; list unknowns explicitly.
 - **Skipping the gate** — building before the user signs off the PRD.
 
-## Related
+## Related — ne zaman hangisi
 
-- Existing project (read-only, find answers in code): `dev-existing-project-onboarding`.
-- Lifecycle this feeds: `dev-development-lifecycle`, `.claude/rules/process.md`.
-- Requirements depth: `spec-analyst` agent, `pm-create-prd`, `dev-interview-me`.
+Bu skill, **yazılım projesi gereksinim ön kapısıdır** (brief → kabul kriterli PRD). Komşu
+brief/discovery skill'leri farklı amaçlara hizmet eder — doğru olanı seç:
+
+| İhtiyaç | Kullan |
+| :--- | :--- |
+| Yazılım projesi gereksinimi → PRD (bu skill) | **`dev-project-intake`** (`/intake`) |
+| Mevcut projeyi salt-okunur anla → backlog | `dev-existing-project-onboarding` (`/onboard`) |
+| Tek-sayfa **strateji/iş brief'i** (office-hours, danışmanlık) | `ali-brief` (`/cs:brief`) |
+| Ürün **fırsatı doğrulama / discovery sprint** | `ali-product-discovery` |
+| Ürün **vizyonu** / fikir doğrulama | `pm-product-vision`, `pm-validate-idea` |
+| Fikri netleştir / beyin fırtınası | `dev-idea-refine`, `dev-define-goal`, `dev-brainstorming` |
+| Brief → PRD'ye dönüştür | `pm-create-prd`, `dev-to-prd` · agent `spec-analyst` |
+
+Akış: (gerekirse strateji/discovery için yukarıdakiler) → **`dev-project-intake`** → PRD →
+`dev-development-lifecycle` / `.claude/rules/process.md`. Derin mülakat: `dev-interview-me`.
