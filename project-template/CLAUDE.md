@@ -42,7 +42,9 @@ WebApi → Infrastructure → Application → Domain
   tek seferlik çözmek yerine merkezî kütüphaneye yeni skill/agent üretmeyi **öner** → bkz.
   `.claude/rules/capability-gaps.md`
 - Kurallar `.claude/rules/` altında: `code-style.md`, `testing.md`, `api-conventions.md`,
-  `architecture.md`, `scaling.md`, `mcp.md`, `process.md`, `catalog.md`, `capability-gaps.md`
+  `architecture.md`, `scaling.md`, `mcp.md`, `process.md`, `catalog.md`, `model-selection.md`, `capability-gaps.md`
+- **İşe bağlı model:** her işte modeli bilinçli seç — mekanik→`haiku`, muhakeme/mimari→`sonnet`
+  (varsayılan), en karmaşık orkestrasyon→`opus`. Bkz. `rules/model-selection.md`.
 - **Katalog-öncelikli (her soru/plan/iş):** önce `skills/skills-catalog.csv` ve
   `agents/agents-catalog.csv`'yi tara → uygun skill/agent'ı bul → ona git. Yoksa
   `capability-gaps.md`. Yeni ekleyince katalogu yeniden üret (`build-catalog.py`). Bkz. `rules/catalog.md`.

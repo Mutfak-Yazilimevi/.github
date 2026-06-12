@@ -1,3 +1,8 @@
+---
+name: short-form-pipeline
+description: Produce short-form video clips from long-form source — select moments, cut, caption, and format for Shorts/Reels/TikTok. Use to turn a long video into platform-ready short clips.
+---
+
 # Short-Form Video Clip Pipeline — Skill
 
 ## Preamble (runs on skill start)

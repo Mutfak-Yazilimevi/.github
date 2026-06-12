@@ -1,3 +1,8 @@
+---
+name: seo-ops
+description: Run ongoing on-page and technical SEO operations — audits, fixes, and content optimization on a recurring cadence. Use to operate SEO as a continuous process, not a one-off audit.
+---
+
 # AI SEO Ops
 
 ## Preamble (runs on skill start)

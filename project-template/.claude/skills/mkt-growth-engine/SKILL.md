@@ -1,3 +1,8 @@
+---
+name: growth-engine
+description: Design and operate a growth engine — acquisition loops, activation, retention, and referral mechanics — into an actionable plan. Use to build or audit a product's growth system end to end.
+---
+
 # Growth Engine
 
 ## Preamble (runs on skill start)

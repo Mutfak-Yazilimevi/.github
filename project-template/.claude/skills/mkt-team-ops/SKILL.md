@@ -1,3 +1,8 @@
+---
+name: team-ops
+description: Coordinate marketing team operations — roles, workflows, rituals, and handoffs — into a running operating system. Use to set up or streamline how a marketing team plans and ships work.
+---
+
 # AI Team Ops
 
 ## Preamble (runs on skill start)

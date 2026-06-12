@@ -1,3 +1,8 @@
+---
+name: sales-pipeline
+description: Build and manage a structured sales pipeline — stages, qualification criteria, and deal-progression rules. Use to design or clean up a pipeline and define how deals advance.
+---
+
 # AI Sales Pipeline
 
 ## Preamble (runs on skill start)
