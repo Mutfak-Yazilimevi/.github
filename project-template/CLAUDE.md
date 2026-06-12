@@ -42,7 +42,10 @@ WebApi → Infrastructure → Application → Domain
   tek seferlik çözmek yerine merkezî kütüphaneye yeni skill/agent üretmeyi **öner** → bkz.
   `.claude/rules/capability-gaps.md`
 - Kurallar `.claude/rules/` altında: `code-style.md`, `testing.md`, `api-conventions.md`,
-  `architecture.md`, `scaling.md`, `mcp.md`, `process.md`, `capability-gaps.md`
+  `architecture.md`, `scaling.md`, `mcp.md`, `process.md`, `catalog.md`, `capability-gaps.md`
+- **Katalog-öncelikli (her soru/plan/iş):** önce `skills/skills-catalog.csv` ve
+  `agents/agents-catalog.csv`'yi tara → uygun skill/agent'ı bul → ona git. Yoksa
+  `capability-gaps.md`. Yeni ekleyince katalogu yeniden üret (`build-catalog.py`). Bkz. `rules/catalog.md`.
 - **Süreç:** işi tanımlı yaşam döngüsüyle yürüt (SDLC/ADLC) — `rules/process.md` +
   `dev-development-lifecycle` skill'i; önemli feature'larda `mutfak-spec-workflow` zinciri
 - Slash komutları `.claude/commands/`: `/intake` (yeni proje ön kapısı), `/onboard` (mevcut proje,

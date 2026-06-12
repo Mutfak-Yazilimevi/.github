@@ -152,8 +152,13 @@ Agent'lar zaten ilgili skill'leri içeride kullanır.
 
 | İndeks | Kapsam | Bakım |
 | :--- | :--- | :--- |
-| [`skills/index_skills.md`](skills/index_skills.md) | 1606 skill, plugin → alt-kategori (ad-only) | `claude-config/scripts/build-skill-index.py` ile **üretilir** |
+| [`skills/index_skills.md`](skills/index_skills.md) | skill, plugin → alt-kategori (ad-only, insan-okur) | `claude-config/scripts/build-skill-index.py` ile **üretilir** |
 | [`agents/index_agents.md`](agents/index_agents.md) | 64 agent, 12 kategori (model + açıklama) | **elle** tutulur |
+| [`skills/skills-catalog.csv`](skills/skills-catalog.csv) | **sorgulanabilir katalog** — name, category, subcategory, tech, path, description | `claude-config/scripts/build-catalog.py` ile **üretilir** |
+| [`agents/agents-catalog.csv`](agents/agents-catalog.csv) | **sorgulanabilir katalog** — name, category, model, tech, path, description | `build-catalog.py` ile **üretilir** |
+
+> CSV katalogları "ada/amaca/kategoriye/teknolojiye göre hızlı bul" içindir (grep/awk/csv).
+> Örn: `awk -F, '$4 ~ /\.NET/' skills/skills-catalog.csv` · `grep -i prd skills/skills-catalog.csv`.
 
 > Skill indeksini elle düzenleme; `--source <.claude>` ile yeniden üret. Yeni agent eklerken
 > `index_agents.md`'yi elle güncelle. Yeni yetenek üretme kuralları: [`rules/capability-gaps.md`](rules/capability-gaps.md).
@@ -166,7 +171,7 @@ Agent'lar zaten ilgili skill'leri içeride kullanır.
 | :--- | :--- |
 | `settings.json` | İzinler + hook'lar + config (commit edilir, takım) |
 | `settings.local.json` | Kişisel override'lar (gitignore) — örnek: `settings.local.json.example` |
-| `rules/` | Modüler kurallar: `code-style`, `testing`, `api-conventions`, `architecture`, `scaling`, `mcp`, `process` (SDLC/ADLC), `capability-gaps` |
+| `rules/` | Modüler kurallar: `code-style`, `testing`, `api-conventions`, `architecture`, `scaling`, `mcp`, `process` (SDLC/ADLC), `catalog` (katalog-öncelikli), `capability-gaps` |
 | `commands/` | Slash komutları — `/intake` (yeni proje), `/onboard` (mevcut proje, salt-okunur), `/review`, `/fix-issue`, `/deploy`, `/test-all`, `/bootstrap`, `/document`, `/refactor` |
 | `skills/` | ⚠️ **DÜZ yapı** — her skill `skills/<önek-ad>/SKILL.md`; iç içe kategori klasörü otomatik bulunmaz |
 | `agents/` | Sub-agent tanımları (`<ad>.md`, düz) |
