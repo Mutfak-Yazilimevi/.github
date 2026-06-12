@@ -5,11 +5,5 @@
   "author": {
     "name": "Mutfak Yazılımevi",
     "url": "https://www.mutfakyazilimevi.com"
-  },
-  "skills": [
-    "./skills/"
-  ],
-  "agents": [
-    "./agents/"
-  ]
+  }
 }
