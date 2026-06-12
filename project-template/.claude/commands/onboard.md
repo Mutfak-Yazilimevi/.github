@@ -1,7 +1,7 @@
 ---
 description: Mevcut proje ön kapısı (SALT-OKUNUR) — anla, yapılan/eksikleri çıkar, backlog'a yaz, planı açıkla, direktif bekle
 argument-hint: "[opsiyonel: odak alan/dizin]"
-allowed-tools: Read, Grep, Glob, Bash(git log:*), Bash(git status:*)
+allowed-tools: Read, Grep, Glob, Bash(find:*), Bash(ls:*), Bash(pwd), Bash(wc:*), Bash(git log:*), Bash(git status:*)
 ---
 
 Bu mevcut bir proje. `dev-existing-project-onboarding` skill'ini kullan. Odak (varsa): **$ARGUMENTS**

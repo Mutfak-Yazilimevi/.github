@@ -60,6 +60,12 @@ Claude Code oturumu içinde:
 > marketplace reposundaki `templates/PROFILES.md`'ye bak. 12 plugin ve içerikleri:
 > [`claude-config/README.md` → Plugin'ler](../../claude-config/README.md#pluginler).
 
+> ⚠️ **Marketplace ne taşır?** Plugin'ler **skill + agent + slash komutlarını** (`/onboard`,
+> `/intake` … → `mutfak-core`) taşır. Ama **`rules/`, bu `CLAUDE.md`, `hooks/`, `.mcp.json`
+> plugin ile GELMEZ** — bunlar **proje scaffold'udur.** Tam kurulum için bu `project-template`'i
+> temel al (kopyala) veya `integrate-into-project.sh` ile entegre et. Komutlar için
+> `enabledPlugins`'e **`mutfak-core`'u eklemeyi unutma.**
+
 ### 3. `CLAUDE.md`'yi projeye göre doldur
 
 Kök [`../CLAUDE.md`](../CLAUDE.md) takım talimatıdır (commit edilir). `<...>` alanlarını doldur,
@@ -171,7 +177,7 @@ Agent'lar zaten ilgili skill'leri içeride kullanır.
 | :--- | :--- |
 | `settings.json` | İzinler + hook'lar + config (commit edilir, takım) |
 | `settings.local.json` | Kişisel override'lar (gitignore) — örnek: `settings.local.json.example` |
-| `rules/` | Modüler kurallar: `code-style`, `testing`, `api-conventions`, `architecture`, `scaling`, `mcp`, `process` (SDLC/ADLC), `catalog` (katalog-öncelikli), `model-selection` (işe bağlı model), `capability-gaps` |
+| `rules/` | Modüler kurallar: `code-style`, `testing`, `api-conventions`, `architecture`, `scaling`, `mcp`, `process` (SDLC/ADLC), `catalog`, `model-selection`, `communication` (TR iletişim), `capability-gaps` |
 | `commands/` | Slash komutları — `/intake` (yeni proje), `/onboard` (mevcut proje, salt-okunur), `/review`, `/fix-issue`, `/deploy`, `/test-all`, `/bootstrap`, `/document`, `/refactor` |
 | `skills/` | ⚠️ **DÜZ yapı** — her skill `skills/<önek-ad>/SKILL.md`; iç içe kategori klasörü otomatik bulunmaz |
 | `agents/` | Sub-agent tanımları (`<ad>.md`, düz) |
