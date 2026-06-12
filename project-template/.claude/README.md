@@ -1,21 +1,180 @@
-# `.claude/` — Claude Code Yapılandırması
+# `.claude/` — Claude Code Yapılandırması & Kullanım Kılavuzu
 
-Bu dizin, Claude Code'un proje kapsamındaki (project scope) yapılandırmasını tutar.
+Bu dizin, Claude Code'un proje kapsamındaki (project scope) yapılandırmasını tutar ve
+yeni bir projeyi **merkezi skill & agent kütüphanesine** (plugin marketplace) bağlar.
+
 Master plan: [`../CLAUDE-CODE-MASTERPLAN.md`](../CLAUDE-CODE-MASTERPLAN.md) · İlerleme: [`../TASK_LIST.md`](../TASK_LIST.md)
+Marketplace: [`../../claude-config/README.md`](../../claude-config/README.md)
 
-## Dizin yapısı (Faz 0 — İskelet)
+İçindekiler: [Yeni proje oluşturma](#yeni-proje-oluşturma-adım-adım) ·
+[Skill kullanma](#skill-kullanma-kılavuzu) · [Agent kullanma](#agent-kullanma-kılavuzu) ·
+[Skill mi agent mı?](#skill-mi-agent-mı) · [İndeksler](#i̇ndeksler-keşif) ·
+[Dizin yapısı](#dizin-yapısı) · [Skill keşif kuralı](#skill-keşif-kuralı-kritik)
+
+---
+
+## Yeni proje oluşturma (adım adım)
+
+Felsefe: **kütüphane kopyalanmaz, referanslanır.** Her proje yalnız küçük bir `.claude/settings.json`
+taşır; gerçek skill/agent içeriği marketplace'ten çekilir → en az token, ortalama-üstü performans.
+
+### 1. Bu şablonu projeye al
+
+`project-template` iskeletini yeni reponun temeli yap. En az gerekenler:
+
+```
+.claude/      → yapılandırma (bu dizin)
+CLAUDE.md     → takım talimatı (mimari + kurallar)
+.gitignore    → CLAUDE.local.md, materyalize içerik vb. hariç tutar
+.mcp.json     → gerekli MCP sunucuları
+```
+
+`docs/`, `_catalog/`, `_staging/` opsiyoneldir (referans / çalışma alanı; auto-load edilmez).
+
+### 2. Marketplace'i ekle ve plugin etkinleştir
+
+Claude Code oturumu içinde:
+
+```text
+/plugin marketplace add mutfak-yazilimevi/claude-config
+/plugin install mutfak-dotnet@mutfak
+/plugin install mutfak-security@mutfak
+```
+
+…veya projeye kalıcı yazmak için `.claude/settings.json`:
+
+```jsonc
+{
+  "extraKnownMarketplaces": {
+    "mutfak": { "source": { "source": "github", "repo": "mutfak-yazilimevi/claude-config" } }
+  },
+  "enabledPlugins": ["mutfak-dotnet@mutfak", "mutfak-security@mutfak"]
+}
+```
+
+> Yalnız **gerekli** plugin'leri aç (minimum token). Proje tipine göre hazır profiller için
+> marketplace reposundaki `templates/PROFILES.md`'ye bak. 12 plugin ve içerikleri:
+> [`claude-config/README.md` → Plugin'ler](../../claude-config/README.md#pluginler).
+
+### 3. `CLAUDE.md`'yi projeye göre doldur
+
+Kök [`../CLAUDE.md`](../CLAUDE.md) takım talimatıdır (commit edilir). `<...>` alanlarını doldur,
+dosyayı **<200 satır** tut. Kişisel/geçici notlar `CLAUDE.local.md`'ye (gitignore).
+
+### 4. Kuralları ve komutları gözden geçir
+
+- `rules/` — `code-style.md`, `testing.md`, `api-conventions.md`, `capability-gaps.md`
+- `commands/` — slash komutları (`/review`, `/fix-issue`, `/deploy`)
+- `.mcp.json` — projenin ihtiyaç duyduğu MCP sunucuları
+
+### 5. Çalıştır
+
+Proje açıldığında Claude Code plugin'leri marketplace'ten çeker; skill ve agent'lar otomatik
+kullanılabilir olur. Günlük kullanım için aşağıdaki iki kılavuza geç.
+
+---
+
+## Skill kullanma kılavuzu
+
+**Skill = prosedür/bilgi paketi.** Belirli bir işi *nasıl* yapacağını anlatan, talimat + opsiyonel
+script/şablon içeren bir `SKILL.md` birimidir (örn. `dev-tdd`, `sec-analyzing-network-traffic-with-wireshark`, `mkt-seo-audit`).
+
+### Nasıl tetiklenir?
+
+1. **Otomatik (önerilen):** Claude, etkin plugin'lerdeki skill'lerin `description`'ını göreve göre
+   eşler ve uygun olanı kendiliğinden devreye sokar. Sen sadece işi tarif edersin:
+   > "Bu endpoint'i TDD ile yapalım." → `dev-tdd` devreye girer.
+   > "Şu PCAP'te C2 trafiği var mı?" → ilgili `sec-analyzing-...` skill'i kullanılır.
+2. **Açık çağrı:** İstediğin skill'i adıyla iste:
+   > "`dev-systematic-debugging` skill'ini kullanarak ilerle."
+3. **Slash:** Kullanıcı-çağrılabilir skill'ler `/` menüsünde plugin adıyla görünür
+   (örn. `/mutfak-dev:dev-tdd`). `/` yazıp listeden seçebilirsin.
+
+### İyi sonuç için ipuçları
+
+- **Bağlamı ver, skill'i değil:** Hangi skill olduğunu bilmesen de görevi net tarif et; eşleşme
+  `description` üzerinden olur. Yanlış skill seçildiyse "X yerine Y skill'ini kullan" de.
+- **Keşif:** Hangi skill'ler var? → [`skills/index_skills.md`](skills/index_skills.md) (1606 skill,
+  plugin → alt-kategori, ad-only). Detay için ilgili `skills/<ad>/SKILL.md`.
+- **Önek = alan:** `dev-` geliştirme · `sec-` güvenlik · `mkt-`/`seo` pazarlama · `pm-` ürün ·
+  `design-` tasarım · `ali-` danışmanlık · `md-` diyagram · `research-` araştırma · `fe-`/`web-` frontend.
+
+---
+
+## Agent kullanma kılavuzu
+
+**Agent (sub-agent) = otonom uzman persona.** Kendi sistem talimatı ve araçları olan, çok adımlı bir işi
+baştan sona yürüten uzmandır (örn. `backend-architect`, `code-reviewer-pro`, `security-auditor`,
+`tech-lead-orchestrator`). Skill bir *yöntem*tir; agent o yöntemleri kullanan bir *kişi* gibidir ve
+**kendi izole bağlamında** çalışır (ana konuşmayı şişirmez).
+
+### Nasıl çağrılır?
+
+1. **Otomatik delegasyon:** Claude, görev bir uzmana uygunsa (özellikle çok adımlı/araştırma
+   gerektiren işlerde) işi ilgili agent'a devreder.
+2. **Açık çağrı:** Agent'ı adıyla iste:
+   > "`code-reviewer-pro` ile bu diff'i incele."
+   > "Bunu `tech-lead-orchestrator`'a devret, alt görevlere bölsün."
+3. **Orkestrasyon:** Büyük/çok parçalı işlerde önce bir orkestratör kullan
+   (`tech-lead-orchestrator`, `agent-organizer`) veya `mutfak-spec-workflow` spec zinciri:
+   `spec-analyst → spec-architect → spec-planner → spec-developer → spec-tester → spec-reviewer`.
+
+### İyi sonuç için ipuçları
+
+- **Paralel iş = paralel agent:** Bağımsız alt görevleri ayrı agent'lara aynı anda dağıt.
+- **Doğru uzmanı seç:** mimari karar → `*-architect` · hata ayıklama → `debugger` · inceleme →
+  `code-reviewer-pro` · güvenlik → `security-auditor` · tanıdık olmayan kod tabanı → `project-analyst`.
+- **Keşif:** Hangi agent'lar var? → [`agents/index_agents.md`](agents/index_agents.md)
+  (64 agent, 12 kategori, model + açıklama).
+
+---
+
+## Skill mi, agent mı?
+
+| | **Skill** | **Agent** |
+| :--- | :--- | :--- |
+| Ne | Prosedür / bilgi (nasıl yapılır) | Otonom uzman persona (kim yapar) |
+| Kapsam | Tek, odaklı yetenek | Çok adımlı görev, karar verir |
+| Bağlam | Ana konuşmaya yüklenir | Kendi izole bağlamında çalışır |
+| Örnek | `dev-tdd`, `mkt-seo-audit` | `backend-architect`, `security-auditor` |
+| Ne zaman | Belirli bir işi doğru yöntemle yap | Bir alanı uzmana devret / paralelleştir |
+
+Pratik kural: **dar ve tek seferlik** iş → skill. **Geniş, çok adımlı veya delege edilebilir** iş → agent.
+Agent'lar zaten ilgili skill'leri içeride kullanır.
+
+---
+
+## İndeksler (keşif)
+
+| İndeks | Kapsam | Bakım |
+| :--- | :--- | :--- |
+| [`skills/index_skills.md`](skills/index_skills.md) | 1606 skill, plugin → alt-kategori (ad-only) | `claude-config/scripts/build-skill-index.py` ile **üretilir** |
+| [`agents/index_agents.md`](agents/index_agents.md) | 64 agent, 12 kategori (model + açıklama) | **elle** tutulur |
+
+> Skill indeksini elle düzenleme; `--source <.claude>` ile yeniden üret. Yeni agent eklerken
+> `index_agents.md`'yi elle güncelle. Yeni yetenek üretme kuralları: [`rules/capability-gaps.md`](rules/capability-gaps.md).
+
+---
+
+## Dizin yapısı
 
 | Klasör | Amaç |
 | :--- | :--- |
-| `rules/` | Kod stili, test, API kuralları (`code-style.md`, `testing.md`, `api-conventions.md`) — Faz 2 |
+| `rules/` | Kod stili, test, API kuralları + `capability-gaps.md` |
 | `commands/` | Slash komutları (`review.md`, `fix-issue.md`, `deploy.md`) |
-| `skills/` | ⚠️ **DÜZ yapı** — her skill `skills/<önek-ad>/SKILL.md` olarak yerleşir; iç içe kategori klasörü otomatik bulunmaz |
-| `agents/` | Sub-agent tanımları (`<ad>.md`, düz) — Faz 5 |
-| `hooks/` | Guardrail script'leri (`validate-bash.sh`) — Faz 4 |
+| `skills/` | ⚠️ **DÜZ yapı** — her skill `skills/<önek-ad>/SKILL.md`; iç içe kategori klasörü otomatik bulunmaz |
+| `agents/` | Sub-agent tanımları (`<ad>.md`, düz) |
+| `hooks/` | Guardrail script'leri (`validate-bash.sh`) |
+
+> Tek bir projede `skills/`/`agents/` içeriği genelde marketplace plugin'lerinden gelir; bu klasörler
+> **proje-özel** skill/agent eklemek istersen kullanılır. Tekrar kullanılabilir bir boşluk çıkarsa
+> tek seferlik çözmek yerine merkezi kütüphaneye eklemeyi öner → [`rules/capability-gaps.md`](rules/capability-gaps.md).
 
 ## Skill keşif kuralı (kritik)
 
 Claude Code skill'leri **yalnızca** `.claude/skills/<ad>/SKILL.md` yolundan tarar.
 Gruplama için **ad öneki** kullanılır: `dev-`, `fe-`, `seo-`, `mkt-`, `pm-`, `design-`, `research-`, `sec-`.
 
-`_staging/`, `_catalog/` ve `docs/` **asla** `.claude/skills/` altında olmaz (auto-load edilmez).
+Alt-klasörler **namespace sağlamaz** — çağrı adı yalnız `SKILL.md`/agent frontmatter'ındaki `name`'den
+gelir; dosya yolu yok sayılır. `_staging/`, `_catalog/` ve `docs/` **asla** `.claude/skills/` altında
+olmaz (auto-load edilmez).
