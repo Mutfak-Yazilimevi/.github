@@ -1,0 +1,5 @@
+# Materyalize edilen plugin içeriği — build-marketplace.sh üretir.
+# .github reposunda commit EDİLMEZ (repo şişmesin). Gerçek claude-config
+# reposunda yayımlamak için: bu satırları kaldır veya `git add -f plugins/`.
+plugins/*/skills/
+plugins/*/agents/

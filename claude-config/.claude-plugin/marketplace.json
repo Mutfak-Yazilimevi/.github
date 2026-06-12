@@ -1,0 +1,73 @@
+{
+  "name": "mutfak-claude-config",
+  "owner": {
+    "name": "Mutfak Yazılımevi",
+    "url": "https://www.mutfakyazilimevi.com"
+  },
+  "metadata": {
+    "description": "Mutfak Yazılımevi merkezi Claude Code plugin marketplace'i. Projeler yalnız gerekli plugin'leri etkinleştirir.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "mutfak-core",
+      "source": "./plugins/mutfak-core",
+      "description": "Çekirdek/genel skill'ler (belge üretimi, görsel, artefakt) + genel geliştirme agent'ları."
+    },
+    {
+      "name": "mutfak-dev",
+      "source": "./plugins/mutfak-dev",
+      "description": "Genel yazılım geliştirme skill & agent'ları (TDD, code review, debugging, mimari, dil uzmanları)."
+    },
+    {
+      "name": "mutfak-dotnet",
+      "source": "./plugins/mutfak-dotnet",
+      "description": ".NET çekirdeği: dotnet test/diag/ai skill'leri + Akka.NET/Roslyn/performans agent'ları."
+    },
+    {
+      "name": "mutfak-frontend",
+      "source": "./plugins/mutfak-frontend",
+      "description": "Frontend: premium UI, UI/UX denetimi, generative UI + React/Next/UI/UX agent'ları."
+    },
+    {
+      "name": "mutfak-design",
+      "source": "./plugins/mutfak-design",
+      "description": "Marka/ürün tasarım sistemleri (99 vendor design skill'i: Stripe, Linear, Vercel…)."
+    },
+    {
+      "name": "mutfak-pm",
+      "source": "./plugins/mutfak-pm",
+      "description": "Ürün yönetimi: strateji, PRD, roadmap, metrikler + product-manager/project-analyst agent'ları."
+    },
+    {
+      "name": "mutfak-marketing",
+      "source": "./plugins/mutfak-marketing",
+      "description": "Pazarlama & SEO & growth + blog içerik pipeline agent'ları."
+    },
+    {
+      "name": "mutfak-security",
+      "source": "./plugins/mutfak-security",
+      "description": "Savunma/blue-team güvenlik skill'leri (forensics, detection, hardening) + security-auditor."
+    },
+    {
+      "name": "mutfak-research",
+      "source": "./plugins/mutfak-research",
+      "description": "Akademik araştırma & derin araştırma skill'leri."
+    },
+    {
+      "name": "mutfak-diagrams",
+      "source": "./plugins/mutfak-diagrams",
+      "description": "Markdown tabanlı diyagram/görselleştirme (UML, BPMN, mindmap, vega…)."
+    },
+    {
+      "name": "mutfak-consulting",
+      "source": "./plugins/mutfak-consulting",
+      "description": "İş/operasyon/C-level danışmanlık & uzman skill paketi (ali- kümesi, 347 skill)."
+    },
+    {
+      "name": "mutfak-spec-workflow",
+      "source": "./plugins/mutfak-spec-workflow",
+      "description": "Spec-driven iş akışı orkestrasyonu: analiz→mimari→geliştirme→test→doğrulama agent'ları."
+    }
+  ]
+}

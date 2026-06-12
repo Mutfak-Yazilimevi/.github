@@ -1,0 +1,15 @@
+{
+  "name": "mutfak-dotnet",
+  "version": "1.0.0",
+  "description": ".NET çekirdeği: dotnet test/diag/ai skill'leri + Akka.NET/Roslyn/performans agent'ları.",
+  "author": {
+    "name": "Mutfak Yazılımevi",
+    "url": "https://www.mutfakyazilimevi.com"
+  },
+  "skills": [
+    "./skills/"
+  ],
+  "agents": [
+    "./agents/"
+  ]
+}

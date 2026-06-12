@@ -1,0 +1,15 @@
+{
+  "name": "mutfak-spec-workflow",
+  "version": "1.0.0",
+  "description": "Spec-driven iş akışı orkestrasyonu: analiz→mimari→geliştirme→test→doğrulama agent'ları.",
+  "author": {
+    "name": "Mutfak Yazılımevi",
+    "url": "https://www.mutfakyazilimevi.com"
+  },
+  "skills": [
+    "./skills/"
+  ],
+  "agents": [
+    "./agents/"
+  ]
+}
