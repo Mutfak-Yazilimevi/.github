@@ -45,8 +45,11 @@ WebApi → Infrastructure → Application → Domain
   `architecture.md`, `scaling.md`, `mcp.md`, `process.md`, `capability-gaps.md`
 - **Süreç:** işi tanımlı yaşam döngüsüyle yürüt (SDLC/ADLC) — `rules/process.md` +
   `dev-development-lifecycle` skill'i; önemli feature'larda `mutfak-spec-workflow` zinciri
-- Slash komutları `.claude/commands/`: `/review`, `/fix-issue`, `/deploy`, `/test-all`,
-  `/bootstrap`, `/document`, `/refactor`
+- Slash komutları `.claude/commands/`: `/intake` (yeni proje ön kapısı), `/onboard` (mevcut proje,
+  salt-okunur analiz→backlog), `/review`, `/fix-issue`, `/deploy`, `/test-all`, `/bootstrap`,
+  `/document`, `/refactor`
+- **Başlangıç:** yeni proje → `/intake` (rehberli brief → PRD) · mevcut proje → `/onboard`
+  (kod içinde anla, yapılan/eksik çıkar, `docs/backlog.md`'ye yaz, direktif bekle)
 - Hook'lar `.claude/hooks/` (taksonomi: `hooks/README.md`) — Pre/PostToolUse, SessionStart/End,
   PreCompact (sır taraması), Notification/Stop. MCP sunucuları: `.mcp.json` (bkz. `rules/mcp.md`)
 - **Tasarım altitüdü:** sınıf/nesne seviyesi → `dev-low-level-design` · mimari seçim →
