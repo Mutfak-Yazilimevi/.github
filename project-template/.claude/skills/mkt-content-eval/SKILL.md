@@ -1,4 +1,9 @@
 ---
+name: content-eval
+description: Evaluate marketing content against clarity, persuasion, SEO, and brand criteria; score it and list concrete improvements. Use to review or grade blog posts, landing copy, or campaign content before publishing.
+---
+
+---
 
 ## Preamble (runs on skill start)
 

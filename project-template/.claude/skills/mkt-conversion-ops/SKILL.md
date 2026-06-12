@@ -1,3 +1,8 @@
+---
+name: conversion-ops
+description: Run conversion-rate optimization operations across funnels — diagnose drop-offs, propose experiments, prioritize CRO fixes. Use to improve signup, checkout, or landing conversion with a structured ops workflow.
+---
+
 # AI Conversion Ops
 
 ## Preamble (runs on skill start)

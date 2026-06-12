@@ -1,4 +1,9 @@
 ---
+name: clone-site
+description: Clone and adapt a reference/competitor website's structure, layout, and copy into a marketing site draft. Use to replicate a site's information architecture as a starting point for a new landing or marketing site.
+---
+
+---
 
 ## Preamble (runs on skill start)
 

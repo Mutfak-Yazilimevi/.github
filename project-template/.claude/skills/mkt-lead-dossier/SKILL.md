@@ -1,4 +1,9 @@
 ---
+name: lead-dossier
+description: Build a research dossier on a lead/prospect — company, stakeholders, pains, triggers, and outreach angles. Use before sales outreach to assemble a complete, sourced lead profile.
+---
+
+---
 
 ## Preamble (runs on skill start)
 

@@ -22,7 +22,8 @@
    awk -F, '$2=="<plugin>"' .claude/agents/agents-catalog.csv  # kategoriye göre
    ```
 2. **Bul** — en uygun skill/agent('lar)ı seç (description ile teyit et).
-3. **Git** — skill'i tetikle / agent'a devret; gerekirse `path` ile dosyayı aç.
+3. **Git** — skill'i tetikle / agent'a devret; gerekirse `path` ile dosyayı aç. İşe uygun
+   **modeli** de belirle (`model-selection.md`).
 4. **Yoksa** — `capability-gaps.md` akışı: yeni skill/agent **öner**, onayla, üret.
 
 > Cevaplar, planlar ve işler bu döngüyle yürütülür: önce burayı tara, bul, oraya git.

@@ -1,3 +1,8 @@
+---
+name: video-clip-pipeline
+description: Produce clips from long-form video — identify highlights, cut, and assemble a publishing-ready clip set. Use to systematically extract shareable moments from long videos.
+---
+
 # Long-Form Video Clip Pipeline
 
 ## Preamble (runs on skill start)

@@ -1,3 +1,8 @@
+---
+name: revenue-intelligence
+description: Analyze pipeline and revenue signals to surface risks, forecast accuracy, and expansion opportunities. Use to turn CRM/pipeline data into revenue insights and next actions.
+---
+
 # AI Revenue Intelligence
 
 ## Preamble (runs on skill start)

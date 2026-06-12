@@ -1,4 +1,9 @@
 ---
+name: video-caption-generator
+description: Generate accurate captions/subtitles for a video, formatted for the target platform (SRT/VTT or burned-in). Use to add or improve captions on marketing or social videos.
+---
+
+---
 
 ## Preamble (runs on skill start)
 

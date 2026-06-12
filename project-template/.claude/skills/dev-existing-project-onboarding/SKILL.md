@@ -22,7 +22,7 @@ turning anything into a PRD or work.
 
 1. **Map the project.** Read `README`, `CLAUDE.md`, `docs/`, manifests (package.json, *.csproj,
    etc.), entry points, folder structure, and tests. Identify: purpose, stack, architecture,
-   domains/features, external integrations, how it runs. Use `dev-codebase-onboarding`-style
+   domains/features, external integrations, how it runs. Use `ali-codebase-onboarding`-style
    reading; for large repos, fan out with `Explore`/`Agent` (read-only).
 2. **Done vs missing.** Build two lists:
    - **Yapılanlar (done):** implemented features, covered tests, working flows.
