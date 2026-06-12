@@ -38,7 +38,10 @@ WebApi → Infrastructure → Application → Domain
 - Her feature kendi slice'ında: Command/Query + Handler + Validator
 - Skill keşfi: `.claude/skills/<ad>/SKILL.md` (düz; önek ile gruplanır — `dev-`, `fe-`, `mkt-`, `pm-`, ...)
 - Bu dosyayı <200 satır tut; alt-klasör `CLAUDE.md`'leri üst bağlamı **ezmez**, tamamlar
-- Kurallar `.claude/rules/` altında: `code-style.md`, `testing.md`, `api-conventions.md`
+- **Yetenek boşluğu:** Karşılığı olmayan (mevcut skill/agent kapsamayan) bir konu çıkarsa,
+  tek seferlik çözmek yerine merkezî kütüphaneye yeni skill/agent üretmeyi **öner** → bkz.
+  `.claude/rules/capability-gaps.md`
+- Kurallar `.claude/rules/` altında: `code-style.md`, `testing.md`, `api-conventions.md`, `capability-gaps.md`
 
 ## Memory Hiyerarşisi
 

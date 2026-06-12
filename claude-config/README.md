@@ -106,6 +106,18 @@ git commit -m "Mutfak plugin marketplace" && git push
    proje-özel `CLAUDE.md` + gerekirse `.mcp.json`. **Kütüphane kopyalanmaz, referanslanır.**
 5. Proje açıldığında Claude Code plugin'leri marketplace'ten çeker.
 
+## Yetenek Boşluğu Döngüsü (kütüphane büyür)
+
+Bir projede **karşılığı olmayan** (mevcut skill/agent kapsamayan) bir konu çıktığında akış:
+
+1. **Tespit:** Görev mevcut hiçbir skill/agent'ın net kapsamadığı bir alan içeriyor.
+2. **Öner:** Tek seferlik ad-hoc çözmek yerine yeni **skill** (prosedür/bilgi) veya **agent**
+   (otonom uzman persona) üretmeyi öner — kural: `project-template/.claude/rules/capability-gaps.md`.
+3. **Üret:** Doğru önekle (`dev-`, `sec-`, `mkt-`, …) skill veya frontmatter'lı agent yaz;
+   yardımcı meta-skill'ler: `dev-skill-creator`, `ali-agent-designer`, `dev-plugin-creator`.
+4. **Merkeze ekle:** İçeriği `.github/project-template/.claude/` altına koy (tek kaynak).
+5. **Yayımla:** `bash scripts/publish.sh` → marketplace tazelenir, **tüm projeler** faydalanır.
+
 ## Neden bu yaklaşım?
 - **Kopya yok:** her proje sadece küçük bir `settings.json` taşır.
 - **Performans:** progressive disclosure + yalnız ilgili plugin → minimum token.
