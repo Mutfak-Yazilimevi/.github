@@ -162,17 +162,28 @@ Agent'lar zaten ilgili skill'leri içeride kullanır.
 
 ## Dizin yapısı
 
-| Klasör | Amaç |
+| Klasör / Dosya | Amaç |
 | :--- | :--- |
-| `rules/` | Kod stili, test, API kuralları + `capability-gaps.md` |
-| `commands/` | Slash komutları (`review.md`, `fix-issue.md`, `deploy.md`) |
+| `settings.json` | İzinler + hook'lar + config (commit edilir, takım) |
+| `settings.local.json` | Kişisel override'lar (gitignore) — örnek: `settings.local.json.example` |
+| `rules/` | Modüler kurallar: `code-style`, `testing`, `api-conventions`, `architecture`, `scaling`, `capability-gaps` |
+| `commands/` | Slash komutları — `/review`, `/fix-issue`, `/deploy` |
 | `skills/` | ⚠️ **DÜZ yapı** — her skill `skills/<önek-ad>/SKILL.md`; iç içe kategori klasörü otomatik bulunmaz |
 | `agents/` | Sub-agent tanımları (`<ad>.md`, düz) |
-| `hooks/` | Guardrail script'leri (`validate-bash.sh`) |
+| `hooks/` | Guardrail/otomasyon script'leri — `validate-bash.sh` (PreToolUse), `format-code.sh` (PostToolUse), `session-start.sh` (SessionStart) |
+| `output-styles/` | Yanıt stilleri (ton/format) — opsiyonel, `/output-style <ad>` |
+| `agent-memory/` | Sub-agent'ların oturumlar arası kalıcı hafızası |
 
 > Tek bir projede `skills/`/`agents/` içeriği genelde marketplace plugin'lerinden gelir; bu klasörler
 > **proje-özel** skill/agent eklemek istersen kullanılır. Tekrar kullanılabilir bir boşluk çıkarsa
 > tek seferlik çözmek yerine merkezi kütüphaneye eklemeyi öner → [`rules/capability-gaps.md`](rules/capability-gaps.md).
+
+### Kapsam: proje vs global (`~/.claude/`)
+
+İki `.claude/` vardır: **proje** (bu dizin — takımla paylaşılır, git'e commit edilir) ve **global**
+(`~/.claude/` — senin makinen, tüm projeler). Memory hiyerarşisi:
+`global → monorepo kök → proje (./CLAUDE.md) → alt-klasör`; alt bağlam üstü **ezmez, tamamlar**.
+Kişisel tercihleri global'e veya `*.local.*` dosyalarına; takım kurallarını bu dizine koy.
 
 ## Skill keşif kuralı (kritik)
 

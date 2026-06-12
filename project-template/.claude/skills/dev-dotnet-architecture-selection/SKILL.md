@@ -83,6 +83,15 @@ Consumer).
 - **Consistency needs** — strong → single store; tolerant of eventual → EDA/CQRS.
 - Prefer the **simplest** style that fits; combine patterns rather than over-architecting.
 
+## Gotchas
+
+- **Microservices too early** — distributed complexity (network, data consistency, ops) sinks small teams.
+- **CQRS on simple CRUD** — two models + sync overhead with no read/write asymmetry to justify it.
+- **Clean Architecture on a throwaway** — ceremony and layers that a small app/MVP doesn't need.
+- **Inconsistent slices** — Vertical Slice without discipline drifts into duplicated, divergent patterns.
+- **Anemic domain** — entities as data bags with logic in services defeats Clean/DDD intent.
+- **Over-combining** — stacking every pattern "to be safe"; combine only what the problem demands.
+
 ## Related
 
 - Deep .NET design & implementation: `dotnet-backend-architect` agent.
