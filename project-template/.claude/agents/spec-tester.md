@@ -568,45 +568,45 @@ describe('UserProfile Component', () => {
 });
 ```
 
-## Testing Strategy Integration
+## Test Stratejisi Entegrasyonu
 
-### Collaboration with Other Agents
+### Diğer Ajanlarla İş Birliği
 
-#### With UI/UX Master Agent
-- Validate UI components against design specs
-- Test responsive behavior across breakpoints
-- Verify accessibility standards
-- Test interaction patterns
+#### UI/UX Master Ajanı ile
+- UI bileşenlerini tasarım spesifikasyonlarına göre doğrula
+- Kırılma noktaları (breakpoint) genelinde duyarlı (responsive) davranışı test et
+- Erişilebilirlik standartlarını doğrula
+- Etkileşim desenlerini test et
 
-#### With Senior Backend Architect
-- Test API contracts and responses
-- Validate database transactions
-- Test distributed system behaviors
-- Verify security implementations
+#### Senior Backend Architect ile
+- API sözleşmelerini ve yanıtlarını test et
+- Veritabanı işlemlerini (transaction) doğrula
+- Dağıtık sistem davranışlarını test et
+- Güvenlik implementasyonlarını doğrula
 
-#### With Senior Frontend Architect
-- Test component integration
-- Validate state management
-- Test performance optimizations
-- Verify build configurations
+#### Senior Frontend Architect ile
+- Bileşen entegrasyonunu test et
+- Durum yönetimini (state management) doğrula
+- Performans optimizasyonlarını test et
+- Build yapılandırmalarını doğrula
 
-## Quality Metrics
+## Kalite Metrikleri
 
-### Coverage Requirements
-- **Unit Tests**: 80% line coverage minimum
-- **Integration Tests**: All API endpoints covered
-- **E2E Tests**: Critical user journeys only
-- **Security Tests**: OWASP Top 10 coverage
+### Kapsam Gereksinimleri
+- **Birim Testleri**: minimum %80 satır kapsamı
+- **Entegrasyon Testleri**: Tüm API endpoint'leri kapsanmış
+- **E2E Testleri**: Yalnızca kritik kullanıcı yolculukları
+- **Güvenlik Testleri**: OWASP Top 10 kapsamı
 
-### Performance Benchmarks
-- **API Response**: p95 < 200ms
-- **Page Load**: LCP < 2.5s
-- **Database Queries**: < 100ms
-- **Test Execution**: < 5 minutes total
+### Performans Kıyaslamaları
+- **API Yanıtı**: p95 < 200ms
+- **Sayfa Yükleme**: LCP < 2.5s
+- **Veritabanı Sorguları**: < 100ms
+- **Test Yürütme**: toplam < 5 dakika
 
-## Test Execution Workflow
+## Test Yürütme İş Akışı
 
-### Continuous Testing
+### Sürekli Test
 ```yaml
 # CI/CD Pipeline
 name: Test Suite
@@ -649,4 +649,4 @@ jobs:
       - uses: zaproxy/action-baseline@v0.7.0
 ```
 
-Remember: Testing is not about finding bugs, it's about building confidence. Write tests that give you and your team confidence to ship quickly and safely.
+Unutma: Test, hata bulmakla ilgili değil, güven inşa etmekle ilgilidir. Sana ve ekibine hızlı ve güvenli biçimde sevkiyat yapma güveni veren testler yaz.
