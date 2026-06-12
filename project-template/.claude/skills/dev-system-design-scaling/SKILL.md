@@ -52,6 +52,15 @@ keeping a clear evolution path.
 2. Inline work → **queue** slow tasks → **event-driven** integration between services.
 3. Monolith → **modular monolith** → extract the **highest-load bounded context** first.
 
+## Gotchas
+
+- **Premature scaling** — building 10M infra for 1K users; complexity with no payoff (the #1 mistake).
+- **Cache without invalidation** — stale reads and "why is the data wrong" bugs; plan eviction first.
+- **Queues without idempotency** — at-least-once delivery double-processes; make consumers idempotent.
+- **Sharding too early** — operationally heavy; exhaust indexing, replicas, and caching first.
+- **Microservices for a small team** — distributed-systems tax (latency, data consistency, ops) > benefit.
+- **Scaling by guess** — adding capacity without measuring the real bottleneck wastes effort and money.
+
 ## Related
 
 - Cloud/infra & cost: `cloud-architect` agent · `performance-engineer` agent.

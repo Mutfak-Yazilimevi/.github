@@ -89,6 +89,15 @@ Parking lot · Elevator system · ATM · Online booking / reservation system. Fo
 cases → model objects & responsibilities → choose patterns (e.g., Strategy for pricing/State
 for elevator) → handle concurrency and edge cases → sketch the class diagram.
 
+## Gotchas
+
+- **Pattern for its own sake** — applying a pattern with no real force adds indirection, not value.
+- **Inheritance overuse** — deep hierarchies are fragile; prefer composition (LSP violations hide here).
+- **God class / anemic model** — one class doing everything, or data bags with logic elsewhere.
+- **Premature abstraction** — interfaces/factories before a second implementation exists (YAGNI).
+- **Leaky encapsulation** — public setters/fields let callers break invariants.
+- **Refactoring + behavior change at once** — keep them separate commits; tests must stay green.
+
 ## Related
 
 - Diagram the result: `md-uml` (class/sequence diagrams).
