@@ -1,0 +1,15 @@
+{
+  "name": "mutfak-core",
+  "version": "1.0.0",
+  "description": "Çekirdek/genel skill'ler (belge üretimi, görsel, artefakt) + genel geliştirme agent'ları.",
+  "author": {
+    "name": "Mutfak Yazılımevi",
+    "url": "https://www.mutfakyazilimevi.com"
+  },
+  "skills": [
+    "./skills/"
+  ],
+  "agents": [
+    "./agents/"
+  ]
+}

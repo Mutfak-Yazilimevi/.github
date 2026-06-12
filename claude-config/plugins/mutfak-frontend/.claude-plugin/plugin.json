@@ -1,0 +1,15 @@
+{
+  "name": "mutfak-frontend",
+  "version": "1.0.0",
+  "description": "Frontend: premium UI, UI/UX denetimi, generative UI + React/Next/UI/UX agent'ları.",
+  "author": {
+    "name": "Mutfak Yazılımevi",
+    "url": "https://www.mutfakyazilimevi.com"
+  },
+  "skills": [
+    "./skills/"
+  ],
+  "agents": [
+    "./agents/"
+  ]
+}

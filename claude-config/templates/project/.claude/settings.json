@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "mutfak": {
+      "source": { "source": "github", "repo": "mutfak-yazilimevi/claude-config" }
+    }
+  },
+  "enabledPlugins": {
+    "mutfak-core@mutfak": true,
+    "mutfak-dev@mutfak": true,
+    "mutfak-dotnet@mutfak": true,
+    "mutfak-security@mutfak": true
+  }
+}

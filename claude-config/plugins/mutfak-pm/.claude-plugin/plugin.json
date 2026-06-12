@@ -1,0 +1,15 @@
+{
+  "name": "mutfak-pm",
+  "version": "1.0.0",
+  "description": "Ürün yönetimi: strateji, PRD, roadmap, metrikler + product-manager/project-analyst agent'ları.",
+  "author": {
+    "name": "Mutfak Yazılımevi",
+    "url": "https://www.mutfakyazilimevi.com"
+  },
+  "skills": [
+    "./skills/"
+  ],
+  "agents": [
+    "./agents/"
+  ]
+}
