@@ -42,7 +42,9 @@ WebApi → Infrastructure → Application → Domain
   tek seferlik çözmek yerine merkezî kütüphaneye yeni skill/agent üretmeyi **öner** → bkz.
   `.claude/rules/capability-gaps.md`
 - Kurallar `.claude/rules/` altında: `code-style.md`, `testing.md`, `api-conventions.md`,
-  `architecture.md`, `scaling.md`, `mcp.md`, `process.md`, `catalog.md`, `model-selection.md`, `capability-gaps.md`
+  `architecture.md`, `scaling.md`, `mcp.md`, `process.md`, `catalog.md`, `model-selection.md`,
+  `communication.md`, `capability-gaps.md`
+- **İletişim dili Türkçe** (yanıt/açıklama/commit/PR Türkçe; kod İngilizce kalabilir) — `rules/communication.md`
 - **İşe bağlı model:** her işte modeli bilinçli seç — mekanik→`haiku`, muhakeme/mimari→`sonnet`
   (varsayılan), en karmaşık orkestrasyon→`opus`. Bkz. `rules/model-selection.md`.
 - **Katalog-öncelikli (her soru/plan/iş):** önce `skills/skills-catalog.csv` ve
