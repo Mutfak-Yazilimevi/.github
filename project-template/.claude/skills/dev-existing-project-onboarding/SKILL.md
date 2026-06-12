@@ -53,8 +53,34 @@ turning anything into a PRD or work.
 - **Skipping the wait** — never auto-create a PRD or start work; the directive gate is mandatory.
 - **Mutating commands** — no installs/migrations/formatters/git writes during analysis.
 
-## Related
+## Related — ne zaman hangisi
 
-- New project (interview the user): `dev-project-intake`.
-- After the directive: `pm-create-prd`, `dev-to-prd`, `.claude/rules/process.md`.
-- Deeper codebase reading: `dev-codebase-onboarding` (referans: `ali-codebase-onboarding`).
+Bu skill **salt-okunur orkestratördür** (anla → yapılan/eksik → backlog → dur). Aşağıdaki tekil
+yetenekleri analiz sırasında (read-only) kullan veya direktiften sonra devreye sok:
+
+**Kodu anlama (analiz sırasında, read-only):**
+| İhtiyaç | Kullan |
+| :--- | :--- |
+| Kod tabanına onboarding / genel kavrayış | `ali-codebase-onboarding` |
+| Rehberli kod turu | `ali-code-tour` |
+| Monorepo / büyük repo gezinme | `ali-monorepo-navigator` |
+| Bağlam derleme | `dev-context-engineering` · `ali-context-engine` |
+
+**Yapılan vs eksik / boşluk (analiz sırasında, read-only):**
+| İhtiyaç | Kullan |
+| :--- | :--- |
+| Amaçlanan vs uygulanan farkı | `pm-intended-vs-implemented` |
+| Teknik borç tespiti | `ali-tech-debt-tracker` |
+| Bağımlılık denetimi (eski/riskli) | `ali-dependency-auditor` |
+| Kalite/koku analizi | `dev-code-review-and-quality` |
+| Güvenlik sahiplik/boşluk | `dev-security-ownership-map` |
+| Özellik talepleri → backlog | `pm-analyze-feature-requests` |
+
+**Direktiften SONRA (artık read-only değil):**
+| İhtiyaç | Kullan |
+| :--- | :--- |
+| Bulguları PRD'ye bağla | `pm-create-prd`, `dev-to-prd` → `.claude/rules/process.md` |
+| Issue'ya dök | `dev-to-issues` |
+| Mimari iyileştirme / refactor planı | `dev-improve-codebase-architecture`, `dev-request-refactor-plan` |
+
+- Yeni proje (kullanıcıyı mülakatla): `dev-project-intake` (`/intake`).

@@ -18,3 +18,6 @@ Başlangıç girdisi (varsa): **$ARGUMENTS**
 5. PRD'yi ben onaylamadan tasarım/uygulamaya geçme — kapı budur. Sonra `rules/process.md`.
 
 Bilinmeyenleri uydurma; açık soru olarak listele.
+
+> Komşu ihtiyaçlar (skill'in "ne zaman hangisi" tablosuna bak): strateji/iş brief'i → `ali-brief`
+> (`/cs:brief`) · ürün fırsatı doğrulama → `ali-product-discovery` · ürün vizyonu → `pm-product-vision`.
