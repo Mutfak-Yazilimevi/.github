@@ -27,6 +27,9 @@ SRC_LIB="$TMP/gh/project-template/.claude"
 echo "→ Scaffold (manifest + script + şablon) kopyalanıyor…"
 cp -r "$SRC_CFG/." ./
 
+echo "→ Eski materyalize içerik temizleniyor (republish'te silmeleri yansıt)…"
+rm -rf plugins/*/skills plugins/*/agents 2>/dev/null || true
+
 echo "→ Plugin'ler materyalize ediliyor…"
 bash scripts/build-marketplace.sh --source "$SRC_LIB"
 
@@ -37,7 +40,7 @@ if git diff --cached --quiet; then
   echo "ℹ Değişiklik yok — marketplace zaten güncel."; exit 0
 fi
 git commit -q -m "Mutfak plugin marketplace yayımlandı/güncellendi"
-git push
+git push -u origin HEAD
 
 echo "✔ Marketplace yayımlandı → mutfak-yazilimevi/claude-config"
 echo "  Projelerde: /plugin marketplace add mutfak-yazilimevi/claude-config"

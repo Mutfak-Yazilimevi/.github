@@ -49,28 +49,28 @@ Task 2: [açıklama] → AGENT: @agent-[tam-ajan-adı]
 Mevcut ajanlar için sistem bağlamını kontrol et. Kategoriler şunları içerir:
 - **Orkestratörler**: planlama, analiz
 - **Çekirdek**: inceleme, performans, dokümantasyon  
-- **Framework'e özgü**: Django, Rails, React, Vue uzmanları
+- **Framework/dil uzmanları**: .NET, React, Next.js, Go, Python, TypeScript uzmanları
 - **Evrensel**: genel yedekler
 
 Seçim kuralları:
-- Genel yerine özel olanı tercih et (django-backend-expert > backend-developer)
-- Teknolojiyi tam eşleştir (Django API → django-api-developer)
+- Genel yerine özel olanı tercih et (örn. dil/framework uzmanı > genel backend-architect)
+- Teknolojiyi tam eşleştir (.NET API → backend-architect + ilgili dotnet uzmanları)
 - Evrensel ajanları yalnızca uzman yoksa kullan
 
 ## Örnek
 
 ### Görev Analizi
 - E-ticaret, aramalı bir ürün kataloğuna ihtiyaç duyuyor
-- Django backend, React frontend tespit edildi
+- .NET (ASP.NET Core) backend, React frontend tespit edildi
 
 ### Ajan Atamaları
-Task 1: Mevcut kod tabanını analiz et → AGENT: code-archaeologist
-Task 2: Veri modellerini tasarla → AGENT: django-backend-expert
-Task 3: Modelleri uygula → AGENT: django-backend-expert
-Task 4: API endpoint'leri oluştur → AGENT: django-api-developer
-Task 5: React bileşenlerini tasarla → AGENT: react-component-architect
-Task 6: UI bileşenlerini geliştir → AGENT: react-component-architect
-Task 7: Aramayı entegre et → AGENT: django-api-developer
+Task 1: Mevcut kod tabanını analiz et → AGENT: project-analyst
+Task 2: Veri modellerini tasarla → AGENT: backend-architect
+Task 3: Modelleri uygula → AGENT: spec-developer
+Task 4: API endpoint'leri oluştur → AGENT: backend-architect
+Task 5: React bileşenlerini tasarla → AGENT: react-pro
+Task 6: UI bileşenlerini geliştir → AGENT: frontend-developer
+Task 7: Aramayı entegre et → AGENT: backend-architect
 
 ### Yürütme Sırası
 - **Paralel**: 1. görev hemen başlar
@@ -80,15 +80,15 @@ Task 7: Aramayı entegre et → AGENT: django-api-developer
 
 ### Bu Proje İçin Mevcut Ajanlar
 [Sistem bağlamından:]
-- code-archaeologist: İlk analiz
-- django-backend-expert: Çekirdek Django işleri
-- django-api-developer: API endpoint'leri
-- react-component-architect: React bileşenleri
-- code-reviewer: Kalite güvencesi
+- project-analyst: İlk analiz
+- backend-architect: Backend tasarımı, veri modelleri ve API endpoint'leri (.NET/ASP.NET Core)
+- react-pro: React bileşenleri
+- frontend-developer: UI geliştirme
+- code-reviewer-pro: Kalite güvencesi
 
 ### Ana Ajana Talimatlar
-- 1. görevi code-archaeologist'e devret
-- 1. görevden sonra 2. görevi django-backend-expert'e devret
+- 1. görevi project-analyst'e devret
+- 1. görevden sonra 2. görevi backend-architect'e devret
 - Backend görevlerinde sırayla devam et
 - 5. ve 6. görevleri paralel çalıştır (React işleri)
 - 7. görev entegrasyonuyla tamamla
