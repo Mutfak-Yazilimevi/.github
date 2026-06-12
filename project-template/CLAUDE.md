@@ -41,7 +41,11 @@ WebApi → Infrastructure → Application → Domain
 - **Yetenek boşluğu:** Karşılığı olmayan (mevcut skill/agent kapsamayan) bir konu çıkarsa,
   tek seferlik çözmek yerine merkezî kütüphaneye yeni skill/agent üretmeyi **öner** → bkz.
   `.claude/rules/capability-gaps.md`
-- Kurallar `.claude/rules/` altında: `code-style.md`, `testing.md`, `api-conventions.md`, `capability-gaps.md`
+- Kurallar `.claude/rules/` altında: `code-style.md`, `testing.md`, `api-conventions.md`,
+  `architecture.md`, `scaling.md`, `capability-gaps.md`
+- **Tasarım altitüdü:** sınıf/nesne seviyesi → `dev-low-level-design` · mimari seçim →
+  `dev-dotnet-architecture-selection` (+ `dotnet-backend-architect` agent) · ölçekleme →
+  `dev-system-design-scaling`
 
 ## Memory Hiyerarşisi
 
