@@ -4,9 +4,9 @@
 > Plugin → alt-kategori şeklinde gruplandı (hacimli kovalarda skill adının 2. sözcüğüne göre).
 > Plugin eşlemesi `scripts/build-marketplace.sh` ile birebir aynıdır. Açıklama için ilgili `SKILL.md`'ye bakın.
 > Bu dosya `scripts/build-skill-index.py` ile üretilir — elle düzenlemeyin, yeniden çalıştırın.
-> **Toplam:** 1606 skill · **Son tarama:** 2026-06-12
+> **Toplam:** 1609 skill · **Son tarama:** 2026-06-12
 
-> **Plugin'ler:** [mutfak-security (754)](#mutfak-security) · [mutfak-consulting (347)](#mutfak-consulting) · [mutfak-dev (145)](#mutfak-dev) · [mutfak-marketing (103)](#mutfak-marketing) · [mutfak-pm (78)](#mutfak-pm) · [mutfak-design (99)](#mutfak-design) · [mutfak-dotnet (37)](#mutfak-dotnet) · [mutfak-diagrams (15)](#mutfak-diagrams) · [mutfak-frontend (8)](#mutfak-frontend) · [mutfak-research (4)](#mutfak-research) · [mutfak-core (16)](#mutfak-core)
+> **Plugin'ler:** [mutfak-security (754)](#mutfak-security) · [mutfak-consulting (347)](#mutfak-consulting) · [mutfak-dev (147)](#mutfak-dev) · [mutfak-marketing (103)](#mutfak-marketing) · [mutfak-pm (78)](#mutfak-pm) · [mutfak-design (99)](#mutfak-design) · [mutfak-dotnet (38)](#mutfak-dotnet) · [mutfak-diagrams (15)](#mutfak-diagrams) · [mutfak-frontend (8)](#mutfak-frontend) · [mutfak-research (4)](#mutfak-research) · [mutfak-core (16)](#mutfak-core)
 
 ---
 
@@ -1248,7 +1248,7 @@
 
 ## mutfak-dev
 
-> Genel yazılım geliştirme (TDD, review, debug, mimari, deploy, dil) · **145 skill**
+> Genel yazılım geliştirme (TDD, review, debug, mimari, deploy, dil) · **147 skill**
 
 - `dev-agents-sdk`
 - `dev-android-native-dev`
@@ -1310,6 +1310,7 @@
 - `dev-ios-application-dev`
 - `dev-jupyter-notebook`
 - `dev-linear`
+- `dev-low-level-design`
 - `dev-mcp-builder`
 - `dev-migrate-to-codex`
 - `dev-migrate-to-shoehorn`
@@ -1366,6 +1367,7 @@
 - `dev-spec-driven-development`
 - `dev-speech`
 - `dev-subagent-driven-development`
+- `dev-system-design-scaling`
 - `dev-systematic-debugging`
 - `dev-tdd`
 - `dev-teach`
@@ -1701,11 +1703,12 @@
 
 ## mutfak-dotnet
 
-> .NET test/diag/benchmark/migration skill'leri · **37 skill**
+> .NET test/diag/benchmark/migration skill'leri · **38 skill**
 
 - `dev-dotnet-analyzing-dotnet-performance`
 - `dev-dotnet-android-tombstone-symbolication`
 - `dev-dotnet-apple-crash-symbolication`
+- `dev-dotnet-architecture-selection`
 - `dev-dotnet-assertion-quality`
 - `dev-dotnet-clr-activation-debugging`
 - `dev-dotnet-code-testing-agent`
