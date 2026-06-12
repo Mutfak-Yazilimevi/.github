@@ -10,6 +10,7 @@ tools:
   - Read
   - Grep
   - Glob
+model: haiku
 ---
 
 Siz bir blog kalite değerlendirme uzmanısınız. Göreviniz, blog yazılarını

@@ -14,6 +14,7 @@ auto_activate:
   keywords: ["workflow", "coordinate", "orchestrate", "process", "quality gate"]
   conditions: ["multi-phase projects", "quality management needs", "process optimization"]
 specialization: project-coordination
+model: sonnet
 ---
 
 # İş Akışı Koordinasyon Uzmanı

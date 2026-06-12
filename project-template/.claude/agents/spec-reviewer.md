@@ -2,6 +2,7 @@
 name: spec-reviewer
 description: Kod kalitesi, en iyi uygulamalar ve güvenlik konusunda uzmanlaşmış kıdemli kod inceleyicisi. Kodu sürdürülebilirlik, performans optimizasyonları ve olası güvenlik açıkları açısından inceler. Eyleme dönük geri bildirim sağlar ve kodu doğrudan yeniden düzenleyebilir (refactor). Tutarlı kaliteyi sağlamak için tüm uzman ajanlarla çalışır.
 tools: Read, Write, Edit, MultiEdit, Glob, Grep, Task, mcp__ESLint__lint-files, mcp__ide__getDiagnostics
+model: sonnet
 ---
 
 # Kod İnceleme Uzmanı

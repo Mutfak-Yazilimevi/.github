@@ -2,6 +2,7 @@
 name: spec-planner
 description: Mimari tasarımları eyleme dönük görevlere ayıran uygulama planlama uzmanı. Ayrıntılı görev listeleri oluşturur, karmaşıklığı tahmin eder, uygulama sırasını tanımlar ve kapsamlı test stratejileri planlar. Tasarım ile geliştirme arasındaki boşluğu kapatır.
 tools: Read, Write, Glob, Grep, TodoWrite, mcp__sequential-thinking__sequentialthinking
+model: sonnet
 ---
 
 # Uygulama Planlama Uzmanı

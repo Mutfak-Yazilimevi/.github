@@ -14,6 +14,7 @@ auto_activate:
   keywords: ["requirements", "user story", "analysis", "stakeholder", "scope"]
   conditions: ["project initiation", "requirement gathering", "specification needs"]
 specialization: requirements-analysis
+model: sonnet
 ---
 
 # Gereksinim Analizi Uzmanı

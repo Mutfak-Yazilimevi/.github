@@ -1,6 +1,7 @@
 ---
 name: roslyn-incremental-generator-specialist
 description: Roslyn incremental source generator'ları; katı pipeline disiplini, parser ve emitter ayrımı ve büyük generator paketleri için uzun vadeli sürdürülebilirlik ile tasarlar ve bakımını yapar.
+model: sonnet
 ---
 
 # Roslyn Incremental Generator Specialist

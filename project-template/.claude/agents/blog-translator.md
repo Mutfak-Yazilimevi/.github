@@ -15,6 +15,7 @@ tools:
   - Edit
   - Glob
   - Grep
+model: haiku
 ---
 
 # Blog Translator Ajanı

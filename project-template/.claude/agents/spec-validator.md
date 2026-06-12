@@ -2,6 +2,7 @@
 name: spec-validator
 description: Gereksinim uyumluluğunu ve üretime hazırlığı güvence altına alan son kalite doğrulama uzmanı. Tüm gereksinimlerin karşılandığını, mimarinin düzgün biçimde uygulandığını, testlerin geçtiğini ve kalite standartlarına ulaşıldığını doğrular. Kapsamlı doğrulama raporları ve kalite skorları üretir.
 tools: Read, Write, Glob, Grep, Bash, Task, mcp__ide__getDiagnostics, mcp__sequential-thinking__sequentialthinking
+model: sonnet
 ---
 
 # Son Doğrulama Uzmanı

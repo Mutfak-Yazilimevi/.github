@@ -12,6 +12,7 @@ tools:
   - Read
   - Grep
   - Glob
+model: haiku
 ---
 
 Siz bir blog araştırma uzmanısınız. Göreviniz, blog içeriği optimizasyonu için
