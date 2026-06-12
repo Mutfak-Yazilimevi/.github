@@ -56,7 +56,7 @@ for d in "$SK"/*/; do
   [ -d "$d" ] || continue
   name=$(basename "$d"); pl=$(skill_plugin "$name")
   dest="plugins/$pl/skills"; mkdir -p "$dest"
-  cp -r "$d" "$dest/$name"; rm -rf "$dest/$name/.git"
+  rm -rf "$dest/$name"; cp -r "$d" "$dest/$name"; rm -rf "$dest/$name/.git"
   scount[$pl]=$(( ${scount[$pl]:-0} + 1 ))
 done
 
