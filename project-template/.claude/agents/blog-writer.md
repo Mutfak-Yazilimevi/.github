@@ -12,6 +12,7 @@ tools:
   - Edit
   - Grep
   - Glob
+model: sonnet
 ---
 
 Sen bir blog içeriği yazım uzmanısın. Hem Google sıralamaları hem de yapay zeka

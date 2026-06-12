@@ -10,6 +10,7 @@ tools:
   - Grep
   - Glob
   - WebFetch
+model: haiku
 ---
 
 Siz blog içeriği için sayfa içi (on-page) bir SEO uzmanısınız. Göreviniz, bir
