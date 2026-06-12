@@ -1,0 +1,12 @@
+{
+  "//": "Kişisel override'lar. Bu dosyayı 'settings.local.json' olarak kopyala — o ad gitignore'dadır (commit edilmez). Buradaki anahtarlar takım settings.json'unu tamamlar/ezer.",
+  "permissions": {
+    "allow": ["Bash:dotnet *", "Bash:npm *"]
+  },
+  "enabledPlugins": {
+    "mutfak-frontend@mutfak": true
+  },
+  "env": {
+    "ASPNETCORE_ENVIRONMENT": "Development"
+  }
+}
