@@ -65,7 +65,23 @@ bash scripts/build-marketplace.sh --source <Mutfak skill kütüphanesi .claude d
 Bu, skill'leri önek bazlı (`dev-`, `sec-`, `mkt-`, `design-`, `ali-`, `md-`, …) ve agent'ları
 eşleşmeye göre `plugins/<ad>/{skills,agents}/` altına yerleştirir.
 
-## Bu içeriği gerçek `claude-config` reposuna taşıma
+## Yayımlama (tek komut) — `publish.sh`
+
+`claude-config` reposunu kapsamına alan bir Claude Code oturumunda, repo kökünde:
+
+```bash
+bash scripts/publish.sh
+```
+
+Bu; `.github`'tan scaffold + skill kütüphanesini çeker, 12 plugin'i materyalize eder,
+commit + push eder. (Kütüphane güncellenince tekrar çalıştırılabilir.)
+
+> İlk kez boş repodaysan script henüz yok demektir; şu tek satırla bootstrap et:
+> ```bash
+> git clone --depth 1 https://github.com/Mutfak-Yazilimevi/.github /tmp/gh && bash /tmp/gh/claude-config/scripts/publish.sh
+> ```
+
+## Bu içeriği gerçek `claude-config` reposuna taşıma (manuel)
 
 `.github` reposunun şişmemesi için materyalize içerik burada `.gitignore`'da. Yayımlamak için:
 

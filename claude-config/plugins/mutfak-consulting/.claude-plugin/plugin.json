@@ -1,15 +1,9 @@
 {
   "name": "mutfak-consulting",
   "version": "1.0.0",
-  "description": "İş/operasyon/C-level danışmanlık & uzman skill paketi (ali- kümesi, 347 skill).",
+  "description": "İş/operasyon/C-level danışmanlık & uzman skill paketi (ali- kümesi).",
   "author": {
     "name": "Mutfak Yazılımevi",
     "url": "https://www.mutfakyazilimevi.com"
-  },
-  "skills": [
-    "./skills/"
-  ],
-  "agents": [
-    "./agents/"
-  ]
+  }
 }
