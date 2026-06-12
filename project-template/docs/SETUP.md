@@ -33,3 +33,38 @@ bash scripts/setup.sh --all
 - `_staging`'deki bir skill'i kullanmak istersen: lisansını netleştir → `.claude/skills/<önek-ad>/` altına taşı.
 - `--cybersec` yalnız savunma/blue-team skill'lerini ekler; `exploiting-*`, `*-attack`, `pentest`, `metasploit`, `*-bypass` vb. desenler filtrelenir.
 - `.NET` REST API + ASP.NET Core odaklı `.github/skills` çekirdeği için MCP gereksinimleri: `.mcp.json` (context7 + sequential-thinking).
+
+## MCP Sunucuları (`.mcp.json`)
+
+Şablon 4 sunucu tanımlar. GitHub ve PostgreSQL **env-var** ile beslenir (gerçek
+sır commit edilmez):
+
+| Sunucu | Gereken ortam değişkeni |
+| :--- | :--- |
+| `context7` | — |
+| `sequential-thinking` | — (SA2 agent'ları bunu bekler) |
+| `github` | `GITHUB_PERSONAL_ACCESS_TOKEN` |
+| `postgres` | `DATABASE_URL` (örn. `postgresql://user:pass@host:5432/db`) |
+
+Değişkenleri `.env` (gitignore) veya kabuk ortamına koyun:
+```bash
+export GITHUB_PERSONAL_ACCESS_TOKEN=ghp_xxx
+export DATABASE_URL=postgresql://user:pass@localhost:5432/mydb
+```
+
+## Kurulum Sonrası Doğrulama (Bölüm 9)
+
+Proje kökünde `claude` açtıktan sonra:
+
+```text
+/doctor        # tam tanı — config, MCP, hook sağlığı
+/context       # yüklenen skill / agent / hook sayısını gör
+/permissions   # settings.json allow/deny kurallarını denetle
+```
+
+Kontrol listesi:
+- [ ] `/doctor` temiz mi? (kırmızı uyarı yok)
+- [ ] `/context` skill'leri görüyor mu? (yol: `.claude/skills/<ad>/SKILL.md`)
+- [ ] MCP sunucuları bağlandı mı? (`github`/`postgres` env-var'ları set ise)
+- [ ] `.git` artığı yok (`find .claude -name .git`)
+
