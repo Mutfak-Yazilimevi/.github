@@ -20,10 +20,21 @@ turning anything into a PRD or work.
 
 ## Workflow
 
-1. **Map the project.** Read `README`, `CLAUDE.md`, `docs/`, manifests (package.json, *.csproj,
-   etc.), entry points, folder structure, and tests. Identify: purpose, stack, architecture,
-   domains/features, external integrations, how it runs. Use `ali-codebase-onboarding`-style
-   reading; for large repos, fan out with `Explore`/`Agent` (read-only).
+0. **Envanter ÖNCE (zorunlu).** Herhangi bir yorum yapmadan önce **dosya ağacını gerçekten listele**
+   ve dosya sayısını raporla:
+   ```bash
+   # gürültüyü ele (node_modules/bin/obj/.git), gizli dosyalar dahil
+   find . -type f -not -path '*/node_modules/*' -not -path '*/.git/*' \
+     -not -path '*/bin/*' -not -path '*/obj/*' | head -300
+   find . -type f -not -path '*/.git/*' | wc -l   # toplam sayı
+   ```
+   veya `Glob **/*`. **Kanıt (liste/sayı) göstermeden "proje boş" DEME.** "Boş" görünüyorsa önce
+   şunu kontrol et: doğru dizinde misin (`pwd`)? · dosyalar gizli/gitignored mı? · Claude Code üst
+   bir klasörde mi açıldı? Gerçekten boşsa bunu listeyle kanıtla.
+1. **Map the project.** Şimdi içeriği OKU: `README`, `CLAUDE.md`, `docs/`, manifestler
+   (package.json, *.csproj, *.sln, requirements.txt…), giriş noktaları, klasör yapısı, testler.
+   Belirle: amaç, stack, mimari, feature'lar, entegrasyonlar, nasıl çalıştığı. Büyük repoda
+   `Explore`/`Agent` ile (read-only) yay; `ali-codebase-onboarding` tarzı oku.
 2. **Done vs missing.** Build two lists:
    - **Yapılanlar (done):** implemented features, covered tests, working flows.
    - **Eksikler/gaps:** missing features, TODO/FIXME, untested paths, broken/half-done areas,
@@ -47,6 +58,9 @@ turning anything into a PRD or work.
 
 ## Gotchas
 
+- **Kanıtsız "boş proje"** — dosya ağacını listelemeden "proje boş / okuyacak bir şey yok" deme.
+  Çoğu zaman yanlış cwd, üst klasörde açılma veya gizli/gitignored dosyalardandır. Önce `find`/`Glob`
+  ile listele + sayı ver; gerçekten boşsa listeyle kanıtla.
 - **Touching the code** — this skill is read-only; even a "tiny fix" violates the contract.
   If something is broken, record it in the backlog, don't fix it.
 - **Assuming intent** — when the code is ambiguous, log an open question; don't invent purpose.
