@@ -3,6 +3,7 @@
 > `project-template/.claude/skills/` altındaki tüm skill'lerin **kategori bazlı** ad listesi.
 > Plugin → alt-kategori şeklinde gruplandı (hacimli kovalarda skill adının 2. sözcüğüne göre).
 > Plugin eşlemesi `scripts/build-marketplace.sh` ile birebir aynıdır. Açıklama için ilgili `SKILL.md`'ye bakın.
+> Bu dosya `scripts/build-skill-index.py` ile üretilir — elle düzenlemeyin, yeniden çalıştırın.
 > **Toplam:** 1606 skill · **Son tarama:** 2026-06-12
 
 > **Plugin'ler:** [mutfak-security (754)](#mutfak-security) · [mutfak-consulting (347)](#mutfak-consulting) · [mutfak-dev (145)](#mutfak-dev) · [mutfak-marketing (103)](#mutfak-marketing) · [mutfak-pm (78)](#mutfak-pm) · [mutfak-design (99)](#mutfak-design) · [mutfak-dotnet (37)](#mutfak-dotnet) · [mutfak-diagrams (15)](#mutfak-diagrams) · [mutfak-frontend (8)](#mutfak-frontend) · [mutfak-research (4)](#mutfak-research) · [mutfak-core (16)](#mutfak-core)
