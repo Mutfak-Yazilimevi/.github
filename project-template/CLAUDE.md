@@ -42,7 +42,11 @@ WebApi → Infrastructure → Application → Domain
   tek seferlik çözmek yerine merkezî kütüphaneye yeni skill/agent üretmeyi **öner** → bkz.
   `.claude/rules/capability-gaps.md`
 - Kurallar `.claude/rules/` altında: `code-style.md`, `testing.md`, `api-conventions.md`,
-  `architecture.md`, `scaling.md`, `capability-gaps.md`
+  `architecture.md`, `scaling.md`, `mcp.md`, `capability-gaps.md`
+- Slash komutları `.claude/commands/`: `/review`, `/fix-issue`, `/deploy`, `/test-all`,
+  `/bootstrap`, `/document`, `/refactor`
+- Hook'lar `.claude/hooks/` (taksonomi: `hooks/README.md`) — Pre/PostToolUse, SessionStart/End,
+  PreCompact (sır taraması), Notification/Stop. MCP sunucuları: `.mcp.json` (bkz. `rules/mcp.md`)
 - **Tasarım altitüdü:** sınıf/nesne seviyesi → `dev-low-level-design` · mimari seçim →
   `dev-dotnet-architecture-selection` (+ `dotnet-backend-architect` agent) · ölçekleme →
   `dev-system-design-scaling`
