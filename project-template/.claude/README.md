@@ -43,15 +43,19 @@ Claude Code oturumu içinde:
 
 …veya projeye kalıcı yazmak için `.claude/settings.json`:
 
-```jsonc
+```json
 {
   "extraKnownMarketplaces": {
     "mutfak": { "source": { "source": "github", "repo": "mutfak-yazilimevi/claude-config" } }
   },
-  "enabledPlugins": ["mutfak-dotnet@mutfak", "mutfak-security@mutfak"]
+  "enabledPlugins": { "mutfak-dotnet@mutfak": true, "mutfak-security@mutfak": true }
 }
 ```
 
+> `enabledPlugins` **object** formatındadır (`"plugin@market": true`), array değil.
+> Mevcut bir projeye eklerken elle yazmak yerine güvenli merge script'ini kullanabilirsin:
+> `claude-config/scripts/integrate-into-project.sh --target . --profile dotnet-api`.
+>
 > Yalnız **gerekli** plugin'leri aç (minimum token). Proje tipine göre hazır profiller için
 > marketplace reposundaki `templates/PROFILES.md`'ye bak. 12 plugin ve içerikleri:
 > [`claude-config/README.md` → Plugin'ler](../../claude-config/README.md#pluginler).
