@@ -64,15 +64,6 @@ yelpazede, **fikirleri kodla lezzetlendiriyoruz.**
 
 ---
 
-### 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutfak-Yazilimevi&layout=compact&theme=dracula&hide_border=true" alt="En çok kullanılan diller" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mutfak-Yazilimevi&show_icons=true&theme=dracula&hide_border=true" alt="Mutfak Yazılımevi istatistikleri" />
-</p>
-
----
-
 ### 📫 Bizimle Pişirmeye Hazır mısınız?
 
 Fikrinizi bir projeye, projenizi bir başarı hikâyesine dönüştürelim.
