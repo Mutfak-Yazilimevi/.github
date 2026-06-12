@@ -79,9 +79,9 @@ C4Container
 - **Build Tool**: [Vite/Webpack]
 
 ### Backend  
-- **Runtime**: [Node.js/Python/Go]
-- **Framework**: [Express/FastAPI/Gin]
-- **ORM/Database**: [Prisma/SQLAlchemy/GORM]
+- **Runtime**: [.NET/Node.js/Python/Go]
+- **Framework**: [ASP.NET Core/Express/FastAPI/Gin]
+- **ORM/Database**: [EF Core/Prisma/SQLAlchemy/GORM]
 - **Authentication**: [JWT/OAuth2]
 
 ### Infrastructure
@@ -268,10 +268,10 @@ components:
 ## Backend Stack
 | Technology | Choice | Rationale |
 |------------|--------|-----------|
-| Runtime | Node.js 20 | JavaScript ecosystem, performance |
-| Framework | Express | Mature, flexible, well-documented |
+| Runtime | .NET 10 | Performance, strong typing, LTS |
+| Framework | ASP.NET Core (Minimal APIs) | Mature, high-performance, first-party |
 | Database | PostgreSQL | ACID compliance, JSON support |
-| ORM | Prisma | Type safety, migrations, DX |
+| ORM | EF Core | Type safety, migrations, LINQ |
 | Cache | Redis | Performance, pub/sub capabilities |
 
 ## DevOps Stack
