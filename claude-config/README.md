@@ -20,7 +20,7 @@ claude-config (bu repo) ── marketplace.json
    proje-B/.claude/settings.json   →  enabledPlugins: [frontend, design]
 ```
 
-12 plugin, **1606 skill + 63 agent** kapsar (önek bazlı paketlenmiş).
+12 plugin, **1606 skill + 64 agent** kapsar (önek bazlı paketlenmiş).
 
 ## Plugin'ler
 
@@ -28,7 +28,7 @@ claude-config (bu repo) ── marketplace.json
 | :--- | :--- |
 | `mutfak-core` | genel/çekirdek skill'ler + genel agent'lar (~16 skill) |
 | `mutfak-dev` | genel geliştirme + dil/mimari/data/devops agent'ları (~145 skill, 30 agent) |
-| `mutfak-dotnet` | .NET skill'leri + Akka.NET/Roslyn/perf agent'ları (37 skill, 6 agent) |
+| `mutfak-dotnet` | .NET skill'leri + backend-architect/Akka.NET/Roslyn/perf agent'ları (37 skill, 7 agent) |
 | `mutfak-frontend` | premium-ui/uiux/generative + React/Next/UI/UX agent'ları (8 skill, 7 agent) |
 | `mutfak-design` | 99 vendor design sistemi |
 | `mutfak-pm` | ürün yönetimi (78 skill) |
