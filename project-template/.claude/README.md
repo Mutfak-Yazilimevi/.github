@@ -166,11 +166,14 @@ Agent'lar zaten ilgili skill'leri içeride kullanır.
 | :--- | :--- |
 | `settings.json` | İzinler + hook'lar + config (commit edilir, takım) |
 | `settings.local.json` | Kişisel override'lar (gitignore) — örnek: `settings.local.json.example` |
-| `rules/` | Modüler kurallar: `code-style`, `testing`, `api-conventions`, `architecture`, `scaling`, `capability-gaps` |
-| `commands/` | Slash komutları — `/review`, `/fix-issue`, `/deploy` |
+| `rules/` | Modüler kurallar: `code-style`, `testing`, `api-conventions`, `architecture`, `scaling`, `mcp`, `capability-gaps` |
+| `commands/` | Slash komutları — `/review`, `/fix-issue`, `/deploy`, `/test-all`, `/bootstrap`, `/document`, `/refactor` |
 | `skills/` | ⚠️ **DÜZ yapı** — her skill `skills/<önek-ad>/SKILL.md`; iç içe kategori klasörü otomatik bulunmaz |
 | `agents/` | Sub-agent tanımları (`<ad>.md`, düz) |
-| `hooks/` | Guardrail/otomasyon script'leri — `validate-bash.sh` (PreToolUse), `format-code.sh` (PostToolUse), `session-start.sh` (SessionStart) |
+| `hooks/` | Guardrail/otomasyon (taksonomi: `hooks/README.md`) — Pre/PostToolUse, SessionStart/End, PreCompact (sır taraması), Notification/Stop |
+| `.mcp.json` (kök) | MCP sunucuları: context7, sequential-thinking, github, postgres, playwright (bkz. `rules/mcp.md`) |
+| `.env.example` (kök) | Ortam değişkeni şablonu (`.env` olarak kopyala; `.env*` gitignore) |
+| `.worktreeinclude` (kök) | git worktree'lere taşınacak yerel/gitignored dosyalar |
 | `output-styles/` | Yanıt stilleri (ton/format) — opsiyonel, `/output-style <ad>` |
 | `agent-memory/` | Sub-agent'ların oturumlar arası kalıcı hafızası |
 
@@ -184,6 +187,16 @@ Agent'lar zaten ilgili skill'leri içeride kullanır.
 (`~/.claude/` — senin makinen, tüm projeler). Memory hiyerarşisi:
 `global → monorepo kök → proje (./CLAUDE.md) → alt-klasör`; alt bağlam üstü **ezmez, tamamlar**.
 Kişisel tercihleri global'e veya `*.local.*` dosyalarına; takım kurallarını bu dizine koy.
+
+**Proje scope (bu repo — commit edilir):** `CLAUDE.md` · `.mcp.json` · `.worktreeinclude` ·
+`.env.example` · `.claude/{settings.json, rules/, commands/, skills/, agents/, hooks/,
+output-styles/, agent-memory/}`. Kişisel/gitignore: `CLAUDE.local.md`,
+`.claude/settings.local.json` (örnek: `settings.local.json.example`).
+
+**Global scope (makinende, repo'da DEĞİL):** `~/.claude/{CLAUDE.md, settings.json, commands/,
+skills/, agents/, agent-memory/, plugins/, projects/}` + `~/.claude.json`, `keybindings.json`.
+Bunlar developer-başınadır; template'e dahil edilmez (doğru olan budur). `~/.claude.json` ve
+`plugins/` **silinmez**.
 
 ## Skill keşif kuralı (kritik)
 

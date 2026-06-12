@@ -1,0 +1,9 @@
+# .worktreeinclude — Claude Code git worktree'lerine taşınacak YEREL dosyalar.
+# Worktree temiz bir checkout'tan başlar; git-ignored ama gerekli yerel dosyalar
+# otomatik gelmez. Aşağıdaki yollar yeni worktree'ye kopyalanır.
+# (Takip edilen dosyalar — .claude/, CLAUDE.md, .mcp.json — zaten worktree ile gelir.)
+
+.env
+.env.local
+CLAUDE.local.md
+.claude/settings.local.json
