@@ -63,8 +63,8 @@ brief/discovery skill'leri farklı amaçlara hizmet eder — doğru olanı seç:
 
 | İhtiyaç | Kullan |
 | :--- | :--- |
-| Yazılım projesi gereksinimi → PRD (bu skill) | **`dev-project-intake`** (`/intake`) |
-| Mevcut projeyi salt-okunur anla → backlog | `dev-existing-project-onboarding` (`/onboard`) |
+| Yazılım projesi gereksinimi → PRD (bu skill) | **`dev-project-intake`** (`/mutfak-intake`) |
+| Mevcut projeyi salt-okunur anla → backlog | `dev-existing-project-onboarding` (`/mutfak-onboard`) |
 | Tek-sayfa **strateji/iş brief'i** (office-hours, danışmanlık) | `ali-brief` (`/cs:brief`) |
 | Ürün **fırsatı doğrulama / discovery sprint** | `ali-product-discovery` |
 | Ürün **vizyonu** / fikir doğrulama | `pm-product-vision`, `pm-validate-idea` |

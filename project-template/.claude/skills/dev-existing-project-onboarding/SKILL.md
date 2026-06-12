@@ -103,4 +103,4 @@ yetenekleri analiz sırasında (read-only) kullan veya direktiften sonra devreye
 | Issue'ya dök | `dev-to-issues` |
 | Mimari iyileştirme / refactor planı | `dev-improve-codebase-architecture`, `dev-request-refactor-plan` |
 
-- Yeni proje (kullanıcıyı mülakatla): `dev-project-intake` (`/intake`).
+- Yeni proje (kullanıcıyı mülakatla): `dev-project-intake` (`/mutfak-intake`).

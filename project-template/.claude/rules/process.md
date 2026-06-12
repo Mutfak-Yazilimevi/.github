@@ -23,11 +23,11 @@ fazları paralel koşar.
 | Tasarım | `dev-dotnet-architecture-selection`, `dev-system-design-scaling` · agent `spec-architect` · `rules/architecture.md` |
 | (ADLC) Write Skills | `dev-skill-creator`, `dev-write-a-skill` + **`rules/capability-gaps.md`** |
 | Orkestrasyon | **`mutfak-spec-workflow`**, `tech-lead-orchestrator`, `agent-organizer` |
-| Uygulama | `dev-executing-plans`, `dev-tdd`, `dev-low-level-design` · agent `spec-developer` · **`/bootstrap`** |
-| Test & QA | `dev-test-driven-development` · agent `spec-tester`, `qa-expert` · **`/test-all`** |
-| Eval & Review | `dev-verification-before-completion` · agent `spec-reviewer`, `spec-validator` · **`/review`** |
-| Deploy | `dev-ci-cd-and-automation` · agent `deployment-engineer` · **`/deploy`** |
-| Bakım | `dev-deprecation-and-migration` · agent `legacy-modernizer`, `debugger` · **`/fix-issue`** |
+| Uygulama | `dev-executing-plans`, `dev-tdd`, `dev-low-level-design` · agent `spec-developer` · **`/mutfak-bootstrap`** |
+| Test & QA | `dev-test-driven-development` · agent `spec-tester`, `qa-expert` · **`/mutfak-test-all`** |
+| Eval & Review | `dev-verification-before-completion` · agent `spec-reviewer`, `spec-validator` · **`/mutfak-review`** |
+| Deploy | `dev-ci-cd-and-automation` · agent `deployment-engineer` · **`/mutfak-deploy`** |
+| Bakım | `dev-deprecation-and-migration` · agent `legacy-modernizer`, `debugger` · **`/mutfak-fix-issue`** |
 | İzleme & Geri besleme | `dev-observability-and-instrumentation` · agent `performance-engineer` |
 
 ## Hazır omurga: spec-workflow

@@ -60,8 +60,8 @@ Claude Code oturumu içinde:
 > marketplace reposundaki `templates/PROFILES.md`'ye bak. 12 plugin ve içerikleri:
 > [`claude-config/README.md` → Plugin'ler](../../claude-config/README.md#pluginler).
 
-> ⚠️ **Marketplace ne taşır?** Plugin'ler **skill + agent + slash komutlarını** (`/onboard`,
-> `/intake` … → `mutfak-core`) taşır. Ama **`rules/`, bu `CLAUDE.md`, `hooks/`, `.mcp.json`
+> ⚠️ **Marketplace ne taşır?** Plugin'ler **skill + agent + slash komutlarını** (`/mutfak-onboard`,
+> `/mutfak-intake` … → `mutfak-core`) taşır. Ama **`rules/`, bu `CLAUDE.md`, `hooks/`, `.mcp.json`
 > plugin ile GELMEZ** — bunlar **proje scaffold'udur.** Tam kurulum için bu `project-template`'i
 > temel al (kopyala) veya `integrate-into-project.sh` ile entegre et. Komutlar için
 > `enabledPlugins`'e **`mutfak-core`'u eklemeyi unutma.**
@@ -74,7 +74,7 @@ dosyayı **<200 satır** tut. Kişisel/geçici notlar `CLAUDE.local.md`'ye (giti
 ### 4. Kuralları ve komutları gözden geçir
 
 - `rules/` — `code-style.md`, `testing.md`, `api-conventions.md`, `capability-gaps.md`
-- `commands/` — slash komutları (`/review`, `/fix-issue`, `/deploy`)
+- `commands/` — slash komutları (`/mutfak-review`, `/mutfak-fix-issue`, `/mutfak-deploy`)
 - `.mcp.json` — projenin ihtiyaç duyduğu MCP sunucuları
 
 ### 5. Çalıştır
@@ -178,7 +178,7 @@ Agent'lar zaten ilgili skill'leri içeride kullanır.
 | `settings.json` | İzinler + hook'lar + config (commit edilir, takım) |
 | `settings.local.json` | Kişisel override'lar (gitignore) — örnek: `settings.local.json.example` |
 | `rules/` | Modüler kurallar: `code-style`, `testing`, `api-conventions`, `architecture`, `scaling`, `mcp`, `process` (SDLC/ADLC), `catalog`, `model-selection`, `communication` (TR iletişim), `capability-gaps` |
-| `commands/` | Slash komutları — `/intake` (yeni proje), `/onboard` (mevcut proje, salt-okunur), `/review`, `/fix-issue`, `/deploy`, `/test-all`, `/bootstrap`, `/document`, `/refactor` |
+| `commands/` | Slash komutları — `/mutfak-intake` (yeni proje), `/mutfak-onboard` (mevcut proje, salt-okunur), `/mutfak-review`, `/mutfak-fix-issue`, `/mutfak-deploy`, `/mutfak-test-all`, `/mutfak-bootstrap`, `/mutfak-document`, `/mutfak-refactor` |
 | `skills/` | ⚠️ **DÜZ yapı** — her skill `skills/<önek-ad>/SKILL.md`; iç içe kategori klasörü otomatik bulunmaz |
 | `agents/` | Sub-agent tanımları (`<ad>.md`, düz) |
 | `hooks/` | Guardrail/otomasyon (taksonomi: `hooks/README.md`) — Pre/PostToolUse, SessionStart/End, PreCompact (sır taraması), Notification/Stop |

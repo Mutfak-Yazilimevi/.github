@@ -52,10 +52,10 @@ WebApi → Infrastructure → Application → Domain
   `capability-gaps.md`. Yeni ekleyince katalogu yeniden üret (`build-catalog.py`). Bkz. `rules/catalog.md`.
 - **Süreç:** işi tanımlı yaşam döngüsüyle yürüt (SDLC/ADLC) — `rules/process.md` +
   `dev-development-lifecycle` skill'i; önemli feature'larda `mutfak-spec-workflow` zinciri
-- Slash komutları `.claude/commands/`: `/intake` (yeni proje ön kapısı), `/onboard` (mevcut proje,
-  salt-okunur analiz→backlog), `/review`, `/fix-issue`, `/deploy`, `/test-all`, `/bootstrap`,
-  `/document`, `/refactor`
-- **Başlangıç:** yeni proje → `/intake` (rehberli brief → PRD) · mevcut proje → `/onboard`
+- Slash komutları `.claude/commands/`: `/mutfak-intake` (yeni proje ön kapısı), `/mutfak-onboard` (mevcut proje,
+  salt-okunur analiz→backlog), `/mutfak-review`, `/mutfak-fix-issue`, `/mutfak-deploy`, `/mutfak-test-all`, `/mutfak-bootstrap`,
+  `/mutfak-document`, `/mutfak-refactor`
+- **Başlangıç:** yeni proje → `/mutfak-intake` (rehberli brief → PRD) · mevcut proje → `/mutfak-onboard`
   (kod içinde anla, yapılan/eksik çıkar, `docs/backlog.md`'ye yaz, direktif bekle)
 - Hook'lar `.claude/hooks/` (taksonomi: `hooks/README.md`) — Pre/PostToolUse, SessionStart/End,
   PreCompact (sır taraması), Notification/Stop. MCP sunucuları: `.mcp.json` (bkz. `rules/mcp.md`)
