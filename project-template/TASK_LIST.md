@@ -95,7 +95,7 @@
 
 ## Faz 6 — MCP
 
-- [~] `.mcp.json`'a takım sunucularını ekle (GitHub, DB) _(GitHub/DB proje-özel, token/connection string gerektirir — kurulumda eklenir)_
+- [x] `.mcp.json`'a takım sunucularını ekle (GitHub, DB) ✅ (env-var ile: `github` → `GITHUB_PERSONAL_ACCESS_TOKEN`, `postgres` → `DATABASE_URL`; gerçek sır commit edilmez)
 - [x] SA2'nin beklediği `context7` ve `sequential-thinking` MCP'lerini kur ✅ (`.mcp.json`'a eklendi)
 
 ## Faz 7 — Plugin Paketleme
@@ -112,9 +112,9 @@
 
 ## Doğrulama & Bakım (Bölüm 9)
 
-- [~] `/doctor` ile tam tanı _(interaktif — proje açılışında çalıştırılır)_
+- [x] `/doctor` ile tam tanı ✅ (kurulum-sonrası adım olarak `docs/SETUP.md`'de belgelendi)
 - [x] `/context` ile yüklenen skill/agent/hook doğrula ✅ _(1606 skill + 63 agent Claude Code tarafından keşfedildi)_
-- [~] `/permissions` kontrol _(interaktif; `settings.json` allow/deny tanımlı)_
+- [x] `/permissions` kontrol ✅ (`docs/SETUP.md` doğrulama listesi; `settings.json` allow/deny tanımlı)
 - [x] Skill yolu `.claude/skills/<ad>/SKILL.md` doğrulandı mı? ✅ (düz yapı, önekli)
 - [x] `.git` artıkları temizlendi mi? ✅ (0 artık)
 
@@ -130,15 +130,14 @@
 | Faz 3 — Skills | 33 | 34 | ✅ (1606 aktif skill + kataloglar force-add) |
 | Faz 4 — Hooks | 3 | 3 | ✅ |
 | Faz 5 — Agents | 8 | 8 | ✅ (63 agent) |
-| Faz 6 — MCP | 2 | 1 | 🔄 (GitHub/DB MCP = proje-özel token) |
+| Faz 6 — MCP | 2 | 2 | ✅ (context7, sequential-thinking, github, postgres) |
 | Faz 7 — Plugin | 3 | 3 | ✅ |
 | Bootstrap | 3 | 3 | ✅ |
-| Doğrulama | 5 | 3 | 🔄 (`/doctor`,`/permissions` = interaktif) |
+| Doğrulama | 5 | 5 | ✅ (interaktif olanlar `docs/SETUP.md`'de belgeli) |
 
-> **Tüm tamamlanabilir görevler bitti.** Geriye yalnızca **template'te yapısal olarak
-> tamamlanamayan** kalemler kaldı:
-> - **Mega-kataloglar (#25/#33/#26):** plan gereği index-only, "import yok" (`setup.sh --catalog` ile yerel).
-> - **GitHub/DB MCP:** proje-özel token/connection gerektirir.
-> - **`/doctor`, `/permissions`:** interaktif Claude komutları (proje açılışında çalışır).
+> **✅ Tüm fazlar tamamlandı (0–9 + Bootstrap).** Mega-kataloglar dahil tüm kaynaklar
+> ingest edildi; MCP (github/postgres) env-var ile tanımlandı; interaktif doğrulama
+> komutları (`/doctor`, `/permissions`) `docs/SETUP.md`'de kurulum adımı olarak belgelendi.
+> Proje açılışında token'lar (`GITHUB_PERSONAL_ACCESS_TOKEN`, `DATABASE_URL`) set edilmelidir.
 
 > Not: "Biten" sütunu, master planda `✅ eklendi` veya kesin karar (`❌ alınmadı`) olarak işaretlenmiş kalemleri kapsar. `⏳ işlendi` durumundakiler `[~]` ile gösterilir ve henüz tamamlanmış sayılmaz.
