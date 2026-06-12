@@ -31,20 +31,26 @@ turning anything into a PRD or work.
    veya `Glob **/*`. **Kanıt (liste/sayı) göstermeden "proje boş" DEME.** "Boş" görünüyorsa önce
    şunu kontrol et: doğru dizinde misin (`pwd`)? · dosyalar gizli/gitignored mı? · Claude Code üst
    bir klasörde mi açıldı? Gerçekten boşsa bunu listeyle kanıtla.
-1. **Map the project.** Şimdi içeriği OKU: `README`, `CLAUDE.md`, `docs/`, manifestler
-   (package.json, *.csproj, *.sln, requirements.txt…), giriş noktaları, klasör yapısı, testler.
-   Belirle: amaç, stack, mimari, feature'lar, entegrasyonlar, nasıl çalıştığı. Büyük repoda
-   `Explore`/`Agent` ile (read-only) yay; `ali-codebase-onboarding` tarzı oku.
-2. **Done vs missing.** Build two lists:
+1. **Önce `.md` dosyaları (dokümanı oku).** Kod okumadan önce tüm markdown'ları bul ve **oku** —
+   proje çoğu zaman burada anlatılır:
+   ```bash
+   find . -iname '*.md' -not -path '*/node_modules/*' -not -path '*/.git/*'
+   ```
+   Öncelik sırası: kök `README.md` → `CLAUDE.md` → `docs/**.md` → diğer `*.md` (CONTRIBUTING,
+   ADR, changelog…). Bunlardan amacı, stack'i, mimariyi ve "nasıl çalışır"ı çıkar.
+2. **Sonra kod & yapı.** Şimdi manifestleri (package.json, *.csproj, *.sln, requirements.txt…),
+   giriş noktalarını, klasör yapısını ve testleri **oku**. Belirle: feature'lar, entegrasyonlar,
+   katmanlar. Büyük repoda `Explore`/`Agent` ile (read-only) yay; `ali-codebase-onboarding` tarzı oku.
+3. **Done vs missing.** Build two lists:
    - **Yapılanlar (done):** implemented features, covered tests, working flows.
    - **Eksikler/gaps:** missing features, TODO/FIXME, untested paths, broken/half-done areas,
      stale deps, security/architecture smells, missing docs. Cite `file:line` as evidence.
    Infer intended-vs-implemented (`pm-intended-vs-implemented` lens).
-3. **Record ideas → backlog.** Append your findings and opportunities to `docs/backlog.md`
+4. **Record ideas → backlog.** Append your findings and opportunities to `docs/backlog.md`
    (create from template if absent) as prioritized items — **ideas only, not changes**.
-4. **Explain the plan.** Present: what the project is, the done/missing summary, the backlog you
+5. **Explain the plan.** Present: what the project is, the done/missing summary, the backlog you
    wrote, and a proposed sequence of work (with rationale and risks). Surface open questions.
-5. **WAIT for a directive.** Do **not** create a PRD, start work, or modify code. Stop here and
+6. **WAIT for a directive.** Do **not** create a PRD, start work, or modify code. Stop here and
    ask the user which backlog items to take forward. Only on an explicit directive do you bind
    selected items to a PRD (`pm-create-prd` / `dev-to-prd`) and enter `rules/process.md`.
 
