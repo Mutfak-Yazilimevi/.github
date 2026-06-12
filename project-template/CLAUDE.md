@@ -42,7 +42,9 @@ WebApi → Infrastructure → Application → Domain
   tek seferlik çözmek yerine merkezî kütüphaneye yeni skill/agent üretmeyi **öner** → bkz.
   `.claude/rules/capability-gaps.md`
 - Kurallar `.claude/rules/` altında: `code-style.md`, `testing.md`, `api-conventions.md`,
-  `architecture.md`, `scaling.md`, `mcp.md`, `capability-gaps.md`
+  `architecture.md`, `scaling.md`, `mcp.md`, `process.md`, `capability-gaps.md`
+- **Süreç:** işi tanımlı yaşam döngüsüyle yürüt (SDLC/ADLC) — `rules/process.md` +
+  `dev-development-lifecycle` skill'i; önemli feature'larda `mutfak-spec-workflow` zinciri
 - Slash komutları `.claude/commands/`: `/review`, `/fix-issue`, `/deploy`, `/test-all`,
   `/bootstrap`, `/document`, `/refactor`
 - Hook'lar `.claude/hooks/` (taksonomi: `hooks/README.md`) — Pre/PostToolUse, SessionStart/End,
