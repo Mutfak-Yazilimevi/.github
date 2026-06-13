@@ -1,8 +1,6 @@
 ---
 name: hunting-for-persistence-via-wmi-subscriptions
-description: Hunt for adversary persistence through Windows Management Instrumentation
-  event subscriptions by monitoring WMI consumer, filter, and binding creation events
-  that execute malicious code triggered by system events.
+description: "Sistem olayları tarafından tetiklenen kötü amaçlı kod yürüten WMI tüketici, filtre ve bağlama oluşturma olaylarını izleyerek Windows Management Instrumentation olay abonelikleri aracılığıyla saldırgan kalıcılığını avlar."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

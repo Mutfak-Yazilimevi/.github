@@ -1,6 +1,6 @@
 ---
 name: "setup"
-description: "Set up a new autoresearch experiment interactively. Collects domain, target file, eval command, metric, direction, and evaluator."
+description: "Yeni bir otomatik araştırma deneyini etkileşimli olarak kur. Alan adı, hedef dosya, değerlendirme komutu, metrik, yön ve değerlendirici bilgilerini toplar."
 command: /ar:setup
 ---
 

@@ -1,8 +1,6 @@
 ---
 name: testing-ransomware-recovery-procedures
-description: Test and validate ransomware recovery procedures including backup restore
-  operations, RTO/RPO target verification, recovery sequencing, and clean restore
-  validation to ensure organizational resilience against destructive ransomware attacks.
+description: "Kuruluşun yıkıcı fidye yazılımı saldırılarına karşı dayanıklılığını sağlamak için yedek geri yükleme işlemleri, RTO/RPO hedef doğrulama, kurtarma sıralama ve temiz geri yükleme doğrulaması dahil olmak üzere fidye yazılımı kurtarma prosedürlerini test eder ve doğrular."
 domain: cybersecurity
 subdomain: incident-response
 tags:

@@ -1,6 +1,6 @@
 ---
 name: monzo-ui-skills
-description: Monzo's UI design system. Use when building interfaces inspired by Monzo's aesthetic - light mode, Inter font, 4px grid.
+description: "Monzo'nun UI tasarım sistemi. Monzo'nun estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter yazı tipi, 4px grid."
 license: MIT
 metadata:
   author: design-skills

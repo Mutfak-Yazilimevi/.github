@@ -1,6 +1,6 @@
 ---
 name: using-agent-skills
-description: Discovers and invokes agent skills. Use when starting a session or when you need to discover which skill applies to the current task. This is the meta-skill that governs how all other skills are discovered and invoked.
+description: "Ajan becerilerini keşfeder ve çağırır. Bir oturuma başlarken veya mevcut göreve hangi becerinin uygulanacağını bulmak istediğinde kullan. Bu, diğer tüm becerilerin nasıl keşfedilip çağrılacağını yöneten meta-beceridir."
 ---
 
 # Using Agent Skills

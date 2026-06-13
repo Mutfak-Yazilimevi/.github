@@ -1,6 +1,6 @@
 ---
 name: linear-ui-skills
-description: Linear's UI design system. Use when building interfaces inspired by Linear's aesthetic - dark mode, Inter font, 4px grid.
+description: "Linear'ın UI tasarım sistemi. Linear'ın estetiğinden ilham alan arayüzler oluştururken kullan — karanlık mod, Inter font, 4px ızgara."
 license: MIT
 metadata:
   author: design-skills

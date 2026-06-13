@@ -1,8 +1,6 @@
 ---
 name: performing-second-order-sql-injection
-description: Detect and exploit second-order SQL injection vulnerabilities where malicious
-  input is stored in a database and later executed in an unsafe SQL query during a
-  different application operation.
+description: "Kötü amaçlı verinin depolandıktan sonra tetiklendiği second-order SQL injection açıklarını tespit eder ve istismar eder"
 domain: cybersecurity
 subdomain: web-application-security
 tags:

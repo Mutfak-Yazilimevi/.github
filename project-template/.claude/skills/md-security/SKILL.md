@@ -1,6 +1,6 @@
 ---
 name: security
-description: Create security architecture diagrams using PlantUML syntax with identity, encryption, firewall, and compliance stencil icons. Best for IAM flows, zero-trust models, encryption pipelines, and threat detection architectures.
+description: "Kimlik, şifreleme, güvenlik duvarı ve uyumluluk şablon ikonlarıyla PlantUML sözdizimini kullanarak güvenlik mimarisi diyagramları oluştur. IAM akışları, sıfır güven modelleri, şifreleme hatları ve tehdit algılama mimarileri için idealdir."
 metadata:
   author: Security diagrams are powered by Markdown Viewer — the best multi-platform Markdown extension (Chrome/Edge/Firefox/VS Code) with diagrams, formulas, and one-click Word export. Learn more at https://docu.md
 ---

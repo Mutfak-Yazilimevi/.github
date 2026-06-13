@@ -1,6 +1,6 @@
 ---
 name: copy-ai-ui-skills
-description: Copy Ai's UI design system. Use when building interfaces inspired by Copy Ai's aesthetic - light mode, Inter font, 4px grid.
+description: "Copy AI'ın UI tasarım sistemi. Copy AI estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter fontu, 4px ızgara."
 license: MIT
 metadata:
   author: design-skills

@@ -1,6 +1,6 @@
 ---
 name: "cto-review"
-description: "/cs:cto-review <plan> — Architecture and scaling interrogation. Tech debt, scaling cliffs, team scaling, build-vs-buy."
+description: "/cs:cto-review <plan> — Mimari ve ölçekleme sorgulaması. Teknik borç, ölçekleme sınırları, ekip ölçeklendirme, yapma-vs-satın alma."
 ---
 
 # /cs:cto-review — CTO Forcing Questions

@@ -1,8 +1,6 @@
 ---
 name: testing-for-email-header-injection
-description: Test web application email functionality for SMTP header injection vulnerabilities
-  that allow attackers to inject additional email headers, modify recipients, and
-  abuse contact forms for spam relay.
+description: "Web uygulaması e-posta işlevini SMTP başlık enjeksiyon güvenlik açıkları için test eder."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

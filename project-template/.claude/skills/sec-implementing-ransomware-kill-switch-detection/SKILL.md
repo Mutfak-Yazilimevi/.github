@@ -1,13 +1,6 @@
 ---
 name: implementing-ransomware-kill-switch-detection
-description: 'Detects and exploits ransomware kill switch mechanisms including mutex-based
-  execution guards, domain-based kill switches, and registry-based termination checks.
-  Implements proactive mutex vaccination and kill switch domain monitoring to prevent
-  ransomware from executing. Activates for requests involving ransomware kill switch
-  analysis, mutex vaccination, WannaCry-style domain kill switches, or malware execution
-  guard detection.
-
-  '
+description: "Mutex tabanlı yürütme koruyucuları, alan adı tabanlı kill switch'ler ve kayıt defteri tabanlı sonlandırma denetimleri dahil olmak üzere fidye yazılımı kill switch mekanizmalarını tespit eder ve kullanır. Fidye yazılımının çalışmasını önlemek için proaktif mutex aşılama ve kill switch alan adı izlemesi uygular. Fidye yazılımı kill switch analizi, mutex aşılama, WannaCry tarzı alan adı kill switch'leri veya kötü amaçlı yazılım yürütme koruyucu tespiti içeren istekler için etkinleşir."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

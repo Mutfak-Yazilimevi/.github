@@ -1,6 +1,6 @@
 ---
 name: grill-with-docs
-description: Grilling session that challenges your plan against the existing domain model, sharpens terminology, and updates documentation (CONTEXT.md, ADRs) inline as decisions crystallise. Use when user wants to stress-test a plan against their project's language and documented decisions.
+description: "Planınızı mevcut alan modeli karşısında zorlayan, terminolojiyi keskinleştiren ve kararlar netleştikçe dokümantasyonu (CONTEXT.md, ADR'ler) satır içi güncelleyen sorgulama oturumu. Kullanıcı bir planı projenin dili ve belgelenmiş kararları karşısında stres testinden geçirmek istediğinde kullan."
 ---
 
 <what-to-do>

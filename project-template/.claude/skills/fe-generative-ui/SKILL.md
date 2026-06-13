@@ -1,6 +1,6 @@
 ---
 name: generative-ui
-description: "Generate interactive UI components (charts, diagrams, flowcharts, calculators, data visualizations) in conversations. Use when: user requests visualization, charts, flowcharts, architecture diagrams, comparison tables, data displays, interactive components, or any content that benefits from graphical presentation. NOT for: plain text Q&A, code generation, file operations."
+description: "Konuşmalarda etkileşimli UI bileşenleri (grafikler, diyagramlar, akış diyagramları, hesap makineleri, veri görselleştirmeleri) oluştur. Kullanıcı görselleştirme, grafikler, akış diyagramları, mimari diyagramlar, karşılaştırma tabloları, veri gösterimleri, etkileşimli bileşenler veya grafik sunumdan yararlanan herhangi bir içerik talep ettiğinde kullan. Şunlar için KULLANMA: düz metin soru-cevap, kod üretimi, dosya işlemleri."
 metadata: { "openclaw": { "emoji": "📊", "requires": { "env": ["CHROME_CDP_URL"] } } }
 ---
 

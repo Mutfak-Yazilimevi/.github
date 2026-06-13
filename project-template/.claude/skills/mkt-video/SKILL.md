@@ -1,6 +1,6 @@
 ---
 name: video
-description: "When the user wants to create, generate, or produce video content using AI tools or programmatic frameworks. Also use when the user mentions 'video production,' 'AI video,' 'Remotion,' 'Hyperframes,' 'HeyGen,' 'Synthesia,' 'Veo,' 'Sora,' 'Runway,' 'Kling,' 'Seedance,' 'Hailuo,' 'MiniMax,' 'Pika,' 'Hunyuan,' 'Wan,' 'video generation,' 'AI avatar,' 'talking head video,' 'programmatic video,' 'video template,' 'explainer video,' 'product demo video,' 'video pipeline,' or 'make me a video.' Use this for video creation, generation, and production workflows. For video content strategy and what to post, see social. For paid video ad creative, see ad-creative."
+description: "Kullanıcı AI araçları veya programatik çerçeveler kullanarak video içeriği oluşturmak, üretmek veya geliştirmek istediğinde kullan. Ayrıca 'video production', 'AI video', 'Remotion', 'Hyperframes', 'HeyGen', 'Synthesia', 'Veo', 'Sora', 'Runway', 'Kling', 'Seedance', 'Hailuo', 'MiniMax', 'Pika', 'Hunyuan', 'Wan', 'video generation', 'AI avatar', 'talking head video', 'programmatic video', 'video template', 'explainer video', 'product demo video', 'video pipeline' veya 'make me a video' ifadelerini kullandığında da kullan. Video oluşturma, üretme ve prodüksiyon iş akışları için kullan. Video içerik stratejisi ve ne paylaşılacağı için social, ücretli video reklam kreatifi için ad-creative skill'ini kullan."
 metadata:
   version: 2.0.1
 ---

@@ -1,6 +1,6 @@
 ---
 name: "soc2-compliance"
-description: "Use when the user asks to prepare for SOC 2 audits, map Trust Service Criteria, build control matrices, collect audit evidence, perform gap analysis, or assess SOC 2 Type I vs Type II readiness."
+description: "Kullanıcı SOC 2 denetimine hazırlanmak, Trust Service Criteria'yı eşlemek, kontrol matrisleri oluşturmak, denetim kanıtı toplamak, boşluk analizi yapmak veya SOC 2 Tip I ve Tip II hazırlığını değerlendirmek istediğinde kullanılır."
 ---
 
 # SOC 2 Compliance

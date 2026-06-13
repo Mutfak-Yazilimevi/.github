@@ -1,6 +1,6 @@
 ---
 name: "agent-designer"
-description: "Use when the user asks to design multi-agent systems, create agent architectures, define agent communication patterns, or build autonomous agent workflows."
+description: "Kullanıcı çok ajanlı sistemler tasarlamak, ajan mimarileri oluşturmak, ajan iletişim kalıplarını tanımlamak veya özerk ajan iş akışları geliştirmek istediğinde kullan."
 ---
 
 # Agent Designer - Multi-Agent System Architecture

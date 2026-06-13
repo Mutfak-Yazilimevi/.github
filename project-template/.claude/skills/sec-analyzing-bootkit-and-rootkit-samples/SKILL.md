@@ -1,13 +1,6 @@
 ---
 name: analyzing-bootkit-and-rootkit-samples
-description: 'Analyzes bootkit and advanced rootkit malware that infects the Master
-  Boot Record (MBR), Volume Boot Record (VBR), or UEFI firmware to gain persistence
-  below the operating system. Covers boot sector analysis, UEFI module inspection,
-  and anti-rootkit detection techniques. Activates for requests involving bootkit
-  analysis, MBR malware investigation, UEFI persistence analysis, or pre-OS malware
-  detection.
-
-  '
+description: "İşletim sisteminin altında kalıcılık kazanmak için Ana Önyükleme Kaydını (MBR), Birim Önyükleme Kaydını (VBR) veya UEFI firmware'i enfekte eden bootkit ve gelişmiş rootkit zararlı yazılımları analiz eder. Önyükleme sektörü analizi, UEFI modül incelemesi ve anti-rootkit tespit tekniklerini kapsar. Bootkit analizi, MBR zararlı yazılım araştırması, UEFI kalıcılık analizi veya işletim sistemi öncesi zararlı yazılım tespitini içeren istekler için etkinleşir."
 domain: cybersecurity
 subdomain: malware-analysis
 tags:

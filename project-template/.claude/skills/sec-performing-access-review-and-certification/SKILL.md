@@ -1,8 +1,6 @@
 ---
 name: performing-access-review-and-certification
-description: Conduct systematic access reviews and certifications to ensure users
-  have appropriate access rights aligned with their roles. This skill covers review
-  campaign design, reviewer selection, risk-based p
+description: "Kullanıcıların rollerine uygun erişim haklarına sahip olduğunu sağlamak için sistematik erişim incelemeleri ve sertifikasyonları yürütür. Bu beceri, inceleme kampanyası tasarımı, inceleyici seçimi, risk tabanlı önceliklendirme konularını kapsar"
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

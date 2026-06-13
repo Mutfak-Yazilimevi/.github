@@ -1,6 +1,6 @@
 ---
 name: "run"
-description: "Run a single experiment iteration. Edit the target file, evaluate, keep or discard."
+description: "Tek bir deney yinelemesi çalıştır. Hedef dosyayı düzenle, değerlendir, sakla veya at."
 command: /ar:run
 ---
 

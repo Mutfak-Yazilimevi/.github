@@ -1,8 +1,6 @@
 ---
 name: performing-credential-access-with-lazagne
-description: Extract stored credentials from compromised endpoints using the LaZagne
-  post-exploitation tool to recover passwords from browsers, databases, system vaults,
-  and applications during authorized red team operations.
+description: "LaZagne kullanarak ele geçirilmiş uç noktalardan depolanmış kimlik bilgilerini çıkarır."
 domain: cybersecurity
 subdomain: red-teaming
 tags:

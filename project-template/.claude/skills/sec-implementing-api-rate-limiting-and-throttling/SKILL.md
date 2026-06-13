@@ -1,14 +1,6 @@
 ---
 name: implementing-api-rate-limiting-and-throttling
-description: 'Implements API rate limiting and throttling controls using token bucket,
-  sliding window, and fixed window algorithms to protect against brute force attacks,
-  credential stuffing, resource exhaustion, and API abuse. The engineer configures
-  per-user, per-IP, and per-endpoint rate limits using Redis-backed counters, API
-  gateway plugins, or application middleware, and implements proper HTTP 429 responses
-  with Retry-After headers. Activates for requests involving rate limiting implementation,
-  API throttling setup, request quota management, or API abuse prevention.
-
-  '
+description: "Brute force saldırılarına, credential stuffing'e, kaynak tüketimine ve API kötüye kullanımına karşı koruma sağlamak amacıyla token bucket, sliding window ve fixed window algoritmalarını kullanarak API hız sınırlama ve kısıtlama kontrolleri uygular. Mühendis, Redis destekli sayaçlar, API gateway eklentileri veya uygulama middleware'i kullanarak kullanıcı başına, IP başına ve endpoint başına hız sınırlarını yapılandırır ve uygun Retry-After başlıklarıyla HTTP 429 yanıtları uygular. Hız sınırlama uygulaması, API kısıtlama kurulumu, istek kota yönetimi veya API kötüye kullanım önleme içeren isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: api-security
 tags:

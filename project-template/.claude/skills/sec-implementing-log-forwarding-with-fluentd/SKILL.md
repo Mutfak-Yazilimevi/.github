@@ -1,7 +1,6 @@
 ---
 name: implementing-log-forwarding-with-fluentd
-description: Configure Fluentd and Fluent Bit for centralized log aggregation, routing,
-  filtering, and enrichment across distributed infrastructure
+description: "Dağıtık altyapı genelinde merkezi log toplama, yönlendirme, filtreleme ve zenginleştirme için Fluentd ve Fluent Bit'i yapılandır."
 domain: cybersecurity
 subdomain: security-operations
 tags:

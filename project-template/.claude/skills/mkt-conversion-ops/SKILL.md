@@ -1,6 +1,6 @@
 ---
 name: conversion-ops
-description: Run conversion-rate optimization operations across funnels — diagnose drop-offs, propose experiments, prioritize CRO fixes. Use to improve signup, checkout, or landing conversion with a structured ops workflow.
+description: "Huniler genelinde dönüşüm oranı optimizasyonu işlemlerini yürütmek için kullan — düşüş noktalarını teşhis et, deneyler öner, CRO düzeltmelerini önceliklendir. Kayıt, ödeme veya açılış sayfası dönüşümünü yapılandırılmış bir ops iş akışıyla iyileştirmek için kullan."
 ---
 
 # AI Conversion Ops

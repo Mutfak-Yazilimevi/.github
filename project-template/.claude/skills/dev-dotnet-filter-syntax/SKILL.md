@@ -1,6 +1,6 @@
 ---
 name: filter-syntax
-description: "Reference data for test filter syntax across all platform and framework combinations: VSTest --filter expressions, MTP filters for MSTest/NUnit/xUnit v3/TUnit, and VSTest-to-MTP filter translation. DO NOT USE directly — loaded by run-tests, mtp-hot-reload, and migrate-vstest-to-mtp when they need filter syntax."
+description: "Tüm platform ve framework kombinasyonları için test filtre sözdizimi referans verisi: VSTest --filter ifadeleri, MSTest/NUnit/xUnit v3/TUnit için MTP filtreleri ve VSTest'ten MTP'ye filtre dönüşümü. DOĞRUDAN KULLANMA — filtre sözdizimi gerektiğinde run-tests, mtp-hot-reload ve migrate-vstest-to-mtp tarafından yüklenir."
 user-invocable: false
 license: MIT
 ---

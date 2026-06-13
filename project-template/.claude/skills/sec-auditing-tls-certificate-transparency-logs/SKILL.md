@@ -1,14 +1,6 @@
 ---
 name: auditing-tls-certificate-transparency-logs
-description: 'Monitors Certificate Transparency (CT) logs to detect unauthorized certificate
-  issuance, discover subdomains via CT data, and alert on suspicious certificate activity
-  for owned domains. Uses the crt.sh API and direct CT log querying based on RFC 6962
-  to build continuous monitoring pipelines that catch rogue certificates, track CA
-  behavior, and map the external attack surface. Activates for requests involving
-  certificate transparency monitoring, CT log auditing, subdomain discovery via certificates,
-  or certificate issuance alerting.
-
-  '
+description: "Sahip olunan alanlar için yetkisiz sertifika düzenlemesini tespit etmek, CT verileri aracılığıyla alt alan adlarını keşfetmek ve şüpheli sertifika etkinliği hakkında uyarı vermek amacıyla Certificate Transparency (CT) loglarını izler. Sahte sertifikaları yakalamak, CA davranışını izlemek ve harici saldırı yüzeyini haritalamak için sürekli izleme pipeline'ları oluşturmaya yönelik RFC 6962 tabanlı crt.sh API'sini ve doğrudan CT log sorgusunu kullanır. Sertifika şeffaflığı izleme, CT log denetimi, sertifikalar aracılığıyla alt alan adı keşfi veya sertifika düzenleme uyarılarına yönelik isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

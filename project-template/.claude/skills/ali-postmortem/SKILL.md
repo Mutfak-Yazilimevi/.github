@@ -1,6 +1,6 @@
 ---
 name: "postmortem"
-description: "/em -postmortem — Honest Analysis of What Went Wrong"
+description: "/em -postmortem — Neyin Yanlış Gittiğinin Dürüst Analizi"
 ---
 
 # /em:postmortem — Honest Analysis of What Went Wrong

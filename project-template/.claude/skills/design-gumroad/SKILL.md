@@ -1,6 +1,6 @@
 ---
 name: gumroad-ui-skills
-description: Gumroad's UI design system. Use when building interfaces inspired by Gumroad's aesthetic - dark mode, Inter font, 4px grid.
+description: "Gumroad UI tasarım sistemi. Gumroad estetiğinden ilham alan arayüzler oluştururken kullan — koyu mod, Inter font, 4px grid."
 license: MIT
 metadata:
   author: design-skills

@@ -1,8 +1,6 @@
 ---
 name: performing-ssl-tls-inspection-configuration
-description: Configure SSL/TLS inspection on network security devices to decrypt,
-  inspect, and re-encrypt HTTPS traffic for threat detection while managing certificates,
-  exemptions, and privacy compliance.
+description: "Sertifikaları, muafiyetleri ve gizlilik uyumluluğunu yönetirken tehdit tespiti için HTTPS trafiğini şifre çözme, inceleme ve yeniden şifreleme amacıyla ağ güvenlik cihazlarında SSL/TLS denetimini yapılandırır."
 domain: cybersecurity
 subdomain: network-security
 tags:

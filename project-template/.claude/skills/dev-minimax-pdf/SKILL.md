@@ -1,17 +1,6 @@
 ---
 name: minimax-pdf
-description: >
-  Use this skill when visual quality and design identity matter for a PDF.
-  CREATE (generate from scratch): "make a PDF", "generate a report", "write a proposal",
-  "create a resume", "beautiful PDF", "professional document", "cover page",
-  "polished PDF", "client-ready document".
-  FILL (complete form fields): "fill in the form", "fill out this PDF",
-  "complete the form fields", "write values into PDF", "what fields does this PDF have".
-  REFORMAT (apply design to an existing doc): "reformat this document", "apply our style",
-  "convert this Markdown/text to PDF", "make this doc look good", "re-style this PDF".
-  This skill uses a token-based design system: color, typography, and spacing are derived
-  from the document type and flow through every page. The output is print-ready.
-  Prefer this skill when appearance matters, not just when any PDF output is needed.
+description: "Görsel kalite ve tasarım kimliğinin önemli olduğu durumlarda bu beceriyi kullan. OLUŞTUR (sıfırdan üret): \"PDF yap\", \"rapor oluştur\", \"teklif yaz\", \"özgeçmiş oluştur\", \"güzel PDF\", \"profesyonel belge\", \"kapak sayfası\", \"cilalı PDF\", \"müşteriye hazır belge\". DOLDUR (form alanlarını tamamla): \"formu doldur\", \"bu PDF'i doldur\", \"form alanlarını tamamla\", \"PDF'e değer yaz\", \"bu PDF'in hangi alanları var\". YENİDEN FORMATLA (mevcut belgeye tasarım uygula): \"bu belgeyi yeniden formatla\", \"stilimizi uygula\", \"bu Markdown/metni PDF'e dönüştür\", \"bu belgeyi güzel yap\", \"bu PDF'i yeniden stillendir\". Bu beceri token tabanlı bir tasarım sistemi kullanır: renk, tipografi ve boşluk belge türünden türetilir ve her sayfadan geçer. Çıktı baskıya hazırdır. Yalnızca herhangi bir PDF çıktısı gerektiğinde değil, görünüm önemli olduğunda bu beceriyi tercih et."
 license: MIT
 metadata:
   version: "1.0"

@@ -1,7 +1,6 @@
 ---
 name: performing-privileged-account-access-review
-description: Conduct systematic reviews of privileged accounts to validate access
-  rights, identify excessive permissions, and enforce least privilege across PAM infrastructure.
+description: "PAM altyapısı genelinde erişim haklarını doğrulamak, aşırı izinleri tespit etmek ve en az ayrıcalığı uygulamak için ayrıcalıklı hesapların sistematik incelemelerini yürütür."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

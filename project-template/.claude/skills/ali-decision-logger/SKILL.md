@@ -1,6 +1,6 @@
 ---
 name: "decision-logger"
-description: "Two-layer memory architecture for board meeting decisions. Manages raw transcripts (Layer 1) and approved decisions (Layer 2). Use when logging decisions after a board meeting, reviewing past decisions with /cs:decisions, or checking overdue action items with /cs:review. Invoked automatically by the board-meeting skill after Phase 5 founder approval."
+description: "Yönetim kurulu toplantısı kararları için iki katmanlı bellek mimarisi. Ham transkriptleri (Katman 1) ve onaylı kararları (Katman 2) yönetir. Yönetim kurulu toplantısının ardından kararları günlüğe kaydetmek için, /cs:decisions ile geçmiş kararları gözden geçirmek için veya /cs:review ile vadesi geçmiş eylem maddelerini kontrol etmek için kullan. 5. Aşama kurucu onayından sonra board-meeting becerisi tarafından otomatik olarak çağrılır."
 license: MIT
 metadata:
   version: 1.0.0

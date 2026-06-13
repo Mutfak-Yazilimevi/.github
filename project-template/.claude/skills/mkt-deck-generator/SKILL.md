@@ -1,6 +1,6 @@
 ---
 name: deck-generator
-description: Generate professional presentations with AI-generated images. Use when asked to create a deck, presentation, pitch deck, or slides. Supports style presets (whiteboard, corporate, minimalist, etc). Uses Imagen 4.0 API for image generation and Google Slides API for assembly. Produces full decks from markdown content specs in minutes.
+description: "AI tarafından oluşturulan görüntülerle profesyonel sunumlar oluşturur. Sunum, pitch deck veya slaytlar oluşturması istendiğinde kullan. Stil ön ayarlarını destekler (beyaz tahta, kurumsal, minimalist vb.). Görüntü oluşturma için Imagen 4.0 API ve derleme için Google Slides API kullanır. Dakikalar içinde markdown içerik özelliklerinden tam sunumlar üretir."
 ---
 
 # Deck Generator

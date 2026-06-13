@@ -1,6 +1,6 @@
 ---
 name: "finance-skills"
-description: "Financial analyst agent skill and plugin for Claude Code, Codex, Gemini CLI, Cursor, OpenClaw. Ratio analysis, DCF valuation, budget variance, rolling forecasts. 4 Python tools (stdlib-only)."
+description: "Claude Code, Codex, Gemini CLI, Cursor, OpenClaw için finansal analist ajan becerisi ve eklentisi. Oran analizi, DCF değerlemesi, bütçe varyansı, dönemsel tahminler. 4 Python aracı (yalnızca stdlib)."
 version: 2.9.0
 author: Alireza Rezvani
 license: MIT

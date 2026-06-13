@@ -1,6 +1,6 @@
 ---
 name: things-ui-skills
-description: Things's UI design system. Use when building interfaces inspired by Things's aesthetic - light mode, Inter font, 8px grid.
+description: "Things'in UI tasarım sistemi. Things'in estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter yazı tipi, 8px grid."
 license: MIT
 metadata:
   author: design-skills

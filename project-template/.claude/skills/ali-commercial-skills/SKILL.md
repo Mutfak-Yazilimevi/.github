@@ -1,6 +1,6 @@
 ---
 name: commercial-skills
-description: Use when reviewing, approving, or designing commercial motion — pricing models, deal review, discount approval, partnership economics, channel mix, commercial policy, RFP/RFI response, bookings forecast. Triggers on "review this deal", "should we discount", "pricing model", "partner economics", "RFP response", "bookings forecast", "channel mix". Forks context to route to one of seven Commercial sub-skills (pricing-strategist, deal-desk, partnerships-architect, channel-economics, commercial-policy, rfp-responder, commercial-forecaster) and returns a digest. Distinct from business-growth (sales execution) and c-level-advisor/cro-advisor (strategic CRO judgment).
+description: "Ticari hareketi incelemek, onaylamak veya tasarlamak için kullan — fiyatlandırma modelleri, anlaşma incelemesi, indirim onayı, ortaklık ekonomisi, kanal karması, ticari politika, RFP/RFI yanıtı, rezervasyon tahmini. Tetikleyiciler: \"review this deal\", \"should we discount\", \"pricing model\", \"partner economics\", \"RFP response\", \"bookings forecast\", \"channel mix\". Bağlamı yedi Commercial alt-skill'den birine yönlendirmek üzere çatallar (pricing-strategist, deal-desk, partnerships-architect, channel-economics, commercial-policy, rfp-responder, commercial-forecaster) ve özet döndürür. business-growth (satış yürütme) ve c-level-advisor/cro-advisor'dan (stratejik CRO yargısı) farklıdır."
 context: fork
 version: 2.8.0
 author: claude-code-skills

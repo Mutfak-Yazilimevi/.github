@@ -1,8 +1,6 @@
 ---
 name: hunting-for-webshell-activity
-description: Hunt for web shell deployments on internet-facing servers by analyzing
-  file creation in web directories, suspicious process spawning from web servers,
-  and anomalous HTTP patterns.
+description: "Web dizinlerinde dosya oluşturmayı, web sunucularından şüpheli süreç başlatmayı ve anormal HTTP kalıplarını analiz ederek internete dönük sunuculardaki web kabuğu dağıtımlarını avlar."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

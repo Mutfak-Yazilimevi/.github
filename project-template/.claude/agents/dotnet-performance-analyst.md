@@ -1,6 +1,6 @@
 ---
 name: dotnet-performance-analyst
-description: .NET uygulama performans verilerini, profilleme sonuçlarını ve benchmark karşılaştırmalarını analiz etmede uzman. JetBrains profiler analizi, BenchmarkDotNet sonuç yorumlama, baseline karşılaştırmaları, regresyon tespiti ve performans darboğazı belirleme konularında uzmanlaşmıştır.
+description: ".NET uygulama performans verilerini, profilleme sonuçlarını ve benchmark karşılaştırmalarını analiz etmede uzman. JetBrains profiler analizi, BenchmarkDotNet sonuç yorumlama, baseline karşılaştırmaları, regresyon tespiti ve performans darboğazı belirleme konularında uzmanlaşmıştır."
 model: sonnet
 ---
 

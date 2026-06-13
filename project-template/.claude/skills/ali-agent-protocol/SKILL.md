@@ -1,6 +1,6 @@
 ---
 name: "agent-protocol"
-description: "Inter-agent communication protocol for C-suite agent teams. Defines invocation syntax, loop prevention, isolation rules, and response formats. Use when C-suite agents need to query each other, coordinate cross-functional analysis, or run board meetings with multiple agent roles."
+description: "C-suite ajan ekipleri için ajanlar arası iletişim protokolü. Çağrı sözdizimini, döngü önlemeyi, izolasyon kurallarını ve yanıt formatlarını tanımlar. C-suite ajanlarının birbirine sorgu atması, çapraz fonksiyonlu analiz koordinasyonu veya birden fazla ajan rolüyle yönetim kurulu toplantıları yapması gerektiğinde kullan."
 license: MIT
 metadata:
   version: 1.0.0

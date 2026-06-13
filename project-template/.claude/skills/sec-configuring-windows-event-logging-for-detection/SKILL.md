@@ -1,13 +1,6 @@
 ---
 name: configuring-windows-event-logging-for-detection
-description: 'Configures Windows Event Logging with advanced audit policies to generate
-  high-fidelity security events for threat detection and forensic investigation. Use
-  when enabling audit policies for logon events, process creation, privilege use,
-  and object access to feed SIEM detection rules. Activates for requests involving
-  Windows audit policy, event log configuration, security logging, or detection-oriented
-  logging.
-
-  '
+description: "Tehdit tespiti ve adli soruşturma için yüksek doğruluklu güvenlik olayları oluşturmak amacıyla gelişmiş denetim politikalarıyla Windows Olay Günlüklemeyi yapılandırır. Oturum açma olayları, süreç oluşturma, ayrıcalık kullanımı ve nesne erişimi için denetim politikalarını SIEM tespit kurallarına beslemek amacıyla etkinleştirirken kullan. Windows denetim politikası, olay günlüğü yapılandırması, güvenlik günlükleme veya tespit odaklı günlüklemeye yönelik isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

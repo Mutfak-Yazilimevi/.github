@@ -1,6 +1,6 @@
 ---
 name: "playwright-pro"
-description: "Production-grade Playwright testing toolkit. Use when the user mentions Playwright tests, end-to-end testing, browser automation, fixing flaky tests, test migration, CI/CD testing, or test suites. Generate tests, fix flaky failures, migrate from Cypress/Selenium, sync with TestRail, run on BrowserStack. 55 templates, 3 agents, smart reporting."
+description: "Üretim düzeyinde Playwright test araç takımı. Kullanıcı Playwright testleri, uçtan uca test, tarayıcı otomasyonu, kararsız testleri düzeltme, test göçü, CI/CD testi veya test paketleri hakkında konuştuğunda kullan. Testler oluşturur, kararsız hataları düzeltir, Cypress/Selenium'dan geçiş yapar, TestRail ile senkronize eder, BrowserStack'te çalıştırır. 55 şablon, 3 ajan, akıllı raporlama."
 ---
 
 # Playwright Pro

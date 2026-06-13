@@ -1,6 +1,6 @@
 ---
 name: planetscale-ui-skills
-description: Planetscale's UI design system. Use when building interfaces inspired by Planetscale's aesthetic - dark mode, Inter font, 4px grid.
+description: "Planetscale'in UI tasarım sistemi. Planetscale'in estetiğinden ilham alan arayüzler oluştururken kullan — karanlık mod, Inter yazı tipi, 4px grid."
 license: MIT
 metadata:
   author: design-skills

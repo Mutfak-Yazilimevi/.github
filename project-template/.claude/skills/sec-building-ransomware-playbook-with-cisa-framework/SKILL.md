@@ -1,12 +1,6 @@
 ---
 name: building-ransomware-playbook-with-cisa-framework
-description: 'Builds a structured ransomware incident response playbook aligned with
-  the CISA StopRansomware Guide and NIST Cybersecurity Framework. Covers preparation,
-  detection, containment, eradication, recovery, and post-incident phases with actionable
-  checklists. Activates for requests involving ransomware response planning, CISA
-  compliance, incident response playbook creation, or ransomware preparedness assessment.
-
-  '
+description: "CISA StopRansomware Kılavuzu ve NIST Cybersecurity Framework ile uyumlu yapılandırılmış bir fidye yazılımı olay müdahale playbook'u oluşturur. Eyleme geçirilebilir kontrol listeleriyle hazırlık, tespit, izolasyon, temizleme, kurtarma ve olay sonrası aşamaları kapsar. Fidye yazılımı yanıt planlaması, CISA uyumluluğu, olay müdahale playbook'u oluşturma veya fidye yazılımı hazırlık değerlendirmesine yönelik isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

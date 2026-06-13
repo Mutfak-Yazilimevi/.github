@@ -1,6 +1,6 @@
 ---
 name: shadcn
-description: Manages shadcn components and projects — adding, searching, fixing, debugging, styling, and composing UI. Provides project context, component docs, and usage examples. Applies when working with shadcn/ui, component registries, presets, --preset codes, or any project with a components.json file. Also triggers for "shadcn init", "create an app with --preset", or "switch to --preset".
+description: "shadcn bileşenlerini ve projelerini yönetir — ekleme, arama, düzeltme, hata ayıklama, stillendirme ve UI oluşturma. Proje bağlamı, bileşen dokümantasyonu ve kullanım örnekleri sunar. shadcn/ui, bileşen registry'leri, preset'ler, --preset kodları veya components.json dosyası olan herhangi bir projede geçerlidir. \"shadcn init\", \"create an app with --preset\" veya \"switch to --preset\" için de tetiklenir."
 user-invocable: false
 ---
 

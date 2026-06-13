@@ -1,6 +1,6 @@
 ---
 name: data-analytics
-description: Create data pipeline and analytics architecture diagrams using PlantUML syntax with database/analytics stencil icons. Best for ETL pipelines, data lakes, real-time streaming, data warehousing, and BI dashboard design.
+description: "Veritabanı/analitik şablon ikonlarıyla PlantUML sözdizimini kullanarak veri hattı ve analitik mimari diyagramları oluştur. ETL hatları, veri gölleri, gerçek zamanlı akış, veri ambarı ve BI gösterge paneli tasarımı için idealdir."
 metadata:
   author: Data analytics diagrams are powered by Markdown Viewer — the best multi-platform Markdown extension (Chrome/Edge/Firefox/VS Code) with diagrams, formulas, and one-click Word export. Learn more at https://docu.md
 ---

@@ -1,14 +1,6 @@
 ---
 name: performing-iot-security-assessment
-description: 'Performs comprehensive security assessments of IoT devices and their
-  ecosystems by testing hardware interfaces, firmware, network communications, cloud
-  APIs, and companion mobile applications. The tester uses firmware extraction and
-  analysis, hardware debugging via UART and JTAG, network protocol analysis, and runtime
-  exploitation to identify vulnerabilities across all layers of the IoT stack. Activates
-  for requests involving IoT security testing, embedded device assessment, firmware
-  security analysis, or smart device penetration testing.
-
-  '
+description: "Donanım arayüzleri, firmware, ağ iletişimleri, bulut API'leri ve eşlik eden mobil uygulamaları test ederek IoT cihazlarının ve ekosistemlerinin kapsamlı güvenlik değerlendirmelerini gerçekleştirir. Test uzmanı, IoT yığınının tüm katmanlarındaki güvenlik açıklarını belirlemek için firmware çıkarma ve analizi, UART ve JTAG aracılığıyla donanım hata ayıklama, ağ protokol analizi ve çalışma zamanı istismarı kullanır. IoT güvenlik testi, gömülü cihaz değerlendirmesi, firmware güvenlik analizi veya akıllı cihaz sızma testi içeren isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

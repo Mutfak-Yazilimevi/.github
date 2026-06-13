@@ -1,6 +1,6 @@
 ---
 name: reui-seo
-description: Writes ReUI pattern-category SEO (seo.json). Use when editing pattern SEO or seo.json; follow accordion, alert, and data-grid examples, run verify:seo, and read cross-skills + orchestration workflow.
+description: "ReUI pattern-category SEO (seo.json) yazar. Pattern SEO veya seo.json düzenlerken kullan; accordion, alert ve data-grid örneklerini takip et, verify:seo çalıştır ve cross-skills ile orchestration workflow'u oku"
 ---
 
 # ReUI SEO skill (short)

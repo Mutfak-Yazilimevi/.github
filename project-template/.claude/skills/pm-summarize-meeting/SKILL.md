@@ -1,6 +1,6 @@
 ---
 name: summarize-meeting
-description: "Summarize a meeting transcript into structured notes with date, participants, topic, key decisions, summary points, and action items. Use when processing meeting recordings, creating meeting notes, writing meeting minutes, or recapping discussions."
+description: "Toplantı dökümünü tarih, katılımcılar, konu, kilit kararlar, özet noktalar ve eylem öğeleriyle yapılandırılmış notlara özetler. Toplantı kayıtlarını işlerken, toplantı notları oluştururken, toplantı tutanakları yazarken veya tartışmaları özetlerken kullan"
 ---
 
 # Summarize Meeting

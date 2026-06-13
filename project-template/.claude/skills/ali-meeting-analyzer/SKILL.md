@@ -1,6 +1,6 @@
 ---
 name: meeting-analyzer
-description: Analyzes meeting transcripts and recordings to surface behavioral patterns, communication anti-patterns, and actionable coaching feedback. Use this skill whenever the user uploads or points to meeting transcripts (.txt, .md, .vtt, .srt, .docx), asks about their communication habits, wants feedback on how they run meetings, requests speaking ratio analysis, mentions filler words or conflict avoidance, or wants to compare their communication across time periods. Also trigger when users mention tools like Granola, Otter, Fireflies, or Zoom transcripts. Even if the user just says "look at my meetings" or "how do I come across in meetings" — use this skill.
+description: "Toplantı transkriptlerini ve kayıtlarını analiz ederek davranışsal kalıpları, iletişim anti-pattern'lerini ve uygulanabilir koçluk geri bildirimlerini ortaya çıkarır. Kullanıcı toplantı transkriptleri yüklediğinde veya işaret ettiğinde (.txt, .md, .vtt, .srt, .docx), iletişim alışkanlıklarını sorduğunda, toplantı yönetimi hakkında geri bildirim istediğinde, konuşma oranı analizi talep ettiğinde, dolgu sözcüklerinden veya çatışmadan kaçınmadan bahsettiğinde ya da zaman içinde iletişimini karşılaştırmak istediğinde bu skill'i kullan. Kullanıcı Granola, Otter, Fireflies veya Zoom transkriptlerinden bahsettiğinde de tetikle. \"Toplantılarıma bak\" veya \"toplantılarda nasıl görünüyorum\" gibi ifadelerde de kullan."
 ---
 
 # Meeting Insights Analyzer

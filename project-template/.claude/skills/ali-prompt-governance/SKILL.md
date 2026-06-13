@@ -1,6 +1,6 @@
 ---
 name: prompt-governance
-description: "Use when managing prompts in production at scale: versioning prompts, running A/B tests on prompts, building prompt registries, preventing prompt regressions, or creating eval pipelines for production AI features. Triggers: 'manage prompts in production', 'prompt versioning', 'prompt regression', 'prompt A/B test', 'prompt registry', 'eval pipeline'. NOT for writing or improving individual prompts (use senior-prompt-engineer). NOT for RAG pipeline design (use rag-architect). NOT for LLM cost reduction (use llm-cost-optimizer)."
+description: "Üretimdeki prompt'ları ölçekte yönetirken kullan: prompt sürümleme, prompt A/B testleri yapma, prompt kayıt defterleri oluşturma, prompt gerileme önleme veya üretim AI özellikleri için değerlendirme pipeline'ları oluşturma. Tetikleyiciler: 'manage prompts in production', 'prompt versioning', 'prompt regression', 'prompt A/B test', 'prompt registry', 'eval pipeline'. Bireysel prompt yazma veya geliştirme için DEĞİL (senior-prompt-engineer kullan). RAG pipeline tasarımı için DEĞİL (rag-architect kullan). LLM maliyet azaltma için DEĞİL (llm-cost-optimizer kullan)."
 ---
 
 # Prompt Governance

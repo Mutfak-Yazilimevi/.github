@@ -1,7 +1,6 @@
 ---
 name: detecting-email-forwarding-rules-attack
-description: Detect malicious email forwarding rules created by adversaries to maintain
-  persistent access to email communications for intelligence collection and BEC attacks.
+description: "İstihbarat toplama ve BEC saldırıları için e-posta iletişimlerine kalıcı erişimi sürdürmek amacıyla saldırganlar tarafından oluşturulan kötü amaçlı e-posta iletme kurallarını tespit eder."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

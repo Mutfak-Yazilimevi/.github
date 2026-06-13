@@ -1,13 +1,6 @@
 ---
 name: analyzing-threat-intelligence-feeds
-description: 'Analyzes structured and unstructured threat intelligence feeds to extract
-  actionable indicators, adversary tactics, and campaign context. Use when ingesting
-  commercial or open-source CTI feeds, evaluating feed quality, normalizing data into
-  STIX 2.1 format, or enriching existing IOCs with campaign attribution. Activates
-  for requests involving ThreatConnect, Recorded Future, Mandiant Advantage, MISP,
-  AlienVault OTX, or automated feed aggregation pipelines.
-
-  '
+description: "Eyleme geçirilebilir göstergeleri, düşman taktiklerini ve kampanya bağlamını çıkarmak için yapılandırılmış ve yapılandırılmamış tehdit istihbaratı beslemelerini analiz eder. Ticari veya açık kaynaklı CTI beslemeleri alırken, besleme kalitesini değerlendirirken, verileri STIX 2.1 biçimine normalleştirirken veya mevcut IOC'leri kampanya ilişkilendirmesiyle zenginleştirirken kullan. ThreatConnect, Recorded Future, Mandiant Advantage, MISP, AlienVault OTX veya otomatik besleme toplama işlem hatlarını içeren istekler için etkinleşir."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

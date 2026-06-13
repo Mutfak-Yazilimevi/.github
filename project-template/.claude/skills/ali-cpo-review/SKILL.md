@@ -1,6 +1,6 @@
 ---
 name: "cpo-review"
-description: "/cs:cpo-review <plan> — JTBD-driven interrogation of product roadmap, PMF signal, and portfolio focus."
+description: "/cs:cpo-review <plan> — Ürün yol haritasının, PMF sinyalinin ve portföy odağının JTBD odaklı sorgulanması."
 ---
 
 # /cs:cpo-review — CPO Forcing Questions

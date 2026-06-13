@@ -1,7 +1,6 @@
 ---
 name: detecting-dll-sideloading-attacks
-description: Detect DLL side-loading attacks where adversaries place malicious DLLs
-  alongside legitimate applications to hijack execution flow for defense evasion.
+description: "Savunmadan kaçınmak amacıyla yürütme akışını ele geçirmek için saldırganların meşru uygulamaların yanına kötü amaçlı DLL'ler yerleştirdiği DLL side-loading saldırılarını tespit eder."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

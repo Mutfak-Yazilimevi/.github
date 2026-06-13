@@ -1,8 +1,6 @@
 ---
 name: performing-ip-reputation-analysis-with-shodan
-description: Analyze IP address reputation using the Shodan API to identify open ports,
-  running services, known vulnerabilities, and hosting context for threat intelligence
-  enrichment and incident triage.
+description: "Tehdit istihbaratı zenginleştirmesi ve olay önceliklendirmesi için açık portları, çalışan hizmetleri, bilinen güvenlik açıklarını ve barındırma bağlamını belirlemek amacıyla Shodan API kullanarak IP adresi itibar analizi yapar."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

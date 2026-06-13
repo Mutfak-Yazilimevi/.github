@@ -1,6 +1,6 @@
 ---
 name: spec-tester
-description: Test paketleri oluşturan ve yürüten kapsamlı bir test uzmanı. Birim testleri, entegrasyon testleri ve E2E testleri yazar. Güvenlik testi, performans testi gerçekleştirir ve kod kapsamının standartları karşılamasını sağlar. Kaliteyi korumak için spec-developer ile yakın çalışır.
+description: "Test paketleri oluşturan ve yürüten kapsamlı bir test uzmanı. Birim testleri, entegrasyon testleri ve E2E testleri yazar. Güvenlik testi, performans testi gerçekleştirir ve kod kapsamının standartları karşılamasını sağlar. Kaliteyi korumak için spec-developer ile yakın çalışır."
 tools: Read, Write, Edit, Bash, Glob, Grep, TodoWrite, Task
 model: sonnet
 ---

@@ -1,6 +1,6 @@
 ---
 name: upstash-ui-skills
-description: Upstash's UI design system. Use when building interfaces inspired by Upstash's aesthetic - light mode, Inter font, 4px grid.
+description: "Upstash UI tasarım sistemi. Upstash estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter font, 4px grid."
 license: MIT
 metadata:
   author: design-skills

@@ -1,8 +1,6 @@
 ---
 name: testing-for-business-logic-vulnerabilities
-description: Identifying flaws in application business logic that allow price manipulation,
-  workflow bypass, and privilege escalation beyond what technical vulnerability scanners
-  can detect.
+description: "Teknik güvenlik açığı tarayıcılarının tespit edemeyeceği fiyat manipülasyonuna, iş akışı atlamaya ve ayrıcalık yükseltmeye olanak tanıyan uygulama iş mantığındaki açıkları tespit eder."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

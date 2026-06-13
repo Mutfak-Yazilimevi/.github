@@ -1,6 +1,6 @@
 ---
 name: mem-ui-skills
-description: Mem's UI design system. Use when building interfaces inspired by Mem's aesthetic - light mode, Inter font, 4px grid.
+description: "Mem'in UI tasarım sistemi. Mem'in estetiğinden esinlenen arayüzler oluştururken kullan — aydınlık mod, Inter yazı tipi, 4px grid."
 license: MIT
 metadata:
   author: design-skills

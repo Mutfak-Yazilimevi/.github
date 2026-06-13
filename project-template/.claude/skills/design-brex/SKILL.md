@@ -1,6 +1,6 @@
 ---
 name: brex-ui-skills
-description: Brex's UI design system. Use when building interfaces inspired by Brex's aesthetic - light mode, Inter font, 4px grid.
+description: "Brex'in UI tasarım sistemi. Brex'in estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter yazı tipi, 4px ızgara."
 license: MIT
 metadata:
   author: design-skills

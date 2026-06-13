@@ -1,6 +1,6 @@
 ---
 name: "email-template-builder"
-description: "Build complete transactional email systems: React Email templates, provider integration (Resend, Postmark, SendGrid, AWS SES), preview server, i18n support, dark mode, spam optimization, analytics tracking. Use when adding transactional email to a new product, migrating between email providers, refactoring legacy email templates for accessibility, or adding internationalization to existing templates."
+description: "Eksiksiz işlemsel e-posta sistemleri oluşturur: React Email şablonları, sağlayıcı entegrasyonu (Resend, Postmark, SendGrid, AWS SES), önizleme sunucusu, i18n desteği, karanlık mod, spam optimizasyonu, analitik takibi. Yeni bir ürüne işlemsel e-posta eklerken, e-posta sağlayıcıları arasında geçiş yaparken, erişilebilirlik için eski e-posta şablonlarını yeniden düzenlerken veya mevcut şablonlara uluslararasılaştırma eklerken kullanılır."
 ---
 
 # Email Template Builder

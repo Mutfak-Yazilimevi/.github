@@ -1,6 +1,6 @@
 ---
 name: lean-canvas
-description: "Generate a Lean Canvas with problem, solution, metrics, cost structure, UVP, unfair advantage, channels, segments, and revenue. Use when exploring a lean startup canvas, testing a business hypothesis, or modeling a new venture."
+description: "Problem, çözüm, metrikler, maliyet yapısı, UVP, haksız avantaj, kanallar, segmentler ve gelir içeren bir Lean Canvas oluşturur. Lean startup canvas keşfederken, iş hipotezi test ederken veya yeni bir girişim modellerken kullan."
 ---
 # Lean Canvas
 

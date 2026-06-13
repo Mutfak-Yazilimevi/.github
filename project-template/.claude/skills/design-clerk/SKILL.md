@@ -1,6 +1,6 @@
 ---
 name: clerk-ui-skills
-description: Clerk's UI design system. Use when building interfaces inspired by Clerk's aesthetic - light mode, Inter font, 4px grid.
+description: "Clerk'in UI tasarım sistemi. Clerk estetiğinden ilham alarak arayüzler oluştururken kullanılır — açık mod, Inter yazı tipi, 4 piksel ızgara."
 license: MIT
 metadata:
   author: design-skills

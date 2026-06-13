@@ -1,18 +1,6 @@
 ---
 name: vision-analysis
-description: >
-  Analyze, describe, and extract information from images using the MiniMax vision MCP tool.
-  Use when: user shares an image file path or URL (any message containing .jpg, .jpeg, .png,
-  .gif, .webp, .bmp, or .svg file extension) or uses any of these words/phrases near an image:
-  "analyze", "analyse", "describe", "explain", "understand", "look at", "review",
-  "extract text", "OCR", "what is in", "what's in", "read this image", "see this image",
-  "tell me about", "explain this", "interpret this", in connection with an image, screenshot,
-  diagram, chart, mockup, wireframe, or photo.
-  Also triggers for: UI mockup review, wireframe analysis, design critique, data extraction
-  from charts, object detection, person/animal/activity identification.
-  Triggers: any message with an image file extension (jpg, jpeg, png, gif, webp, bmp, svg),
-  or any request to analyze/describ/understand/review/extract text from an image, screenshot,
-  diagram, chart, photo, mockup, or wireframe.
+description: "MiniMax vision MCP aracını kullanarak görüntüleri analiz et, tanımla ve bilgi çıkar. Şu durumlarda kullan: kullanıcı bir görüntü dosya yolu veya URL paylaştığında (herhangi bir mesajda .jpg, .jpeg, .png, .gif, .webp, .bmp veya .svg dosya uzantısı varsa) veya bir görüntü yakınında \"analyze\", \"analyse\", \"describe\", \"explain\", \"understand\", \"look at\", \"review\", \"extract text\", \"OCR\", \"what is in\", \"what's in\", \"read this image\", \"see this image\", \"tell me about\", \"explain this\", \"interpret this\" gibi kelimeler/ifadeler kullandığında. Ayrıca şunlar için tetiklenir: UI mockup incelemesi, wireframe analizi, tasarım eleştirisi, grafiklerden veri çıkarımı, nesne tespiti, kişi/hayvan/aktivite tanımlama. Tetikleyiciler: görüntü dosya uzantısı içeren herhangi bir mesaj (jpg, jpeg, png, gif, webp, bmp, svg) veya bir görüntü, ekran görüntüsü, diyagram, grafik, fotoğraf, mockup veya wireframe'den analiz etme/tanımlama/anlama/inceleme/metin çıkarma isteği."
 license: MIT
 metadata:
   version: "1.0"

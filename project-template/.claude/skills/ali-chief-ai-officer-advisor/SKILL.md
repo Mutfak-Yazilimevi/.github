@@ -1,6 +1,6 @@
 ---
 name: "chief-ai-officer-advisor"
-description: "Chief AI Officer advisory for startups: model build-vs-buy decisions (API vs fine-tune vs in-house), AI risk classification under EU AI Act + US state patchwork, AI cost economics (API-to-self-hosted breakeven), and AI team org evolution. Use when deciding whether to call an API or fine-tune, classifying AI use cases for regulatory risk, calculating when self-hosting pays off, sequencing AI hires, or when user mentions CAIO, AI strategy, model selection, foundation model, fine-tuning, EU AI Act, NIST AI RMF, AI governance, model risk, or AI economics. Strategic only — does not duplicate engineering AI/ML skills."
+description: "Girişimler için Chief AI Officer danışmanlığı: model yapma-satın alma kararları (API vs fine-tune vs şirket içi), EU AI Act + ABD eyalet mevzuatı kapsamında yapay zeka risk sınıflandırması, yapay zeka maliyet ekonomisi (API'den kendi kendine barındırmaya geçiş başabaş noktası), yapay zeka ekip organizasyon evrimi. API çağrısı yapıp yapmamaya veya fine-tune etmeye karar verirken, yapay zeka kullanım durumlarını düzenleyici risk için sınıflandırırken, kendi kendine barındırmanın ne zaman karlı olduğunu hesaplarken, yapay zeka işe alım sırasını belirlerken veya kullanıcı CAIO, yapay zeka stratejisi, model seçimi, temel model, fine-tuning, EU AI Act, NIST AI RMF, yapay zeka yönetişimi, model riski veya yapay zeka ekonomisinden bahsettiğinde kullanılır. Yalnızca stratejik — mühendislik yapay zeka/ML becerilerini tekrar etmez."
 license: MIT
 metadata:
   version: 1.0.0

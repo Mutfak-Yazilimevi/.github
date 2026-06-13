@@ -1,8 +1,6 @@
 ---
 name: performing-dark-web-monitoring-for-threats
-description: Dark web monitoring involves systematically scanning Tor hidden services,
-  underground forums, paste sites, and dark web marketplaces to identify threats targeting
-  an organization, including leaked cre
+description: "Dark web izleme, sızdırılmış kimlik bilgileri dahil bir kuruluşu hedefleyen tehditleri tespit etmek için Tor gizli servislerini, yeraltı forumlarını, paste sitelerini ve dark web pazaryerlerini sistematik olarak taramayı içerir"
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

@@ -1,13 +1,6 @@
 ---
 name: containing-active-breach
-description: 'Executes containment strategies to stop active adversary operations
-  and prevent lateral movement during a confirmed security breach. Implements short-term
-  and long-term containment using network segmentation, endpoint isolation, credential
-  revocation, and access control modifications. Activates for requests involving breach
-  containment, lateral movement prevention, network isolation, active threat containment,
-  or live incident response.
-
-  '
+description: "Onaylanmış bir güvenlik ihlali sırasında aktif saldırgan operasyonlarını durdurmak ve yanal hareketi önlemek için izolasyon stratejileri uygular. Ağ segmentasyonu, uç nokta izolasyonu, kimlik bilgisi iptali ve erişim kontrolü değişikliklerini kullanarak kısa ve uzun vadeli izolasyon uygular. İhlal izolasyonu, yanal hareket önleme, ağ izolasyonu, aktif tehdit izolasyonu veya canlı olay müdahalesine yönelik isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: incident-response
 tags:

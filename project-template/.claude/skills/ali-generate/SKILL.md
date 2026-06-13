@@ -1,9 +1,6 @@
 ---
 name: "generate"
-description: >-
-  Generate Playwright tests. Use when user says "write tests", "generate tests",
-  "add tests for", "test this component", "e2e test", "create test for",
-  "test this page", or "test this feature".
+description: "Playwright testleri üretir. Kullanıcı \"write tests\", \"generate tests\", \"add tests for\", \"test this component\", \"e2e test\", \"create test for\", \"test this page\" veya \"test this feature\" dediğinde kullan."
 ---
 
 # Generate Playwright Tests

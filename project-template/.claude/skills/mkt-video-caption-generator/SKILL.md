@@ -1,6 +1,6 @@
 ---
 name: video-caption-generator
-description: Generate accurate captions/subtitles for a video, formatted for the target platform (SRT/VTT or burned-in). Use to add or improve captions on marketing or social videos.
+description: "Bir video için hedef platforma uygun biçimde (SRT/VTT veya gömülü) doğru altyazılar oluştur. Pazarlama veya sosyal videolara altyazı eklemek veya geliştirmek için kullan."
 ---
 
 ---

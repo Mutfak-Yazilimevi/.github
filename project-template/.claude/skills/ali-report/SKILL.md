@@ -1,8 +1,6 @@
 ---
 name: "report"
-description: >-
-  Generate test report. Use when user says "test report", "results summary",
-  "test status", "show results", "test dashboard", or "how did tests go".
+description: "Test raporu üretir. Kullanıcı \"test raporu\", \"sonuç özeti\", \"test durumu\", \"sonuçları göster\", \"test gösterge paneli\" veya \"testler nasıl gitti\" dediğinde kullanılır."
 ---
 
 # Smart Test Reporting

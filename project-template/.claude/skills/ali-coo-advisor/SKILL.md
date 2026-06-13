@@ -1,6 +1,6 @@
 ---
 name: "coo-advisor"
-description: "Operations leadership for scaling companies. Process design, OKR execution, operational cadence, and scaling playbooks. Use when designing operations, setting up OKRs, building processes, scaling teams, analyzing bottlenecks, planning operational cadence, or when user mentions COO, operations, process improvement, OKRs, scaling, operational efficiency, or execution."
+description: "Büyüyen şirketler için operasyonel liderlik. Süreç tasarımı, OKR yürütme, operasyonel kadans ve ölçeklendirme kılavuzları. Operasyon tasarlarken, OKR kurarken, süreçler oluştururken, ekipleri ölçeklendirirken, darboğazları analiz ederken, operasyonel kadans planlarken veya kullanıcı COO, operasyon, süreç iyileştirme, OKR, ölçeklendirme, operasyonel verimlilik ya da yürütmeden bahsettiğinde kullan."
 license: MIT
 metadata:
   version: 1.0.0

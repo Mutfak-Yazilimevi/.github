@@ -1,11 +1,6 @@
 ---
 name: implementing-conduit-security-for-ot-remote-access
-description: 'Implement secure conduit architecture for OT remote access following
-  IEC 62443 zones and conduits model, deploying jump servers, MFA-enabled gateways,
-  session recording, and approval-based workflows to control vendor and engineer access
-  to industrial control systems without exposing OT networks directly.
-
-  '
+description: "OT ağlarını doğrudan açığa çıkarmadan endüstriyel kontrol sistemlerine tedarikçi ve mühendis erişimini denetlemek için jump sunucuları, MFA etkin ağ geçitleri, oturum kaydı ve onay tabanlı iş akışları dağıtarak IEC 62443 bölge ve kanal modeline uygun OT uzaktan erişim için güvenli kanal mimarisi uygula."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

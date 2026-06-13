@@ -1,15 +1,6 @@
 ---
 name: performing-api-fuzzing-with-restler
-description: 'Uses Microsoft RESTler to perform stateful REST API fuzzing by automatically
-  generating and executing test sequences that exercise API endpoints, discover producer-consumer
-  dependencies between requests, and find security and reliability bugs. The tester
-  compiles an OpenAPI specification into a RESTler fuzzing grammar, configures authentication,
-  runs test/fuzz-lean/fuzz modes, and analyzes results for 500 errors, authentication
-  bypasses, resource leaks, and payload injection vulnerabilities. Activates for requests
-  involving API fuzzing, RESTler testing, stateful API testing, or automated API security
-  scanning.
-
-  '
+description: "API uç noktalarını kullanan ve aralarındaki üretici-tüketici bağımlılıklarını keşfeden test dizileri otomatik olarak oluşturup çalıştırarak güvenlik ve güvenilirlik hatalarını bulmak için Microsoft RESTler kullanarak durum bilgili REST API fuzzing gerçekleştirir. Test uzmanı, bir OpenAPI belirtimini RESTler fuzzing gramerine derler, kimlik doğrulamasını yapılandırır, test/fuzz-lean/fuzz modlarını çalıştırır ve 500 hataları, kimlik doğrulama atlatmaları, kaynak sızıntıları ve yük enjeksiyonu güvenlik açıkları için sonuçları analiz eder. API fuzzing, RESTler testi, durum bilgili API testi veya otomatik API güvenliği taraması içeren isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: api-security
 tags:

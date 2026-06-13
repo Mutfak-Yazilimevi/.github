@@ -1,6 +1,6 @@
 ---
 name: "chief-of-staff"
-description: "C-suite orchestration layer. Routes founder questions to the right advisor role(s), triggers multi-role board meetings for complex decisions, synthesizes outputs, and tracks decisions. Every C-suite interaction starts here. Loads company context automatically."
+description: "C-suite orkestrasyon katmanı. Kurucu sorularını doğru danışman rollerine yönlendirir, karmaşık kararlar için çok rollü yönetim kurulu toplantıları tetikler, çıktıları sentezler ve kararları takip eder. Tüm C-suite etkileşimleri buradan başlar. Şirket bağlamını otomatik olarak yükler."
 license: MIT
 metadata:
   version: 1.0.0

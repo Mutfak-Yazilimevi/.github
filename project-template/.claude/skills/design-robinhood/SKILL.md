@@ -1,6 +1,6 @@
 ---
 name: robinhood-ui-skills
-description: Robinhood's UI design system. Use when building interfaces inspired by Robinhood's aesthetic - dark mode, Inter font, 4px grid.
+description: "Robinhood'un UI tasarım sistemi. Robinhood'un estetiğinden ilham alan arayüzler oluştururken kullan — karanlık mod, Inter yazı tipi, 4px grid."
 license: MIT
 metadata:
   author: design-skills

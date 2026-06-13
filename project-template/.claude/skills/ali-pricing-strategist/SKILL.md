@@ -1,6 +1,6 @@
 ---
 name: pricing-strategist
-description: "Use when designing or revisiting product pricing — selecting a pricing model (subscription seat-based, usage-based, value-based, freemium, or hybrid), running Van Westendorp Price Sensitivity Meter analysis on WTP survey data, or designing Good/Better/Best packaging tiers. Recommends a model and a price range with trade-offs, never a single number. For Commercial leads, Product Marketing, and CMOs at the pricing-design moment — not deal-by-deal discounting, not brand positioning."
+description: "Ürün fiyatlandırması tasarlarken veya yeniden değerlendirirken kullan — fiyatlandırma modeli seçimi (abonelik koltuk bazlı, kullanım bazlı, değer bazlı, freemium veya karma), WTP anket verilerinde Van Westendorp Fiyat Hassasiyet Ölçeri analizi veya İyi/Daha İyi/En İyi paket katmanları tasarımı. Tek bir sayı değil, takas analiziyle birlikte bir model ve fiyat aralığı önerir. Fiyatlandırma tasarım anında Ticari liderler, Ürün Pazarlaması ve CMO'lar için — anlaşma bazında indirim veya marka konumlandırma için değil."
 version: 2.8.0
 author: claude-code-skills
 license: MIT

@@ -1,6 +1,6 @@
 ---
 name: research-finance
-description: Use when managing the money for an internal R&D program or portfolio — building a multi-period program budget with the F&A (indirect) split, tracking burn rate and runway against value-inflection milestones, or routing R&D cost items to a capitalize-vs-expense determination. Every budget output surfaces its assumptions block; capitalize-vs-expense is decision-support only and routes to a named finance owner — it never books an entry or decides accounting treatment. Distinct from finance/financial-analysis (corporate DCF, close, valuation) and research/grants (funding discovery — this manages money already won).
+description: "Dahili bir Ar-Ge programı veya portföyü için para yönetirken kullan — F&A (dolaylı) bölümüyle çok dönemli program bütçesi oluşturma, değer-enflasyon kilometre taşlarına karşı yanma oranı ve pist takibi veya Ar-Ge maliyet kalemlerini aktifleştir-gider belirleme kararına yönlendirme. Her bütçe çıktısı varsayımlar bloğunu ortaya çıkarır; aktifleştir-gider karar desteğidir ve adlandırılmış bir finans sahibine yönlendirilir — hiçbir zaman bir giriş kaydetmez veya muhasebe işlemini kararlaştırmaz. finance/financial-analysis'den (kurumsal DCF, kapanış, değerleme) ve research/grants'tan (fon keşfi — bu kazanılan parayı yönetir) farklıdır."
 version: 2.9.0
 author: claude-code-skills
 license: MIT

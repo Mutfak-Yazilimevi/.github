@@ -1,16 +1,6 @@
 ---
 name: microbenchmarking
-description: >
-  Activate this skill when BenchmarkDotNet (BDN) is involved in the task — creating,
-  running, configuring, or reviewing BDN benchmarks. Also activate when
-  microbenchmarking .NET code would be useful and BenchmarkDotNet is the likely
-  tool. Consider activating when answering a .NET performance question requires
-  measurement and BenchmarkDotNet may be needed.
-  Covers microbenchmark design, BDN configuration and project setup, how to run
-  BDN microbenchmarks efficiently and effectively, and using BDN for side-by-side
-  performance comparisons.
-  Do NOT use for profiling/tracing .NET code (dotnet-trace, PerfView), production
-  telemetry, or load/stress testing (Crank, k6).
+description: "Görevde BenchmarkDotNet (BDN) söz konusu olduğunda bu beceriyi etkinleştir — BDN kıyaslamaları oluşturma, çalıştırma, yapılandırma veya inceleme. Ayrıca .NET kodunu mikro kıyaslama yapmak faydalı olacağında ve BenchmarkDotNet muhtemel araç olduğunda etkinleştir. .NET performans sorusunu yanıtlamak ölçüm gerektiriyorsa ve BenchmarkDotNet gerekebiliyorsa etkinleştirmeyi düşün. Mikro kıyaslama tasarımını, BDN yapılandırmasını ve proje kurulumunu, BDN mikro kıyaslamalarını verimli ve etkili biçimde çalıştırmayı ve yan yana performans karşılaştırmaları için BDN kullanmayı kapsar. .NET kodu profilleme/izleme (dotnet-trace, PerfView), prodüksiyon telemetrisi veya yük/stres testi (Crank, k6) için KULLANMA."
 license: MIT
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: "hard-call"
-description: "/em -hard-call — Framework for Decisions With No Good Options"
+description: "/em -hard-call — İyi Seçenek Olmayan Kararlar için Çerçeve"
 ---
 
 # /em:hard-call — Framework for Decisions With No Good Options

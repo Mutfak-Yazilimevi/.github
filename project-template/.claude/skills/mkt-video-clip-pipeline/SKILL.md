@@ -1,6 +1,6 @@
 ---
 name: video-clip-pipeline
-description: Produce clips from long-form video — identify highlights, cut, and assemble a publishing-ready clip set. Use to systematically extract shareable moments from long videos.
+description: "Uzun biçimli videodan klipler üretir — öne çıkan anları belirler, keser ve yayına hazır klip seti oluşturur. Uzun videolardan paylaşılabilir anları sistematik biçimde çıkarmak için kullan."
 ---
 
 # Long-Form Video Clip Pipeline

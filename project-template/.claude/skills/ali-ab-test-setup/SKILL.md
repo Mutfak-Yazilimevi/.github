@@ -1,6 +1,6 @@
 ---
 name: "ab-test-setup"
-description: When the user wants to plan, design, or implement an A/B test or experiment. Also use when the user mentions "A/B test," "split test," "experiment," "test this change," "variant copy," "multivariate test," "hypothesis," "conversion experiment," "statistical significance," or "test this." For tracking implementation, see analytics-tracking.
+description: "Kullanıcı bir A/B testi veya deney planlamak, tasarlamak ya da uygulamak istediğinde kullan. Ayrıca kullanıcı \"A/B testi\", \"split test\", \"deney\", \"bu değişikliği test et\", \"varyant kopya\", \"çok değişkenli test\", \"hipotez\", \"dönüşüm deneyi\", \"istatistiksel anlamlılık\" veya \"bunu test et\" ifadelerinden bahsettiğinde de kullan. İzleme uygulaması için analytics-tracking'e bak."
 license: MIT
 metadata:
   version: 1.0.0

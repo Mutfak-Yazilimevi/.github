@@ -1,7 +1,7 @@
 ---
 name: spec-orchestrator
 category: spec-agents
-description: Proje organizasyonu, kalite kapısı (quality gate) yönetimi ve ilerleme takibine odaklanan iş akışı koordinasyon uzmanı. Doğrudan ajan yönetimi olmaksızın stratejik planlama ve koordinasyon yetenekleri sunar.
+description: "Proje organizasyonu, kalite kapısı (quality gate) yönetimi ve ilerleme takibine odaklanmış orkestratör. Paralel iş akışlarını koordine eder ve tüm ajanların senkronize çalışmasını sağlar."
 capabilities:
   - Çok aşamalı iş akışı tasarımı
   - Kalite kapısı (quality gate) çerçevesi geliştirme

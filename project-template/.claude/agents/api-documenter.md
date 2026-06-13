@@ -1,6 +1,6 @@
 ---
 name: api-documenter
-description: Kapsamlı, geliştirici öncelikli API dokümantasyonu oluşturan uzman bir ajan. OpenAPI 3.0 spesifikasyonları, kod örnekleri, SDK kullanım kılavuzları ve eksiksiz Postman koleksiyonları üretir.
+description: "Kapsamlı, geliştirici öncelikli API dokümantasyonu oluşturan uzman bir ajan. OpenAPI spec'leri, README'ler ve entegrasyon kılavuzları üretir."
 tools: Read, Write, Edit, MultiEdit, Grep, Glob, Bash, LS, WebSearch, WebFetch, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs
 model: haiku
 ---

@@ -1,6 +1,6 @@
 ---
 name: grill-me
-description: Interview the user relentlessly about a plan or design until reaching shared understanding, resolving each branch of the decision tree. Use when user wants to stress-test a plan, get grilled on their design, or mentions "grill me".
+description: "Ortak bir anlayışa ulaşana ve karar ağacının her dalını çözene kadar kullanıcıyı bir plan veya tasarım hakkında amansızca sorgular. Kullanıcı planını stres testi yapmak, tasarımı hakkında sorgulanmak veya \"grill me\" ifadesini kullandığında kullan."
 license: MIT
 metadata:
   derived_from: "https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me"

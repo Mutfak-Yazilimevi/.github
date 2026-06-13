@@ -1,6 +1,6 @@
 ---
 name: product-name
-description: "Brainstorm 5 unique, memorable product names with rationale aligned to brand values and target audience. Use when naming a new product, rebranding, or exploring product name ideas."
+description: "Marka değerleri ve hedef kitleyle uyumlu gerekçesiyle birlikte 5 benzersiz, akılda kalıcı ürün adı için beyin fırtınası yap. Yeni bir ürünü isimlendirirken, markayı yeniden adlandırırken veya ürün adı fikirleri keşfederken kullan."
 ---
 # Product Name
 

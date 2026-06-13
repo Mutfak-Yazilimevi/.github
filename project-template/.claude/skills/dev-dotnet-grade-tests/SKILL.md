@@ -1,20 +1,6 @@
 ---
 name: grade-tests
-description: >
-  Grades a specified set of test methods individually and produces a concise
-  table mapping each test (fully-qualified name) to a letter grade (A–F), a
-  score band, and a one-line note — designed to be posted as a PR comment.
-  Use when the caller wants per-test feedback on a curated list of methods
-  (for example, the new or modified tests in a pull request), not a
-  suite-wide audit. Polyglot: .NET (MSTest/xUnit/NUnit/TUnit), Python
-  (pytest/unittest), TS/JS (Jest/Vitest/Mocha/node:test), Java (JUnit/TestNG),
-  Go, Ruby (RSpec/Minitest), Rust, Swift (XCTest/Swift Testing), Kotlin
-  (JUnit/Kotest), PowerShell (Pester), C++ (GoogleTest/Catch2/doctest).
-  Input is a list of test methods (or method bodies / file+line spans);
-  output is a compact markdown table plus a short summary. DO NOT USE FOR:
-  full suite audits (use test-quality-auditor agent or test-anti-patterns),
-  writing new tests (use code-testing-generator agent or writing-mstest-tests),
-  fixing failures, or measuring code coverage.
+description: "Belirli bir test yöntemleri kümesini tek tek değerlendirir ve her testi (tam nitelikli ad) bir harf notuna (A–F), bir puan bandına ve tek satırlık bir nota eşleyen özlü bir tablo üretir — PR yorumu olarak paylaşılmak üzere tasarlanmıştır. Çağıran, seçilmiş bir yöntem listesi üzerinde test başına geri bildirim istediğinde kullan (örneğin bir pull request'teki yeni veya değiştirilen testler), tam süit denetimi için değil. Çoklu dil desteği: .NET (MSTest/xUnit/NUnit/TUnit), Python (pytest/unittest), TS/JS (Jest/Vitest/Mocha/node:test), Java (JUnit/TestNG), Go, Ruby (RSpec/Minitest), Rust, Swift (XCTest/Swift Testing), Kotlin (JUnit/Kotest), PowerShell (Pester), C++ (GoogleTest/Catch2/doctest). Girdi test yöntemi listesidir (veya yöntem gövdeleri/dosya+satır aralıkları); çıktı kompakt bir markdown tablosu ve kısa bir özettir. ŞUNLAR İÇİN KULLANMA: tam süit denetimleri (test-quality-auditor ajanı veya test-anti-patterns kullan), yeni test yazma (code-testing-generator ajanı veya writing-mstest-tests kullan), hata düzeltme veya kod kapsamı ölçme."
 license: MIT
 ---
 

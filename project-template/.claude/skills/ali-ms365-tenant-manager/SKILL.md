@@ -1,6 +1,6 @@
 ---
 name: "ms365-tenant-manager"
-description: Microsoft 365 tenant administration for Global Administrators. Automate M365 tenant setup, Office 365 admin tasks, Azure AD user management, Exchange Online configuration, Teams administration, and security policies. Generate PowerShell scripts for bulk operations, Conditional Access policies, license management, and compliance reporting. Use for M365 tenant manager, Office 365 admin, Azure AD users, Global Administrator, tenant configuration, or Microsoft 365 automation.
+description: "Global Administrators için Microsoft 365 tenant yönetimi. M365 tenant kurulumunu, Office 365 yönetici görevlerini, Azure AD kullanıcı yönetimini, Exchange Online yapılandırmasını, Teams yönetimini ve güvenlik politikalarını otomatikleştirir. Toplu işlemler, Conditional Access politikaları, lisans yönetimi ve uyumluluk raporlaması için PowerShell scriptleri oluşturur. M365 tenant yöneticisi, Office 365 admin, Azure AD kullanıcıları, Global Administrator, tenant yapılandırması veya Microsoft 365 otomasyonu için kullan"
 ---
 
 # Microsoft 365 Tenant Manager

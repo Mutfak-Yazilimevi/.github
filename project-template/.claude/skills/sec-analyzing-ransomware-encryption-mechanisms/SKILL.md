@@ -1,12 +1,6 @@
 ---
 name: analyzing-ransomware-encryption-mechanisms
-description: 'Analyzes encryption algorithms, key management, and file encryption
-  routines used by ransomware families to assess decryption feasibility, identify
-  implementation weaknesses, and support recovery efforts. Covers AES, RSA, ChaCha20,
-  and hybrid encryption schemes. Activates for requests involving ransomware cryptanalysis,
-  encryption analysis, key recovery assessment, or ransomware decryption feasibility.
-
-  '
+description: "Şifre çözme fizibiliteliğini değerlendirmek, uygulama zayıflıklarını belirlemek ve kurtarma çabalarını desteklemek için fidye yazılımı ailelerinin şifreleme algoritmalarını, anahtar yönetimini ve dosya şifreleme rutinlerini analiz eder. AES, RSA, ChaCha20 ve hibrit şifreleme şemalarını kapsar. Fidye yazılımı kriptanalizi, şifreleme analizi, anahtar kurtarma değerlendirmesi veya fidye yazılımı şifre çözme fizibiliteliğini içeren istekler için etkinleşir."
 domain: cybersecurity
 subdomain: malware-analysis
 tags:

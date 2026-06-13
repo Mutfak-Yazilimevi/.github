@@ -1,12 +1,6 @@
 ---
 name: implementing-siem-use-cases-for-detection
-description: 'Implements SIEM detection use cases by designing correlation rules,
-  threshold alerts, and behavioral analytics mapped to MITRE ATT&CK techniques across
-  Splunk, Elastic, and Sentinel. Use when SOC teams need to expand detection coverage,
-  formalize use case lifecycle management, or build a detection library aligned to
-  organizational threat profile.
-
-  '
+description: "Splunk, Elastic ve Sentinel genelinde MITRE ATT&CK tekniklerine eşlenmiş korelasyon kuralları, eşik uyarıları ve davranışsal analitik tasarlayarak SIEM tespit kullanım örnekleri uygular. SOC ekiplerinin tespit kapsamını genişletmesi, kullanım örnekleri yaşam döngüsü yönetimini resmileştirmesi veya kurumsal tehdit profiline uyumlu bir tespit kütüphanesi oluşturması gerektiğinde kullan."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

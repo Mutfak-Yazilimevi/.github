@@ -1,6 +1,6 @@
 ---
 name: "threat-detection"
-description: "Use when hunting for threats in an environment, analyzing IOCs, or detecting behavioral anomalies in telemetry. Covers hypothesis-driven threat hunting, IOC sweep generation, z-score anomaly detection, and MITRE ATT&CK-mapped signal prioritization."
+description: "Bir ortamda tehdit avı yaparken, IOC'leri analiz ederken veya telemetrideki davranışsal anomalileri tespit ederken kullan. Hipotez odaklı tehdit avı, IOC tarama üretimi, z-score anomali tespiti ve MITRE ATT&CK eşlemeli sinyal önceliklendirmesini kapsar."
 ---
 
 # Threat Detection

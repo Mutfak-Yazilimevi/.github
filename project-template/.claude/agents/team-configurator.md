@@ -1,6 +1,6 @@
 ---
 name: team-configurator
-description: Mevcut proje için yapay zekâ geliştirme takımını kurmak veya yenilemek üzere MUTLAKA KULLANILMALIDIR. Yeni depolarda, büyük teknoloji yığını değişikliklerinden sonra veya kullanıcı yapay zekâ takımını yapılandırmayı istediğinde PROAKTİF olarak kullanın. Yığını tespit eder, en uygun uzman alt ajanları seçer ve CLAUDE.md dosyasını bir "AI Team Configuration" bölümüyle yazar/günceller.
+description: "Mevcut proje için yapay zekâ geliştirme takımını kurmak veya yenilemek üzere MUTLAKA KULLANIN."
 tools: LS, Read, Write, Bash, Glob, Grep
 model: haiku
 ---

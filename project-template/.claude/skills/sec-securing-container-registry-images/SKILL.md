@@ -1,11 +1,6 @@
 ---
 name: securing-container-registry-images
-description: 'Securing container registry images by implementing vulnerability scanning
-  with Trivy and Grype, enforcing image signing with Cosign and Sigstore, configuring
-  registry access controls, and building CI/CD pipelines that prevent deploying unscanned
-  or unsigned images.
-
-  '
+description: "Trivy ve Grype ile güvenlik açığı taraması uygulayarak, Cosign ve Sigstore ile görüntü imzalamayı zorunlu kılarak, registry erişim kontrollerini yapılandırarak ve taranmamış veya imzalanmamış görüntülerin dağıtımını önleyen CI/CD iş hatları oluşturarak container registry görüntülerini güvenli hale getirir."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

@@ -1,8 +1,6 @@
 ---
 name: performing-web-cache-deception-attack
-description: Execute web cache deception attacks by exploiting path normalization
-  discrepancies between CDN caching layers and origin servers to cache and retrieve
-  sensitive authenticated content.
+description: "Hassas kimliği doğrulanmış içeriği önbelleğe almak ve geri almak için CDN önbellek katmanları ile kaynak sunucular arasındaki yol normalleştirme tutarsızlıklarını istismar ederek web önbellek yanıltma saldırıları gerçekleştirir."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

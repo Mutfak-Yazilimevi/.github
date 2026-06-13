@@ -1,6 +1,6 @@
 ---
 name: engineering-chaos-engineering
-description: Use when planning, running, or learning from chaos engineering experiments. Triggers on "chaos experiment", "fault injection", "gameday", "resilience test", "blast radius", "steady state", "abort criteria", "Chaos Toolkit", "Chaos Mesh", "Litmus", "Gremlin", "AWS FIS", or any deliberate failure-injection question. Ships experiment designer, blast-radius calculator, and postmortem generator (all stdlib Python), 4 references on chaos principles + experiment design + attack taxonomy + tooling landscape, and a /chaos-experiment slash command. Composes with feature-flags-architect (kill switches as abort triggers) and kubernetes-operator (common chaos targets).
+description: "Kaos mühendisliği deneyleri planlarken, çalıştırırken veya öğrenirken kullanılır. \"chaos experiment\", \"fault injection\", \"gameday\", \"resilience test\", \"blast radius\", \"steady state\", \"abort criteria\", \"Chaos Toolkit\", \"Chaos Mesh\", \"Litmus\", \"Gremlin\", \"AWS FIS\" veya herhangi bir kasıtlı hata enjeksiyon sorusunda tetiklenir. Deney tasarımcısı, blast-radius hesaplayıcı ve postmortem üreteci (tümü stdlib Python), kaos prensipleri + deney tasarımı + saldırı taksonomisi + araç ortamı üzerine 4 referans ve bir /chaos-experiment slash komutu ile birlikte gelir. feature-flags-architect (abort tetikleyici olarak kill switch) ve kubernetes-operator (yaygın kaos hedefleri) ile birleşir."
 context: fork
 version: 2.9.0
 author: claude-code-skills

@@ -1,8 +1,6 @@
 ---
 name: implementing-pci-dss-compliance-controls
-description: PCI DSS 4.0.1 establishes 12 requirements across 6 control objectives
-  for organizations that store, process, or transmit cardholder data. With PCI DSS
-  3.2.1 retiring April 2024 and 51 new requirements
+description: "PCI DSS 4.0.1, kart sahibi verilerini depolayan, işleyen veya ileten kuruluşlar için 6 kontrol hedefi kapsamında 12 gereklilik belirler. PCI DSS 3.2.1 Nisan 2024'te kullanımdan kaldırılmış ve 51 yeni gereklilik eklenmiştir."
 domain: cybersecurity
 subdomain: compliance-governance
 tags:

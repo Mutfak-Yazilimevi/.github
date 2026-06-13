@@ -1,10 +1,6 @@
 ---
 name: detecting-network-anomalies-with-zeek
-description: 'Deploys and configures Zeek (formerly Bro) network security monitor
-  to passively analyze network traffic, generate structured logs, detect anomalous
-  behavior, and create custom detection scripts for threat hunting and incident response.
-
-  '
+description: "Ağ trafiğini pasif olarak analiz etmek, yapılandırılmış günlükler oluşturmak, anormal davranışları tespit etmek ve tehdit avı ile olay müdahalesi için özel tespit scriptleri oluşturmak amacıyla Zeek (eski adıyla Bro) ağ güvenlik monitörünü dağıtır ve yapılandırır."
 domain: cybersecurity
 subdomain: network-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: "pr-review-expert"
-description: "Use when the user asks to review pull requests, analyze code changes, check for security issues in PRs, or assess code quality of diffs."
+description: "Kullanıcı pull request'leri incelemek, kod değişikliklerini analiz etmek, PR'lardaki güvenlik sorunlarını kontrol etmek veya diff'lerin kod kalitesini değerlendirmek istediğinde kullan."
 ---
 
 # PR Review Expert

@@ -1,10 +1,6 @@
 ---
 name: analyzing-threat-landscape-with-misp
-description: Analyze the threat landscape using MISP (Malware Information Sharing
-  Platform) by querying event statistics, attribute distributions, threat actor galaxy
-  clusters, and tag trends over time. Uses PyMISP to pull event data, compute IOC
-  type breakdowns, identify top threat actors and malware families, and generate threat
-  landscape reports with temporal trends.
+description: "Etkinlik istatistiklerini, özellik dağılımlarını, tehdit aktörü galaksi kümelerini ve zaman içindeki etiket eğilimlerini sorgulayarak MISP (Malware Information Sharing Platform) kullanarak tehdit ortamını analiz et. Olay verilerini çekmek, IOC türü dağılımlarını hesaplamak, en iyi tehdit aktörlerini ve zararlı yazılım ailelerini belirlemek ve zamansal eğilimlerle tehdit ortamı raporları oluşturmak için PyMISP kullanır."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

@@ -1,6 +1,6 @@
 ---
 name: interview-me
-description: Extracts what the user actually wants instead of what they think they should want. Achieves this through one-question-at-a-time interview until ~95% confidence about the underlying intent. Use when an ask is underspecified ("build me X" without "for whom" or "why now"), when the user explicitly invokes ("interview me", "grill me", "are we sure?", "stress-test my thinking"), or when you catch yourself silently filling in ambiguous requirements before any plan, spec, or code exists.
+description: "Kullanıcının düşündüğü şey yerine gerçekten istediğini ortaya çıkarır. Altta yatan niyet hakkında ~%95 güven sağlanana kadar tek soruluk mülakat yöntemiyle bunu başarır. Bir istek belirsiz olduğunda (\"benim için X yap\" ama \"kimin için\" veya \"neden şimdi\" yoksa), kullanıcı açıkça istediğinde (\"interview me\", \"grill me\", \"are we sure?\", \"stress-test my thinking\") veya herhangi bir plan, spec ya da kod mevcut olmadan sessizce belirsiz gereksinimleri doldurduğunuzu fark ettiğinizde kullan."
 ---
 
 # Interview Me

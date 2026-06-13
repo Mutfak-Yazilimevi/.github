@@ -1,12 +1,6 @@
 ---
 name: performing-oauth-scope-minimization-review
-description: 'Performs OAuth 2.0 scope minimization review to identify over-permissioned
-  third-party application integrations, excessive API scopes, unused token grants,
-  and risky OAuth consent patterns across identity providers and SaaS platforms. Activates
-  for requests involving OAuth scope audit, API permission review, third-party app
-  risk assessment, or consent grant minimization.
-
-  '
+description: "Kimlik sağlayıcılar ve SaaS platformlarındaki aşırı izin verilmiş üçüncü taraf uygulama entegrasyonlarını, fazla API kapsamlarını, kullanılmayan token yetkilerini ve riskli OAuth onay kalıplarını tespit etmek için OAuth 2.0 kapsam minimizasyon incelemesi gerçekleştirir. OAuth kapsam denetimi, API izin incelemesi, üçüncü taraf uygulama risk değerlendirmesi veya onay yetkisi minimizasyonu içeren istekler için kullan."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

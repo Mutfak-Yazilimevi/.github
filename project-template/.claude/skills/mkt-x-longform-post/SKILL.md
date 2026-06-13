@@ -1,6 +1,6 @@
 ---
 name: x-longform-post
-description: Write long-form X (Twitter) posts and threads in a founder/CEO voice. Use when drafting X articles, long tweets, thought leadership threads, or viral content. Produces contrarian, data-backed posts with ASCII diagrams and code block visuals. Includes mandatory AI humanizer pass (24-pattern detector) before finalizing.
+description: "Kurucu/CEO sesinde uzun biçimli X (Twitter) yazıları ve thread'leri yazar. X makaleleri, uzun tweet'ler, fikir liderliği thread'leri veya viral içerik taslağı hazırlarken kullanılır. ASCII diyagramlar ve kod bloğu görselleriyle karşı çıkan, veriye dayalı gönderiler üretir. Sonuçlandırmadan önce zorunlu yapay zeka insanlaştırma geçişini içerir (24 örüntü dedektörü)."
 ---
 
 # X Long-Form Post Writer

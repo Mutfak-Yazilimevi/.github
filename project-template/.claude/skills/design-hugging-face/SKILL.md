@@ -1,6 +1,6 @@
 ---
 name: hugging-face-ui-skills
-description: Hugging Face's UI design system. Use when building interfaces inspired by Hugging Face's aesthetic - dark mode, Inter font, 4px grid.
+description: "Hugging Face'in UI tasarım sistemi. Hugging Face'in estetiğinden — karanlık mod, Inter font, 4px grid — ilham alarak arayüz oluştururken kullan."
 license: MIT
 metadata:
   author: design-skills

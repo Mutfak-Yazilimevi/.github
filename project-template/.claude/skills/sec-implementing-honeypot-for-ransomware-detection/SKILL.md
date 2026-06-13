@@ -1,14 +1,6 @@
 ---
 name: implementing-honeypot-for-ransomware-detection
-description: 'Deploys canary files, honeypot shares, and decoy systems to detect ransomware
-  activity at the earliest possible stage. Configures canary tokens embedded in strategic
-  file locations that trigger alerts when ransomware attempts encryption, uses honeypot
-  network shares that mimic high-value targets, and deploys Thinkst Canary appliances
-  for comprehensive deception-based detection. Activates for requests involving ransomware
-  honeypots, canary files, deception technology for ransomware, or early ransomware
-  alerting.
-
-  '
+description: "Fidye yazılımı etkinliğini mümkün olan en erken aşamada tespit etmek için tuzak dosyaları, honeypot paylaşımları ve sahte sistemler dağıtır. Fidye yazılımı şifreleme girişiminde bulunduğunda uyarı veren stratejik dosya konumlarına yerleştirilmiş tuzak token'ları yapılandırır, yüksek değerli hedefleri taklit eden honeypot ağ paylaşımları kullanır ve kapsamlı aldatmaya dayalı tespit için Thinkst Canary cihazları dağıtır. Fidye yazılımı honeypot'ları, tuzak dosyaları, fidye yazılımı için aldatma teknolojisi veya erken fidye yazılımı uyarısı içeren istekler için etkinleşir."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

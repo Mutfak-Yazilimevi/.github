@@ -1,15 +1,6 @@
 ---
 name: expert-panel
-description: >-
-  Score, evaluate, and iteratively improve any content or strategy using an
-  auto-assembled panel of domain experts. Handles copy, sequences, landing pages,
-  strategy docs, titles, charts, recruiting evaluations, or anything else that
-  needs a quality gate. Recursively iterates until all scores hit 90+ (max 3
-  rounds). Use when asked to: "expert panel this", "score this", "rate these
-  variants", "quality check this", "panel review", "which version is better",
-  "expert score", "evaluate this copy/strategy/page", or when another skill
-  needs a quality gate on its output. Also triggers on: "score this landing page",
-  "expert panel these email variants", "rate this headline", "panel these charts".
+description: "Otomatik olarak derlenen alan uzmanları paneli kullanarak herhangi bir içeriği veya stratejiyi puanla, değerlendir ve yinelemeli olarak iyileştir. Metin, diziler, açılış sayfaları, strateji belgeleri, başlıklar, grafikler, işe alım değerlendirmeleri veya kalite kapısı gerektiren her şeyi yönetir. Tüm puanlar 90'ın üzerine çıkana kadar yinelemeli olarak tekrar eder (en fazla 3 tur). \"expert panel this\", \"score this\", \"rate these variants\", \"quality check this\", \"panel review\", \"which version is better\", \"expert score\", \"evaluate this copy/strategy/page\" istendiğinde veya başka bir beceri çıktısında kalite kapısına ihtiyaç duyduğunda kullan."
 ---
 
 

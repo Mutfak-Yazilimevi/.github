@@ -1,13 +1,6 @@
 ---
 name: implementing-anti-ransomware-group-policy
-description: 'Configures Windows Group Policy Objects (GPO) to prevent ransomware
-  execution and limit its spread. Implements AppLocker rules, Software Restriction
-  Policies, Controlled Folder Access, attack surface reduction rules, and network
-  protection settings. Activates for requests involving Windows GPO hardening against
-  ransomware, AppLocker configuration, Controlled Folder Access setup, or endpoint
-  protection via Group Policy.
-
-  '
+description: "Fidye yazılımı yürütmesini önlemek ve yayılmasını sınırlamak için Windows Group Policy Objects (GPO) yapılandırır. AppLocker kuralları, Software Restriction Policies, Controlled Folder Access, saldırı yüzeyini azaltma kuralları ve ağ koruma ayarları uygular. Fidye yazılımına karşı Windows GPO güçlendirme, AppLocker yapılandırması, Controlled Folder Access kurulumu veya Group Policy aracılığıyla endpoint koruması içeren isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

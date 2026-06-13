@@ -1,6 +1,6 @@
 ---
 name: positioning-ideas
-description: "Brainstorm product positioning ideas differentiated from competitors. Identifies top competitors and generates positioning statements with rationale. Use when developing product positioning, differentiating from competitors, or crafting brand positioning strategy."
+description: "Rakiplerden farklılaşan ürün konumlandırma fikirleri üret. Başlıca rakipleri tespit eder ve gerekçeli konumlandırma beyanları oluşturur. Ürün konumlandırması geliştirirken, rakiplerden farklılaşırken veya marka konumlandırma stratejisi hazırlarken kullan."
 ---
 # Positioning Ideas
 

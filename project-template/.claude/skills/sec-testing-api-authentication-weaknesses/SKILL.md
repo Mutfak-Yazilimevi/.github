@@ -1,14 +1,6 @@
 ---
 name: testing-api-authentication-weaknesses
-description: 'Tests API authentication mechanisms for weaknesses including broken
-  token validation, missing authentication on endpoints, weak password policies, credential
-  stuffing susceptibility, token leakage in URLs or logs, and session management flaws.
-  The tester evaluates JWT implementation, API key handling, OAuth flows, and session
-  token entropy to identify authentication bypasses. Maps to OWASP API2:2023 Broken
-  Authentication. Activates for requests involving API authentication testing, token
-  validation assessment, credential security testing, or API auth bypass.
-
-  '
+description: "Kimlik doğrulama atlamalarını tanımlamak amacıyla kimlik doğrulama mekanizmalarını değerlendirmek için JWT uygulamasını, API anahtar işlemeyi, OAuth akışlarını ve oturum token entropisini değerlendirerek bozuk token doğrulaması, uç noktalarda eksik kimlik doğrulama, zayıf parola politikaları, kimlik bilgisi doldurma duyarlılığı, URL'lerde veya günlüklerde token sızıntısı ve oturum yönetimi açıkları dahil olmak üzere API kimlik doğrulama mekanizmalarındaki zayıflıkları test eder. OWASP API2:2023 Broken Authentication ile eşlenir. API kimlik doğrulama testi, token doğrulama değerlendirmesi, kimlik bilgisi güvenliği testi veya API kimlik doğrulama atlaması içeren istekler için kullan."
 domain: cybersecurity
 subdomain: api-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: c-level-advisor-vpe-advisor
-description: "VP of Engineering advisory for startups: delivery throughput (DORA 4 metrics + bottleneck identification), engineering hiring funnel (sourcing → screen → onsite → offer conversion + time-to-fill + pipeline gap), engineering team structure (squad/tribe/chapter design + tech-lead manager-trigger thresholds), and production discipline (on-call, deployment cadence, postmortem culture). Use when sprint velocity is dropping, eng hiring is broken, team structure is unclear, or deciding when to add a tech-lead manager. NOT a CTO skill (which owns architecture) — VPE owns delivery operations and how the team ships."
+description: "Girişimler için VP of Engineering danışmanlığı: teslimat verimi (DORA 4 metrikleri + darboğaz tespiti), mühendislik işe alım hunisi (kaynak → tarama → yerinde → teklif dönüşümü + doldurma süresi + hattı boşluğu), mühendislik ekip yapısı (squad/tribe/chapter tasarımı + teknoloji lider yönetici tetikleme eşikleri) ve üretim disiplini (nöbet, dağıtım kadansı, post-mortem kültürü). Sprint hızı düştüğünde, mühendislik işe alımı bozulduğunda, ekip yapısı belirsiz olduğunda veya teknoloji lider yöneticisi ne zaman ekleneceğine karar verildiğinde kullan. CTO becerisi değil (mimari ona aittir) — VPE teslimat operasyonlarına ve ekibin nasıl ürettiğine sahiptir."
 license: MIT
 metadata:
   version: 1.0.0

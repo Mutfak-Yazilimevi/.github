@@ -1,6 +1,6 @@
 ---
 name: existing-project-onboarding
-description: Read-only front door for an EXISTING project. Instead of asking the user, find the answers IN the codebase — understand what the project is, extract what is built vs what is missing (gaps), record ideas and opportunities to a backlog, explain a plan, and WAIT for an explicit directive before producing or binding a PRD. Makes NO source or config changes; the only files it writes are the backlog and an analysis report. Use to onboard onto an unfamiliar repo or assess an existing project before any work is planned.
+description: "Mevcut bir proje için salt okunur ön kapı. Kullanıcıya sormak yerine yanıtları kod tabanında bul — projenin ne olduğunu anla, neyin yapıldığını ve nelerin eksik olduğunu çıkar (boşluklar), fikirleri ve fırsatları bir backlog'a kaydet, bir plan açıkla ve açık bir yönerge gelene kadar PRD üretmekten KAÇIN. Kaynak veya yapılandırma değişikliği YAPMAZ; yazdığı tek dosyalar backlog ve analiz raporudur. Tanıdık olmayan bir repo'ya katılmak veya herhangi bir çalışma planlanmadan önce mevcut bir projeyi değerlendirmek için kullan."
 ---
 
 # Existing Project Onboarding (read-only front door)

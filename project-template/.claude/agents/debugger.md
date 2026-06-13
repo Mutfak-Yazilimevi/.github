@@ -1,6 +1,6 @@
 ---
 name: debugger
-description: Hatalar, test başarısızlıkları ve beklenmeyen davranışlar için hata ayıklama uzmanı. Herhangi bir sorunla karşılaşıldığında proaktif olarak kullan.
+description: "Hatalar, test başarısızlıkları ve beklenmeyen davranışlar için hata ayıklama uzmanı. Kök neden analizi yapar ve etkili düzeltmeler uygular."
 tools: Read, Write, Edit, MultiEdit, Grep, Glob, Bash, LS, WebSearch, WebFetch, TodoWrite, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__sequential-thinking__sequentialthinking
 model: sonnet
 ---

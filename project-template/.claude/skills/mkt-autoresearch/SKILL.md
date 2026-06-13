@@ -1,6 +1,6 @@
 ---
 name: autoresearch
-description: Run Karpathy-style autoresearch optimization on any content. Generates 50+ variants, scores with a 5-expert simulated panel, evolves winners through multiple rounds, outputs optimized version + full experiment log. Use when optimizing landing pages, email sequences, ad copy, headlines, form pages, CTA text, or any conversion-focused content. Triggers on "optimize this page", "run autoresearch", "score these variants", "A/B test this copy".
+description: "Herhangi bir içerik üzerinde Karpathy tarzı otomatik araştırma optimizasyonu çalıştırır. 50'den fazla varyant üretir, 5 uzman simüle panelle puanlar, kazananları birden fazla turda geliştirir, optimize edilmiş versiyon + tam deney günlüğü çıktısı verir. Açılış sayfalarını, e-posta dizilerini, reklam metinlerini, başlıkları, form sayfalarını, CTA metnini veya dönüşüm odaklı herhangi bir içeriği optimize ederken kullan. Tetikleyiciler: \"optimize this page\", \"run autoresearch\", \"score these variants\", \"A/B test this copy\"."
 ---
 
 # Autoresearch Skill

@@ -1,6 +1,6 @@
 ---
 name: "stripe-integration-expert"
-description: "Production-grade Stripe integrations: subscriptions with trials and proration, one-time payments, usage-based billing, checkout sessions, idempotent webhook handlers, customer portal, and invoicing. Covers Next.js, Express, and Django patterns. Use when integrating Stripe for the first time, debugging webhook reliability issues, migrating from a different payment provider, or adding usage-based billing to an existing subscription product."
+description: "Üretim kalitesinde Stripe entegrasyonları: denemeler ve orantılandırma ile abonelikler, tek seferlik ödemeler, kullanım bazlı faturalama, checkout oturumları, idempotent webhook işleyicileri, müşteri portalı ve faturalandırma. Next.js, Express ve Django kalıplarını kapsar. Stripe'ı ilk kez entegre ederken, webhook güvenilirlik sorunlarını hata ayıklarken, farklı bir ödeme sağlayıcısından geçiş yaparken veya mevcut bir abonelik ürününe kullanım bazlı faturalama eklerken kullan."
 ---
 
 # Stripe Integration Expert

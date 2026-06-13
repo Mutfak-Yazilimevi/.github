@@ -1,6 +1,6 @@
 ---
 name: beehiiv-ui-skills
-description: Beehiiv's UI design system. Use when building interfaces inspired by Beehiiv's aesthetic - light mode, Inter font, 4px grid.
+description: "Beehiiv'in UI tasarım sistemi. Beehiiv'in estetiğinden esinlenen arayüzler oluştururken kullan — aydınlık mod, Inter yazı tipi, 4px grid."
 license: MIT
 metadata:
   author: design-skills

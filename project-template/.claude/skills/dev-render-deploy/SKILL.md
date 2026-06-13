@@ -1,6 +1,6 @@
 ---
 name: render-deploy
-description: Deploy applications to Render by analyzing codebases, generating render.yaml Blueprints, and providing Dashboard deeplinks. Use when the user wants to deploy, host, publish, or set up their application on Render's cloud platform.
+description: "Kod tabanlarını analiz ederek, render.yaml Blueprint'leri oluşturarak ve Dashboard derin bağlantıları sağlayarak uygulamaları Render'a dağıt. Kullanıcı uygulamasını Render'ın bulut platformunda dağıtmak, barındırmak, yayınlamak veya kurmak istediğinde kullan."
 ---
 
 # Deploy to Render

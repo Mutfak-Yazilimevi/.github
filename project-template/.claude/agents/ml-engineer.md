@@ -1,6 +1,6 @@
 ---
 name: ml-engineer
-description: Üretimdeki makine öğrenmesi modellerinin uçtan uca yaşam döngüsünü tasarlar, inşa eder ve yönetir. Ölçeklenebilir, güvenilir ve otomatikleştirilmiş ML sistemleri oluşturmada uzmanlaşmıştır. ML modellerinin dağıtımı, izlenmesi ve bakımını içeren görevler için PROAKTİF olarak kullanın.
+description: "Üretimdeki makine öğrenmesi modellerinin uçtan uca yaşam döngüsünü tasarlar, inşa eder ve optimize eder."
 tools: Read, Write, Edit, Grep, Glob, Bash, LS, WebFetch, WebSearch, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__sequential-thinking__sequentialthinking
 model: sonnet
 ---

@@ -1,6 +1,6 @@
 ---
 name: ad-creative
-description: "When the user wants to generate, iterate, or scale ad creative — headlines, descriptions, primary text, or full ad variations — for any paid advertising platform. Also use when the user mentions 'ad copy variations,' 'ad creative,' 'generate headlines,' 'RSA headlines,' 'bulk ad copy,' 'ad iterations,' 'creative testing,' 'ad performance optimization,' 'write me some ads,' 'Facebook ad copy,' 'Google ad headlines,' 'LinkedIn ad text,' or 'I need more ad variations.' Use this whenever someone needs to produce ad copy at scale or iterate on existing ads. For campaign strategy and targeting, see ads. For landing page copy, see copywriting."
+description: "Kullanıcı herhangi bir ücretli reklam platformu için reklam kreatifi üretmek, yinelemek veya ölçeklendirmek istediğinde kullan — başlıklar, açıklamalar, birincil metin veya tam reklam varyasyonları. Ayrıca kullanıcı 'reklam kopya varyasyonları', 'reklam kreatifi', 'başlık oluştur', 'RSA başlıkları', 'toplu reklam kopyası', 'reklam yinelemeleri', 'kreatif test', 'reklam performansı optimizasyonu', 'bana birkaç reklam yaz', 'Facebook reklam kopyası', 'Google reklam başlıkları', 'LinkedIn reklam metni' veya 'daha fazla reklam varyasyonuna ihtiyacım var' ifadelerinden bahsettiğinde de kullan. Birisinin ölçekli reklam kopyası üretmesi veya mevcut reklamları yinelemesi gerektiğinde her zaman kullan. Kampanya stratejisi ve hedefleme için ads'e bak. Açılış sayfası kopyası için copywriting'e bak."
 metadata:
   version: 2.0.0
 ---

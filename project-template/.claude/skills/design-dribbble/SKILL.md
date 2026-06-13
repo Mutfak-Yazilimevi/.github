@@ -1,6 +1,6 @@
 ---
 name: dribbble-ui-skills
-description: Dribbble's UI design system. Use when building interfaces inspired by Dribbble's aesthetic - light mode, Inter font, 4px grid.
+description: "Dribbble'ın UI tasarım sistemi. Dribbble'ın estetiğinden esinlenen arayüzler oluştururken kullan — aydınlık mod, Inter yazı tipi, 4px grid."
 license: MIT
 metadata:
   author: design-skills

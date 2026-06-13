@@ -1,6 +1,6 @@
 ---
 name: sales-pipeline
-description: Build and manage a structured sales pipeline — stages, qualification criteria, and deal-progression rules. Use to design or clean up a pipeline and define how deals advance.
+description: "Yapılandırılmış bir satış hattı oluştur ve yönet — aşamalar, nitelendirme kriterleri ve fırsat ilerleme kuralları. Bir pipeline tasarlamak veya düzenlemek ve fırsatların nasıl ilerleyeceğini tanımlamak için kullan."
 ---
 
 # AI Sales Pipeline

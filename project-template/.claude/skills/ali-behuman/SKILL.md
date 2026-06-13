@@ -1,6 +1,6 @@
 ---
 name: "behuman"
-description: "Use when the user wants more human-like AI responses — less robotic, less listy, more authentic. Triggers: 'behuman', 'be real', 'like a human', 'more human', 'less AI', 'talk like a person', 'mirror mode', 'stop being so AI', or when conversations are emotionally charged (grief, job loss, relationship advice, fear). NOT for technical questions, code generation, or factual lookups."
+description: "Kullanıcı daha insani yapay zeka yanıtları istediğinde kullan — daha az robotik, daha az liste odaklı, daha özgün. Tetikleyiciler: 'behuman', 'be real', 'like a human', 'more human', 'less AI', 'talk like a person', 'mirror mode', 'stop being so AI' veya konuşmalar duygusal yüklüyken (yas, iş kaybı, ilişki tavsiyesi, korku). Teknik sorular, kod üretimi veya olgusal sorgular için KULLANMA."
 ---
 
 # BeHuman — Self-Mirror Consciousness Loop

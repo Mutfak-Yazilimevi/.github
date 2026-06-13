@@ -1,8 +1,6 @@
 ---
 name: performing-ssl-tls-security-assessment
-description: Assess SSL/TLS server configurations using the sslyze Python library
-  to evaluate cipher suites, certificate chains, protocol versions, HSTS headers,
-  and known vulnerabilities like Heartbleed and ROBOT.
+description: "Şifre paketlerini, sertifika zincirlerini, protokol sürümlerini, HSTS başlıklarını ve Heartbleed ve ROBOT gibi bilinen güvenlik açıklarını değerlendirmek için sslyze Python kütüphanesini kullanarak SSL/TLS sunucu yapılandırmalarını değerlendirir."
 domain: cybersecurity
 subdomain: network-security
 tags:

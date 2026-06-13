@@ -1,6 +1,6 @@
 ---
 name: figma-generate-design
-description: "Use this skill alongside figma-use when the task involves translating an application page, view, or multi-section layout into Figma. Triggers: 'write to Figma', 'create in Figma from code', 'push page to Figma', 'take this app/page and build it in Figma', 'create a screen', 'build a landing page in Figma', 'update the Figma screen to match code'. This is the preferred workflow skill whenever the user wants to build or update a full page, screen, or view in Figma from code or a description. Discovers design system components, variables, and styles via search_design_system, imports them, and assembles screens incrementally section-by-section using design system tokens instead of hardcoded values."
+description: "Görev bir uygulama sayfasını, görünümünü veya çok bölümlü düzeni Figma'ya çevirmekle ilgiliyse figma-use ile birlikte bu skill'i kullan. Tetikleyiciler: 'Figma'ya yaz', 'koddan Figma'da oluştur', 'sayfayı Figma'ya gönder', 'bu uygulama/sayfayı al ve Figma'da oluştur', 'bir ekran oluştur', 'Figma'da açılış sayfası oluştur', 'Figma ekranını koda eşleşecek şekilde güncelle'. Kullanıcı koddan veya açıklamadan Figma'da tam bir sayfa, ekran veya görünüm oluşturmak veya güncellemek istediğinde tercih edilen iş akışı skill'idir."
 ---
 
 # Build / Update Screens from Design System

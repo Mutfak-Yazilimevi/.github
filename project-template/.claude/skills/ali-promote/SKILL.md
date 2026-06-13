@@ -1,6 +1,6 @@
 ---
 name: "promote"
-description: "Graduate a proven pattern from auto-memory (MEMORY.md) to CLAUDE.md or .claude/rules/ for permanent enforcement."
+description: "Otomatik bellekten (MEMORY.md) kanıtlanmış bir kalıbı kalıcı uygulama için CLAUDE.md veya .claude/rules/ içine taşı."
 ---
 
 # /si:promote — Graduate Learnings to Rules

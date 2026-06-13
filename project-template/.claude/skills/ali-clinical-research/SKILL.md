@@ -1,6 +1,6 @@
 ---
 name: clinical-research
-description: Use when designing a prospective clinical study before submission — selecting and classifying endpoints (primary / key-secondary / exploratory, with surrogate-endpoint flagging), estimating sample size and power for two-arm designs (means / proportions / survival), or scoring a study plan for feasibility and a GO / GO-WITH-CONDITIONS / REDESIGN / NO-GO phase-gate decision. Every output is an ESTIMATE plus a named human owner (clinician / biostatistician / regulatory owner) — never clinical fact, never a finished protocol. Distinct from ra-qm-team, which handles the regulatory/QM submission (ISO 13485, EU MDR, FDA 510(k)/PMA/QSR), not the study design.
+description: "Sunumdan önce prospektif bir klinik çalışma tasarlarken kullan — uç noktaları seçme ve sınıflandırma (birincil / kilit-ikincil / keşifsel, vekil-uç nokta işaretlemeyle birlikte), iki kollu tasarımlar için örneklem büyüklüğü ve güç tahmini (ortalama / oranlar / sağkalım) veya bir çalışma planını fizibilite ve GO / GO-WITH-CONDITIONS / REDESIGN / NO-GO aşama geçiş kararı için puanlama. Her çıktı bir TAHMİN ve belirlenmiş bir insan sahibidir (klinisyen / biyoistatistikçi / düzenleyici sorumlu) — asla klinik gerçek, asla bitmiş bir protokol değildir. Düzenleyici/KYS sunumunu (ISO 13485, EU MDR, FDA 510(k)/PMA/QSR değil, çalışma tasarımını) ele alan ra-qm-team becerisinden farklıdır."
 version: 2.9.0
 author: claude-code-skills
 license: MIT

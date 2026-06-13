@@ -1,6 +1,6 @@
 ---
 name: "page-cro"
-description: When the user wants to optimize, improve, or increase conversions on any marketing page — including homepage, landing pages, pricing pages, feature pages, or blog posts. Also use when the user says "CRO," "conversion rate optimization," "this page isn't converting," "improve conversions," or "why isn't this page working." For signup/registration flows, see signup-flow-cro. For post-signup activation, see onboarding-cro. For forms outside of signup, see form-cro. For popups/modals, see popup-cro.
+description: "Kullanıcı herhangi bir pazarlama sayfasındaki dönüşümleri optimize etmek, geliştirmek veya artırmak istediğinde kullan — ana sayfa, açılış sayfaları, fiyatlandırma sayfaları, özellik sayfaları veya blog yazıları dahil. Ayrıca kullanıcı \"CRO\", \"conversion rate optimization\", \"this page isn't converting\", \"improve conversions\" veya \"why isn't this page working\" dediğinde de kullan. Kayıt/giriş akışları için signup-flow-cro, kayıt sonrası aktivasyon için onboarding-cro, kayıt dışındaki formlar için form-cro, açılır pencereler/modaller için popup-cro skill'ini kullan."
 license: MIT
 metadata:
   version: 1.0.0

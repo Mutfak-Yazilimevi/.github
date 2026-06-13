@@ -1,6 +1,6 @@
 ---
 name: brainstorming
-description: "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation."
+description: "Herhangi bir yaratıcı çalışmadan önce MUTLAKA kullan — özellik oluşturma, bileşen geliştirme, işlevsellik ekleme veya davranış değiştirme. Uygulamadan önce kullanıcı amacını, gereksinimleri ve tasarımı keşfeder."
 ---
 
 # Brainstorming Ideas Into Designs

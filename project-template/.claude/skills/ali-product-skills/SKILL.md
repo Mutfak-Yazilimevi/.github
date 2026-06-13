@@ -1,6 +1,6 @@
 ---
 name: "product-skills"
-description: "10 product agent skills and plugins for Claude Code, Codex, Gemini CLI, Cursor, OpenClaw. PM toolkit (RICE), agile PO, product strategist (OKR), UX researcher, UI design system, competitive teardown, landing page generator, SaaS scaffolder, research summarizer. Python tools (stdlib-only)."
+description: "Claude Code, Codex, Gemini CLI, Cursor, OpenClaw için 10 ürün ajan skill'i ve eklentisi. PM araç takımı (RICE), çevik PO, ürün stratejisti (OKR), UX araştırmacısı, UI tasarım sistemi, rekabetçi analiz, açılış sayfası oluşturucu, SaaS iskelet kurucusu, araştırma özetleyici. Python araçları (yalnızca stdlib)."
 version: 2.9.0
 author: Alireza Rezvani
 license: MIT

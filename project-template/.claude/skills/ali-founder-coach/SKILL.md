@@ -1,6 +1,6 @@
 ---
 name: "founder-coach"
-description: "Personal leadership development for founders and first-time CEOs. Covers founder archetype identification, delegation frameworks, energy management, CEO calendar audits, leadership style evolution, blind spot identification, imposter syndrome, founder mental health, and succession planning. Use when a founder feels like the bottleneck, struggles to delegate, is burning out, transitioning from IC to executive, managing a board, or when user mentions founder mode, CEO growth, leadership development, delegation, burnout, or imposter syndrome."
+description: "Kurucular ve ilk kez CEO olanlar için kişisel liderlik gelişimi. Kurucu arketip belirleme, delegasyon çerçeveleri, enerji yönetimi, CEO takvim denetimleri, liderlik tarzı evrimi, kör nokta belirleme, sahtekâr sendromu, kurucu zihinsel sağlığı ve halef planlamasını kapsar. Bir kurucu darboğaz gibi hissediyorsa, delege etmekte zorlanıyorsa, tükenmişlik yaşıyorsa, IC'den yönetici konumuna geçiyorsa, yönetim kurulunu yönetiyorsa veya kullanıcı kurucu modu, CEO büyümesi, liderlik gelişimi, delegasyon, tükenmişlik veya sahtekâr sendromunu söylediğinde kullan."
 license: MIT
 metadata:
   version: 1.0.0

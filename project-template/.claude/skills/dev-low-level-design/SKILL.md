@@ -1,6 +1,6 @@
 ---
 name: low-level-design
-description: Design clean object-oriented components and classes — apply OOP fundamentals, SOLID, core principles (DRY/KISS/YAGNI), object modeling, design-pattern selection, error handling, and refactoring. Use for low-level/class-level design, choosing a design pattern, modeling entities and responsibilities, reviewing OO structure, or solving LLD interview problems (parking lot, elevator, ATM, online booking).
+description: "Temiz nesne yönelimli bileşenler ve sınıflar tasarla — OOP temelleri, SOLID, temel ilkeler (DRY/KISS/YAGNI), nesne modelleme, tasarım deseni seçimi, hata yönetimi ve yeniden düzenlemeyi uygula. Düşük seviye/sınıf düzeyinde tasarım, tasarım deseni seçimi, varlık ve sorumlulukların modellenmesi, OO yapısının gözden geçirilmesi veya LLD mülakat problemlerini (otopark, asansör, ATM, çevrimiçi rezervasyon) çözmek için kullan."
 ---
 
 # Low-Level Design (LLD)

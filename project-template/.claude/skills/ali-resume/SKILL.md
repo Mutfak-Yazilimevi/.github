@@ -1,6 +1,6 @@
 ---
 name: "resume"
-description: "Resume a paused experiment. Checkout the experiment branch, read results history, continue iterating."
+description: "Duraklatılmış bir deneyi devam ettirir. Deney branch'ini kontrol eder, sonuç geçmişini okur, yinelemeye devam eder."
 command: /ar:resume
 ---
 

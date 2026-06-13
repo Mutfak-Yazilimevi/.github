@@ -1,22 +1,6 @@
 ---
 name: test-anti-patterns
-description: >
-  Audits existing test code in any language for anti-patterns and quality
-  issues — produces a severity-ranked report (Critical / Warning / Info)
-  with concrete code-level fixes. Polyglot: .NET (MSTest/xUnit/NUnit/
-  TUnit), Python (pytest/unittest), TS/JS (Jest/Vitest/Mocha/node:test),
-  Java (JUnit/TestNG), Go, Ruby (RSpec/Minitest), Rust, Swift, Kotlin
-  (JUnit/Kotest), PowerShell (Pester), C++ (GoogleTest/Catch2).
-  INVOKE when asked to audit, review, rank, or find problems in existing
-  tests — "audit my tests", "test smell audit", "rank by severity", tests
-  that pass but verify nothing, no/missing assertions, swallowed
-  exceptions, always-true / self-comparing / tautological assertions,
-  broad exception types, flakiness (sleep/Date.now/time.sleep), ordering
-  dependency, shared global state, duplicated tests, magic values,
-  missing await on async assertions.
-  DO NOT USE FOR: writing new tests (use code-testing-agent, or
-  writing-mstest-tests for MSTest); running tests (use run-tests);
-  framework migration.
+description: "Herhangi bir dildeki mevcut test kodunu anti-pattern'lar ve kalite sorunları için denetler — somut kod düzeyinde düzeltmelerle önem sıralamalı rapor üretir (Kritik / Uyarı / Bilgi). Çok dilli: .NET (MSTest/xUnit/NUnit/TUnit), Python (pytest/unittest), TS/JS (Jest/Vitest/Mocha/node:test), Java (JUnit/TestNG), Go, Ruby (RSpec/Minitest), Rust, Swift, Kotlin (JUnit/Kotest), PowerShell (Pester), C++ (GoogleTest/Catch2). Mevcut testlerde sorun bulmak, denetlemek veya sıralamak istendiğinde kullan. KULLANMA: yeni test yazma; test çalıştırma; framework geçişi."
 license: MIT
 ---
 

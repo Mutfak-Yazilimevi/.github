@@ -1,11 +1,6 @@
 ---
 name: detecting-misconfigured-azure-storage
-description: 'Detecting misconfigured Azure Storage accounts including publicly accessible
-  blob containers, missing encryption settings, overly permissive SAS tokens, disabled
-  logging, and network access violations using Azure CLI, PowerShell, and Microsoft
-  Defender for Storage.
-
-  '
+description: "Azure CLI, PowerShell ve Microsoft Defender for Storage kullanarak herkese açık blob container'ları, eksik şifreleme ayarları, aşırı izinli SAS token'ları, devre dışı bırakılmış günlükleme ve ağ erişim ihlalleri dahil olmak üzere yanlış yapılandırılmış Azure Storage hesaplarını tespit eder."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

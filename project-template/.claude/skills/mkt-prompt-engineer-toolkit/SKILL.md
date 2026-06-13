@@ -1,6 +1,6 @@
 ---
 name: "prompt-engineer-toolkit"
-description: "Analyzes and rewrites prompts for better AI output, creates reusable prompt templates for marketing use cases (ad copy, email campaigns, social media), and structures end-to-end AI content workflows. Use when the user wants to improve prompts for AI-assisted marketing, build prompt templates, or optimize AI content workflows. Also use when the user mentions 'prompt engineering,' 'improve my prompts,' 'AI writing quality,' 'prompt templates,' or 'AI content workflow.'"
+description: "Daha iyi yapay zeka çıktısı için istemleri analiz eder ve yeniden yazar, pazarlama kullanım durumları için yeniden kullanılabilir istem şablonları oluşturur (reklam metni, e-posta kampanyaları, sosyal medya) ve uçtan uca yapay zeka içerik iş akışları yapılandırır. Kullanıcı yapay zeka destekli pazarlama için istemleri iyileştirmek, istem şablonları oluşturmak veya yapay zeka içerik iş akışlarını optimize etmek istediğinde kullan. Ayrıca kullanıcı 'prompt engineering', 'improve my prompts', 'AI writing quality', 'prompt templates' veya 'AI content workflow' dediğinde kullan."
 license: MIT
 metadata:
   version: 1.0.0

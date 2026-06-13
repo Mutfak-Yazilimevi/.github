@@ -1,8 +1,6 @@
 ---
 name: implementing-end-to-end-encryption-for-messaging
-description: End-to-end encryption (E2EE) ensures that only the communicating parties
-  can read messages, with no intermediary (including the server) able to decrypt them.
-  This skill implements a simplified version
+description: "Uçtan uca şifreleme (E2EE), yalnızca iletişim kuran tarafların mesajları okuyabilmesini, hiçbir aracının (sunucu dahil) bunları deşifre edememesini sağlar. Bu skill, basitleştirilmiş bir sürümünü uygular."
 domain: cybersecurity
 subdomain: cryptography
 tags:

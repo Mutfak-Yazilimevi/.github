@@ -1,6 +1,6 @@
 ---
 name: "cmo-review"
-description: "/cs:cmo-review <plan> — Narrative-first interrogation of positioning, ICP, message house, and channel mix."
+description: "/cs:cmo-review <plan> — Konumlandırma, ICP, mesaj evi ve kanal karmasının anlatı odaklı sorgulaması."
 ---
 
 # /cs:cmo-review — CMO Forcing Questions

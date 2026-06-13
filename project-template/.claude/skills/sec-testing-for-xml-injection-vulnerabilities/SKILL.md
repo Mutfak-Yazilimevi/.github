@@ -1,8 +1,6 @@
 ---
 name: testing-for-xml-injection-vulnerabilities
-description: Test web applications for XML injection vulnerabilities including XXE,
-  XPath injection, and XML entity attacks to identify data exposure and server-side
-  request forgery risks.
+description: "XXE dahil XML injection güvenlik açıkları için web uygulamalarını test et"
 domain: cybersecurity
 subdomain: web-application-security
 tags:

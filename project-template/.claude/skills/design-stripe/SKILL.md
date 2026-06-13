@@ -1,6 +1,6 @@
 ---
 name: stripe-ui-skills
-description: Stripe's UI design system. Use when building interfaces inspired by Stripe's aesthetic - light mode, Inter font, 4px grid.
+description: "Stripe'ın UI tasarım sistemi. Stripe'ın estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter yazı tipi, 4px grid."
 license: MIT
 metadata:
   author: design-skills

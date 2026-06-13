@@ -1,6 +1,6 @@
 ---
 name: "senior-security"
-description: Security engineering toolkit for threat modeling, vulnerability analysis, secure architecture, and penetration testing. Includes STRIDE analysis, OWASP guidance, cryptography patterns, and security scanning tools. Use when the user asks about security reviews, threat analysis, vulnerability assessments, secure coding practices, security audits, attack surface analysis, CVE remediation, or security best practices.
+description: "Tehdit modelleme, güvenlik açığı analizi, güvenli mimari ve sızma testi için güvenlik mühendisliği araç seti. STRIDE analizi, OWASP rehberliği, kriptografi desenleri ve güvenlik tarama araçlarını içerir. Kullanıcı güvenlik incelemeleri, tehdit analizi, güvenlik açığı değerlendirmeleri, güvenli kodlama uygulamaları, güvenlik denetimleri, saldırı yüzeyi analizi, CVE düzeltme veya güvenlik en iyi uygulamaları hakkında sorduğunda kullan."
 triggers:
   - security architecture
   - threat modeling

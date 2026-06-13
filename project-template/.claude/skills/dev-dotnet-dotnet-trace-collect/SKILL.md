@@ -1,6 +1,6 @@
 ---
 name: dotnet-trace-collect
-description: Guide developers through capturing diagnostic artifacts to diagnose production .NET performance issues. Use when the user needs help choosing diagnostic tools, collecting performance data, or understanding tool trade-offs across different environments (Windows/Linux, .NET Framework/modern .NET, container/non-container).
+description: "Üretim .NET performans sorunlarını tanılamak için geliştiricilere tanılama artifact'ları yakalamada rehberlik eder. Kullanıcı tanılama araçları seçmek, performans verisi toplamak veya farklı ortamlarda araç ödünleşimlerini anlamak istediğinde kullan (Windows/Linux, .NET Framework/modern .NET, container/container-dışı)."
 license: MIT
 ---
 

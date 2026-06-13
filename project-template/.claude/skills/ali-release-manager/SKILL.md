@@ -1,6 +1,6 @@
 ---
 name: "release-manager"
-description: "Use when the user asks to plan releases, manage changelogs, coordinate deployments, create release branches, or automate versioning."
+description: "Kullanıcı sürümleri planlamayı, changelog'ları yönetmeyi, dağıtımları koordine etmeyi, sürüm dalları oluşturmayı veya sürüm oluşturmayı otomatikleştirmeyi istediğinde kullan."
 ---
 
 # Release Manager

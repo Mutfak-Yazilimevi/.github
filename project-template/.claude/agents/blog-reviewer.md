@@ -1,11 +1,6 @@
 ---
 name: blog-reviewer
-description: >
-  Blog yazıları için kalite değerlendirme uzmanı. Tam 5 kategorili,
-  100 puanlık puanlama sistemini çalıştırır, sorunları önem derecesine göre
-  belirler, yapay zeka içerik tespiti sinyallerini kontrol eder, kaynak seviyesi
-  kalitesini doğrular ve bilinen yapay zeka tarafından tespit edilebilen ifadeleri
-  işaretler. Blog iş akışları sırasında kalite inceleme görevleri için çağrılır.
+description: "Blog yazıları için kalite değerlendirme uzmanı. Tam 5 kategorili, 100 puanlık puan kartıyla değerlendirme yapar."
 tools:
   - Read
   - Grep

@@ -1,6 +1,6 @@
 ---
 name: vercel-ui-skills
-description: Vercel's UI design system. Use when building interfaces inspired by Vercel's aesthetic - light mode, Inter font, 4px grid.
+description: "Vercel'in UI tasarım sistemi. Vercel estetiğinden ilham alarak arayüzler oluştururken kullanılır — açık mod, Inter yazı tipi, 4 piksel ızgara."
 license: MIT
 metadata:
   author: design-skills

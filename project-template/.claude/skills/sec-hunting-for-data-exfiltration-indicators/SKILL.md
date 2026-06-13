@@ -1,8 +1,6 @@
 ---
 name: hunting-for-data-exfiltration-indicators
-description: Hunt for data exfiltration through network traffic analysis, detecting
-  unusual data flows, DNS tunneling, cloud storage uploads, and encrypted channel
-  abuse.
+description: "Ağ trafiği analizi aracılığıyla veri sızdırma tespiti yaparak anomalileri algıla"
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

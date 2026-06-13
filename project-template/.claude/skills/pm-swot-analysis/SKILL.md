@@ -1,6 +1,6 @@
 ---
 name: swot-analysis
-description: "Perform a detailed SWOT analysis — strengths, weaknesses, opportunities, and threats with actionable recommendations. Use when doing strategic assessment, competitive analysis, or evaluating a product or business position."
+description: "Eyleme dönük önerilerle birlikte güçlü yönler, zayıf yönler, fırsatlar ve tehditler içeren ayrıntılı bir SWOT analizi yapar. Stratejik değerlendirme, rekabet analizi veya bir ürün ya da iş pozisyonunu değerlendirirken kullan."
 ---
 # SWOT Analysis
 

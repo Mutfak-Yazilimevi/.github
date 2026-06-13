@@ -1,6 +1,6 @@
 ---
 name: user-personas
-description: "Create refined user personas from research data — 3 personas with JTBD, pains, gains, and unexpected insights. Use when building personas from survey data, creating user profiles from research, or segmenting users for product decisions."
+description: "Araştırma verilerinden rafine kullanıcı personaları oluşturur — JTBD, sancılar, kazanımlar ve beklenmedik içgörüler içeren 3 persona. Anket verilerinden persona oluştururken, araştırmadan kullanıcı profilleri oluştururken veya ürün kararları için kullanıcıları segmentlere ayırırken kullan."
 ---
 
 # User Personas

@@ -1,9 +1,6 @@
 ---
 name: engineering-team-init
-description: >-
-  Set up Playwright in a project. Use when user says "set up playwright",
-  "add e2e tests", "configure playwright", "testing setup", "init playwright",
-  or "add test infrastructure".
+description: "Bir projede Playwright kurar. Kullanıcı \"playwright kur\", \"e2e testleri ekle\", \"playwright yapılandır\", \"test kurulumu\", \"playwright başlat\" veya \"test altyapısı ekle\" dediğinde kullanılır."
 ---
 
 # Initialize Playwright Project

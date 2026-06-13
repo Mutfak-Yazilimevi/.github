@@ -1,6 +1,6 @@
 ---
 name: "marketing-skills"
-description: "42 marketing agent skills and plugins for Claude Code, Codex, Gemini CLI, Cursor, OpenClaw, and 6 more coding agents. 7 pods: content, SEO, CRO, channels, growth, intelligence, sales. Foundation context + orchestration router. 27 Python tools (stdlib-only)."
+description: "Claude Code, Codex, Gemini CLI, Cursor, OpenClaw ve 6 daha fazla kodlama ajanı için 42 pazarlama ajanı becerisi ve eklentisi. 7 pod: içerik, SEO, CRO, kanallar, büyüme, istihbarat, satış. Temel bağlam + orkestrasyon yönlendiricisi. 27 Python aracı (yalnızca stdlib)."
 version: 2.9.0
 author: Alireza Rezvani
 license: MIT

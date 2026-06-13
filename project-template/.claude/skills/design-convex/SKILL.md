@@ -1,6 +1,6 @@
 ---
 name: convex-ui-skills
-description: Convex's UI design system. Use when building interfaces inspired by Convex's aesthetic - dark mode, Inter font, 4px grid.
+description: "Convex'in UI tasarım sistemi. Convex'in estetiğinden ilham alan arayüzler oluştururken kullan — koyu mod, Inter yazı tipi, 4px ızgara."
 license: MIT
 metadata:
   author: design-skills

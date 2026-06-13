@@ -1,6 +1,6 @@
 ---
 name: "interview-system-designer"
-description: This skill should be used when the user asks to "design interview processes", "create hiring pipelines", "calibrate interview loops", "generate interview questions", "design competency matrices", "analyze interviewer bias", "create scoring rubrics", "build question banks", or "optimize hiring systems". Use for designing role-specific interview loops, competency assessments, and hiring calibration systems.
+description: "Kullanıcı \"mülakat süreçleri tasarla\", \"işe alım pipeline'ları oluştur\", \"mülakat döngülerini kalibre et\", \"mülakat soruları üret\", \"yetkinlik matrisleri tasarla\", \"mülakatçı önyargısını analiz et\", \"puanlama kriterleri oluştur\", \"soru bankaları oluştur\" veya \"işe alım sistemlerini optimize et\" dediğinde kullan. Role özel mülakat döngüleri, yetkinlik değerlendirmeleri ve işe alım kalibrasyon sistemleri tasarlamak için kullan."
 ---
 
 # Interview System Designer

@@ -1,6 +1,6 @@
 ---
 name: "transcribe"
-description: "Transcribe audio files to text with optional diarization and known-speaker hints. Use when a user asks to transcribe speech from audio/video, extract text from recordings, or label speakers in interviews or meetings."
+description: "Ses dosyalarını isteğe bağlı konuşmacı ayrımı ve bilinen konuşmacı ipuçlarıyla metne dönüştürür. Kullanıcı ses/videodan konuşma döküm almak, kayıtlardan metin çıkarmak veya röportaj ya da toplantılarda konuşmacıları etiketlemek istediğinde kullan."
 ---
 
 

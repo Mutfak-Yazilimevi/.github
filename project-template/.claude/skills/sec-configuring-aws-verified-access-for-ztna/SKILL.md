@@ -1,8 +1,6 @@
 ---
 name: configuring-aws-verified-access-for-ztna
-description: Configure AWS Verified Access to provide VPN-less zero trust network
-  access to internal applications using identity and device posture verification with
-  Cedar policy language.
+description: "Cedar politika dili ile kimlik ve cihaz duruşu doğrulaması kullanarak dahili uygulamalara VPN'siz sıfır güven ağ erişimi sağlamak için AWS Verified Access'i yapılandırır."
 domain: cybersecurity
 subdomain: zero-trust-architecture
 tags:

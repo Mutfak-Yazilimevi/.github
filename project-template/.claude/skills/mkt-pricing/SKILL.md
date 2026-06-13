@@ -1,6 +1,6 @@
 ---
 name: pricing
-description: "When the user wants help with pricing decisions, packaging, or monetization strategy. Also use when the user mentions 'pricing,' 'pricing tiers,' 'freemium,' 'free trial,' 'packaging,' 'price increase,' 'value metric,' 'Van Westendorp,' 'willingness to pay,' 'monetization,' 'how much should I charge,' 'my pricing is wrong,' 'pricing page,' 'annual vs monthly,' 'per seat pricing,' or 'should I offer a free plan.' Use this whenever someone is figuring out what to charge or how to structure their plans. For in-app upgrade screens, see paywalls."
+description: "Kullanıcı fiyatlandırma kararları, paketleme veya para kazanma stratejisi konusunda yardım istediğinde kullanılır. Ayrıca kullanıcı \"fiyatlandırma\", \"fiyatlandırma kademeleri\", \"freemium\", \"ücretsiz deneme\", \"paketleme\", \"fiyat artışı\", \"değer metriği\", \"Van Westendorp\", \"ödeme isteği\", \"para kazanma\", \"ne kadar ücret almalıyım\", \"fiyatlandırmam yanlış\", \"fiyatlandırma sayfası\", \"yıllık vs aylık\", \"koltuk başına fiyatlandırma\" veya \"ücretsiz plan sunmalı mıyım\" söylediğinde de kullanılır. Birisinin ne kadar ücret alacağını veya planlarını nasıl yapılandıracağını anlamaya çalıştığı her durumda kullanılır. Uygulama içi yükseltme ekranları için bkz. paywalls."
 metadata:
   version: 2.0.0
 ---

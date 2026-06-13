@@ -1,8 +1,6 @@
 ---
 name: implementing-attack-path-analysis-with-xm-cyber
-description: Deploy XM Cyber's continuous exposure management platform to map attack
-  paths, identify choke points, and prioritize the 2% of exposures that threaten critical
-  assets.
+description: "Saldırı yollarını haritalamak, darboğaz noktalarını belirlemek ve kritik varlıkları tehdit eden %2'lik riskleri önceliklendirmek amacıyla XM Cyber'ın sürekli maruziyet yönetim platformunu dağıtır."
 domain: cybersecurity
 subdomain: vulnerability-management
 tags:

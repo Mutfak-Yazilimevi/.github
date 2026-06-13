@@ -1,6 +1,6 @@
 ---
 name: obsidian-ui-skills
-description: Obsidian's UI design system. Use when building interfaces inspired by Obsidian's aesthetic - dark mode, Inter font, 4px grid.
+description: "Obsidian UI tasarım sistemi. Obsidian estetiğinden ilham alan arayüzler oluştururken kullan — koyu mod, Inter font, 4px grid."
 license: MIT
 metadata:
   author: design-skills

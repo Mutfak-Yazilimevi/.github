@@ -1,6 +1,6 @@
 ---
 name: "board-meeting"
-description: "Multi-agent board meeting protocol for strategic decisions. Runs a structured 6-phase deliberation: context loading, independent C-suite contributions (isolated, no cross-pollination), critic analysis, synthesis, founder review, and decision extraction. Use when the user invokes /cs:board, calls a board meeting, or wants structured multi-perspective executive deliberation on a strategic question."
+description: "Stratejik kararlar için çok ajanlı yönetim kurulu toplantısı protokolü. 6 aşamalı yapılandırılmış bir müzakere yürütür: bağlam yükleme, bağımsız C-suite katkıları (izole, çapraz etkileşimsiz), eleştiri analizi, sentez, kurucu incelemesi ve karar çıkarımı. Kullanıcı /cs:board çağırdığında, yönetim kurulu toplantısı istediğinde veya stratejik bir soru üzerinde yapılandırılmış çok perspektifli yönetici müzakeresi istediğinde kullan"
 license: MIT
 metadata:
   version: 1.0.0

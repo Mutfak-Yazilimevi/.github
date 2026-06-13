@@ -1,6 +1,6 @@
 ---
 name: amplitude-ui-skills
-description: Amplitude's UI design system. Use when building interfaces inspired by Amplitude's aesthetic - light mode, Inter font, 4px grid.
+description: "Amplitude'un UI tasarım sistemi. Amplitude estetiğinden ilham alan arayüzler oluştururken kullan — light mode, Inter font, 4px grid"
 license: MIT
 metadata:
   author: design-skills

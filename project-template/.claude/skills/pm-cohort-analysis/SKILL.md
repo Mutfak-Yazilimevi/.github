@@ -1,6 +1,6 @@
 ---
 name: cohort-analysis
-description: "Perform cohort analysis on user engagement data — retention curves, feature adoption trends, and segment-level insights. Use when analyzing user retention by cohort, studying feature adoption over time, investigating churn patterns, or identifying engagement trends."
+description: "Kullanıcı etkileşim verileri üzerinde kohort analizi gerçekleştirir — tutma eğrileri, özellik benimseme eğilimleri ve segment düzeyinde içgörüler. Kohort bazında kullanıcı tutmayı analiz ederken, zaman içindeki özellik benimsemesini incelerken, churn kalıplarını araştırırken veya etkileşim eğilimlerini belirlerken kullan."
 ---
 
 # Cohort Analysis & Retention Explorer

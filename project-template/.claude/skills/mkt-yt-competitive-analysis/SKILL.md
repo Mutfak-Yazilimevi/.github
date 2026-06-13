@@ -1,9 +1,6 @@
 ---
 name: yt-competitive-analysis
-description: >-
-  Analyze YouTube channels for outlier videos and packaging patterns. Identifies
-  what's working (2x+ average views) across any set of channels. Use when asked for
-  YouTube competitive analysis, viral video patterns, or packaging/title inspiration.
+description: "Aykırı videolar ve paketleme kalıpları için YouTube kanallarını analiz eder. Herhangi bir kanal setinde neyin işe yaradığını (ortalama görüntülemenin 2 katı+) belirler. YouTube rekabet analizi, viral video kalıpları veya paketleme/başlık ilhamı istendiğinde kullan."
 ---
 
 # YouTube Competitive Analysis

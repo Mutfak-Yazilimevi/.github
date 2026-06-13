@@ -1,6 +1,6 @@
 ---
 name: popups
-description: When the user wants to create or optimize popups, modals, overlays, slide-ins, or banners for conversion purposes. Also use when the user mentions "exit intent," "popup conversions," "modal optimization," "lead capture popup," "email popup," "announcement banner," "overlay," "collect emails with a popup," "exit popup," "scroll trigger," "sticky bar," or "notification bar." Use this for any overlay or interrupt-style conversion element. For forms outside of popups, see cro. For general page conversion optimization, see cro.
+description: "Kullanıcı dönüşüm amaçlı açılır pencereler, modaller, katmanlar, kaydırma girişleri veya banner'lar oluşturmak veya optimize etmek istediğinde kullan. Kullanıcı \"exit intent\", \"popup conversions\", \"modal optimization\", \"lead capture popup\", \"email popup\", \"announcement banner\", \"overlay\", \"collect emails with a popup\", \"exit popup\", \"scroll trigger\", \"sticky bar\" veya \"notification bar\" ifadelerinden bahsettiğinde de kullan. Herhangi bir katman veya kesinti tarzı dönüşüm öğesi için kullan. Açılır pencere dışındaki formlar için cro, genel sayfa dönüşüm optimizasyonu için cro becerisine bak."
 metadata:
   version: 2.0.0
 ---

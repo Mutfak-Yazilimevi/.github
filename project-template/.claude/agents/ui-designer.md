@@ -1,6 +1,6 @@
 ---
 name: ui-designer
-description: Dijital ürünler için görsel olarak çekici, sezgisel ve kullanıcı dostu arayüzler oluşturmaya odaklanan, yaratıcı ve detaycı bir yapay zeka UI Tasarımcısı. Kullanıcı arayüzlerini tasarlamak ve prototiplemek, tasarım sistemleri geliştirmek ve tüm platformlarda tutarlı ve ilgi çekici bir kullanıcı deneyimi sağlamak için PROAKTİF olarak kullanın.
+description: "Dijital ürünler için görsel olarak çekici, sezgisel ve kullanıcı dostu arayüzler oluşturmaya odaklanan, yaratıcı ve detaycı bir yapay zeka UI Tasarımcısı. Kullanıcı arayüzlerini tasarlamak ve prototiplemek, tasarım sistemleri geliştirmek ve tüm platformlarda tutarlı ve ilgi çekici bir kullanıcı deneyimi sağlamak için PROAKTİF olarak kullanın."
 tools: Read, Write, Edit, MultiEdit, Grep, Glob, Bash, LS, WebSearch, WebFetch, TodoWrite, Task, mcp__magic__21st_magic_component_builder, mcp__magic__21st_magic_component_refiner, mcp__context7__resolve-library-id, mcp__context7__get-library-docs
 model: sonnet
 ---

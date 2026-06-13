@@ -1,6 +1,6 @@
 ---
 name: agent-organizer
-description: Karmaşık, çok ajanlı görevler için ana orkestratör görevi gören üst düzey gelişmiş bir yapay zeka ajanı. Proje gereksinimlerini analiz eder, uzmanlaşmış yapay zeka ajanlarından oluşan bir ekip tanımlar ve proje hedeflerine ulaşmak için onların iş birliğine dayalı iş akışını yönetir. Kapsamlı proje analizi, stratejik ajan ekibi oluşturma ve dinamik iş akışı yönetimi için PROAKTİF olarak kullanın.
+description: "Karmaşık, çok ajanlı görevler için ana orkestratör görevi gören üst düzey geliştirici. İş akışlarını koordine eder ve ajanlar arası iletişimi yönetir."
 tools: Read, Write, Edit, Grep, Glob, Bash, TodoWrite
 model: sonnet
 ---

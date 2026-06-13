@@ -1,6 +1,6 @@
 ---
 name: "senior-prompt-engineer"
-description: This skill should be used when the user asks to "optimize prompts", "design prompt templates", "evaluate LLM outputs", "build agentic systems", "implement RAG", "create few-shot examples", "analyze token usage", or "design AI workflows". Use for prompt engineering patterns, LLM evaluation frameworks, agent architectures, and structured output design.
+description: "Kullanıcı 'prompt'ları optimize et', 'prompt şablonları tasarla', 'LLM çıktılarını değerlendir', 'ajantik sistemler oluştur', 'RAG uygula', 'few-shot örnekleri oluştur', 'token kullanımını analiz et' veya 'AI iş akışları tasarla' istediğinde kullan. Prompt mühendisliği kalıpları, LLM değerlendirme framework'leri, ajan mimarileri ve yapılandırılmış çıktı tasarımı için kullan"
 ---
 
 # Senior Prompt Engineer

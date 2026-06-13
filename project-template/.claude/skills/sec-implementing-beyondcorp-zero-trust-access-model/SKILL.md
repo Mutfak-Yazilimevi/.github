@@ -1,11 +1,6 @@
 ---
 name: implementing-beyondcorp-zero-trust-access-model
-description: 'Implementing Google''s BeyondCorp zero trust access model to eliminate
-  implicit trust from the network perimeter, enforce identity-aware access controls
-  using IAP, Access Context Manager, and Chrome Enterprise Premium for VPN-less secure
-  application access.
-
-  '
+description: "VPN'siz güvenli uygulama erişimi için IAP, Access Context Manager ve Chrome Enterprise Premium kullanarak ağ çevresinden örtük güveni ortadan kaldırmak ve kimlik temelli erişim denetimlerini zorunlu kılmak amacıyla Google'ın BeyondCorp sıfır güven erişim modelini uygulama."
 domain: cybersecurity
 subdomain: zero-trust-architecture
 tags:

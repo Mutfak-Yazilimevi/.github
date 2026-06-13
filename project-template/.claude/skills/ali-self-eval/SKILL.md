@@ -1,6 +1,6 @@
 ---
 name: "self-eval"
-description: "Honestly evaluate AI work quality using a two-axis scoring system. Use after completing a task, code review, or work session to get an unbiased assessment. Detects score inflation, forces devil's advocate reasoning, and persists scores across sessions."
+description: "İki eksenli puanlama sistemi kullanarak yapay zeka çalışma kalitesini dürüstçe değerlendirir. Bir görev, kod incelemesi veya çalışma oturumu tamamlandıktan sonra tarafsız bir değerlendirme almak için kullan. Puan şişirmesini tespit eder, şeytanın avukatı mantığını zorlar ve puanları oturumlar arasında kalıcı kılar."
 license: "MIT"
 ---
 

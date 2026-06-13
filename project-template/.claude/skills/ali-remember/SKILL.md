@@ -1,6 +1,6 @@
 ---
 name: "remember"
-description: "Explicitly save important knowledge to auto-memory with timestamp and context. Use when a discovery is too important to rely on auto-capture."
+description: "Önemli bilgileri zaman damgası ve bağlamla birlikte otomatik belleğe açıkça kaydet. Bir keşif otomatik yakalamaya bırakmak için fazla önemliyse kullan."
 ---
 
 # /si:remember — Save Knowledge Explicitly

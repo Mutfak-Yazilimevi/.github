@@ -1,6 +1,6 @@
 ---
 name: android-native-dev
-description: Android native application development and UI design guide. Covers Material Design 3, Kotlin/Compose development, project configuration, accessibility, and build troubleshooting. Read this before Android native application development.
+description: "Android yerel uygulama geliştirme ve UI tasarım rehberi. Material Design 3, Kotlin/Compose geliştirme, proje yapılandırması, erişilebilirlik ve derleme sorun gidermeyi kapsar. Android yerel uygulama geliştirmeden önce oku."
 license: MIT
 metadata:
   version: "1.0.0"

@@ -1,6 +1,6 @@
 ---
 name: zoom-out
-description: Tell the agent to zoom out and give broader context or a higher-level perspective. Use when you're unfamiliar with a section of code or need to understand how it fits into the bigger picture.
+description: "Ajana büyük resme bakmasını ve daha geniş bağlam veya üst düzey perspektif vermesini söyle. Bir kod bölümüne aşina olmadığında veya büyük resme nasıl oturduğunu anlamaya ihtiyaç duyduğunda kullan."
 disable-model-invocation: true
 ---
 

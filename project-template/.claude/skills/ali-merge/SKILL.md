@@ -1,6 +1,6 @@
 ---
 name: "merge"
-description: "Merge the winning agent's branch into base, archive losers, and clean up worktrees."
+description: "Kazanan ajanın dalını tabana birleştir, kaybedenlerı arşivle ve worktree'leri temizle."
 command: /hub:merge
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: "red-team"
-description: "Use when planning or executing authorized red team engagements, attack path analysis, or offensive security simulations. Covers MITRE ATT&CK kill-chain planning, technique scoring, choke point identification, OPSEC risk assessment, and crown jewel targeting."
+description: "Yetkili red team angajmanları, saldırı yolu analizi veya saldırgan güvenlik simülasyonları planlarken veya yürütürken kullan. MITRE ATT&CK kill-chain planlaması, teknik puanlama, tıkanma noktası tespiti, OPSEC risk değerlendirmesi ve taç mücevher hedeflemesini kapsar."
 ---
 
 # Red Team

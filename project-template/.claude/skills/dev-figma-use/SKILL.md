@@ -1,6 +1,6 @@
 ---
 name: figma-use
-description: "**MANDATORY prerequisite** — you MUST invoke this skill BEFORE every `use_figma` tool call. NEVER call `use_figma` directly without loading this skill first. Skipping it causes common, hard-to-debug failures. Trigger whenever the user wants to perform a write action or a unique read action that requires JavaScript execution in the Figma file context — e.g. create/edit/delete nodes, set up variables or tokens, build components and variants, modify auto-layout or fills, bind variables to properties, or inspect file structure programmatically."
+description: "ZORUNLU önkoşul — her `use_figma` araç çağrısından ÖNCE bu beceriyi çağırmalısın. Bu beceriyi yüklemeden asla doğrudan `use_figma` çağırma. Atlamak yaygın ve ayıklaması zor hatalara neden olur. Kullanıcının Figma dosya bağlamında JavaScript yürütme gerektiren bir yazma eylemi veya benzersiz okuma eylemi gerçekleştirmek istediğinde tetikle — örn. düğüm oluşturma/düzenleme/silme, değişken veya token kurma, bileşen ve varyant oluşturma, otomatik düzen veya dolguları değiştirme, değişkenleri özelliklere bağlama veya dosya yapısını programatik olarak inceleme."
 ---
 
 # use_figma — Figma Plugin API Skill

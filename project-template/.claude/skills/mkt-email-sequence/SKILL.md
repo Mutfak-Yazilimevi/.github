@@ -1,6 +1,6 @@
 ---
 name: "email-sequence"
-description: When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program. Also use when the user mentions "email sequence," "drip campaign," "nurture sequence," "onboarding emails," "welcome sequence," "re-engagement emails," "email automation," or "lifecycle emails." For in-app onboarding, see onboarding-cro.
+description: "Kullanıcı bir e-posta dizisi, damla kampanyası, otomatik e-posta akışı veya yaşam döngüsü e-posta programı oluşturmak veya optimize etmek istediğinde kullan. Ayrıca kullanıcı \"email sequence\", \"drip campaign\", \"nurture sequence\", \"onboarding emails\", \"welcome sequence\", \"re-engagement emails\", \"email automation\" veya \"lifecycle emails\" dediğinde de kullan. Uygulama içi ekleme için onboarding-cro'ya bakın."
 license: MIT
 metadata:
   version: 1.0.0

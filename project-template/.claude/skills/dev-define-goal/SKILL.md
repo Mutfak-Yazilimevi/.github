@@ -1,6 +1,6 @@
 ---
 name: define-goal
-description: Help the user define a concrete, measurable goal before starting work, especially when they ask to use the goal tool, create a goal, set an objective, clarify success criteria, or turn a fuzzy intention into a quantitative outcome. Use this skill for goal creation and goal refinement only; it does not manage durable snapshots, decision logs, or long-running execution artifacts.
+description: "Çalışmaya başlamadan önce kullanıcının somut, ölçülebilir bir hedef tanımlamasına yardımcı olur; özellikle goal aracını kullanmak, hedef oluşturmak, bir amaç belirlemek, başarı kriterlerini netleştirmek veya belirsiz bir niyeti sayısal bir çıktıya dönüştürmek istediklerinde kullan. Bu skill yalnızca hedef oluşturma ve hedef iyileştirme içindir; kalıcı anlık görüntüleri, karar günlüklerini veya uzun süreli yürütme eserlerini yönetmez."
 ---
 
 # Define Goal

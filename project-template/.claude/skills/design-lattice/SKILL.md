@@ -1,6 +1,6 @@
 ---
 name: lattice-ui-skills
-description: Lattice's UI design system. Use when building interfaces inspired by Lattice's aesthetic - light mode, Inter font, 4px grid.
+description: "Lattice'in UI tasarım sistemi. Lattice'in estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter yazı tipi, 4px grid."
 license: MIT
 metadata:
   author: design-skills

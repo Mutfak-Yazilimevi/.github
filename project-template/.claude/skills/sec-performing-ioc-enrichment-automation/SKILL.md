@@ -1,12 +1,6 @@
 ---
 name: performing-ioc-enrichment-automation
-description: 'Automates Indicator of Compromise (IOC) enrichment by orchestrating
-  lookups across VirusTotal, AbuseIPDB, Shodan, MISP, and other intelligence sources
-  to provide contextual scoring and disposition recommendations. Use when SOC analysts
-  need rapid multi-source enrichment of IPs, domains, URLs, and file hashes during
-  alert triage or incident investigation.
-
-  '
+description: "Uyarı önceliklendirme veya olay soruşturması sırasında IP'ler, alan adları, URL'ler ve dosya hash'leri için bağlamsal puanlama ve değerlendirme önerileri sağlamak amacıyla VirusTotal, AbuseIPDB, Shodan, MISP ve diğer istihbarat kaynakları genelinde aramaları düzenleyerek Indicator of Compromise (IOC) zenginleştirmesini otomatikleştirir. SOC analistlerinin uyarı önceliklendirme veya olay soruşturması sırasında hızlı çok kaynaklı IOC zenginleştirmesine ihtiyaç duyduğunda kullan."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

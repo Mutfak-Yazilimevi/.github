@@ -1,6 +1,6 @@
 ---
 name: "demo-video"
-description: "Use when the user asks to create a demo video, product walkthrough, feature showcase, animated presentation, marketing video, or GIF from screenshots or scene descriptions. Orchestrates playwright, ffmpeg, and edge-tts MCPs to produce polished video content."
+description: "Kullanıcı demo video, ürün turu, özellik vitrini, animasyonlu sunum, pazarlama videosu veya ekran görüntülerinden ya da sahne açıklamalarından GIF oluşturmak istediğinde kullan. Cilalı video içeriği üretmek için playwright, ffmpeg ve edge-tts MCP'lerini orkestre eder."
 ---
 
 # Demo Video

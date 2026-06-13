@@ -1,6 +1,6 @@
 ---
 name: "playwright-interactive"
-description: "Persistent browser and Electron interaction through `js_repl` for fast iterative UI debugging."
+description: "Hızlı yinelemeli UI hata ayıklaması için `js_repl` üzerinden kalıcı tarayıcı ve Electron etkileşimi."
 ---
 
 # Playwright Interactive Skill

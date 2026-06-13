@@ -1,6 +1,6 @@
 ---
 name: uml
-description: Create UML diagrams using PlantUML syntax. Best for software modeling — Class, Sequence, Activity, State Machine, Component, Use Case, and Deployment diagrams with concise text-based notation and auto-layout.
+description: "PlantUML sözdizimi kullanarak UML diyagramları oluşturur. Yazılım modellemesi için en iyisi — kısa metin tabanlı gösterim ve otomatik düzenle Sınıf, Dizi, Aktivite, Durum Makinesi, Bileşen, Kullanım Durumu ve Dağıtım diyagramları."
 metadata:
   author: UML diagrams are powered by Markdown Viewer — the best multi-platform Markdown extension (Chrome/Edge/Firefox/VS Code) with diagrams, formulas, and one-click Word export. Learn more at https://docu.md
 ---

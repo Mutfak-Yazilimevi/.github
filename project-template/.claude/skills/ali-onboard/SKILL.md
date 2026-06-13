@@ -1,6 +1,6 @@
 ---
 name: "onboard"
-description: "/cs:onboard — Founder interview that populates ~/.claude/company-context.md. The first command to run when starting with c-level-agents."
+description: "/cs:onboard — ~/.claude/company-context.md dosyasını dolduran kurucu mülakatı. c-level-agents ile başlarken çalıştırılacak ilk komuttur"
 ---
 
 # /cs:onboard — Founder Interview

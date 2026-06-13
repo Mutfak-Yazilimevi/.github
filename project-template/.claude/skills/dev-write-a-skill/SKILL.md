@@ -1,6 +1,6 @@
 ---
 name: write-a-skill
-description: Create new agent skills with proper structure, progressive disclosure, and bundled resources. Use when user wants to create, write, or build a new skill.
+description: "Uygun yapı, aşamalı açıklama ve paketlenmiş kaynaklar içeren yeni ajan becerileri oluştur. Kullanıcı yeni bir beceri oluşturmak, yazmak veya inşa etmek istediğinde kullan."
 ---
 
 # Writing Skills

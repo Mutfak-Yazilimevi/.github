@@ -1,6 +1,6 @@
 ---
 name: gtm-strategy
-description: "Create a go-to-market strategy covering marketing channels, messaging, success metrics, and launch timeline. Use when planning a product launch, creating a GTM plan from scratch, or defining a launch strategy for a new market."
+description: "Pazarlama kanallarını, mesajlaşmayı, başarı metriklerini ve lansman zaman çizelgesini kapsayan bir go-to-market stratejisi oluşturur. Ürün lansmanı planlarken, sıfırdan GTM planı oluştururken veya yeni bir pazar için lansman stratejisi tanımlarken kullan."
 ---
 # GTM Strategy
 

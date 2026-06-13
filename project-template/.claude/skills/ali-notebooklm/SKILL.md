@@ -1,6 +1,6 @@
 ---
 name: notebooklm
-description: "Browser automation skill for controlling Google's NotebookLM. Handles reading and querying notebooks, adding sources (URLs, text, files, YouTube links, synthesized content), generating Studio outputs (Audio Overview, infographics, slide decks, study guides, briefing docs, mind maps, timelines, FAQs), and creating new notebooks. Triggers on any phrase involving NotebookLM — 'open NotebookLM', 'check my [name] notebook', 'pull info from NotebookLM', 'ask my notebook about X', 'add [source] to NotebookLM', 'create an infographic in NotebookLM', 'use NotebookLM Studio', 'generate a slide deck from my notebook', or any variation where the goal involves NotebookLM. Requires browser automation environment — fails gracefully when unavailable."
+description: "Google'ın NotebookLM'ini kontrol etmek için tarayıcı otomasyon skill'i. Not defterlerini okuma ve sorgulama, kaynak ekleme (URL'ler, metin, dosyalar, YouTube bağlantıları, sentezlenmiş içerik), Studio çıktıları oluşturma (Ses Özeti, infografik, slayt destesi, çalışma rehberi, brifing dokümanı, zihin haritası, zaman çizelgesi, SSS) ve yeni not defterleri oluşturmayı işler. NotebookLM içeren herhangi bir ifadede tetikle. Tarayıcı otomasyon ortamı gerektirir."
 license: MIT
 metadata:
   source_spec: "megaprompts/03-notebooklm-megaprompt.md"

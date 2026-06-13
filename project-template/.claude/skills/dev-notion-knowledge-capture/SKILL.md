@@ -1,6 +1,6 @@
 ---
 name: notion-knowledge-capture
-description: Capture conversations and decisions into structured Notion pages; use when turning chats/notes into wiki entries, how-tos, decisions, or FAQs with proper linking.
+description: "Konuşmaları ve kararları yapılandırılmış Notion sayfalarına aktarır; sohbetleri/notları wiki girişlerine, nasıl yapılırlarına, kararlara veya SSS'lere uygun bağlantılarla dönüştürürken kullan."
 metadata:
   short-description: Capture conversations into structured Notion pages
 ---

@@ -1,6 +1,6 @@
 ---
 name: stakeholder-map
-description: "Build a stakeholder map using a power/interest grid, identify communication strategies per quadrant, and generate a communication plan. Use when managing stakeholders, preparing for a launch, aligning cross-functional teams, or planning stakeholder engagement."
+description: "Güç/ilgi ızgarası kullanarak paydaş haritası oluşturur, dörtgen başına iletişim stratejileri belirler ve bir iletişim planı üretir. Paydaşları yönetirken, bir lansman hazırlarken, işlevler arası ekipleri hizalarken veya paydaş katılımını planlarken kullan."
 ---
 
 ## Stakeholder Mapping & Communication Plan

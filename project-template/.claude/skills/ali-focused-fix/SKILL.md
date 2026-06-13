@@ -1,6 +1,6 @@
 ---
 name: "focused-fix"
-description: "Use when the user asks to fix, debug, or make a specific feature/module/area work end-to-end. Triggers: 'make X work', 'fix the Y feature', 'the Z module is broken', 'focus on [area]'. Not for quick single-bug fixes — this is for systematic deep-dive repair across all files and dependencies."
+description: "Kullanıcı belirli bir özellik/modül/alanı uçtan uca çalıştırmasını, hata ayıklamasını veya düzeltmesini istediğinde kullan. Tetikleyiciler: 'X'i çalıştır', 'Y özelliğini düzelt', 'Z modülü bozuk', '[alan]a odaklan'. Hızlı tek hata düzeltmeleri için değil — bu, tüm dosyalar ve bağımlılıklar genelinde sistematik derin inceleme onarımı içindir."
 ---
 
 # Focused Fix — Deep-Dive Feature Repair

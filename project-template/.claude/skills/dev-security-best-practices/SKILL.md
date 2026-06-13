@@ -1,6 +1,6 @@
 ---
 name: "security-best-practices"
-description: "Perform language and framework specific security best-practice reviews and suggest improvements. Trigger only when the user explicitly requests security best practices guidance, a security review/report, or secure-by-default coding help. Trigger only for supported languages (python, javascript/typescript, go). Do not trigger for general code review, debugging, or non-security tasks."
+description: "Dile ve framework'e özgü güvenlik en iyi uygulama incelemeleri gerçekleştir ve iyileştirmeler öner. Yalnızca kullanıcı açıkça güvenlik en iyi uygulamaları rehberliği, güvenlik incelemesi/raporu veya güvenli-varsayılan kodlama yardımı istediğinde tetikle. Yalnızca desteklenen diller için tetikle (python, javascript/typescript, go). Genel kod incelemesi, hata ayıklama veya güvenlik dışı görevler için tetikleme."
 ---
 
 # Security Best Practices

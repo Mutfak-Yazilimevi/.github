@@ -1,6 +1,6 @@
 ---
 name: engineering-handoff
-description: Compact the current conversation into a handoff document for another agent to pick up. References existing artifacts (PRDs, plans, ADRs, issues, commits, diffs) by path or URL instead of duplicating them. Use when user wants to hand off the conversation to a fresh agent or starts a new session that picks up prior work.
+description: "Mevcut konuşmayı başka bir ajanın devralması için devir belgesi hâline getirir. Mevcut eserlere (PRD'ler, planlar, ADR'ler, issue'lar, commit'ler, diff'ler) bunları kopyalamak yerine yol veya URL ile atıfta bulunur. Kullanıcı konuşmayı yeni bir ajana devretmek istediğinde veya önceki çalışmayı sürdürmek üzere yeni bir oturum başlattığında kullan."
 argument-hint: "What will the next session be used for?"
 license: MIT
 metadata:

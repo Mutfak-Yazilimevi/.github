@@ -1,6 +1,6 @@
 ---
 name: "incident-response"
-description: "Use when a security incident has been detected or declared and needs classification, triage, escalation path determination, and forensic evidence collection. Covers SEV1-SEV4 classification, false positive filtering, incident taxonomy, and NIST SP 800-61 lifecycle."
+description: "Bir güvenlik olayı tespit edildiğinde veya ilan edildiğinde ve sınıflandırma, önceliklendirme, eskalasyon yolu belirleme ve adli delil toplama gerektiğinde kullan. SEV1-SEV4 sınıflandırmasını, yanlış pozitif filtrelemeyi, olay taksonomiyi ve NIST SP 800-61 yaşam döngüsünü kapsar."
 ---
 
 # Incident Response

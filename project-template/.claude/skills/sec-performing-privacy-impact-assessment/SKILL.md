@@ -1,14 +1,6 @@
 ---
 name: performing-privacy-impact-assessment
-description: 'Automates the Privacy Impact Assessment (PIA) workflow including data
-  flow mapping, privacy risk scoring matrices, GDPR Article 35 DPIA and CCPA/CPRA
-  alignment checks, data inventory cataloging, and remediation tracking. Implements
-  the NIST Privacy Framework PRAM methodology and ICO DPIA guidance for systematic
-  identification and mitigation of privacy risks across processing activities. Use
-  when conducting privacy assessments for new systems, evaluating regulatory compliance
-  posture, or building automated privacy governance programs.
-
-  '
+description: "Veri akışı haritalama, gizlilik riski puanlama matrisleri, GDPR Madde 35 DPIA ve CCPA/CPRA uyum kontrolleri, veri envanteri kataloglama ve iyileştirme takibi dahil olmak üzere Gizlilik Etki Değerlendirmesi (PIA) iş akışını otomatikleştirir. İşleme faaliyetleri genelinde gizlilik risklerini sistematik olarak tanımlamak ve azaltmak için NIST Privacy Framework PRAM metodolojisini ve ICO DPIA kılavuzunu uygular. Yeni sistemler için gizlilik değerlendirmeleri yaparken, yasal uyum duruşunu değerlendirirken veya otomatik gizlilik yönetişim programları oluştururken kullan."
 domain: cybersecurity
 subdomain: privacy-compliance
 tags:

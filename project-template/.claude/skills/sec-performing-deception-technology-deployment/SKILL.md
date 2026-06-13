@@ -1,12 +1,6 @@
 ---
 name: performing-deception-technology-deployment
-description: 'Deploys deception technology including honeypots, honeytokens, and decoy
-  systems to detect attackers who have bypassed perimeter defenses, providing high-fidelity
-  alerts with near-zero false positive rates. Use when SOC teams need early warning
-  of lateral movement, credential abuse, or internal reconnaissance by deploying convincing
-  traps across the network.
-
-  '
+description: "Çevre savunmalarını aşan saldırganları tespit etmek, ağ genelinde inandırıcı tuzaklar dağıtarak yanal hareket, kimlik bilgisi kötüye kullanımı veya dahili keşif konusunda neredeyse sıfır yanlış pozitif oranıyla yüksek güvenilirlikli uyarılar sağlamak için honeypot'lar, honeytoken'lar ve sahte sistemler dahil aldatma teknolojisi dağıtır. SOC ekiplerinin yanal hareket, kimlik bilgisi kötüye kullanımı veya dahili keşfin erken uyarısına ihtiyaç duyduğunda kullan."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

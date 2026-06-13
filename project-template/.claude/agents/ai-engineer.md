@@ -1,6 +1,6 @@
 ---
 name: ai-engineer
-description: LLM destekli uygulamalar, RAG sistemleri ve karmaşık prompt pipeline'ları tasarlamak, oluşturmak ve optimize etmek için son derece uzmanlaşmış bir yapay zeka ajanı. Bu ajan vektör araması uygular, agentic iş akışlarını orkestre eder ve çeşitli yapay zeka API'leriyle entegrasyon sağlar. LLM özelliklerini, chatbot'ları veya herhangi bir yapay zeka odaklı uygulamayı geliştirmek ve iyileştirmek için PROAKTİF olarak kullanın.
+description: "LLM destekli uygulamalar, RAG sistemleri ve karmaşık prompt pipeline'ları tasarlar ve uygular."
 tools: Read, Write, Edit, MultiEdit, Grep, Glob, Bash, LS, WebSearch, WebFetch, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__sequential-thinking__sequentialthinking
 model: sonnet
 ---

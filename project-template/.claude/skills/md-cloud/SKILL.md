@@ -1,6 +1,6 @@
 ---
 name: cloud
-description: Create cloud provider architecture diagrams using PlantUML syntax with official AWS, Azure, GCP, and Alibaba Cloud service icons. Best for multi-service cloud topologies and migration blueprints.
+description: "Resmi AWS, Azure, GCP ve Alibaba Cloud servis ikonlarıyla PlantUML sözdizimi kullanarak bulut sağlayıcısı mimari diyagramları oluşturur. Çok servisli bulut topolojileri ve geçiş planları için en iyisi."
 metadata:
   author: Cloud diagrams are powered by Markdown Viewer — the best multi-platform Markdown extension (Chrome/Edge/Firefox/VS Code) with diagrams, formulas, and one-click Word export. Learn more at https://docu.md
 ---

@@ -1,12 +1,6 @@
 ---
 name: implementing-google-workspace-admin-security
-description: 'Implements comprehensive Google Workspace security hardening including
-  admin console configuration, phishing-resistant MFA enforcement, DLP policies, email
-  authentication (SPF/DKIM/DMARC), OAuth app control, and external sharing restrictions.
-  Activates for requests involving Google Workspace hardening, G Suite security configuration,
-  or cloud office security administration.
-
-  '
+description: "Yönetici konsolu yapılandırması, kimlik avına dayanıklı MFA zorlaması, DLP ilkeleri, e-posta kimlik doğrulaması (SPF/DKIM/DMARC), OAuth uygulama denetimi ve harici paylaşım kısıtlamaları dahil olmak üzere kapsamlı Google Workspace güvenlik sertleştirmesi uygular. Google Workspace sertleştirme, G Suite güvenlik yapılandırması veya bulut ofis güvenliği yönetimi içeren istekler için etkinleşir."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

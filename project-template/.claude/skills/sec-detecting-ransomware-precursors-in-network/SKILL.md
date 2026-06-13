@@ -1,15 +1,6 @@
 ---
 name: detecting-ransomware-precursors-in-network
-description: 'Detects early-stage ransomware indicators in network traffic before
-  encryption begins, including initial access broker activity, command-and-control
-  beaconing, credential harvesting, reconnaissance scanning, and staging behavior.
-  Uses network detection tools (Zeek, Suricata, Arkime), SIEM correlation rules, and
-  threat intelligence feeds to identify ransomware precursor patterns such as Cobalt
-  Strike beacons, Mimikatz network signatures, and RDP brute-force attempts. Activates
-  for requests involving pre-ransomware detection, network-based ransomware indicators,
-  or early warning ransomware monitoring.
-
-  '
+description: "Şifreleme başlamadan önce ağ trafiğindeki erken aşama fidye yazılımı göstergelerini tespit eder; ilk erişim aracısı faaliyeti, komuta-kontrol işaretleme, kimlik bilgisi toplama, keşif taraması ve hazırlık davranışı dahil. Cobalt Strike işaretleri, Mimikatz ağ imzaları ve RDP brute-force girişimleri gibi fidye yazılımı öncüsü kalıpları belirlemek için ağ tespit araçları (Zeek, Suricata, Arkime), SIEM korelasyon kuralları ve tehdit istihbarat beslemelerini kullanır. Fidye öncesi tespit, ağ tabanlı fidye yazılımı göstergeleri veya erken uyarı fidye yazılımı izleme içeren isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

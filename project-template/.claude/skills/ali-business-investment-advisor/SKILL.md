@@ -1,6 +1,6 @@
 ---
 name: business-investment-advisor
-description: "Business investment analysis and capital allocation advisor. Use when evaluating whether to invest in equipment, real estate, a new business, hiring, technology, or any capital expenditure. Also use for ROI calculations, IRR, NPV, payback period, build vs buy decisions, lease vs buy analysis, vendor evaluation, or deciding where to allocate limited budget for maximum return."
+description: "İş yatırım analizi ve sermaye tahsis danışmanı. Ekipman, gayrimenkul, yeni bir iş, işe alım, teknoloji veya herhangi bir sermaye harcamasına yatırım yapılıp yapılmayacağını değerlendirirken kullan. Ayrıca ROI hesaplamaları, IRR, NPV, geri ödeme süresi, yapma-satın alma kararları, kiralama-satın alma analizi, tedarikçi değerlendirmesi veya maksimum getiri için sınırlı bütçeyi nereye tahsis edeceğine karar verme için de kullan."
 ---
 
 # Business Investment Advisor

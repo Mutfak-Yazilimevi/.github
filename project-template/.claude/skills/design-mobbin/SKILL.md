@@ -1,6 +1,6 @@
 ---
 name: mobbin-ui-skills
-description: Mobbin's UI design system. Use when building interfaces inspired by Mobbin's aesthetic - light mode, Inter font, 4px grid.
+description: "Mobbin'in UI tasarım sistemi. Mobbin estetiğinden ilham alarak arayüzler oluştururken kullanılır — açık mod, Inter yazı tipi, 4 piksel ızgara."
 license: MIT
 metadata:
   author: design-skills

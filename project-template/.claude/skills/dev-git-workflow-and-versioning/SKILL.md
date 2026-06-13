@@ -1,6 +1,6 @@
 ---
 name: git-workflow-and-versioning
-description: Structures git workflow practices. Use when making any code change. Use when committing, branching, resolving conflicts, or when you need to organize work across multiple parallel streams.
+description: "Git iş akışı uygulamalarını yapılandırır. Herhangi bir kod değişikliği yaparken kullan. Commit atarken, dallanırken, çakışmaları çözerken veya birden fazla paralel akışta işi düzenlemeniz gerektiğinde kullan."
 ---
 
 # Git Workflow and Versioning

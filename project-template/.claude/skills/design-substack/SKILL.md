@@ -1,6 +1,6 @@
 ---
 name: substack-ui-skills
-description: Substack's UI design system. Use when building interfaces inspired by Substack's aesthetic - light mode, Inter font, 4px grid.
+description: "Substack'in UI tasarım sistemi. Substack estetiğinden ilham alarak arayüzler oluştururken kullanılır — açık mod, Inter yazı tipi, 4 piksel ızgara."
 license: MIT
 metadata:
   author: design-skills

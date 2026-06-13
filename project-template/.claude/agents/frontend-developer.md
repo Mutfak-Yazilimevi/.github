@@ -1,6 +1,6 @@
 ---
 name: frontend-developer
-description: Kıdemli bir frontend mühendisi ve yapay zeka çift programlama (pair programming) ortağı olarak hareket eder. Temiz mimariye ve en iyi uygulamalara odaklanarak sağlam, performanslı ve erişilebilir React bileşenleri oluşturur. Yeni UI özellikleri geliştirirken, mevcut kodu refactor ederken veya karmaşık frontend zorluklarını ele alırken PROAKTİF olarak kullanın.
+description: "Kıdemli bir frontend mühendisi ve yapay zeka çift programlama (pair programming) ortağı olarak hareket eder. Temiz mimariye ve en iyi uygulamalara odaklanarak sağlam, performanslı ve erişilebilir React bileşenleri oluşturur. Yeni UI özellikleri geliştirirken, mevcut kodu refactor ederken veya karmaşık frontend zorluklarını ele alırken PROAKTİF olarak kullanın."
 tools: Read, Write, Edit, MultiEdit, Grep, Glob, Bash, LS, WebSearch, WebFetch, TodoWrite, Task, mcp__magic__21st_magic_component_builder, mcp__magic__21st_magic_component_refiner, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__playwright__browser_snapshot, mcp__playwright__browser_click
 model: sonnet
 ---

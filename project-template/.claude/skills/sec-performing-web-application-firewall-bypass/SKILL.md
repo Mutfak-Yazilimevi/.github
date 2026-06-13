@@ -1,8 +1,6 @@
 ---
 name: performing-web-application-firewall-bypass
-description: Bypass Web Application Firewall protections using encoding techniques,
-  HTTP method manipulation, parameter pollution, and payload obfuscation to deliver
-  SQL injection, XSS, and other attack payloads past WAF detection rules.
+description: "Kodlama teknikleri kullanarak Web Application Firewall korumalarını aşar"
 domain: cybersecurity
 subdomain: web-application-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: descript-ui-skills
-description: Descript's UI design system. Use when building interfaces inspired by Descript's aesthetic - dark mode, Inter font, 4px grid.
+description: "Descript'in UI tasarım sistemi. Descript estetiğinden ilham alarak arayüzler oluştururken kullanılır — karanlık mod, Inter yazı tipi, 4 piksel ızgara."
 license: MIT
 metadata:
   author: design-skills

@@ -1,6 +1,6 @@
 ---
 name: bear-ui-skills
-description: Bear's UI design system. Use when building interfaces inspired by Bear's aesthetic - light mode, Inter font, 4px grid.
+description: "Bear'ın UI tasarım sistemi. Bear'ın estetiğinden esinlenen arayüzler oluştururken kullan — aydınlık mod, Inter yazı tipi, 4px grid."
 license: MIT
 metadata:
   author: design-skills

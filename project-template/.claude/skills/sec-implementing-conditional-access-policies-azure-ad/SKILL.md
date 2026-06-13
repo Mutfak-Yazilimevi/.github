@@ -1,8 +1,6 @@
 ---
 name: implementing-conditional-access-policies-azure-ad
-description: Configure Microsoft Entra ID (Azure AD) Conditional Access policies for
-  zero trust access control. Covers signal-based policy design, device compliance
-  requirements, risk-based authentication, named l
+description: "Sıfır güven erişim denetimi için Microsoft Entra ID (Azure AD) Koşullu Erişim ilkelerini yapılandır. Sinyal tabanlı ilke tasarımını, cihaz uyumluluk gereksinimlerini, risk tabanlı kimlik doğrulamayı ve adlandırılmış konumları kapsar."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

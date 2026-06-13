@@ -1,6 +1,6 @@
 ---
 name: pdf
-description: Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables from PDFs, combining or merging multiple PDFs into one, splitting PDFs apart, rotating pages, adding watermarks, creating new PDFs, filling PDF forms, encrypting/decrypting PDFs, extracting images, and OCR on scanned PDFs to make them searchable. If the user mentions a .pdf file or asks to produce one, use this skill.
+description: "Kullanıcı PDF dosyalarıyla ilgili herhangi bir işlem yapmak istediğinde bu skill'i kullan. PDF'lerden metin/tablo okuma veya çıkarma, birden fazla PDF'yi birleştirme, PDF'leri bölme, sayfaları döndürme, filigran ekleme, yeni PDF oluşturma, PDF form doldurma, PDF şifreleme/şifre çözme, resim çıkarma ve taranmış PDF'lere OCR uygulama gibi işlemleri kapsar. Kullanıcı .pdf dosyasından bahsederse veya PDF üretmesini isterse bu skill'i kullan."
 license: Proprietary. LICENSE.txt has complete terms
 ---
 

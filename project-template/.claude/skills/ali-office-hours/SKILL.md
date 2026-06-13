@@ -1,6 +1,6 @@
 ---
 name: "office-hours"
-description: "/cs:office-hours <topic> — YC-style 6-question founder interrogation before any advice. Forces clarity on problem, customer, distribution, defensibility, capital, and founder fit."
+description: "/cs:office-hours <konu> — Herhangi bir tavsiyeden önce YC tarzı 6 soruluk kurucu sorgulaması. Problem, müşteri, dağıtım, savunulabilirlik, sermaye ve kurucu uyumu üzerine netlik zorlar."
 ---
 
 # /cs:office-hours — Six-Question Founder Interrogation

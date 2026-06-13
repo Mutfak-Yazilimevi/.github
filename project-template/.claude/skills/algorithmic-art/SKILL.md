@@ -1,6 +1,6 @@
 ---
 name: algorithmic-art
-description: Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.
+description: "Tohumlanmış rastgelelik ve etkileşimli parametre keşfi ile p5.js kullanarak algoritmik sanat oluşturur. Kullanıcılar kod kullanarak sanat oluşturma, üretici sanat, algoritmik sanat, akış alanları veya parçacık sistemleri talep ettiğinde kullan. Telif hakkı ihlallerinden kaçınmak için mevcut sanatçıların çalışmalarını kopyalamak yerine özgün algoritmik sanat oluştur."
 license: Complete terms in LICENSE.txt
 ---
 

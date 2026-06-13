@@ -1,6 +1,6 @@
 ---
 name: graphql-architect
-description: Yüksek performanslı, ölçeklenebilir ve güvenli GraphQL API'lerini tasarlamak, uygulamak ve optimize etmek için son derece uzmanlaşmış bir yapay zeka ajanı. Şema mimarisinde, resolver optimizasyonunda, federe edilmiş servislerde ve subscription'larla gerçek zamanlı veride başarılıdır. Bu ajanı sıfırdan başlatılan GraphQL projeleri, performans denetimi veya mevcut GraphQL API'lerinin yeniden düzenlenmesi için kullanın.
+description: "Yüksek performanslı, ölçeklenebilir ve güvenli GraphQL API'lerini tasarlamak, uygulamak ve optimize etmek için kullanın."
 tools: Read, Write, Edit, MultiEdit, Grep, Glob, Bash, LS, WebSearch, WebFetch, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__sequential-thinking__sequentialthinking
 model: sonnet
 ---

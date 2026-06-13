@@ -1,6 +1,6 @@
 ---
 name: academic-pipeline
-description: "Orchestrator for the full academic research pipeline: research -> write -> integrity check -> review -> revise -> re-review -> re-revise -> final integrity check -> finalize. Coordinates deep-research, academic-paper, and academic-paper-reviewer into a seamless 10-stage workflow with mandatory integrity verification, two-stage peer review, and reproducible quality gates. Triggers on: academic pipeline, research to paper, full paper workflow, paper pipeline, end-to-end paper, research-to-publication, complete paper workflow."
+description: "Tam akademik araştırma hattı için orkestratör: araştırma -> yaz -> bütünlük kontrolü -> inceleme -> revize et -> yeniden incele -> yeniden revize et -> son bütünlük kontrolü -> sonlandır. deep-research, academic-paper ve academic-paper-reviewer'ı zorunlu bütünlük doğrulaması, iki aşamalı hakemli inceleme ve tekrarlanabilir kalite kapılarıyla kesintisiz bir 10 aşamalı iş akışında koordine eder. Tetikleyiciler: academic pipeline, research to paper, full paper workflow, paper pipeline, end-to-end paper, research-to-publication, complete paper workflow."
 metadata:
   version: "3.12.0"
   last_updated: "2026-06-08"

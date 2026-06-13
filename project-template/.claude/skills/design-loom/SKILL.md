@@ -1,6 +1,6 @@
 ---
 name: loom-ui-skills
-description: Loom's UI design system. Use when building interfaces inspired by Loom's aesthetic - light mode, Inter font, 4px grid.
+description: "Loom'un UI tasarım sistemi. Loom estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter font, 4px grid."
 license: MIT
 metadata:
   author: design-skills

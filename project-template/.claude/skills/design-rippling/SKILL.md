@@ -1,6 +1,6 @@
 ---
 name: rippling-ui-skills
-description: Rippling's UI design system. Use when building interfaces inspired by Rippling's aesthetic - dark mode, Inter font, 4px grid.
+description: "Rippling'in UI tasarım sistemi. Rippling estetiğinden ilham alan arayüzler oluştururken kullan — dark mode, Inter font, 4px grid"
 license: MIT
 metadata:
   author: design-skills

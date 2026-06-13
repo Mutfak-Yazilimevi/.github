@@ -1,6 +1,6 @@
 ---
 name: "churn-prevention"
-description: "Reduce voluntary and involuntary churn through cancel flow design, save offers, exit surveys, and dunning sequences. Use when designing or optimizing a cancel flow, building save offers, setting up dunning emails, or reducing failed-payment churn. Trigger keywords: cancel flow, churn reduction, save offers, dunning, exit survey, payment recovery, win-back, involuntary churn, failed payments, cancel page. NOT for customer health scoring or expansion revenue — use customer-success-manager for that."
+description: "İptal akış tasarımı, kaydetme teklifleri, çıkış anketleri ve dunning dizileri aracılığıyla gönüllü ve istemsiz churn'ü azalt. İptal akışı tasarlarken veya optimize ederken, kaydetme teklifleri oluştururken, dunning e-postaları kurarken veya başarısız ödeme churn'ünü azaltırken kullan. Tetik anahtar sözcükleri: cancel flow, churn reduction, save offers, dunning, exit survey, payment recovery, win-back, involuntary churn, failed payments, cancel page. Müşteri sağlık puanlaması veya genişletme geliri için değil — bunlar için customer-success-manager'ı kullan."
 license: MIT
 metadata:
   version: 1.0.0

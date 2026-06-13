@@ -1,8 +1,6 @@
 ---
 name: implementing-zero-knowledge-proof-for-authentication
-description: Zero-Knowledge Proofs (ZKPs) allow a prover to demonstrate knowledge
-  of a secret (such as a password or private key) without revealing the secret itself.
-  This skill implements the Schnorr identificati
+description: "Sıfır-Bilgi İspatları (ZKP'ler), bir kanıtlayıcının sırrın kendisini açıklamadan bir sırrı (parola veya özel anahtar gibi) bildiğini göstermesine olanak tanır. Bu beceri Schnorr kimlik doğrulama protokolünü uygular"
 domain: cybersecurity
 subdomain: cryptography
 tags:

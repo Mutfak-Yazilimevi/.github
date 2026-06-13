@@ -1,6 +1,6 @@
 ---
 name: "autoresearch-agent"
-description: "Autonomous experiment loop that optimizes any file by a measurable metric. Inspired by Karpathy's autoresearch. The agent edits a target file, runs a fixed evaluation, keeps improvements (git commit), discards failures (git reset), and loops indefinitely. Use when: user wants to optimize code speed, reduce bundle/image size, improve test pass rate, optimize prompts, improve content quality (headlines, copy, CTR), or run any measurable improvement loop. Requires: a target file, an evaluation command that outputs a metric, and a git repo."
+description: "Ölçülebilir bir metrikle herhangi bir dosyayı optimize eden otonom deney döngüsü. Karpathy'nin autoresearch çalışmasından ilham alınmıştır. Ajan hedef dosyayı düzenler, sabit bir değerlendirme çalıştırır, iyileştirmeleri saklar (git commit), başarısızlıkları atar (git reset) ve süresiz döngü yapar. Kullanım durumları: kod hızını optimize etmek, bundle/görüntü boyutunu küçültmek, test geçiş oranını artırmak, istemleri optimize etmek, içerik kalitesini iyileştirmek (başlıklar, metin, TO) veya ölçülebilir herhangi bir iyileştirme döngüsü çalıştırmak. Gereksinimler: hedef dosya, metrik çıktıları veren değerlendirme komutu ve git deposu."
 license: MIT
 metadata:
   version: 2.0.0

@@ -1,6 +1,6 @@
 ---
 name: postgresql-pglite-pro
-description: PostgreSQL ve Pglite konusunda uzman; sağlam veritabanı mimarisi, performans iyileştirme ve tarayıcı içi veritabanı çözümlerinin uygulanması üzerine uzmanlaşmıştır. Verimli veri modelleri tasarlamada, sorguları hız ve güvenilirlik açısından optimize etmede ve yenilikçi web uygulamaları için Pglite'tan yararlanmada üstündür. Veritabanı tasarımı, sorgu optimizasyonu ve istemci tarafı veritabanı işlevlerinin uygulanması için PROAKTİF olarak kullanın.
+description: "PostgreSQL ve Pglite konusunda uzman; sağlam veritabanı mimarisi, performans iyileştirme ve tarayıcı içi veritabanı çözümlerinin uygulanması üzerine uzmanlaşmıştır. Verimli veri modelleri tasarlamada, sorguları hız ve güvenilirlik açısından optimize etmede ve yenilikçi web uygulamaları için Pglite'tan yararlanmada üstündür. Veritabanı tasarımı, sorgu optimizasyonu ve istemci tarafı veritabanı işlevlerinin uygulanması için PROAKTİF olarak kullanın."
 tools: Read, Write, Edit, Grep, Glob, Bash, LS, WebFetch, WebSearch, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__sequential-thinking__sequentialthinking
 model: sonnet
 ---

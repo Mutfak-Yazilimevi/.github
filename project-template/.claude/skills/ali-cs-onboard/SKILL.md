@@ -1,6 +1,6 @@
 ---
 name: "cs-onboard"
-description: "Founder onboarding interview that captures company context across 7 dimensions. Invoke with /cs:setup for initial interview or /cs:update for quarterly refresh. Generates ~/.claude/company-context.md used by all C-suite advisor skills."
+description: "7 boyut genelinde şirket bağlamını yakalayan kurucu hazırlık röportajı. İlk röportaj için /cs:setup, üç aylık yenileme için /cs:update ile çağır. Tüm C-suite danışman becerileri tarafından kullanılan ~/.claude/company-context.md dosyasını oluşturur."
 license: MIT
 metadata:
   version: 1.0.0

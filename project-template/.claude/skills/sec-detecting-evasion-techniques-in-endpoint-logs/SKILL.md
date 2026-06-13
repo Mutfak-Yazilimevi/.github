@@ -1,13 +1,6 @@
 ---
 name: detecting-evasion-techniques-in-endpoint-logs
-description: 'Detects defense evasion techniques used by adversaries in endpoint logs
-  including log tampering, timestomping, process injection, and security tool disabling.
-  Use when investigating suspicious endpoint behavior, building detection rules for
-  evasion tactics, or conducting threat hunting for stealthy adversary activity. Activates
-  for requests involving evasion detection, defense evasion analysis, log tampering
-  detection, or MITRE ATT&CK TA0005.
-
-  '
+description: "Günlük kurcalama, timestomping, process injection ve güvenlik aracı devre dışı bırakma dahil olmak üzere saldırganların endpoint günlüklerinde kullandığı savunmadan kaçınma tekniklerini tespit eder. Şüpheli endpoint davranışlarını araştırırken, kaçınma taktikleri için tespit kuralları oluştururken veya gizli saldırgan faaliyetlerine yönelik tehdit avı yaparken kullanın. Kaçınma tespiti, savunmadan kaçınma analizi, günlük kurcalama tespiti veya MITRE ATT&CK TA0005 içeren isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: "tech-stack-evaluator"
-description: Technology stack evaluation and comparison with TCO analysis, security assessment, and ecosystem health scoring. Use when comparing frameworks, evaluating technology stacks, calculating total cost of ownership, assessing migration paths, or analyzing ecosystem viability.
+description: "TCO analizi, güvenlik değerlendirmesi ve ekosistem sağlık puanlamasıyla teknoloji yığını değerlendirmesi ve karşılaştırması yapar. Framework'leri karşılaştırırken, teknoloji yığınlarını değerlendirirken, toplam sahip olma maliyetini hesaplarken, geçiş yollarını değerlendirirken veya ekosistem yaşayabilirliğini analiz ederken kullan"
 ---
 
 # Technology Stack Evaluator

@@ -1,12 +1,6 @@
 ---
 name: performing-purple-team-exercise
-description: 'Performs purple team exercises by coordinating red team adversary emulation
-  with blue team detection validation using MITRE ATT&CK-mapped attack scenarios,
-  real-time detection testing, and collaborative gap remediation. Use when SOC teams
-  need to validate detection capabilities, improve analyst skills, and close detection
-  gaps through structured offensive-defensive collaboration.
-
-  '
+description: "MITRE ATT&CK'e eşlenmiş saldırı senaryoları, gerçek zamanlı tespit testi ve işbirlikçi boşluk giderimi kullanarak mavi ekip tespit doğrulamasıyla kırmızı ekip düşman emülasyonunu koordine ederek mor ekip egzersizleri gerçekleştirir. SOC ekiplerinin tespit yeteneklerini doğrulaması, analist becerilerini geliştirmesi ve yapılandırılmış saldırı-savunma işbirliği yoluyla tespit boşluklarını kapatması gerektiğinde kullan."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

@@ -1,6 +1,6 @@
 ---
 name: airtable-ui-skills
-description: Airtable's UI design system. Use when building interfaces inspired by Airtable's aesthetic - light mode, Inter font, 4px grid.
+description: "Airtable'ın UI tasarım sistemi. Airtable'ın estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter font, 4px grid."
 license: MIT
 metadata:
   author: design-skills

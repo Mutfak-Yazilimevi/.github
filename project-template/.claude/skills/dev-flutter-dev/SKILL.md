@@ -1,8 +1,6 @@
 ---
 name: flutter-dev
-description: |
-  Flutter cross-platform development guide covering widget patterns, Riverpod/Bloc state management, GoRouter navigation, performance optimization, and platform-specific implementations. Includes const optimization, responsive layouts, testing strategies, and DevTools profiling.
-  Use when: building Flutter apps, implementing state management (Riverpod/Bloc), setting up GoRouter navigation, creating custom widgets, optimizing performance, writing widget tests, cross-platform development.
+description: "Widget kalıpları, Riverpod/Bloc durum yönetimi, GoRouter navigasyon, performans optimizasyonu ve platforma özgü uygulamaları kapsayan Flutter çapraz platform geliştirme rehberi. Const optimizasyonu, duyarlı düzenler, test stratejileri ve DevTools profillemesi içerir. Şunlar için kullan: Flutter uygulamaları geliştirme, durum yönetimi uygulama (Riverpod/Bloc), GoRouter navigasyon kurma, özel widget'lar oluşturma, performansı optimize etme, widget testleri yazma, çapraz platform geliştirme"
 license: MIT
 metadata:
   version: "1.0.0"

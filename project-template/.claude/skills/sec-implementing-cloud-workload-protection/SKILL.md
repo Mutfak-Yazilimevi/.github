@@ -1,11 +1,6 @@
 ---
 name: implementing-cloud-workload-protection
-description: 'Implements cloud workload protection using boto3 and google-cloud APIs
-  for runtime security monitoring, process anomaly detection, and file integrity checking
-  on EC2/GCE instances. Scans for cryptomining, reverse shells, and unauthorized binaries.
-  Use when building runtime security controls for cloud compute workloads.
-
-  '
+description: "EC2/GCE örneklerinde çalışma zamanı güvenlik izlemesi, işlem anomali tespiti ve dosya bütünlüğü denetimi için boto3 ve google-cloud API'lerini kullanarak bulut iş yükü koruması uygular. Kripto madenciliği, ters kabuk ve yetkisiz ikilileri tarar. Bulut hesaplama iş yükleri için çalışma zamanı güvenlik denetimleri oluştururken kullan."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

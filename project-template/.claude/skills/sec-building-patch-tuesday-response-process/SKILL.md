@@ -1,7 +1,6 @@
 ---
 name: building-patch-tuesday-response-process
-description: Establish a structured operational process to triage, test, and deploy
-  Microsoft Patch Tuesday security updates within risk-based remediation SLAs.
+description: "Microsoft Patch Tuesday güvenlik güncellemelerini risk tabanlı düzeltme SLA'ları dahilinde triyaj etmek, test etmek ve dağıtmak için yapılandırılmış bir operasyonel süreç oluşturur."
 domain: cybersecurity
 subdomain: vulnerability-management
 tags:

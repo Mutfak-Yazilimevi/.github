@@ -1,12 +1,6 @@
 ---
 name: investigating-insider-threat-indicators
-description: 'Investigates insider threat indicators including data exfiltration attempts,
-  unauthorized access patterns, policy violations, and pre-departure behaviors using
-  SIEM analytics, DLP alerts, and HR data correlation. Use when SOC teams receive
-  insider threat referrals from HR, detect anomalous data movement by employees, or
-  need to build investigation timelines for potential insider threats.
-
-  '
+description: "SIEM analitiği, DLP uyarıları ve İK veri korelasyonu kullanarak veri sızdırma girişimleri, yetkisiz erişim kalıpları, politika ihlalleri ve ayrılma öncesi davranışlar dahil iç tehdit göstergelerini araştırır. SOC ekipleri İK'dan iç tehdit yönlendirmeleri aldığında, çalışanlar tarafından anormal veri hareketi tespit edildiğinde veya potansiyel iç tehditler için soruşturma zaman çizelgeleri oluşturmaya ihtiyaç duyulduğunda kullan."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

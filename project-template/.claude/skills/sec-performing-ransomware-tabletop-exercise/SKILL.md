@@ -1,14 +1,6 @@
 ---
 name: performing-ransomware-tabletop-exercise
-description: 'Plans and facilitates tabletop exercises simulating ransomware incidents
-  to test organizational readiness, decision-making, and communication procedures.
-  Designs realistic scenarios based on current ransomware threat actors (LockBit,
-  ALPHV/BlackCat, Cl0p), injects covering double extortion, backup destruction, and
-  regulatory notification requirements. Evaluates participant responses against NIST
-  CSF and CISA guidelines. Activates for requests involving ransomware tabletop, incident
-  response exercise, or ransomware readiness drill.
-
-  '
+description: "Kurumsal hazırlığı, karar verme ve iletişim prosedürlerini test etmek için fidye yazılımı olaylarını simüle eden masa başı egzersizleri planlar ve kolaylaştırır. Güncel fidye yazılımı tehdit aktörlerine (LockBit, ALPHV/BlackCat, Cl0p) dayalı gerçekçi senaryolar tasarlar; çift gasp, yedek imha ve yasal bildirim gereksinimlerini kapsayan enjeksiyonlar içerir. Katılımcı yanıtlarını NIST CSF ve CISA yönergelerine göre değerlendirir. Fidye yazılımı masa başı egzersizi, olay müdahale tatbikatı veya fidye yazılımı hazırlık tatbikatı içeren istekler için kullan."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

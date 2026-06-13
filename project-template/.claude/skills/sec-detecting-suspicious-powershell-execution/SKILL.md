@@ -1,7 +1,6 @@
 ---
 name: detecting-suspicious-powershell-execution
-description: Detect suspicious PowerShell execution patterns including encoded commands,
-  download cradles, AMSI bypass attempts, and constrained language mode evasion.
+description: "Kodlanmış komutlar, indirme sarmalayıcıları, AMSI atlama girişimleri ve kısıtlı dil modu kaçışı dahil şüpheli PowerShell yürütme kalıplarını tespit eder."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

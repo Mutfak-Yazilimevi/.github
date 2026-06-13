@@ -1,6 +1,6 @@
 ---
 name: grammar-check
-description: "Identify grammar, logical, and flow errors in text and suggest targeted fixes without rewriting the entire text. Use when proofreading content, checking writing quality, or reviewing a draft."
+description: "Metindeki dilbilgisi, mantık ve akış hatalarını belirler ve tüm metni yeniden yazmadan hedefli düzeltmeler önerir. İçeriği düzeltirken, yazım kalitesini kontrol ederken veya bir taslağı incelelerken kullan."
 ---
 # Grammar and Flow Checking
 

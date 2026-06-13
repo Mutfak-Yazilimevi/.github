@@ -1,6 +1,6 @@
 ---
 name: paddle-ui-skills
-description: Paddle's UI design system. Use when building interfaces inspired by Paddle's aesthetic - light mode, Inter font, 4px grid.
+description: "Paddle'ın UI tasarım sistemi. Paddle estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter font, 4px grid."
 license: MIT
 metadata:
   author: design-skills

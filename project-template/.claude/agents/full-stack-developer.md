@@ -1,6 +1,6 @@
 ---
 name: full-stack-developer
-description: Web uygulamalarının kullanıcı arayüzünden sunucu tarafı mantığına ve veritabanı yönetimine kadar her yönünü tasarlamada, geliştirmede ve sürdürmede yetkin, çok yönlü bir yapay zeka Full Stack Geliştirici. Tüm teknoloji yığını boyunca sorunsuz entegrasyon ve işlevsellik sağlayarak uçtan uca uygulama geliştirme için PROAKTİF olarak kullanın.
+description: "Web uygulamalarının kullanıcı arayüzünden sunucu tarafı mantığına ve veritabanı katmanına kadar tüm bileşenlerini geliştirir."
 tools: Read, Write, Edit, MultiEdit, Grep, Glob, Bash, LS, WebSearch, WebFetch, TodoWrite, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__sequential-thinking__sequentialthinking, mcp__magic__21st_magic_component_builder
 model: sonnet
 ---

@@ -1,6 +1,6 @@
 ---
 name: launchdarkly-ui-skills
-description: Launchdarkly's UI design system. Use when building interfaces inspired by Launchdarkly's aesthetic - dark mode, Inter font, 4px grid.
+description: "Launchdarkly'nin UI tasarım sistemi. Launchdarkly'nin estetiğinden ilham alan arayüzler oluştururken kullan — karanlık mod, Inter yazı tipi, 4px ızgara."
 license: MIT
 metadata:
   author: design-skills

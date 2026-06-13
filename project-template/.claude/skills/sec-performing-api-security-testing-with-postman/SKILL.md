@@ -1,14 +1,6 @@
 ---
 name: performing-api-security-testing-with-postman
-description: 'Uses Postman to perform structured API security testing by building
-  collections that test for OWASP API Security Top 10 vulnerabilities including authentication
-  bypass, authorization flaws, injection, and data exposure. The tester creates environments
-  with multiple user roles, writes test scripts for automated security validation,
-  and integrates Postman with OWASP ZAP and Newman for CI/CD security testing. Activates
-  for requests involving Postman security testing, API security collection, automated
-  API testing, or OWASP API testing with Postman.
-
-  '
+description: "Kimlik doğrulama atlatma, yetkilendirme açıkları, enjeksiyon ve veri ifşası dahil OWASP API Security Top 10 güvenlik açıklarını test eden koleksiyonlar oluşturmak için Postman kullanarak yapılandırılmış API güvenliği testi gerçekleştirir. Test uzmanı birden fazla kullanıcı rolüyle ortamlar oluşturur, otomatik güvenlik doğrulaması için test scriptleri yazar ve CI/CD güvenlik testi için Postman'i OWASP ZAP ve Newman ile entegre eder. Postman güvenlik testi, API güvenliği koleksiyonu, otomatik API testi veya Postman ile OWASP API testi içeren isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: api-security
 tags:

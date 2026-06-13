@@ -1,6 +1,6 @@
 ---
 name: "marketing-ideas"
-description: "When the user needs marketing ideas, inspiration, or strategies for their SaaS or software product. Also use when the user asks for 'marketing ideas,' 'growth ideas,' 'how to market,' 'marketing strategies,' 'marketing tactics,' 'ways to promote,' or 'ideas to grow.' This skill provides 139 proven marketing approaches organized by category."
+description: "Kullanıcının SaaS veya yazılım ürünü için pazarlama fikirleri, ilham veya stratejilere ihtiyaç duyduğunda kullan. Ayrıca kullanıcı 'marketing ideas', 'growth ideas', 'how to market', 'marketing strategies', 'marketing tactics', 'ways to promote' veya 'ideas to grow' dediğinde kullan. Bu beceri kategori bazında düzenlenmiş 139 kanıtlanmış pazarlama yaklaşımı sunar."
 license: MIT
 metadata:
   version: 1.0.0

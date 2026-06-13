@@ -1,14 +1,6 @@
 ---
 name: testing-oauth2-implementation-flaws
-description: 'Tests OAuth 2.0 and OpenID Connect implementations for security flaws
-  including authorization code interception, redirect URI manipulation, CSRF in OAuth
-  flows, token leakage, scope escalation, and PKCE bypass. The tester evaluates the
-  authorization server, client application, and token handling for common misconfigurations
-  that enable account takeover or unauthorized access. Activates for requests involving
-  OAuth security testing, OIDC vulnerability assessment, OAuth2 redirect bypass, or
-  authorization code flow testing.
-
-  '
+description: "Hesap ele geçirme veya yetkisiz erişime olanak tanıyan yaygın yanlış yapılandırmaları tespit etmek amacıyla yetkilendirme sunucusunu, istemci uygulamasını ve token işlemeyi değerlendirerek yetkilendirme kodu ele geçirme, yönlendirme URI manipülasyonu, OAuth akışlarında CSRF, token sızıntısı, kapsam yükseltme ve PKCE atlaması dahil olmak üzere OAuth 2.0 ve OpenID Connect uygulamalarındaki güvenlik açıklarını test eder. OAuth güvenlik testi, OIDC güvenlik açığı değerlendirmesi, OAuth2 yönlendirme atlaması veya yetkilendirme kodu akışı testi içeren istekler için kullan."
 domain: cybersecurity
 subdomain: api-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: "decide"
-description: "/cs:decide <memo> — Log a decision to two-layer memory via decision-logger. Approved memo becomes durable; raw transcripts kept for reference."
+description: "/cs:decide <memo> — decision-logger aracılığıyla iki katmanlı belleğe karar kaydet. Onaylanan memo kalıcı hale gelir; ham transkriptler referans olarak tutulur."
 ---
 
 # /cs:decide — Log the Decision

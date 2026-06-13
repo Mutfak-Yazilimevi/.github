@@ -1,6 +1,6 @@
 ---
 name: "analytics-tracking"
-description: "Set up, audit, and debug analytics tracking implementation — GA4, Google Tag Manager, event taxonomy, conversion tracking, and data quality. Use when building a tracking plan from scratch, auditing existing analytics for gaps or errors, debugging missing events, or setting up GTM. Trigger keywords: GA4 setup, Google Tag Manager, GTM, event tracking, analytics implementation, conversion tracking, tracking plan, event taxonomy, custom dimensions, UTM tracking, analytics audit, missing events, tracking broken. NOT for analyzing marketing campaign data — use campaign-analytics for that. NOT for BI dashboards — use product-analytics for in-product event analysis."
+description: "Analitik takip uygulamasını kur, denetle ve hata ayıkla — GA4, Google Tag Manager, event taksonomisi, dönüşüm takibi ve veri kalitesi. Sıfırdan bir takip planı oluştururken, mevcut analitikleri boşluklar veya hatalar için denetlerken, eksik event'leri hata ayıklarken veya GTM kurulumu yaparken kullan. Tetikleyici anahtar kelimeler: GA4 kurulumu, Google Tag Manager, GTM, event takibi, analitik uygulama, dönüşüm takibi, takip planı, event taksonomisi, özel boyutlar, UTM takibi, analitik denetimi, eksik event'ler, takip bozuk. Pazarlama kampanyası verilerini analiz etmek için değil — bunun için campaign-analytics kullan. BI dashboard'lar için değil — uygulama içi event analizi için product-analytics kullan."
 license: MIT
 metadata:
   version: 1.0.0

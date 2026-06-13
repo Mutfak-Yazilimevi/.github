@@ -1,6 +1,6 @@
 ---
 name: "cmo-advisor"
-description: "Marketing leadership for scaling companies. Brand positioning, growth model design, marketing budget allocation, and marketing org design. Use when designing brand strategy, selecting growth models (PLG vs sales-led vs community-led), allocating marketing budgets, building marketing teams, or when user mentions CMO, brand strategy, growth model, CAC, LTV, channel mix, or marketing ROI."
+description: "Büyüyen şirketler için pazarlama liderliği. Marka konumlandırma, büyüme modeli tasarımı, pazarlama bütçesi tahsisi ve pazarlama organizasyonu tasarımı. Marka stratejisi tasarlarken, büyüme modelleri (PLG vs satış odaklı vs topluluk odaklı) seçerken, pazarlama bütçeleri tahsis ederken, pazarlama ekipleri kurarken veya kullanıcı CMO, marka stratejisi, büyüme modeli, CAC, LTV, kanal karması ya da pazarlama ROI'sinden bahsettiğinde kullan."
 license: MIT
 metadata:
   version: 1.0.0

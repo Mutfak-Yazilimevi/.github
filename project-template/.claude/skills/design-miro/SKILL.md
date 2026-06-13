@@ -1,6 +1,6 @@
 ---
 name: miro-ui-skills
-description: Miro's UI design system. Use when building interfaces inspired by Miro's aesthetic - light mode, Inter font, 4px grid.
+description: "Miro'nun UI tasarım sistemi. Miro'nun estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter font, 4px ızgara."
 license: MIT
 metadata:
   author: design-skills

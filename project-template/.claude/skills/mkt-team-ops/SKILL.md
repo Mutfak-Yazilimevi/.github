@@ -1,6 +1,6 @@
 ---
 name: team-ops
-description: Coordinate marketing team operations — roles, workflows, rituals, and handoffs — into a running operating system. Use to set up or streamline how a marketing team plans and ships work.
+description: "Pazarlama ekibi operasyonlarını — rolleri, iş akışlarını, ritüelleri ve devir teslimlerini — çalışan bir işletim sistemine koordine eder. Pazarlama ekibinin iş planlama ve teslimat sürecini kurmak veya düzenlemek için kullan"
 ---
 
 # AI Team Ops

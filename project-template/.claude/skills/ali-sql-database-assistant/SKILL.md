@@ -1,6 +1,6 @@
 ---
 name: "sql-database-assistant"
-description: "Use when the user asks to write SQL queries, optimize database performance, generate migrations, explore database schemas, or work with ORMs like Prisma, Drizzle, TypeORM, or SQLAlchemy."
+description: "Kullanıcı SQL sorgusu yazmak, veritabanı performansını optimize etmek, migration oluşturmak, veritabanı şemalarını keşfetmek veya Prisma, Drizzle, TypeORM ya da SQLAlchemy gibi ORM'lerle çalışmak istediğinde kullan."
 ---
 
 # SQL Database Assistant - POWERFUL Tier Skill

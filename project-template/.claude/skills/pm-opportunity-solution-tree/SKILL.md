@@ -1,6 +1,6 @@
 ---
 name: opportunity-solution-tree
-description: "Build an Opportunity Solution Tree (OST) to structure product discovery — map a desired outcome to opportunities, solutions, and experiments. Based on Teresa Torres' Continuous Discovery Habits. Use when structuring discovery work, mapping opportunities to solutions, or deciding what to build next."
+description: "Ürün keşfini yapılandırmak için Fırsat Çözüm Ağacı (OST) oluştur — istenen sonucu fırsatlara, çözümlere ve deneylere bağla. Teresa Torres'in Sürekli Keşif Alışkanlıklarına dayanır. Keşif çalışmasını yapılandırırken, fırsatları çözümlerle eşleştirirken veya ne oluşturacağına karar verirken kullan."
 ---
 
 ## Opportunity Solution Tree (OST)

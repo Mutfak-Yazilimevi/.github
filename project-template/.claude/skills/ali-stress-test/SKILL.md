@@ -1,6 +1,6 @@
 ---
 name: "stress-test"
-description: "/em -stress-test — Business Assumption Stress Testing"
+description: "/em -stress-test — İş Varsayımı Stres Testi"
 ---
 
 # /em:stress-test — Business Assumption Stress Testing

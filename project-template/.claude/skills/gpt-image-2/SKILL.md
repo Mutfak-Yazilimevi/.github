@@ -1,6 +1,6 @@
 ---
 name: gpt-image-2
-description: 面向 GPT Image 2 的图像生成 / 编辑技能。可在 3 种环境下使用：(A) Garden 本地模式，通过 OpenAI 兼容接口直接出图并落盘；(B) Host-Native 模式，把本 Skill 当作提示词工程指引，把渲染好的 prompt 交给宿主 Agent 自带的图像工具出图；(C) Advisor 模式，宿主无任何图像工具时退化为高质量 prompt 顾问。涵盖 18 大类、80+ 个结构化模板，覆盖海报 / UI / 产品 / 信息图 / 学术图 / 技术架构图 / 漫画 / 头像 / 流程板 / 电影分镜 / IP 周边 / 编辑工作流等场景。
+description: "GPT Image 2 için görüntü oluşturma/düzenleme skill'i. 3 ortamda kullanılabilir: (A) Garden yerel mod, OpenAI uyumlu arayüz aracılığıyla doğrudan görüntü oluştur ve kaydet; (B) Host-Native modu, bu Skill'i prompt mühendisliği rehberi olarak kullan ve işlenmiş prompt'u ana Agent'ın yerleşik görüntü aracına ver; (C) Advisor modu, ana Agent'ta görüntü aracı yokken yüksek kaliteli prompt danışmanına dönüş. 18 büyük kategori, 80+ yapılandırılmış şablon kapsar."
 ---
 
 # GPT Image 2

@@ -1,6 +1,6 @@
 ---
 name: sample-skill
-description: Reference sample skill demonstrating the SKILL.md structure with a basic text-processing example. Use as a template/example when learning the skill format.
+description: "Temel bir metin işleme örneğiyle SKILL.md yapısını gösteren referans örnek beceri. Beceri formatını öğrenirken şablon/örnek olarak kullan."
 ---
 
 # Sample Text Processor

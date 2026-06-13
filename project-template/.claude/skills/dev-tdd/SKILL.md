@@ -1,6 +1,6 @@
 ---
 name: tdd
-description: Test-driven development with red-green-refactor loop. Use when user wants to build features or fix bugs using TDD, mentions "red-green-refactor", wants integration tests, or asks for test-first development.
+description: "Kırmızı-yeşil-yeniden düzenle döngüsüyle test güdümlü geliştirme. Kullanıcı TDD kullanarak özellik geliştirmek veya hata düzeltmek istediğinde, \"kırmızı-yeşil-yeniden düzenle\"den bahsettiğinde, entegrasyon testleri istediğinde veya önce test geliştirme talep ettiğinde kullan."
 ---
 
 # Test-Driven Development

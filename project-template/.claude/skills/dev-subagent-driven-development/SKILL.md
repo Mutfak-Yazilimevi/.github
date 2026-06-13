@@ -1,6 +1,6 @@
 ---
 name: subagent-driven-development
-description: Use when executing implementation plans with independent tasks in the current session
+description: "Mevcut oturumda bağımsız görevlere sahip uygulama planlarını yürütürken kullan"
 ---
 
 # Subagent-Driven Development

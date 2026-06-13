@@ -1,12 +1,6 @@
 ---
 name: frontend-dev
-description: |
-  Full-stack frontend development combining premium UI design, cinematic animations,
-  AI-generated media assets, persuasive copywriting, and visual art. Builds complete,
-  visually striking web pages with real media, advanced motion, and compelling copy.
-  Use when: building landing pages, marketing sites, product pages, dashboards,
-  generating media assets (image/video/audio/music), writing conversion copy,
-  creating generative art, or implementing cinematic scroll animations.
+description: "Birinci sınıf UI tasarımı, sinematik animasyonlar, yapay zeka üretimi medya varlıkları, ikna edici metin yazarlığı ve görsel sanatı bir araya getiren full-stack frontend geliştirme. Gerçek medya, gelişmiş hareket ve çarpıcı metinlerle eksiksiz, görsel açıdan etkileyici web sayfaları oluşturur. Ne zaman kullanılır: açılış sayfaları, pazarlama siteleri, ürün sayfaları, gösterge panelleri oluştururken; medya varlıkları (görüntü/video/ses/müzik) üretirken; dönüşüm metni yazarken; üretken sanat oluştururken veya sinematik kaydırma animasyonları uygularken."
 license: MIT
 metadata:
   version: "1.0.0"

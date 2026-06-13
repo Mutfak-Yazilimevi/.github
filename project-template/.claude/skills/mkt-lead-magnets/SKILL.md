@@ -1,6 +1,6 @@
 ---
 name: lead-magnets
-description: When the user wants to create, plan, or optimize a lead magnet for email capture or lead generation. Also use when the user mentions "lead magnet," "gated content," "content upgrade," "downloadable," "ebook," "cheat sheet," "checklist," "template download," "opt-in," "freebie," "PDF download," "resource library," "content offer," "email capture content," "Notion template," "spreadsheet template," or "what should I give away for emails." Use this for planning what to create and how to distribute it. For interactive tools as lead magnets, see free-tools. For writing the actual content, see copywriting. For the email sequence after capture, see emails.
+description: "Kullanıcı e-posta yakalama veya potansiyel müşteri oluşturma için bir lead magnet oluşturmak, planlamak veya optimize etmek istediğinde kullan. Ayrıca kullanıcı \"lead magnet,\" \"kapılı içerik,\" \"içerik yükseltme,\" \"indirilebilir,\" \"e-kitap,\" \"hile sayfası,\" \"kontrol listesi,\" \"şablon indirme,\" \"opt-in,\" \"ücretsiz hediye,\" \"PDF indirme,\" \"kaynak kütüphanesi,\" \"içerik teklifi,\" \"e-posta yakalama içeriği,\" \"Notion şablonu,\" \"elektronik tablo şablonu\" veya \"e-postalar için ne vermem gerekir\" gibi terimler belirttiğinde kullan. Neyin oluşturulacağını ve nasıl dağıtılacağını planlamak için kullan. Etkileşimli araçlar olarak lead magnet için bkz. free-tools. Gerçek içeriği yazmak için bkz. copywriting. Yakalama sonrası e-posta dizisi için bkz. emails."
 metadata:
   version: 2.0.0
 ---

@@ -1,6 +1,6 @@
 ---
 name: "observability-designer"
-description: "Design production-ready observability strategies combining metrics, logs, and traces. Includes SLI/SLO design, golden-signals monitoring, alert optimization. Use when adding observability to a new service, refactoring alerting that is too noisy, or designing an SLO program before scaling production load."
+description: "Metrikler, günlükler ve izleri birleştiren üretime hazır gözlemlenebilirlik stratejileri tasarlar. SLI/SLO tasarımı, altın sinyal izleme, uyarı optimizasyonu içerir. Yeni bir servise gözlemlenebilirlik eklerken, çok gürültülü uyarıları yeniden düzenlerken veya üretim yükünü ölçeklendirmeden önce bir SLO programı tasarlarken kullan."
 ---
 
 # Observability Designer (POWERFUL)

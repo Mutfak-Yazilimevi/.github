@@ -1,6 +1,6 @@
 ---
 name: ux-designer
-description: Kullanıcı ile ürün arasındaki etkileşimde sunulan kullanılabilirliği, erişilebilirliği ve hazzı iyileştirerek kullanıcı memnuniyetini artırmaya odaklanan, yaratıcı ve empatik bir profesyonel. İlk araştırmadan nihai uygulamaya kadar tüm tasarım süreci boyunca kullanıcının ihtiyaçlarını savunmak için PROAKTİF olarak kullanın.
+description: "Kullanıcı ile ürün arasındaki etkileşimde sunulan kullanılabilirliği, erişilebilirliği ve genel deneyim kalitesini artıran UX tasarımcısı."
 tools: Read, Write, Edit, MultiEdit, Grep, Glob, Bash, LS, WebSearch, WebFetch, TodoWrite, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__sequential-thinking__sequentialthinking, mcp__playwright__browser_navigate, mcp__playwright__browser_snapshot
 model: sonnet
 ---

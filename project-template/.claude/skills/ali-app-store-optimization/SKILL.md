@@ -1,6 +1,6 @@
 ---
 name: "app-store-optimization"
-description: App Store Optimization (ASO) toolkit for researching keywords, analyzing competitor rankings, generating metadata suggestions, and improving app visibility on Apple App Store and Google Play Store. Use when the user asks about ASO, app store rankings, app metadata, app titles and descriptions, app store listings, app visibility, or mobile app marketing on iOS or Android. Supports keyword research and scoring, competitor keyword analysis, metadata optimization, A/B test planning, launch checklists, and tracking ranking changes.
+description: "Apple App Store ve Google Play Store'da anahtar kelime araştırması, rakip sıralaması analizi, meta veri önerisi oluşturma ve uygulama görünürlüğü iyileştirme için App Store Optimization (ASO) araç seti. Kullanıcı ASO, uygulama mağazası sıralamaları, uygulama meta verisi, uygulama başlıkları ve açıklamaları, uygulama mağazası listeleri, uygulama görünürlüğü veya iOS ya da Android'de mobil uygulama pazarlaması hakkında sorduğunda kullanılır. Anahtar kelime araştırması ve puanlama, rakip anahtar kelime analizi, meta veri optimizasyonu, A/B test planlaması, yayın kontrol listeleri ve sıralama değişikliklerini takip etmeyi destekler."
 triggers:
   - ASO
   - app store optimization

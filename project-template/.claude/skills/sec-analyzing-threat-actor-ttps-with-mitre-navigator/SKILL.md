@@ -1,13 +1,6 @@
 ---
 name: analyzing-threat-actor-ttps-with-mitre-navigator
-description: 'Map advanced persistent threat (APT) group tactics, techniques, and
-  procedures (TTPs) to the MITRE ATT&CK framework using the ATT&CK Navigator and attackcti
-  Python library. The analyst queries STIX/TAXII data for group-technique associations,
-  generates Navigator layer files for visualization, and compares defensive coverage
-  against adversary profiles. Activates for requests involving APT TTP mapping, ATT&CK
-  Navigator layers, threat actor profiling, or MITRE technique coverage analysis.
-
-  '
+description: "ATT&CK Navigator ve attackcti Python kütüphanesini kullanarak gelişmiş kalıcı tehdit (APT) grubu taktiklerini, tekniklerini ve prosedürlerini (TTP) MITRE ATT&CK çerçevesiyle eşleştir. Analist, grup-teknik ilişkilendirmeleri için STIX/TAXII verilerini sorgular, görselleştirme için Navigator katman dosyaları oluşturur ve savunma kapsamını düşman profilleriyle karşılaştırır. APT TTP eşleştirme, ATT&CK Navigator katmanları, tehdit aktörü profilleme veya MITRE teknik kapsama analizini içeren istekler için etkinleşir."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

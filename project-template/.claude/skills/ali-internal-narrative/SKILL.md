@@ -1,6 +1,6 @@
 ---
 name: "internal-narrative"
-description: "Build and maintain one coherent company story across all audiences — employees, investors, customers, candidates, and partners. Detects narrative contradictions and ensures the same truth is framed for each audience's needs. Use when preparing investor updates, all-hands presentations, board communications, recruiting narratives, crisis communications, or when user mentions company narrative, messaging consistency, storytelling, all-hands, investor update, or crisis communication."
+description: "Tüm hedef kitleler — çalışanlar, yatırımcılar, müşteriler, adaylar ve iş ortakları — genelinde tek bir tutarlı şirket hikayesi oluştur ve sürdür. Anlatı çelişkilerini tespit eder ve her kitlenin ihtiyaçlarına göre aynı gerçeğin çerçevelenmesini sağlar. Yatırımcı güncellemeleri, genel toplantı sunumları, yönetim kurulu iletişimleri, işe alım anlatıları, kriz iletişimleri hazırlarken veya kullanıcı şirket anlatısı, mesajlaşma tutarlılığı, hikaye anlatımı, genel toplantı, yatırımcı güncellemesi ya da kriz iletişiminden bahsettiğinde kullan."
 license: MIT
 metadata:
   version: 1.0.0

@@ -1,8 +1,6 @@
 ---
 name: building-threat-actor-profile-from-osint
-description: Build comprehensive threat actor profiles using open-source intelligence
-  (OSINT) techniques to document adversary motivations, capabilities, infrastructure,
-  and TTPs for proactive defense.
+description: "Açık kaynak istihbaratı (OSINT) kullanarak kapsamlı tehdit aktörü profilleri oluşturur."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

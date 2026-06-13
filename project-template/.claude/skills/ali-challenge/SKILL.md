@@ -1,6 +1,6 @@
 ---
 name: "challenge"
-description: "Pre-mortem plan analysis. Imagine the plan failed 12 months from now and work backwards to find the weaknesses. Surfaces assumptions, dependencies, and execution risks before committing resources. Use when before significant resource commitment, before presenting to a board or investors, when feedback has been one-sidedly positive, or when there is pressure to move fast and figure it out later."
+description: "Ön-post-mortem plan analizi. Planın 12 ay sonra başarısız olduğunu hayal edin ve zayıflıkları bulmak için geriye doğru çalışın. Önemli kaynakları taahhüt etmeden önce varsayımları, bağımlılıkları ve uygulama risklerini ortaya çıkarır. Önemli kaynak taahhüdünden önce, yönetim kuruluna veya yatırımcılara sunum yapmadan önce, geri bildirim tek taraflı olumlu olduğunda veya hızlı hareket etmek ve sonra çözmek için baskı varken kullan."
 ---
 
 # /em:challenge — Pre-Mortem Plan Analysis

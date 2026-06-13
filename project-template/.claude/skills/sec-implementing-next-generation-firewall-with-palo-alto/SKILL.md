@@ -1,8 +1,6 @@
 ---
 name: implementing-next-generation-firewall-with-palo-alto
-description: Configure and deploy Palo Alto Networks next-generation firewalls with
-  App-ID, User-ID, zone-based policies, SSL decryption, and threat prevention profiles
-  for enterprise network security.
+description: "Kurumsal ağ güvenliği için App-ID, User-ID, bölge tabanlı ilkeler, SSL şifre çözme ve tehdit önleme profilleriyle Palo Alto Networks yeni nesil güvenlik duvarlarını yapılandır ve dağıt."
 domain: cybersecurity
 subdomain: network-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: architect-reviewer
-description: Mimari tutarlılık, desenlere uyum ve sürdürülebilirlik açısından kodu proaktif olarak inceler. Sistem bütünlüğünü sağlamak için herhangi bir yapısal değişiklikten, yeni servis tanıtımından veya API değişikliğinden sonra kullanın.
+description: "Mimari tutarlılık, desenlere uyum ve sürdürülebilirlik açısından kodu proaktif olarak inceler."
 tools: Read, Grep, Glob, LS, WebFetch, WebSearch, Task, mcp__sequential-thinking__sequentialthinking, mcp__context7__resolve-library-id, mcp__context7__get-library-docs
 model: sonnet
 ---

@@ -1,12 +1,6 @@
 ---
 name: building-threat-intelligence-feed-integration
-description: 'Builds automated threat intelligence feed integration pipelines connecting
-  STIX/TAXII feeds, open-source threat intel, and commercial TI platforms into SIEM
-  and security tools for real-time IOC matching and alerting. Use when SOC teams need
-  to operationalize threat intelligence by automating feed ingestion, normalization,
-  scoring, and distribution to detection systems.
-
-  '
+description: "Gerçek zamanlı IOC eşleştirme ve uyarı için STIX/TAXII beslemeleri, açık kaynak tehdit istihbaratı ve ticari TI platformlarını SIEM ve güvenlik araçlarına bağlayan otomatik tehdit istihbaratı besleme entegrasyon pipeline'ları oluşturur. SOC ekiplerinin besleme alımını, normalleştirmeyi, puanlamayı ve tespit sistemlerine dağıtımı otomatikleştirerek tehdit istihbaratını operasyonel hale getirmesi gerektiğinde kullan."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

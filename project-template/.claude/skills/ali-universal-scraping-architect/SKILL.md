@@ -1,6 +1,6 @@
 ---
 name: "universal-scraping-architect"
-description: "Use for web scraping, crawling, document extraction, API parsing, or building validation-heavy data pipelines using Firecrawl or local Python scripts."
+description: "Web scraping, tarama, belge çıkarma, API ayrıştırma veya Firecrawl ya da yerel Python scriptleri kullanarak doğrulama ağırlıklı veri işlem hatları oluşturmak için kullan."
 ---
 
 # Universal Scraping Architect

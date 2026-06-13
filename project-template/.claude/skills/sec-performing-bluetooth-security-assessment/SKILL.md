@@ -1,7 +1,6 @@
 ---
 name: performing-bluetooth-security-assessment
-description: Assess Bluetooth Low Energy device security by scanning, enumerating
-  GATT services, and detecting vulnerabilities
+description: "Bluetooth Low Energy cihaz güvenliğini tarayarak, GATT hizmetlerini numaralandırarak ve güvenlik açıklarını tespit ederek değerlendirir"
 domain: cybersecurity
 subdomain: wireless-security
 tags:

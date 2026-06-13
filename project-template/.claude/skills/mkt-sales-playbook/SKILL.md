@@ -1,6 +1,6 @@
 ---
 name: sales-playbook
-description: Create a value-based selling playbook — pricing framing, objection handling, and deal upselling plays. Use to equip sales with repeatable, value-based deal tactics.
+description: "Değer bazlı satış kılavuzu oluştur — fiyatlandırma çerçeveleme, itiraz yönetimi ve fırsat büyütme taktikleri. Satış ekibini tekrarlanabilir, değer bazlı anlaşma taktikleriyle donatmak için kullan."
 ---
 
 # AI Sales Playbook — Value-Based Pricing & Deal Upselling

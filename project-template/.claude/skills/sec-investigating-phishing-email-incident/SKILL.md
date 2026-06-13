@@ -1,12 +1,6 @@
 ---
 name: investigating-phishing-email-incident
-description: 'Investigates phishing email incidents from initial user report through
-  header analysis, URL/attachment detonation, impacted user identification, and containment
-  actions using SOC tools like Splunk, Microsoft Defender, and sandbox analysis platforms.
-  Use when a reported phishing email requires full incident investigation to determine
-  scope and impact.
-
-  '
+description: "SOC araçları olarak Splunk, Microsoft Defender ve sandbox analiz platformlarını kullanarak kimlik avı e-posta olaylarını ilk kullanıcı raporundan başlık analizine, URL/ek patlama işlemine, etkilenen kullanıcı tespitine ve kapsama eylemlerine kadar araştırır. Kapsam ve etkiyi belirlemek için bildirilen kimlik avı e-postasının tam olay soruşturması gerektiğinde kullan."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

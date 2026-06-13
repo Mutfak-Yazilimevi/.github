@@ -1,13 +1,6 @@
 ---
 name: detecting-deepfake-audio-in-vishing-attacks
-description: 'Detects AI-generated deepfake audio used in voice phishing (vishing)
-  attacks by extracting spectral features (MFCC, spectral centroid, spectral contrast,
-  zero-crossing rate) and classifying samples with machine learning models. Supports
-  batch analysis of audio files, generates confidence scores, and produces forensic
-  reports. Activates for requests involving deepfake voice detection, vishing investigation,
-  AI-generated speech analysis, voice cloning detection, or audio authenticity verification.
-
-  '
+description: "Sesli kimlik avı (vishing) saldırılarında kullanılan AI üretimi deepfake sesleri; spektral özellikler (MFCC, spektral merkez, spektral kontrast, sıfır geçiş oranı) çıkararak ve makine öğrenimi modelleriyle örnekleri sınıflandırarak tespit eder. Ses dosyalarının toplu analizini destekler, güven skorları üretir ve adli raporlar oluşturur. Deepfake ses tespiti, vishing soruşturması, AI üretimi konuşma analizi, ses klonlama tespiti veya ses özgünlüğü doğrulamasına yönelik isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: social-engineering-defense
 tags:

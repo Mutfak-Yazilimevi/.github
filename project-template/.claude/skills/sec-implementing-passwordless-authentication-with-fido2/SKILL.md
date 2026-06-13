@@ -1,8 +1,6 @@
 ---
 name: implementing-passwordless-authentication-with-fido2
-description: Deploy FIDO2/WebAuthn passwordless authentication using security keys
-  and platform authenticators. Covers WebAuthn API integration, FIDO2 server configuration,
-  passkey enrollment, biometric authentica
+description: "Güvenlik anahtarlarını kullanarak FIDO2/WebAuthn şifresiz kimlik doğrulaması dağıt"
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

@@ -1,9 +1,6 @@
 ---
 name: "testrail"
-description: >-
-  Sync tests with TestRail. Use when user mentions "testrail", "test management",
-  "test cases", "test run", "sync test cases", "push results to testrail",
-  or "import from testrail".
+description: "Testleri TestRail ile senkronize et. Kullanıcı \"testrail\", \"test yönetimi\", \"test senaryoları\", \"test çalıştırması\", \"test senaryolarını senkronize et\", \"sonuçları testrail'e aktar\" veya \"testrail'den içe aktar\" ifadelerinden bahsettiğinde kullan."
 ---
 
 # TestRail Integration

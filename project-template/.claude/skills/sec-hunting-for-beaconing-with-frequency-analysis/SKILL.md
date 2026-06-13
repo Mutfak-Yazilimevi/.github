@@ -1,8 +1,6 @@
 ---
 name: hunting-for-beaconing-with-frequency-analysis
-description: Identify command-and-control beaconing patterns in network traffic by
-  applying statistical frequency analysis, jitter calculation, and coefficient of
-  variation scoring to detect periodic callbacks from compromised endpoints.
+description: "Ele geçirilmiş endpoint'lerden periyodik geri aramaları tespit etmek amacıyla istatistiksel frekans analizi, jitter hesaplama ve varyasyon katsayısı puanlaması uygulayarak ağ trafiğindeki komuta-kontrol işaretleme kalıplarını belirler."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

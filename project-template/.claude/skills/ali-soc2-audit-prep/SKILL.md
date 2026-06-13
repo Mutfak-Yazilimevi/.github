@@ -1,6 +1,6 @@
 ---
 name: "soc2-audit-prep"
-description: "/cs:soc2-audit-prep <scope> — SOC 2 Type II readiness 6-question forcing interrogation. Observation-period focused. Use before Type II observation begins, mid-period checkpoint, or pre-field-test month-10 readiness."
+description: "/cs:soc2-audit-prep <scope> — SOC 2 Type II hazırlık 6 sorulu zorlayıcı sorgulama. Gözlem dönemi odaklı. Type II gözlemi başlamadan önce, dönem ortası kontrol noktasında veya saha testi öncesi 10. ay hazırlığında kullan."
 ---
 
 # /cs:soc2-audit-prep — SOC 2 Type II Forcing Questions

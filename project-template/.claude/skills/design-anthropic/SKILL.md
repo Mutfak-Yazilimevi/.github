@@ -1,6 +1,6 @@
 ---
 name: anthropic-ui-skills
-description: Anthropic's UI design system. Use when building interfaces inspired by Anthropic's aesthetic - light mode, Inter font, 4px grid.
+description: "Anthropic'in UI tasarım sistemi. Anthropic'in estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter yazı tipi, 4px ızgara."
 license: MIT
 metadata:
   author: design-skills

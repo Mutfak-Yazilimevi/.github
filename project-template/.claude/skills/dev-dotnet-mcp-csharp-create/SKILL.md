@@ -1,14 +1,6 @@
 ---
 name: mcp-csharp-create
-description: >
-  Create MCP servers using the C# SDK and .NET project templates. Covers scaffolding,
-  tool/prompt/resource implementation, and transport configuration for stdio and HTTP.
-  USE FOR: creating new MCP server projects, scaffolding with dotnet new mcpserver, adding
-  MCP tools/prompts/resources, choosing stdio vs HTTP transport, configuring MCP hosting in
-  Program.cs, setting up ASP.NET Core MCP endpoints with MapMcp.
-  DO NOT USE FOR: debugging or running existing servers (use mcp-csharp-debug), writing tests
-  (use mcp-csharp-test), publishing or deploying (use mcp-csharp-publish), building MCP
-  clients, non-.NET MCP servers.
+description: "C# SDK ve .NET proje şablonlarını kullanarak MCP sunucuları oluştur. İskelet kurma, araç/prompt/kaynak implementasyonu ve stdio ile HTTP için taşıma yapılandırmasını kapsar. KULLANIM ALANLARI: yeni MCP sunucu projeleri oluşturma, dotnet new mcpserver ile iskelet kurma, MCP araçları/promptları/kaynakları ekleme, stdio ile HTTP taşıma seçimi, Program.cs'te MCP hosting yapılandırma, MapMcp ile ASP.NET Core MCP endpoint'leri kurma. KULLANMA: mevcut sunucuları hata ayıklama veya çalıştırma (mcp-csharp-debug kullan), test yazma (mcp-csharp-test kullan), yayımlama veya dağıtma (mcp-csharp-publish kullan), MCP istemcileri oluşturma, .NET dışı MCP sunucuları."
 license: MIT
 ---
 

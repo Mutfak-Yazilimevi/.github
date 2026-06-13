@@ -1,6 +1,6 @@
 ---
 name: seo-ops
-description: Run ongoing on-page and technical SEO operations — audits, fixes, and content optimization on a recurring cadence. Use to operate SEO as a continuous process, not a one-off audit.
+description: "Süregelen sayfa içi ve teknik SEO operasyonlarını — denetimleri, düzeltmeleri ve içerik optimizasyonunu periyodik olarak yürütür. SEO'yu tek seferlik denetim değil, sürekli bir süreç olarak yönetmek için kullan"
 ---
 
 # AI SEO Ops

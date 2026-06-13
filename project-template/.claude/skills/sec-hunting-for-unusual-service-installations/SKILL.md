@@ -1,8 +1,6 @@
 ---
 name: hunting-for-unusual-service-installations
-description: Detect suspicious Windows service installations (MITRE ATT&CK T1543.003)
-  by parsing System event logs for Event ID 7045, analyzing service binary paths,
-  and identifying indicators of persistence mechanisms.
+description: "Şüpheli Windows hizmet kurulumlarını tespit et (MITRE ATT&CK T1543.003)"
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

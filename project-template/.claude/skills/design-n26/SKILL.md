@@ -1,6 +1,6 @@
 ---
 name: n26-ui-skills
-description: N26's UI design system. Use when building interfaces inspired by N26's aesthetic - dark mode, Inter font, 4px grid.
+description: "N26'nın UI tasarım sistemi. N26 estetiğinden ilham alan arayüzler oluştururken kullan — koyu mod, Inter font, 4px grid."
 license: MIT
 metadata:
   author: design-skills

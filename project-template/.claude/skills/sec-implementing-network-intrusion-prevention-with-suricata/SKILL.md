@@ -1,8 +1,6 @@
 ---
 name: implementing-network-intrusion-prevention-with-suricata
-description: Deploy and configure Suricata as a network intrusion prevention system
-  with custom rules, Emerging Threats rulesets, and inline traffic inspection for
-  real-time threat blocking.
+description: "Gerçek zamanlı tehdit engelleme için özel kurallar, Emerging Threats kural kümeleri ve satır içi trafik denetimi ile Suricata'yı ağ saldırı önleme sistemi olarak dağıt ve yapılandır."
 domain: cybersecurity
 subdomain: network-security
 tags:

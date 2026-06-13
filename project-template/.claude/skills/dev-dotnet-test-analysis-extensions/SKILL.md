@@ -1,16 +1,6 @@
 ---
 name: test-analysis-extensions
-description: >-
-  Provides file paths to language-specific reference files for the test
-  ANALYSIS skills (assertion-quality, test-anti-patterns, test-gap-analysis,
-  test-smell-detection, test-tagging). Call this skill to discover available
-  extension files (e.g., dotnet.md for .NET/MSTest/xUnit/NUnit/TUnit,
-  python.md for pytest/unittest, typescript.md for Jest/Vitest/Mocha,
-  java.md for JUnit/TestNG, etc.). Do not use directly — invoked by the
-  test-quality-auditor agent and polyglot analysis skills that need
-  framework-specific lookup tables (test markers, assertion APIs, skip
-  annotations, sleep patterns, mystery guest indicators, integration
-  markers, setup/teardown, tag-support capability).
+description: "Test ANALİZİ skill'leri (assertion-quality, test-anti-patterns, test-gap-analysis, test-smell-detection, test-tagging) için dile özgü referans dosyalarının yollarını sağlar. Mevcut uzantı dosyalarını keşfetmek için bu skill'i çağır (ör. .NET/MSTest/xUnit/NUnit/TUnit için dotnet.md, pytest/unittest için python.md, Jest/Vitest/Mocha için typescript.md, JUnit/TestNG için java.md, vb.). Doğrudan kullanmayın — framework'e özgü arama tablolarına (test işaretleyicileri, assertion API'leri, atlama ek açıklamaları, uyku kalıpları, mystery guest göstergeleri, entegrasyon işaretleyicileri, kurulum/teardown, etiket desteği yeteneği) ihtiyaç duyan test-quality-auditor ajanı ve polglot analiz skill'leri tarafından çağrılır."
 user-invocable: false
 license: MIT
 ---

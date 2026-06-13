@@ -1,6 +1,6 @@
 ---
 name: "landing-page-generator"
-description: "Generates high-converting landing pages as complete Next.js/React (TSX) components with Tailwind CSS. Creates hero sections, feature grids, pricing tables, FAQ accordions, testimonial blocks, and CTA sections using proven copy frameworks (PAS, AIDA, BAB). Outputs SEO meta tags, structured data, and performance-optimised code targeting Core Web Vitals (LCP < 1s, CLS < 0.1). Use when the user asks to create a landing page, marketing page, homepage, single-page site, lead capture page, campaign page, promo page, or conversion-optimised web page — or when they want to A/B test landing page variants or replace a static page with one designed to convert."
+description: "Tailwind CSS ile tam Next.js/React (TSX) bileşenleri olarak yüksek dönüşümlü açılış sayfaları oluşturur. Kanıtlanmış metin çerçeveleri (PAS, AIDA, BAB) kullanarak kahraman bölümleri, özellik ızgaraları, fiyatlandırma tabloları, SSS akordeonları, referans blokları ve CTA bölümleri oluşturur. Core Web Vitals (LCP < 1s, CLS < 0.1) hedefleyen SEO meta etiketleri, yapılandırılmış veriler ve performans optimize edilmiş kod çıktısı üretir. Kullanıcı açılış sayfası, pazarlama sayfası, ana sayfa, tek sayfalık site, potansiyel müşteri yakalama sayfası, kampanya sayfası, tanıtım sayfası veya dönüşüm optimize edilmiş web sayfası oluşturmak istediğinde ya da A/B testi yapmak veya statik bir sayfayı dönüşüm odaklı bir sayfayla değiştirmek istediğinde kullan."
 ---
 
 # Landing Page Generator

@@ -1,8 +1,6 @@
 ---
 name: hunting-for-supply-chain-compromise
-description: Hunt for supply chain compromise indicators including trojanized software
-  updates, compromised dependencies, unauthorized code modifications, and tampered
-  build artifacts.
+description: "Truva atı haline getirilmiş yazılım güncellemeleri, ele geçirilmiş bağımlılıklar, yetkisiz kod değişiklikleri ve kurcalanmış derleme artifaktları dahil tedarik zinciri uzlaşı göstergelerini avlar."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

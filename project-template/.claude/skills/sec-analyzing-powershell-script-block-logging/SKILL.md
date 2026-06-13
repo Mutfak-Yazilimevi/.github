@@ -1,10 +1,6 @@
 ---
 name: analyzing-powershell-script-block-logging
-description: Parse Windows PowerShell Script Block Logs (Event ID 4104) from EVTX
-  files to detect obfuscated commands, encoded payloads, and living-off-the-land techniques.
-  Uses python-evtx to extract and reconstruct multi-block scripts, applies entropy
-  analysis and pattern matching for Base64-encoded commands, Invoke-Expression abuse,
-  download cradles, and AMSI bypass attempts.
+description: "Gizlenmiş komutları, kodlanmış yükleri ve living-off-the-land tekniklerini tespit etmek için EVTX dosyalarından Windows PowerShell Script Block Günlüklerini (Olay ID 4104) ayrıştır. Çok bloklu scriptleri çıkarmak ve yeniden oluşturmak için python-evtx kullanır, Base64 kodlu komutlar, Invoke-Expression kötüye kullanımı, indirme arabaları ve AMSI atlama girişimleri için entropi analizi ve kalıp eşleştirme uygular."
 domain: cybersecurity
 subdomain: security-operations
 tags:

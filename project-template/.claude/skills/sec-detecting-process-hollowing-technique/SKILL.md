@@ -1,7 +1,6 @@
 ---
 name: detecting-process-hollowing-technique
-description: Detect process hollowing (T1055.012) by analyzing memory-mapped sections,
-  hollowed process indicators, and parent-child process anomalies in EDR telemetry.
+description: "EDR telemetrisinde bellek eşlemeli bölümleri, boşaltılmış süreç göstergelerini ve ebeveyn-çocuk süreç anomalilerini analiz ederek process hollowing (T1055.012) tekniğini tespit eder."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

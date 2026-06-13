@@ -1,6 +1,6 @@
 ---
 name: segment-ui-skills
-description: Segment's UI design system. Use when building interfaces inspired by Segment's aesthetic - light mode, Inter font, 4px grid.
+description: "Segment'in UI tasarım sistemi. Segment estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter font, 4px grid."
 license: MIT
 metadata:
   author: design-skills

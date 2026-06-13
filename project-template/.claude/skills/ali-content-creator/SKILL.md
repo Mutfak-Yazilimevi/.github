@@ -1,6 +1,6 @@
 ---
 name: "content-creator"
-description: "Deprecated redirect skill that routes legacy 'content creator' requests to the correct specialist. Use when a user invokes 'content creator', asks to write a blog post, article, guide, or brand voice analysis (routes to content-production), or asks to plan content, build a topic cluster, or create a content calendar (routes to content-strategy). Does not handle requests directly — identifies user intent and redirects to content-production for writing/SEO/brand-voice tasks or content-strategy for planning tasks."
+description: "Eski \"content creator\" isteklerini doğru uzmana yönlendiren kullanımdan kalkmış yönlendirme becerisi. Kullanıcı 'content creator' ifadesini kullandığında, blog yazısı, makale, rehber veya marka sesi analizi yazmak istediğinde (content-production'a yönlendirir), veya içerik planlamak, konu kümesi oluşturmak ya da içerik takvimi oluşturmak istediğinde (content-strategy'ye yönlendirir) kullan. İstekleri doğrudan ele almaz — kullanıcı niyetini belirler ve yazma/SEO/marka sesi görevleri için content-production'a, planlama görevleri için content-strategy'ye yönlendirir."
 license: MIT
 metadata:
   version: 2.0.0

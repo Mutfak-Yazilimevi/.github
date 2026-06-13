@@ -1,12 +1,6 @@
 ---
 name: implementing-cloud-waf-rules
-description: 'This skill covers deploying and tuning Web Application Firewall rules
-  on AWS WAF, Azure WAF, and Cloudflare to protect cloud-hosted applications against
-  OWASP Top 10 attacks. It details configuring managed rule sets, creating custom
-  rules for business logic protection, implementing rate limiting, deploying bot management,
-  and reducing false positives through rule tuning and logging analysis.
-
-  '
+description: "Bu skill, bulut tabanlı uygulamaları OWASP Top 10 saldırılarına karşı korumak için AWS WAF, Azure WAF ve Cloudflare üzerinde Web Uygulama Güvenlik Duvarı kurallarını dağıtmayı ve ayarlamayı kapsar. Yönetilen kural kümelerini yapılandırmayı, iş mantığı koruması için özel kurallar oluşturmayı, hız sınırlamayı uygulamayı, bot yönetimini dağıtmayı ve kural ayarlama ile log analizi yoluyla yanlış pozitifleri azaltmayı ele alır."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

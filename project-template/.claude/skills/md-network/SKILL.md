@@ -1,6 +1,6 @@
 ---
 name: network
-description: Create network topology diagrams using PlantUML syntax with mxgraph device icons (Cisco, Citrix, etc.). Best for LAN/WAN layouts, datacenter interconnects, and physical/logical network design.
+description: "mxgraph aygıt simgeleri (Cisco, Citrix, vb.) ile PlantUML sözdizimi kullanarak ağ topoloji diyagramları oluşturur. LAN/WAN düzenleri, veri merkezi arabağlantıları ve fiziksel/mantıksal ağ tasarımı için idealdir."
 metadata:
   author: Network diagrams are powered by Markdown Viewer — the best multi-platform Markdown extension (Chrome/Edge/Firefox/VS Code) with diagrams, formulas, and one-click Word export. Learn more at https://docu.md
 ---

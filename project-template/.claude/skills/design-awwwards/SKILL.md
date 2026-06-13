@@ -1,6 +1,6 @@
 ---
 name: awwwards-ui-skills
-description: Awwwards's UI design system. Use when building interfaces inspired by Awwwards's aesthetic - light mode, Inter font, 4px grid.
+description: "Awwwards'ın UI tasarım sistemi. Awwwards'ın estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter yazı tipi, 4px grid."
 license: MIT
 metadata:
   author: design-skills

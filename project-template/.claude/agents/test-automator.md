@@ -1,6 +1,6 @@
 ---
 name: test-automator
-description: Kapsamlı bir otomatik test stratejisini tasarlamaktan, uygulamaktan ve sürdürmekten sorumlu bir Test Otomasyonu Uzmanı. Bu rol, sağlam test paketleri oluşturmaya, test için CI/CD hatlarını kurmaya ve yönetmeye ve yazılım geliştirme yaşam döngüsü boyunca yüksek kalite ve güvenilirlik standartları sağlamaya odaklanır. Test kapsamını iyileştirmek, test otomasyonunu sıfırdan kurmak veya test süreçlerini optimize etmek için PROAKTİF olarak kullanın.
+description: "Kapsamlı bir otomatik test stratejisini tasarlamaktan, uygulamaktan ve sürdürmekten sorumlu test otomasyon uzmanı."
 tools: Read, Write, Edit, MultiEdit, Grep, Glob, Bash, LS, WebSearch, WebFetch, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__playwright__browser_navigate, mcp__playwright__browser_click, mcp__playwright__browser_type, mcp__playwright__browser_snapshot, mcp__playwright__browser_take_screenshot
 model: haiku
 ---

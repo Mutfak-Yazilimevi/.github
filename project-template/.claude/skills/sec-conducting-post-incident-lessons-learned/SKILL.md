@@ -1,8 +1,6 @@
 ---
 name: conducting-post-incident-lessons-learned
-description: Facilitate structured post-incident reviews to identify root causes,
-  document what worked and failed, and produce actionable recommendations to improve
-  future incident response.
+description: "Kök nedenleri belirlemek, nelerin işe yarayıp nelerin başarısız olduğunu belgelemek ve gelecekteki olay müdahalesini iyileştirmeye yönelik eyleme geçirilebilir öneriler üretmek için yapılandırılmış olay sonrası incelemeler kolaylaştırır."
 domain: cybersecurity
 subdomain: incident-response
 tags:

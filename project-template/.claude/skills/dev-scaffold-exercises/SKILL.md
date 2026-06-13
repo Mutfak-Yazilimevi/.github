@@ -1,6 +1,6 @@
 ---
 name: scaffold-exercises
-description: Create exercise directory structures with sections, problems, solutions, and explainers that pass linting. Use when user wants to scaffold exercises, create exercise stubs, or set up a new course section.
+description: "Linting testlerini geçen bölümler, problemler, çözümler ve açıklayıcılar içeren egzersiz dizin yapıları oluştur. Kullanıcı egzersiz yapısı oluşturmak, egzersiz taslakları yaratmak veya yeni bir kurs bölümü kurmak istediğinde kullan."
 ---
 
 # Scaffold Exercises

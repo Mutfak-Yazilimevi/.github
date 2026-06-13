@@ -1,15 +1,6 @@
 ---
 name: testing-api-for-broken-object-level-authorization
-description: 'Tests REST and GraphQL APIs for Broken Object Level Authorization (BOLA/IDOR)
-  vulnerabilities where an authenticated user can access or modify resources belonging
-  to other users by manipulating object identifiers in API requests. The tester intercepts
-  API calls, identifies object ID parameters (numeric IDs, UUIDs, slugs), and systematically
-  replaces them with IDs belonging to other users to determine if the server enforces
-  per-object authorization. This is OWASP API Security Top 10 2023 risk API1. Activates
-  for requests involving BOLA testing, IDOR in APIs, object-level authorization testing,
-  or API access control bypass.
-
-  '
+description: "Kimliği doğrulanmış bir kullanıcının API isteklerindeki nesne tanımlayıcılarını manipüle ederek diğer kullanıcılara ait kaynaklara erişebildiği veya bunları değiştirebildiği Broken Object Level Authorization (BOLA/IDOR) güvenlik açıkları için REST ve GraphQL API'lerini test eder. Test uzmanı, API çağrılarını keser, nesne kimliği parametrelerini (sayısal kimlikler, UUID'ler, slug'lar) tespit eder ve sunucunun nesne başına yetkilendirmeyi uygulayıp uygulamadığını belirlemek için bunları sistematik olarak diğer kullanıcılara ait kimliklerle değiştirir. Bu, OWASP API Security Top 10 2023 riski API1'dir. BOLA testi, API'lerde IDOR, nesne düzeyinde yetkilendirme testi veya API erişim kontrolü atlaması içeren istekler için kullan."
 domain: cybersecurity
 subdomain: api-security
 tags:

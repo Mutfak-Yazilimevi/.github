@@ -1,14 +1,6 @@
 ---
 name: mcp-csharp-test
-description: >
-  Test C# MCP servers at multiple levels: unit tests for individual tools and integration
-  tests using the MCP client SDK.
-  USE FOR: unit testing MCP tool methods, integration testing with in-memory MCP
-  client/server, end-to-end testing via MCP protocol,
-  testing HTTP MCP servers with WebApplicationFactory, mocking dependencies in tool tests,
-  creating evaluations for MCP servers, writing eval questions, measuring tool quality.
-  DO NOT USE FOR: testing MCP clients (this is server testing only), load or performance
-  testing, testing non-.NET MCP servers, debugging server issues (use mcp-csharp-debug).
+description: "C# MCP sunucularını birden fazla düzeyde test eder: bireysel araçlar için birim testleri ve MCP istemci SDK'sını kullanan entegrasyon testleri. ŞU DURUMLAR İÇİN KULLAN: MCP araç metotlarının birim testleri, bellek içi MCP istemci/sunucuyla entegrasyon testi, MCP protokolü üzerinden uçtan uca test, WebApplicationFactory ile HTTP MCP sunucularını test etme, araç testlerinde bağımlılıkları mocklama, MCP sunucuları için değerlendirme oluşturma, eval soruları yazma, araç kalitesini ölçme. ŞU DURUMLAR İÇİN KULLANMA: MCP istemcilerini test etme (bu yalnızca sunucu testidir), yük veya performans testi, .NET dışı MCP sunucularını test etme, sunucu sorunlarını ayıklama (mcp-csharp-debug kullan)."
 license: MIT
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: notion-research-documentation
-description: Research across Notion and synthesize into structured documentation; use when gathering info from multiple Notion sources to produce briefs, comparisons, or reports with citations.
+description: "Notion genelinde araştırır ve yapılandırılmış dokümantasyona sentezler; birden fazla Notion kaynağından bilgi toplayarak atıflı özet, karşılaştırma veya rapor üretirken kullan."
 metadata:
   short-description: Research Notion content and produce briefs/reports
 ---
