@@ -1,6 +1,6 @@
 ---
 name: minimax-pdf
-description: "Görsel kalite ve tasarım kimliğinin önemli olduğu durumlarda bu beceriyi kullan. OLUŞTUR (sıfırdan üret): \"PDF yap\", \"rapor oluştur\", \"teklif yaz\", \"özgeçmiş oluştur\", \"güzel PDF\", \"profesyonel belge\", \"kapak sayfası\", \"cilalı PDF\", \"müşteriye hazır belge\". DOLDUR (form alanlarını tamamla): \"formu doldur\", \"bu PDF'i doldur\", \"form alanlarını tamamla\", \"PDF'e değer yaz\", \"bu PDF'in hangi alanları var\". YENİDEN FORMATLA (mevcut belgeye tasarım uygula): \"bu belgeyi yeniden formatla\", \"stilimizi uygula\", \"bu Markdown/metni PDF'e dönüştür\", \"bu belgeyi güzel yap\", \"bu PDF'i yeniden stillendir\". Bu beceri token tabanlı bir tasarım sistemi kullanır: renk, tipografi ve boşluk belge türünden türetilir ve her sayfadan geçer. Çıktı baskıya hazırdır. Yalnızca herhangi bir PDF çıktısı gerektiğinde değil, görünüm önemli olduğunda bu beceriyi tercih et."
+description: "Görsel kalite önemli olduğunda baskıya hazır PDF oluştur, form doldur veya mevcut belgeyi yeniden formatla; token tabanlı tasarım sistemi kullanır."
 license: MIT
 metadata:
   version: "1.0"

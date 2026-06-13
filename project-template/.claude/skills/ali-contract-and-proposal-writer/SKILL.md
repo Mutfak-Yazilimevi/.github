@@ -1,6 +1,6 @@
 ---
 name: "contract-and-proposal-writer"
-description: "Profesyonel, yargı yetkisi bilincinde iş belgeleri oluşturur: serbest çalışan sözleşmeleri, proje teklifleri, SOW'lar, NDA'lar ve MSA'lar. Yapılandırılmış Markdown çıktısı ve docx dönüşüm talimatları. ABD (Delaware), AB (GDPR), Birleşik Krallık ve DACH (Alman hukuku) yargı bölgelerini kapsar. Hukuki danışmanlığın yerini tutmaz — güçlü başlangıç noktaları olarak kullan. Serbest çalışan sözleşmesi hazırlarken, müşteri teklifi sunarken, yeni bir görev için SOW yazarken veya hassas materyal paylaşmadan önce NDA üretmek istediğinde kullan."
+description: "Serbest çalışan sözleşmesi, SOW, NDA, MSA ve proje teklifi oluşturur. ABD (Delaware), AB (GDPR), Birleşik Krallık ve DACH yargı bölgelerini kapsar."
 ---
 
 # Contract & Proposal Writer

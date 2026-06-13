@@ -1,6 +1,6 @@
 ---
 name: "interview-system-designer"
-description: "Kullanıcı \"mülakat süreçleri tasarla\", \"işe alım pipeline'ları oluştur\", \"mülakat döngülerini kalibre et\", \"mülakat soruları üret\", \"yetkinlik matrisleri tasarla\", \"mülakatçı önyargısını analiz et\", \"puanlama kriterleri oluştur\", \"soru bankaları oluştur\" veya \"işe alım sistemlerini optimize et\" dediğinde kullan. Role özel mülakat döngüleri, yetkinlik değerlendirmeleri ve işe alım kalibrasyon sistemleri tasarlamak için kullan."
+description: "Mülakat döngüleri, yetkinlik matrisleri, soru bankaları ve işe alım kalibrasyon sistemleri tasarla."
 ---
 
 # Interview System Designer

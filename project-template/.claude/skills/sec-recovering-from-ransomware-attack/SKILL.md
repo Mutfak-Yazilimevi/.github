@@ -1,6 +1,6 @@
 ---
 name: recovering-from-ransomware-attack
-description: "NIST ve CISA çerçevelerini izleyerek ortam izolasyonu, adli kanıt koruma, temiz altyapı yeniden inşası, doğrulanmış yedeklerden önceliklendirilmiş sistem geri yükleme, kimlik bilgisi sıfırlama ve yeniden enfeksiyona karşı doğrulama dahil olmak üzere fidye yazılımı olayından yapılandırılmış kurtarma yürütür. Bağımlılık sırasına göre Active Directory kurtarma, veritabanı geri yükleme ve uygulama yığını yeniden inşasını kapsar. Fidye yazılımı kurtarma, şifreleme sonrası geri yükleme veya fidye yazılımından olağanüstü hal kurtarma içeren istekler için kullan."
+description: "NIST/CISA çerçevesiyle fidye yazılımı kurtarma; izolasyon, kanıt koruma, AD yeniden yapılandırma ve doğrulanmış yedeklerden geri yükleme."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

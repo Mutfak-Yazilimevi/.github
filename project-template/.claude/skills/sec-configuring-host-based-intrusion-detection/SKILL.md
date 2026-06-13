@@ -1,6 +1,6 @@
 ---
 name: configuring-host-based-intrusion-detection
-description: "Güvenlik ihlalleri için uç nokta dosya bütünlüğünü, sistem çağrılarını ve yapılandırma değişikliklerini izlemek amacıyla ana bilgisayar tabanlı saldırı tespit sistemlerini (HIDS) yapılandırır. Uç nokta izleme için OSSEC, Wazuh veya AIDE dağıtırken, dosya bütünlüğü izleme (FIM) politikaları oluştururken veya değişiklik tespiti için uyumluluk gereksinimlerini karşılarken kullan. HIDS yapılandırması, dosya bütünlüğü izleme, OSSEC/Wazuh dağıtımı veya ana bilgisayar tabanlı tespite yönelik isteklerde etkinleşir."
+description: "OSSEC, Wazuh veya AIDE ile HIDS kurar: dosya bütünlüğü izleme (FIM), sistem çağrısı ve yapılandırma değişikliği tespiti için kullan."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

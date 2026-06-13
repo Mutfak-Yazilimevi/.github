@@ -43,14 +43,24 @@ SKILL_PATTERNS = [
     ("mutfak-design",    ["design-*"]),
     ("mutfak-pm",        ["pm-*"]),
     ("mutfak-marketing", ["mkt-*", "seo*"]),
-    ("mutfak-security",  ["sec-*"]),
     ("mutfak-research",  ["research-*"]),
     ("mutfak-diagrams",  ["md-*"]),
     ("mutfak-consulting", ["ali-*"]),
 ]
 
+# sec- alt-plugin routing — TEK doğruluk kaynağı: skills/sec-routing.tsv
+SEC_ROUTE = {}
+_sec_tsv = os.path.join(SK, "sec-routing.tsv")
+if os.path.exists(_sec_tsv):
+    for _ln in open(_sec_tsv, encoding="utf-8"):
+        if "\t" in _ln:
+            _n, _p = _ln.rstrip("\n").split("\t", 1)
+            SEC_ROUTE[_n.strip()] = _p.strip()
+
 
 def skill_plugin(name):
+    if name.startswith("sec-"):
+        return SEC_ROUTE.get(name, "mutfak-security-defense")
     for pl, pats in SKILL_PATTERNS:
         if any(fnmatch.fnmatch(name, p) for p in pats):
             return pl
@@ -69,7 +79,7 @@ def agent_plugin(name):
                 "ui-designer", "ux-designer", "ui-ux-master"):
         return "mutfak-frontend"
     if name == "security-auditor":
-        return "mutfak-security"
+        return "mutfak-security-grc"
     if name == "product-manager":
         return "mutfak-pm"
     if name == "prompt-engineer":

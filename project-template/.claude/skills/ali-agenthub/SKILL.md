@@ -1,6 +1,6 @@
 ---
 name: "agenthub"
-description: "N paralel alt ajanı git worktree izolasyonuyla aynı görevde rekabete sokan çok ajanlı iş birliği eklentisi. Ajanlar bağımsız çalışır, sonuçlar metrik veya LLM yargıcı tarafından değerlendirilir ve en iyi dal birleştirilir. Kullanım durumları: paralel yaklaşımlar denemek istediğinde — kod optimizasyonu, içerik varyasyonu, araştırma keşfi veya paralel rekabetten yararlanan herhangi bir görev. Gereksinim: git deposu."
+description: "N paralel alt ajanı git worktree izolasyonuyla aynı görevde rekabete sokan çok ajanlı çerçeve; en iyi dal birleştirilir. Git deposu gereklidir."
 license: MIT
 metadata:
   version: 2.1.2

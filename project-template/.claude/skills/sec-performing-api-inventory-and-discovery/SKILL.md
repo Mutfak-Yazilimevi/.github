@@ -1,6 +1,6 @@
 ---
 name: performing-api-inventory-and-discovery
-description: "Kapsamlı bir API kataloğu oluşturmak için pasif trafik analizi, aktif tarama, DNS numaralandırma, JavaScript analizi ve bulut kaynak envanteri kullanarak belgelenmiş, belgelenmemiş, gölge, zombi ve kullanımdan kaldırılmış API'ler dahil olmak üzere bir kuruluşun ortamındaki tüm API uç noktalarını tespit etmek için API envanteri ve keşif işlemi gerçekleştirir. OWASP API9:2023 Uygunsuz Envanter Yönetimi ile eşleşir. API keşfi, gölge API tespiti, API envanter denetimi veya saldırı yüzeyi haritalama içeren isteklerde etkinleşir."
+description: "Pasif trafik analizi, DNS numaralandırma ve JS analizi ile gölge ve zombi API'ler dahil tüm API uç noktalarını tespit eder; OWASP API9:2023 ile eşleşir."
 domain: cybersecurity
 subdomain: api-security
 tags:

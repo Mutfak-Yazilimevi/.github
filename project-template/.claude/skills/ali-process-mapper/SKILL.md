@@ -1,6 +1,6 @@
 ---
 name: process-mapper
-description: "Bir BizOps lideri, COO veya süreç iyileştirme sahibi, uçtan uca bir iş sürecini (tedarik, çalışan işe alımı, olay devri, müşteri katılımı, talep değerlendirmesi) BPMN stili notasyonla belgelemesi, aşamalara göre döngü sürelerini ölçmesi, işin zamanının çoğunu bekleme ile çalışma arasında nerede geçirdiğini ortaya çıkarması ve işleme süresi ile toplam geçen süre arasındaki farkı ölçmesi gerektiğinde kullan. Lean / Six Sigma / Theory-of-Constraints kanonunu süreç haritası, sıralanmış darboğaz listesi (önem derecesi + temel neden hipoteziyle birlikte) ve döngü süresi analizi (P50, P90, katma değer oranı, Little's-Law verimi) üretmek için belirleyici stdlib-only Python araçlarıyla eşleştirir. sales-pipeline, system-reliability (SLO) ve strategic-OKR çalışmasından farklıdır — bu, iç operasyonlar için taktik süreç dokümantasyonudur."
+description: "İş süreçlerini BPMN notasyonuyla belgele, el değiştirme/bekleme sürelerini haritala ve Mermaid swimlane diyagramına dönüştür."
 version: 2.8.0
 author: claude-code-skills
 license: MIT

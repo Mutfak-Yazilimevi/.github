@@ -1,6 +1,6 @@
 ---
 name: intended-vs-implemented
-description: "Bir sistemin yapması gerekenlerin ile kodun gerçekte yaptıklarının arasındaki farkı bulmaya yarayan yöntem — genel tarayıcıların niyet modeli olmadığı için gözden kaçırdığı hata sınıfı. Belgelenmiş niyet olarak neyin sayıldığını, uygulama kanıtı olarak neyin sayıldığını, hangi uyumsuzlukların önemli olduğunu ve genel geçer bulgulardan kaçınmayı tanımlar. AI tarafından oluşturulan kodu denetlerken, erişim kontrolünü belgelenmiş izinlere karşı incelerken veya bir kod tabanının kendi belgesiyle eşleşip eşleşmediğini kontrol ederken kullan."
+description: "Belgelenmiş niyet ile kodun gerçekte yaptığı arasındaki farkı bulur; AI üretimi kod denetimi veya erişim kontrolü doğrulama için kullan."
 ---
 
 # Intended vs. Implemented: Auditing the Gap

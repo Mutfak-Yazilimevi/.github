@@ -1,6 +1,6 @@
 ---
 name: competitor-profiling
-description: "Kullanıcı URL'lerinden rakipleri araştırmak, profil çıkarmak veya analiz etmek istediğinde kullan. Ayrıca kullanıcı 'rakip profili', 'rakip araştırması', 'rakip analizi', 'bu rakibi profille', 'rakibi analiz et', 'rekabetçi istihbarat', 'rakip derinlemesine inceleme', 'rakiplerim kimler', 'rakip ortamı', 'rakip dosyası', 'rekabetçi denetim' veya 'bu rakipleri araştır' dediğinde kullan. Girdi olarak rakip URL'leri listesi alır. Çıktı olarak yapılandırılmış rakip profil markdown dosyaları üretir. Profillerden karşılaştırma/alternatif sayfaları oluşturmak için competitors'a, satış odaklı savaş kartları için sales-enablement'a bakın"
+description: "Rakip URL'lerinden araştırma yaparak yapılandırılmış rakip profil markdown dosyaları üretir; rekabetçi istihbarat ve rakip analizi için kullan."
 metadata:
   version: 2.0.0
 ---

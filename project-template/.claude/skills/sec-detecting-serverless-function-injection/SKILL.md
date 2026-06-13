@@ -1,6 +1,6 @@
 ---
 name: detecting-serverless-function-injection
-description: "Olay kaynağı zehirleme, kötü amaçlı katman enjeksiyonu, çalışma zamanı komut yürütme ve fonksiyon değiştirme yoluyla IAM ayrıcalık yükseltme dahil olmak üzere sunucusuz fonksiyonları (AWS Lambda, Azure Functions, Google Cloud Functions) hedef alan kod enjeksiyon saldırılarını tespit eder ve önler. Analist; API Gateway, S3, SQS, DynamoDB Streams ve CloudWatch olay tetikleyicileri dahil olmak üzere genişletilmiş sunucusuz saldırı yüzeyi üzerindeki enjeksiyon vektörlerini belirlemek için fonksiyon kodunun statik analizini, CloudTrail olay korelasyonunu, çalışma zamanı davranışı izlemeyi ve IAM politika denetimini birleştirir. Lambda güvenlik değerlendirmesi, sunucusuz enjeksiyon tespiti, fonksiyon olay zehirleme analizi veya sunucusuz ayrıcalık yükseltme soruşturması içeren isteklerde etkinleşir."
+description: "AWS Lambda, Azure Functions, Google Cloud Functions'ta olay kaynağı zehirleme ve IAM ayrıcalık yükseltme dahil sunucusuz enjeksiyon saldırılarını tespit eder."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

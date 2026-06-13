@@ -1,6 +1,6 @@
 ---
 name: patent
-description: "Patent önceki sanat ve manzara istihbaratı skill'i — genel patent yardımı değil. Herhangi bir arama başlamadan önce zorlayıcı alım yoluyla beş alt kullanım senaryosundan birine bağlanır (yenilik araştırması / kullanım özgürlüğü / rekabet manzarası / satın alma durum tespiti / dava önceki sanatı). Google Patents, Espacenet, USPTO ve isteğe bağlı olarak alıntı grafiği sinyalleri için Lens.org'da arama yapar. Çıktı, karar, sıralı en yakın sanat (talep metni çıkarılmış), CPC sınıfı farkındalıklı manzara, aile çözümlenmiş isabetler, coğrafi kapsam, uygulanabilir durumlarda FTO bayrakları, strateji önerileri ve tam denetim günlüğü içeren düzenlenebilir Word belgesidir (.docx). Tetikleyiciler: '[buluş] için önceki sanat araştırması', '[konu] üzerinde patent araştırması', 'kullanım özgürlüğü analizi', '[ürün] için FTO', '[alan] için patent manzarası', '[buluş] yeni mi', '[konu] üzerinde patentler', 'rekabetçi patent analizi', 'dava için önceki sanat', '[şirket] üzerinde patent durum tespiti'. Arama sinyali üretir, hukuki tavsiye değil — her zaman dosyalama veya lisanslama kararlarından önce bir patent avukatına danışmayı önerir. Marka, telif hakkı ve ticari sır soruları kapsam dışıdır."
+description: "Patent önceki sanat ve manzara istihbaratı için kullan; yenilik araştırması ve izlenebilirlik boşluklarını kapsayan beş alt senaryo."
 license: MIT
 metadata:
   source_spec: "megaprompts/11-patent-megaprompt.md"

@@ -1,6 +1,6 @@
 ---
 name: knowledge-ops
-description: "Bir Ops Müdürü, Bilgi Yöneticisi veya TPM-Internal'ın şirket SOP'larını ve dahili runbook'larını yazması, doğrulaması veya temizlemesi gerektiğinde kullan (tedarik alımı, satıcı çıkışı, olay iletişim kademesi, çalışan işe alımı, gider geri ödemesi, sistem erişimi sağlama, müşteri eskalasyon playbook'u) — 5W2H tamlık kontrolleri (Kim-Ne-Ne Zaman-Nerede-Neden-Nasıl-Ne Kadar), Notion/Confluence/Obsidian wiki genelinde çapraz bağlantı ve yetim sayfa doğrulaması dahil."
+description: "Şirket SOP'larını ve dahili runbook'larını 5W2H kontrolleri, Notion/Confluence/Obsidian wiki çapraz bağlantı ve yetim sayfa doğrulamasıyla yaz, denetle, temizle."
 context: fork
 version: 2.8.0
 author: claude-code-skills

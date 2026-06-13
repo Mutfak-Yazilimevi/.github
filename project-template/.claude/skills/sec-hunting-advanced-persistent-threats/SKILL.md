@@ -1,6 +1,6 @@
 ---
 name: hunting-advanced-persistent-threats
-description: "Endpoint telemetrisi, ağ günlükleri ve bellek artifaktları üzerinde hipotez odaklı aramalar kullanarak kurumsal ortamlardaki Advanced Persistent Threat (APT) faaliyetlerini proaktif olarak avlar. Zamanlanmış tehdit avı döngüleri yürütürken, UEBA tarafından işaretlenen anormal davranışı araştırırken veya bilinen APT TTP'lerinin ortamda bulunmadığını doğrularken kullanın. MITRE ATT&CK, Velociraptor, osquery, Zeek veya tehdit avı kitapçıkları içeren isteklerde etkinleşir."
+description: "Endpoint telemetrisi ve ağ günlüklerinde hipotez odaklı APT avı; MITRE ATT&CK eşlemesi ve zaman çizelgesi korelasyonu kullanır."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

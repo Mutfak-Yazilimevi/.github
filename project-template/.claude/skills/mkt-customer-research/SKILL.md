@@ -1,6 +1,6 @@
 ---
 name: customer-research
-description: "Kullanıcı müşteri araştırması yapmak, analiz etmek veya sentezlemek istediğinde kullan. \"customer research\", \"ICP research\", \"talk to customers\", \"analyze transcripts\", \"customer interviews\", \"survey analysis\", \"support ticket analysis\", \"voice of customer\", \"VOC\", \"build personas\", \"customer personas\", \"jobs to be done\", \"JTBD\", \"Reddit mining\", \"G2 reviews\", \"review mining\", \"digital watering holes\", \"community research\", \"forum research\", \"competitor reviews\", \"customer sentiment\" gibi ifadelerde de kullan. Hem mevcut araştırma varlıklarını analiz etmek hem de çevrimiçi kaynaklardan yeni araştırma toplamak için kullan. Araştırmadan bilgilendirilen metin yazmak için bkz. copywriting. Sayfaları iyileştirmek için araştırmaya dayanmak için bkz. cro."
+description: "Müşteri araştırması yapmak, analiz etmek veya sentezlemek için kullan; ICP, JTBD, Reddit/G2 review madenciliği, persona ve VOC dahil."
 metadata:
   version: 2.0.0
 ---

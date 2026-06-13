@@ -1,6 +1,6 @@
 ---
 name: schema
-description: "Kullanıcı sitesine şema işaretlemesi ve yapılandırılmış veri eklemek, düzeltmek veya optimize etmek istediğinde kullan. Ayrıca kullanıcı \"schema markup\", \"structured data\", \"JSON-LD\", \"rich snippets\", \"schema.org\", \"FAQ schema\", \"product schema\", \"review schema\", \"breadcrumb schema\", \"Google rich results\", \"knowledge panel\", \"arama sonuçlarında yıldız derecelendirmeleri\" veya \"add structured data\" dediğinde kullan. Sayfaların Google'da gelişmiş sonuçlar göstermesini isteyen biri için her zaman kullan. Daha geniş SEO sorunları için seo-audit'e, yapay zeka arama optimizasyonu için ai-seo'ya bak."
+description: "Siteye JSON-LD, Open Graph, FAQ veya ürün şeması gibi yapılandırılmış veri eklemek veya düzeltmek için kullan; geniş SEO için seo-audit'e bak."
 metadata:
   version: 2.0.0
 ---

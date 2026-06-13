@@ -1,6 +1,6 @@
 ---
 name: "ciso-advisor"
-description: "Büyüme aşamasındaki şirketler için güvenlik liderliği. Dolar cinsinden risk nicelemesi, uyumluluk yol haritası (SOC 2/ISO 27001/HIPAA/GDPR), güvenlik mimarisi stratejisi, olay müdahale liderliği ve yönetim kurulu düzeyinde güvenlik raporlaması. Güvenlik programları oluştururken, güvenlik bütçesini gerekçelendirirken, uyumluluk çerçeveleri seçerken, olayları yönetirken, satıcı riskini değerlendirirken veya kullanıcı CISO, security strategy, compliance roadmap, zero trust ya da board security reporting ifadelerinden bahsettiğinde kullan."
+description: "CISO danışmanlığı: SOC 2, ISO 27001, HIPAA, GDPR uyumluluk yol haritası, güvenlik bütçesi, sıfır güven mimarisi ve yönetim kurulu güvenlik raporlaması için kullan."
 license: MIT
 metadata:
   version: 1.0.0

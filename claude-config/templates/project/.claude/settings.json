@@ -8,6 +8,6 @@
     "mutfak-core@mutfak": true,
     "mutfak-dev@mutfak": true,
     "mutfak-dotnet@mutfak": true,
-    "mutfak-security@mutfak": true
+    "mutfak-security-defense@mutfak": true
   }
 }

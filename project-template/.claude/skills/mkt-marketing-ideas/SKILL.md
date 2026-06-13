@@ -1,6 +1,6 @@
 ---
 name: marketing-ideas
-description: "Kullanıcının SaaS veya yazılım ürünü için pazarlama fikirleri, ilham veya stratejilere ihtiyaç duyduğunda kullan. Ayrıca kullanıcı 'pazarlama fikirleri', 'büyüme fikirleri', 'nasıl pazarlarım', 'pazarlama stratejileri', 'pazarlama taktikleri', 'tanıtım yolları', 'büyüme fikirleri', 'başka ne deneyebilirim', 'nasıl pazarlayacağımı bilmiyorum', 'pazarlama beyin fırtınası' veya 'ne tür pazarlama yapmalıyım' dediğinde kullan. Birisi büyüme konusunda tıkalı veya ilham arıyorsa başlangıç noktası olarak kullan. Belirli kanal uygulaması için ilgili skill'e bakın (reklamlar, sosyal medya, e-postalar, vb.)"
+description: "SaaS/yazılım ürünü için pazarlama fikirleri, büyüme taktikleri ve kanal stratejisi beyin fırtınası yapmak için kullan."
 metadata:
   version: 2.0.0
 ---

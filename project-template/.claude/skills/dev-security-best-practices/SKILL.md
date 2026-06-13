@@ -1,6 +1,6 @@
 ---
 name: "security-best-practices"
-description: "Dile ve framework'e özgü güvenlik en iyi uygulama incelemeleri gerçekleştir ve iyileştirmeler öner. Yalnızca kullanıcı açıkça güvenlik en iyi uygulamaları rehberliği, güvenlik incelemesi/raporu veya güvenli-varsayılan kodlama yardımı istediğinde tetikle. Yalnızca desteklenen diller için tetikle (python, javascript/typescript, go). Genel kod incelemesi, hata ayıklama veya güvenlik dışı görevler için tetikleme."
+description: "Kullanıcı açıkça güvenlik incelemesi veya güvenlik açığı değerlendirmesi istediğinde dile/framework'e özgü güvenlik rehberliği sağlar."
 ---
 
 # Security Best Practices

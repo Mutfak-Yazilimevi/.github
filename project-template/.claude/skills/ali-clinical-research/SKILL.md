@@ -1,6 +1,6 @@
 ---
 name: clinical-research
-description: "Sunumdan önce prospektif bir klinik çalışma tasarlarken kullan — uç noktaları seçme ve sınıflandırma (birincil / kilit-ikincil / keşifsel, vekil-uç nokta işaretlemeyle birlikte), iki kollu tasarımlar için örneklem büyüklüğü ve güç tahmini (ortalama / oranlar / sağkalım) veya bir çalışma planını fizibilite ve GO / GO-WITH-CONDITIONS / REDESIGN / NO-GO aşama geçiş kararı için puanlama. Her çıktı bir TAHMİN ve belirlenmiş bir insan sahibidir (klinisyen / biyoistatistikçi / düzenleyici sorumlu) — asla klinik gerçek, asla bitmiş bir protokol değildir. Düzenleyici/KYS sunumunu (ISO 13485, EU MDR, FDA 510(k)/PMA/QSR değil, çalışma tasarımını) ele alan ra-qm-team becerisinden farklıdır."
+description: "Prospektif klinik çalışma tasarlarken uç nokta seçimi, randomizasyon şeması, dahil/dışlama kriterleri ve güç analizi için kullan."
 version: 2.9.0
 author: claude-code-skills
 license: MIT

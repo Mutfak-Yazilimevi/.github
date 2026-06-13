@@ -1,6 +1,6 @@
 ---
 name: llm-cost-optimizer
-description: "LLM API maliyetleri gündeme geldiğinde — veya gelmesi gerektiğinde — proaktif olarak kullanılır. Tetikleyiciler: \"yapay zeka maliyetlerim çok yüksek\", \"token kullanımını optimize et\", \"hangi modeli kullanmalıyım\", \"LLM harcaması kontrolden çıktı\", \"istem önbelleklemesi uygula\", \"bir yapay zeka özelliği başlatmak üzereyiz\", \"bana yapay zeka endpoint'i oluştur\". Açık bir maliyet şikayeti beklemeden — biri yapay zeka özelliği oluşturuyorsa, LLM endpoint tasarlıyorsa veya modeller arasında seçim yapıyorsa maliyet mimarisi konuşmaya dahil edilir. Şu durumlardan herhangi biri doğruysa hemen uygula: birkaç yüz token'ı aşan sistem istemi var, tüm istekler aynı modele gidiyor, max_tokens ayarlı değil veya özellik başına maliyet günlüğü yok. RAG pipeline tasarımı için kullanılmaz (rag-architect kullan). İstem kalitesini veya etkinliğini artırmak için kullanılmaz (senior-prompt-engineer kullan)."
+description: "LLM API maliyeti yüksekken, model seçerken, istem önbelleklemesi uygularken veya AI özelliği başlatılırken maliyet mimarisi için proaktif olarak kullan."
 ---
 
 # LLM Cost Optimizer

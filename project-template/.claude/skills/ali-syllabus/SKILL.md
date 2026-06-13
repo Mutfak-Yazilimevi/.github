@@ -1,6 +1,6 @@
 ---
 name: syllabus
-description: "Consensus akademik aramasını kullanarak herhangi bir ders müfredatından seçilmiş tamamlayıcı okuma listesi oluşturur. Kılavuzlu alım (müfredat giriş biçimi + ders kitlesi + yıl aralığı) ve herhangi bir arama başlamadan önce gruplama zorlama seçenekleri kontrol noktası — böylece okuma listesi dersin düzeyine ve güncellik ihtiyacına uyar. Müfredatı konular ve öğrenme çıktılarını çıkarmak için ayrıştırır, konu başına son hakemli makaleler için Consensus'ta arama yapar ve tıklanabilir Consensus bağlantıları, kitle düzeyine göre kalibre edilmiş sade dilli özetler ve ders öğrenme hedeflerine bağlı Bloom'un üst düzey tartışma soruları içeren profesyonelce biçimlendirilmiş .docx üretir. Bir kullanıcı bir müfredat, ders taslağı veya müfrekat belgesi yükleyip tamamlayıcı okumalar istediğinde tetiklenir. Ayrıca şunlarda tetiklenir: 'syllabus reading list', 'find papers for my course', 'create a reading list from this syllabus', 'recent research for my class', 'supplementary readings', 'find journal articles for these topics', 'what recent papers cover this material', 'any new research on these course topics', 'update my syllabus with recent papers'. Bir müfredat eklendiğinde gayri resmi bahsetmelerde bile bu skill tetiklenmelidir."
+description: "Consensus akademik aramasıyla ders müfredatından hedef kitleye özel tamamlayıcı okuma listesi oluşturur."
 license: MIT
 metadata:
   source_spec: "megaprompts/10-syllabus-megaprompt.md"

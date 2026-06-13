@@ -1,6 +1,6 @@
 ---
 name: business-operations-skills
-description: "İç iş operasyonlarını yürütmek, teşhis etmek veya tasarlamak için kullan — süreç dokümantasyonu, tedarikçi SLA'ları, kapasite planlama, iç iletişim, SOP/runbook yazımı, tedarik harcamaları. \"BizOps incelemesi\", \"darboğaz nerede\", \"tedarikçi sağlığı\", \"dahili SOP\", \"tüm ekip sunumu\", \"harcama kategorilendirmesi\", \"Q3 için kapasite\", \"süreç haritalama\" ifadeleriyle tetiklenir. Altı BizOps alt-becerisinden birine (process-mapper, vendor-management, capacity-planner, internal-comms, knowledge-ops, procurement-optimizer) yönlendirmek için bağlamı çatallar ve bir özet döndürür. business-growth (dışsal satış hareketi) ve c-level-advisor (stratejik, operasyonel değil) becerilerinden farklıdır."
+description: "İç iş operasyonları için kullan: süreç dokümantasyonu, tedarikçi SLA, kapasite planlama, SOP/runbook yazımı. Alt becerilere (process-mapper, vendor-management, vb.) yönlendirir."
 context: fork
 version: 2.8.0
 author: claude-code-skills

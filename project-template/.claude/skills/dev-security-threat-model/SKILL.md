@@ -1,6 +1,6 @@
 ---
 name: "security-threat-model"
-description: "Güven sınırlarını, varlıkları, saldırgan yeteneklerini, kötüye kullanım yollarını ve azaltmaları listeleyen ve özlü bir Markdown tehdit modeli yazan, repoya dayalı tehdit modellemesi. Yalnızca kullanıcı açıkça bir kod tabanı veya yol için tehdit modellemesi, tehdit/kötüye kullanım yolları listeleme veya AppSec tehdit modellemesi yapmayı istediğinde tetikle. Genel mimari özetler, kod inceleme veya güvenlik dışı tasarım çalışmaları için tetikleme."
+description: "Kullanıcı tehdit modeli istediğinde repoya dayalı güven sınırları, saldırgan yolları ve azaltmaları içeren Markdown tehdit modeli oluşturur."
 ---
 
 # Threat Model Source Code Repo

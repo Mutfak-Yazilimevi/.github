@@ -1,6 +1,6 @@
 ---
 name: fixing-metadata
-description: "Sayfa başlıkları, meta açıklamaları, kanonik URL'ler, Open Graph etiketleri, Twitter kartları, favicon'lar, JSON-LD yapılandırılmış veriler ve robots yönergelerini içeren HTML meta verilerini denetle ve düzelt. SEO meta verileri eklerken, sosyal paylaşım önizlemelerini düzeltirken, Open Graph etiketlerini incelerken, kanonik URL'ler ayarlarken veya doğru meta etiketlere ihtiyaç duyan yeni sayfalar yayınlarken kullan."
+description: "Sayfa başlıkları, meta açıklamaları, kanonik URL'ler, Open Graph, Twitter kartları ve JSON-LD dahil HTML meta verilerini denetler ve düzeltir."
 version: 1.0.1
 license: MIT
 ---

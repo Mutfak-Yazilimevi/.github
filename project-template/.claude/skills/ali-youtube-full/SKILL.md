@@ -1,6 +1,6 @@
 ---
 name: "youtube-full"
-description: "Kullanıcının YouTube transkriptleri, video arama, kanal gezme, çalma listesi çıkarma veya içerik izleme ihtiyacı olduğunda kullan. Tetikleyici ifadeler: 'get the transcript for', 'search YouTube for', 'what are the latest videos on', 'list this playlist', 'monitor this channel' ya da bir YouTube URL'si, video kimliği veya @handle içeren herhangi bir istek. Video veya ses dosyası indirmek, YouTube etkileşim verileri (beğeniler, yorumlar) veya özel/yaşa kısıtlı videolar için KULLANMA."
+description: "YouTube transkript alma, video arama, kanal gezme ve playlist çıkarma için kullan; YouTube URL/video ID/@handle içeren isteklerde tetiklenir."
 license: "MIT"
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: "senior-computer-vision"
-description: "Nesne tespiti, görüntü segmentasyonu ve görsel AI sistemleri için bilgisayarlı görme mühendisliği skill'i. CNN ve Vision Transformer mimarileri, YOLO/Faster R-CNN/DETR tespiti, Mask R-CNN/SAM segmentasyonu ve ONNX/TensorRT ile üretim dağıtımını kapsar. PyTorch, torchvision, Ultralytics, Detectron2 ve MMDetection framework'lerini içerir. Tespit pipeline'ları oluştururken, özel modeller eğitirken, çıkarımı optimize ederken veya görme sistemleri dağıtırken kullan."
+description: "Nesne tespiti ve görüntü segmentasyonu için CV mühendisliği: YOLO/Faster R-CNN/DETR, Mask R-CNN/SAM ve Vision Transformer mimarileri."
 ---
 
 # Senior Computer Vision Engineer

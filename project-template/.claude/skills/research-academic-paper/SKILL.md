@@ -1,6 +1,6 @@
 ---
 name: academic-paper
-description: "12 ajanlı akademik makale yazma işlem hattı. 10 mod (full/plan/outline/revision/revision-coach/abstract/lit-review/format-convert/citation-check/disclosure). 6 makale türü, 5 alıntı biçimi, iki dilli özetler, LaTeX/DOCX-via-Pandoc/PDF çıktısı. Stil Kalibrasyonu + Yazı Kalitesi Kontrolü + IRON RULE işaretçili Anti-Desenler. Tetikleyiciler: write paper, academic paper, guide my paper, parse reviews, AI disclosure, 寫論文, 學術論文, 引導我寫論文, 審查意見."
+description: "12 ajanlı akademik makale yazma hattı: 10 mod, 5 alıntı biçimi, LaTeX/DOCX/PDF çıktısı. Tetikleyiciler: write paper, academic paper, 寫論文."
 metadata:
   version: "3.2.0"
   last_updated: "2026-06-01"

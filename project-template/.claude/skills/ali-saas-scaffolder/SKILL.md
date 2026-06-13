@@ -1,6 +1,6 @@
 ---
 name: "saas-scaffolder"
-description: "Next.js 14+ App Router, TypeScript, Tailwind CSS, shadcn/ui, Drizzle ORM ve Stripe kullanarak kimlik doğrulama, veritabanı şemaları, faturalama entegrasyonu, API rotaları ve çalışan bir pano dahil eksiksiz, üretime hazır SaaS proje iskeletleri oluşturur. Kullanıcı yeni bir SaaS uygulaması oluşturmak, abonelik tabanlı bir web projesi başlatmak, Next.js uygulaması iskelet kurmak veya başlangıç şablonu, iskelet, yeni proje ya da kimlik doğrulama ve ödemeleri bağlama gibi terimler belirttiğinde kullan."
+description: "Next.js 14+, TypeScript, Tailwind, shadcn/ui, Drizzle ORM ve Stripe ile eksiksiz SaaS başlangıç iskelet kodu oluşturur."
 ---
 
 # SaaS Scaffolder

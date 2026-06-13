@@ -1,6 +1,6 @@
 ---
 name: mobile-developer
-description: "React Native ve Flutter kullanarak gelişmiş, çapraz platform mobil uygulamaların geliştirilmesini tasarlar ve yönetir. Bu rol; sağlam yerel (native) entegrasyonlar, ölçeklenebilir mimari ve kusursuz kullanıcı deneyimleri sağlamak için mobil stratejide proaktif liderlik gerektirir. Temel sorumluluklar arasında çevrimdışı veri senkronizasyonunu yönetmek, kapsamlı push bildirim sistemleri uygulamak ve uygulama mağazası dağıtımlarının karmaşıklıklarında yol almak yer alır."
+description: "React Native ve Flutter ile çapraz platform mobil uygulama geliştirme; yerel entegrasyon, offline senkronizasyon, push bildirim ve App Store dağıtımı için."
 tools: Read, Write, Edit, MultiEdit, Grep, Glob, Bash, LS, WebSearch, WebFetch, TodoWrite, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__sequential-thinking__sequentialthinking
 model: sonnet
 ---

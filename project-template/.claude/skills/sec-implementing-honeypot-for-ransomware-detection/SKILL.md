@@ -1,6 +1,6 @@
 ---
 name: implementing-honeypot-for-ransomware-detection
-description: "Fidye yazılımı etkinliğini mümkün olan en erken aşamada tespit etmek için tuzak dosyaları, honeypot paylaşımları ve sahte sistemler dağıtır. Fidye yazılımı şifreleme girişiminde bulunduğunda uyarı veren stratejik dosya konumlarına yerleştirilmiş tuzak token'ları yapılandırır, yüksek değerli hedefleri taklit eden honeypot ağ paylaşımları kullanır ve kapsamlı aldatmaya dayalı tespit için Thinkst Canary cihazları dağıtır. Fidye yazılımı honeypot'ları, tuzak dosyaları, fidye yazılımı için aldatma teknolojisi veya erken fidye yazılımı uyarısı içeren istekler için etkinleşir."
+description: "Tuzak dosyaları, honeypot paylaşımları ve Thinkst Canary cihazları dağıtarak fidye yazılımı şifreleme girişimini en erken aşamada tespit eder."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

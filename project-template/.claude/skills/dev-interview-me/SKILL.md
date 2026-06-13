@@ -1,6 +1,6 @@
 ---
 name: interview-me
-description: "Kullanıcının düşündüğü şey yerine gerçekten istediğini ortaya çıkarır. Altta yatan niyet hakkında ~%95 güven sağlanana kadar tek soruluk mülakat yöntemiyle bunu başarır. Bir istek belirsiz olduğunda (\"benim için X yap\" ama \"kimin için\" veya \"neden şimdi\" yoksa), kullanıcı açıkça istediğinde (\"interview me\", \"grill me\", \"are we sure?\", \"stress-test my thinking\") veya herhangi bir plan, spec ya da kod mevcut olmadan sessizce belirsiz gereksinimleri doldurduğunuzu fark ettiğinizde kullan."
+description: "Belirsiz istekte gerçek niyeti ortaya çıkarır; tek soruluk mülakat yöntemiyle ~%95 güven sağlanana kadar devam eder — \"interview me\" dedikçe tetiklenir."
 ---
 
 # Interview Me

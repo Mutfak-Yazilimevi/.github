@@ -1,6 +1,6 @@
 ---
 name: implementing-log-integrity-with-blockchain
-description: "Kurcalama tespiti için SHA-256 hash zincirleme kullanarak yalnızca ekleme yapılabilir log bütünlüğü zinciri oluştur. Her log girişi, herhangi bir girdiyi değiştirmenin sonraki tüm hash'leri geçersiz kıldığı blockchain benzeri bir yapı oluşturmak için önceki girdiyle birlikte hash'lenir. Log alımı, zincir doğrulaması, hassas nokta tespitli kurcalama tespiti ve harici zaman damgalama servislerine periyodik kontrol noktası ankrajı uygular."
+description: "SHA-256 hash zincirleme ile kurcalamaya karşı yalnızca ekleme yapılabilir log bütünlüğü zinciri oluşturur; harici zaman damgalama ve zincir doğrulama dahil."
 domain: cybersecurity
 subdomain: security-operations
 tags:

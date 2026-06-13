@@ -1,6 +1,6 @@
 ---
 name: kb-retriever
-description: "Yerel bilgi tabanı dizinine yönelik arama ve soru-cevap asistanı. Temel akış: (1) hiyerarşik dizin gezinmesi (2) PDF/Excel ile karşılaşıldığında önce references okunur (3) dosyalar işlendikten sonra arama yapılır. Dosya türüne göre grep, Read, pdfplumber, pandas kombinasyonu kullanılır; tam dosya yüklenmesinden kaçınılır. Kullanıcı \"bilgi tabanından soru cevapla/bilgi getir/kaynak ara\" dediğinde kullan."
+description: "Yerel bilgi tabanında hiyerarşik dizin gezinmesi, PDF/Excel referans okuma ve grep/Read/pdfplumber/pandas ile soru-cevap; \"bilgi tabanından ara/getir\" ifadelerinde kullan."
 ---
 
 # 本地知识库检索 Skill（kb-retriever）

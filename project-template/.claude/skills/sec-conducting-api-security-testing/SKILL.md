@@ -1,6 +1,6 @@
 ---
 name: conducting-api-security-testing
-description: "Kimlik doğrulama, yetkilendirme, hız sınırlama, girdi doğrulama ve iş mantığındaki güvenlik açıklarını belirlemek için REST, GraphQL ve gRPC API'lerinin güvenlik testini gerçekleştirir. Test uzmanı, OWASP API Security Top 10'u test çerçevesi olarak kullanarak Burp Suite'i Postman koleksiyonları ve özel komut dosyalarıyla birleştirerek her ayrıcalık düzeyinde uç nokta güvenliğini test eder. API güvenlik testi, REST API pentest, GraphQL güvenlik değerlendirmesi veya API güvenlik açığı testine yönelik isteklerde etkinleşir."
+description: "REST, GraphQL ve gRPC API'lerinde kimlik doğrulama, yetkilendirme ve OWASP API Security Top 10 güvenlik açıklarını test eder."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

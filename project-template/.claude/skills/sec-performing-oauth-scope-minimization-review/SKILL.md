@@ -1,6 +1,6 @@
 ---
 name: performing-oauth-scope-minimization-review
-description: "Kimlik sağlayıcılar ve SaaS platformlarındaki aşırı izin verilmiş üçüncü taraf uygulama entegrasyonlarını, fazla API kapsamlarını, kullanılmayan token yetkilerini ve riskli OAuth onay kalıplarını tespit etmek için OAuth 2.0 kapsam minimizasyon incelemesi gerçekleştirir. OAuth kapsam denetimi, API izin incelemesi, üçüncü taraf uygulama risk değerlendirmesi veya onay yetkisi minimizasyonu içeren istekler için kullan."
+description: "Kimlik sağlayıcılarda aşırı izinli OAuth kapsamları, kullanılmayan token yetkileri ve riskli onay kalıplarını tespit et."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

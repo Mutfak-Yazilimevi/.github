@@ -1,6 +1,6 @@
 ---
 name: "stripe-integration-expert"
-description: "Üretim kalitesinde Stripe entegrasyonları: denemeler ve orantılandırma ile abonelikler, tek seferlik ödemeler, kullanım bazlı faturalama, checkout oturumları, idempotent webhook işleyicileri, müşteri portalı ve faturalandırma. Next.js, Express ve Django kalıplarını kapsar. Stripe'ı ilk kez entegre ederken, webhook güvenilirlik sorunlarını hata ayıklarken, farklı bir ödeme sağlayıcısından geçiş yaparken veya mevcut bir abonelik ürününe kullanım bazlı faturalama eklerken kullan."
+description: "Stripe ile üretim kalitesinde abonelik, tek seferlik ödeme, kullanım bazlı faturalama, webhook, müşteri portalı entegrasyonları için kullan; Next.js, Express ve Django kalıpları dahil."
 ---
 
 # Stripe Integration Expert

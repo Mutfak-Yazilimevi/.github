@@ -1,6 +1,6 @@
 ---
 name: product-marketing
-description: "Kullanıcı ürün pazarlama bağlamı belgesi oluşturmak veya güncellemek istediğinde kullan. Ayrıca kullanıcı 'ürün bağlamı', 'pazarlama bağlamı', 'bağlamı ayarla', 'konumlandırma', 'hedef kitlem kim', 'ürünümü anlat', 'ICP', 'ideal müşteri profili' gibi ifadeler kullandığında ya da pazarlama görevlerinde temel bilgileri tekrar tekrar girmekten kaçınmak istediğinde kullan. Diğer marketing skill'leri kullanılmadan önce her yeni projede kullan — diğer tüm skill'lerin ürün, hedef kitle ve konumlandırma bağlamı için başvurduğu `.agents/product-marketing.md` dosyasını oluşturur"
+description: "Tüm marketing skill'lerinin başvurduğu .agents/product-marketing.md ürün bağlam dosyasını oluşturur; ICP, konumlandırma ve hedef kitle bilgisini yönetir."
 metadata:
   version: 2.0.0
 ---

@@ -1,6 +1,6 @@
 ---
 name: content-strategy
-description: "Kullanıcı içerik stratejisi planlamak, ne tür içerik oluşturacağına karar vermek veya hangi konuları kapsayacağını belirlemek istediğinde kullan. Kullanıcı \"content strategy\", \"what should I write about\", \"content ideas\", \"blog strategy\", \"topic clusters\", \"content planning\", \"editorial calendar\", \"content marketing\", \"content roadmap\", \"what content should I create\", \"blog topics\", \"content pillars\" veya \"I don't know what to write\" ifadelerinden bahsettiğinde de kullan. Birinin ne üretmesi gerektiğine karar vermeye ihtiyaç duyduğu her durumda kullan; yalnızca yazmak için değil. Bireysel parçalar yazmak için copywriting, SEO'ya özgü denetimler için seo-audit, sosyal medya içeriği için social becerisine bak."
+description: "İçerik stratejisi planlamak, konu kümeleri belirlemek ve içerik takvimi oluşturmak için kullan; bireysel parça yazmak için copywriting'e bak."
 metadata:
   version: 2.0.0
 ---

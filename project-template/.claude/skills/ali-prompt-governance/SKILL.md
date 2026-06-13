@@ -1,6 +1,6 @@
 ---
 name: prompt-governance
-description: "Üretimdeki prompt'ları ölçekte yönetirken kullan: prompt sürümleme, prompt A/B testleri yapma, prompt kayıt defterleri oluşturma, prompt gerileme önleme veya üretim AI özellikleri için değerlendirme pipeline'ları oluşturma. Tetikleyiciler: 'manage prompts in production', 'prompt versioning', 'prompt regression', 'prompt A/B test', 'prompt registry', 'eval pipeline'. Bireysel prompt yazma veya geliştirme için DEĞİL (senior-prompt-engineer kullan). RAG pipeline tasarımı için DEĞİL (rag-architect kullan). LLM maliyet azaltma için DEĞİL (llm-cost-optimizer kullan)."
+description: "Üretimdeki prompt'ları ölçekte yönetir: sürümleme, A/B test, kayıt defteri ve regresyon önleme; bireysel prompt yazımı için değil."
 ---
 
 # Prompt Governance

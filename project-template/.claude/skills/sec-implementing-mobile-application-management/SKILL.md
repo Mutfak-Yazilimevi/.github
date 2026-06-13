@@ -1,6 +1,6 @@
 ---
 name: implementing-mobile-application-management
-description: "Veri kaybı önleme, seçici silme, uygulama yapılandırma ve konteynerleştirme dahil olmak üzere uygulama düzeyinde denetimlerle yönetilen ve yönetilmeyen mobil cihazlardaki kurumsal verileri korumak için Mobile Application Management (MAM) ilkeleri uygular. BYOD cihazlarda kurumsal uygulamaları güvence altına alırken, Intune Uygulama Koruma İlkelerini uygularken veya kişisel ve iş uygulamaları arasında veri ayrımını zorunlu kılarken kullan. MAM dağıtımı, uygulama koruma ilkeleri, mobil konteynerleştirme veya BYOD güvenliği içeren istekler için etkinleşir."
+description: "BYOD cihazlarda Intune MAM ile uygulama koruma ilkeleri, DLP, seçici silme ve kişisel/kurumsal veri ayrımı uygula."
 domain: cybersecurity
 subdomain: mobile-security
 author: mahipal

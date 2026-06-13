@@ -1,6 +1,6 @@
 ---
 name: epic-design
-description: "Scroll hikaye anlatımı, parallax derinliği, metin animasyonları ve premium scroll efektleri kullanarak sürükleyici, sinematik 2.5D etkileşimli web siteleri oluştur — WebGL gerekmez. Herhangi bir web tasarım görevi için bu skill'i kullan: açılış sayfaları, ürün siteleri, hero bölümleri, scroll animasyonları, parallax, sticky bölümler, bölüm örtüşmeleri, bölümler arasında yüzen ürünler, clip-path açılımları, yandan uçan metinler, scroll ile aydınlanan kelimeler, perde düşüşleri, iris açılışları, kart yığınları, kanamış tipografi ve sinematik veya premium hissetmesi gereken her site. \"Canlı hissettir\", \"Apple tarzı animasyon\", \"örtüşen bölümler\", \"ürün bölümler arasında yükselir\", \"sürükleyici\", \"scrollytelling\" veya herhangi bir scroll odaklı görsel efekt ifadelerinde tetikle."
+description: "Parallax, scroll animasyonları, clip-path, sticky bölümler ve sinematik efektlerle Apple tarzı sürükleyici 2.5D web siteleri oluştur; WebGL gerekmez."
 license: MIT
 metadata:
   version: 1.0.0

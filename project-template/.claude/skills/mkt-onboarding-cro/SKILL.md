@@ -1,6 +1,6 @@
 ---
 name: "onboarding-cro"
-description: "Kullanıcı kayıt sonrası hazırlık, kullanıcı aktivasyonu, ilk çalıştırma deneyimi veya değere ulaşma süresini optimize etmek istediğinde kullan. Kullanıcı \"onboarding flow\", \"activation rate\", \"user activation\", \"first-run experience\", \"empty states\", \"onboarding checklist\", \"aha moment\" veya \"new user experience\" ifadelerinden bahsettiğinde de kullan. Kayıt/giriş optimizasyonu için signup-flow-cro, devam eden e-posta dizileri için email-sequence becerisine bak."
+description: "Kayıt sonrası hazırlık, kullanıcı aktivasyonu ve ilk çalıştırma deneyimini optimize etmek için kullan; aha moment, boş durum ve aktivasyon oranı senaryolarını kapsar."
 license: MIT
 metadata:
   version: 1.0.0

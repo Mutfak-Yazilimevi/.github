@@ -1,6 +1,6 @@
 ---
 name: integrating-sast-into-github-actions-pipeline
-description: "Bu beceri, Statik Uygulama Güvenliği Testi (SAST) araçlarını—CodeQL ve Semgrep—GitHub Actions CI/CD pipeline'larına entegre etmeyi kapsar. Pull request'lerde ve push işlemlerinde otomatik kod taraması yapılandırmayı, yanlış pozitif sayısını azaltmak için kuralları ayarlamayı, SARIF sonuçlarını GitHub Advanced Security'ye yüklemeyi ve yüksek önem dereceli güvenlik açıkları tespit edildiğinde birleştirmeleri engelleyen kalite kapıları oluşturmayı ele alır."
+description: "CodeQL ve Semgrep'i GitHub Actions CI/CD pipeline'ına entegre eder; SARIF yükleme, yanlış pozitif azaltma ve yüksek öncelikli güvenlik açıklarında birleştirme engeli kurar."
 domain: cybersecurity
 subdomain: devsecops
 tags:

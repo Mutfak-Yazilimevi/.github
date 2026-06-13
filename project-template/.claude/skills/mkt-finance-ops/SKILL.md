@@ -1,6 +1,6 @@
 ---
 name: finance-ops
-description: "Yapay zeka destekli finansal analiz paketi. QuickBooks dışa aktarmalarından (K&Z, Bilanço, Genel Muhasebe, Nakit Akışı vb.) anomali tespiti, burn rate, runway analizi ve senaryo modellemesiyle yönetici CFO brifingleri oluşturur. Ayrıca organizasyonel yük ve yapay zeka ROI analizi ile kod tabanı geliştirme maliyetlerini tahmin eder. Tetikleyiciler: \"CFO brifing\", \"finansal analiz\", \"maliyet brifing\", \"harcama incelemesi\", \"runway analizi\", \"burn rate\", \"maliyet tahmini\", \"bunu oluşturmak ne kadar tutar\", \"geliştirme maliyeti\", \"Claude ROI\"."
+description: "QuickBooks verilerinden anomali tespiti, burn rate, runway analizi ve yönetici CFO brifingleri oluşturur; kod tabanı geliştirme maliyeti tahmini de yapar."
 ---
 
 

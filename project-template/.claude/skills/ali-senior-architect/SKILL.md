@@ -1,6 +1,6 @@
 ---
 name: "senior-architect"
-description: "Kullanıcı \"sistem mimarisi tasarla\", \"mikro hizmetler ile monolit arasında değerlendir\", \"mimari diyagramlar oluştur\", \"bağımlılıkları analiz et\", \"veritabanı seç\", \"ölçeklenebilirlik planla\", \"teknik kararlar al\" veya \"sistem tasarımını incele\" istediğinde bu skill'i kullan. Mimari karar kayıtları (ADR'ler), teknoloji yığını değerlendirmesi, sistem tasarımı incelemeleri, bağımlılık analizi ve Mermaid, PlantUML veya ASCII biçiminde mimari diyagram oluşturma için kullan."
+description: "Sistem mimarisi tasarımı, mikro hizmet/monolit değerlendirmesi, ADR, veritabanı seçimi ve Mermaid/PlantUML mimari diyagramları için kullan."
 ---
 
 # Senior Architect

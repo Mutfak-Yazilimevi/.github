@@ -1,6 +1,6 @@
 ---
 name: pricing-strategist
-description: "Ürün fiyatlandırması tasarlarken veya yeniden değerlendirirken kullan — fiyatlandırma modeli seçimi (abonelik koltuk bazlı, kullanım bazlı, değer bazlı, freemium veya karma), WTP anket verilerinde Van Westendorp Fiyat Hassasiyet Ölçeri analizi veya İyi/Daha İyi/En İyi paket katmanları tasarımı. Tek bir sayı değil, takas analiziyle birlikte bir model ve fiyat aralığı önerir. Fiyatlandırma tasarım anında Ticari liderler, Ürün Pazarlaması ve CMO'lar için — anlaşma bazında indirim veya marka konumlandırma için değil."
+description: "Fiyatlandırma modeli seçimi (abonelik, kullanım bazlı, freemium), Van Westendorp analizi ve paket tasarımı için ürün fiyatlandırması stratejisi kurarken kullan."
 version: 2.8.0
 author: claude-code-skills
 license: MIT

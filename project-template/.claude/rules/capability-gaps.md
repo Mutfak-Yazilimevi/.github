@@ -33,12 +33,19 @@ Kütüphane **`mutfak-yazilimevi/.github` → `project-template/.claude/`** alt�
 
 | Önek | Plugin | | Önek | Plugin |
 | :-- | :-- | :-- | :-- | :-- |
-| `dev-dotnet-` | mutfak-dotnet | | `sec-` | mutfak-security |
+| `dev-dotnet-` | mutfak-dotnet | | `sec-` | mutfak-security-* (↓) |
 | `dev-` | mutfak-dev | | `pm-` | mutfak-pm |
 | `fe-` / `web-` | mutfak-frontend | | `mkt-` / `seo` | mutfak-marketing |
 | `design-` | mutfak-design | | `md-` | mutfak-diagrams |
 | `research-` | mutfak-research | | `ali-` | mutfak-consulting |
 | (öneksiz) | mutfak-core | | | |
+
+> **`sec-` skill'leri 6 güvenlik alt-plugin'ine bölünür** (token tasarrufu: proje yalnız gereken
+> güvenlik alanını açar): `mutfak-security-offensive` (pentest/red-team/exploit) ·
+> `-detection` (detection/hunting/SIEM) · `-forensics` (DFIR/malware RE) · `-defense`
+> (hardening/zero-trust/kimlik) · `-grc` (audit/zafiyet/uyumluluk/IR) · `-intel` (CTI/OSINT).
+> Yönlendirme tek kaynaktan: `skills/sec-routing.tsv` (üretici: `scripts/classify-security.py`).
+> Yeni bir `sec-` skill eklerken routing'i yenile: `python3 scripts/classify-security.py <.claude>`.
 
 **Agent:** `project-template/.claude/agents/<ad>.md` — kurallar:
 - `name` alanı **dosya adıyla birebir** aynı olmalı.

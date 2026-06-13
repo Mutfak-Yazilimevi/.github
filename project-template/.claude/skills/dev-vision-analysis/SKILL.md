@@ -1,6 +1,6 @@
 ---
 name: vision-analysis
-description: "MiniMax vision MCP aracını kullanarak görüntüleri analiz et, tanımla ve bilgi çıkar. Şu durumlarda kullan: kullanıcı bir görüntü dosya yolu veya URL paylaştığında (herhangi bir mesajda .jpg, .jpeg, .png, .gif, .webp, .bmp veya .svg dosya uzantısı varsa) veya bir görüntü yakınında \"analyze\", \"analyse\", \"describe\", \"explain\", \"understand\", \"look at\", \"review\", \"extract text\", \"OCR\", \"what is in\", \"what's in\", \"read this image\", \"see this image\", \"tell me about\", \"explain this\", \"interpret this\" gibi kelimeler/ifadeler kullandığında. Ayrıca şunlar için tetiklenir: UI mockup incelemesi, wireframe analizi, tasarım eleştirisi, grafiklerden veri çıkarımı, nesne tespiti, kişi/hayvan/aktivite tanımlama. Tetikleyiciler: görüntü dosya uzantısı içeren herhangi bir mesaj (jpg, jpeg, png, gif, webp, bmp, svg) veya bir görüntü, ekran görüntüsü, diyagram, grafik, fotoğraf, mockup veya wireframe'den analiz etme/tanımlama/anlama/inceleme/metin çıkarma isteği."
+description: "MiniMax vision MCP ile görüntü analizi, tanımlama ve bilgi çıkarımı; dosya yolu veya URL paylaşıldığında analiz/açıklama için kullan."
 license: MIT
 metadata:
   version: "1.0"

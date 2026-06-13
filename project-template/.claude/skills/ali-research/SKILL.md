@@ -1,6 +1,6 @@
 ---
 name: research
-description: "Herhangi bir araştırma isteği için varsayılan giriş noktası — soruyu belirleyici olarak sınıflandıran ve uzman bir araştırma becerisine (eğilimler/duyarlılık için pulse, NIH finansmanı için grants, akademik literatür için litreview, ders okumalar için syllabus, önceki sanat + IP ortamı için patent, kurum araştırması için dossier) devreden ya da hiçbir uzman eşleşmediğinde kendi plan-ayrıştır-çok kaynak-arama-sentezle-atıf geri dönüş iş akışını çalıştıran hibrit bir yönlendirici."
+description: "Araştırma isteği yönlendirici; pulse/grants/litreview/syllabus/patent/dossier skill'lerine yönlendirir, eşleşme yoksa kendi plan-ayrıştır-çok kaynak iş akışını çalıştırır."
 ---
 
 # Research — Hybrid Router + Fallback

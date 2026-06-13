@@ -1,6 +1,6 @@
 ---
 name: deploying-active-directory-honeytokens
-description: "AdminCount=1 ile sahte ayrıcalıklı hesaplar, Kerberoasting tespiti için sahte SPN'ler (honeyroasting), cpassword tuzaklarıyla sahte GPO'lar ve sahte BloodHound yolları dahil olmak üzere Active Directory'de yanıltma tabanlı honeytoken'lar dağıtır. Honeytoken etkileşimi için Windows Security Event ID'leri 4769, 4625, 4662, 5136'yı izler. Yanal hareketi, kimlik bilgisi hırsızlığını ve keşfi tespit etmek için AD yanıltma savunmaları uygularken kullan."
+description: "AD'de sahte ayrıcalıklı hesap, honeyroasting SPN ve GPO tuzağı ile honeytoken dağıt; Event ID 4769/4625/4662/5136 ile yanal hareket ve kimlik bilgisi hırsızlığını tespit et."
 domain: cybersecurity
 subdomain: deception-technology
 tags:

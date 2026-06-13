@@ -1,6 +1,6 @@
 ---
 name: kubernetes-operator
-description: "Kubernetes Operator oluştururken kullan — CRD durumunu mutabık kılan özel denetleyiciler. \"Bir operator oluştur\", \"CRD tasarımı\", \"mutabık döngüsü\", \"controller-runtime\", \"kubebuilder\", \"operator-sdk\", \"metacontroller\", \"KOPF\", \"operator yetenek seviyeleri\" veya \"özel kaynak\" ifadelerinde tetikle. CRD doğrulayıcı, mutabık döngüsü linter ve OperatorHub yetenek denetçisi (tümü stdlib Python), operator kalıbı + CRD tasarımı + mutabık kalıpları + araç ortamı hakkında 4 referans ve /operator-audit slash komutu sunar. Genel bir k8s skill'i DEĞİL — özellikle Operator kalıbı."
+description: "Kubernetes Operator geliştirme; CRD, mutabık döngü, controller-runtime/kubebuilder/operator-sdk kalıpları ve OperatorHub yetenek denetçisi; genel k8s değil."
 context: fork
 version: 2.9.0
 author: claude-code-skills

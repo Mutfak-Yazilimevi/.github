@@ -1,6 +1,6 @@
 ---
 name: analyzing-ransomware-payment-wallets
-description: "Chainalysis Reactor, WalletExplorer ve blockchain.com API'leri gibi blockchain analiz araçları kullanarak fidye yazılımı kripto para ödeme akışlarını izler. Cüzdan kümelerini tanımlar, mixer ve borsalar aracılığıyla fon hareketini takip eder ve kolluk kuvvetleri ilişkilendirmesini destekler. Fidye yazılımı ödeme takibi, bitcoin cüzdan analizi, kripto para adli bilişimi veya blockchain istihbarat toplama isteklerinde etkinleşir."
+description: "Chainalysis/WalletExplorer/blockchain.com ile fidye yazılımı kripto para akışını izler; cüzdan kümeleme ve kolluk ilişkilendirmesi için kullan."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

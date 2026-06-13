@@ -1,6 +1,6 @@
 ---
 name: performing-soc2-type2-audit-preparation
-description: "AICPA Trust Services Criteria (CC1-CC9) karşı boşluk değerlendirmesi, cloud sağlayıcılar ve kimlik sistemlerinden kanıt toplama, kontrol testi doğrulaması, iyileştirme takibi ve sürekli uyumluluk izleme dahil olmak üzere SOC 2 Type II denetim hazırlığını otomatikleştirir. Tüm beş TSC kategorisini (Security, Availability, Processing Integrity, Confidentiality, Privacy) AWS, Azure, GCP, Okta, GitHub ve Jira'dan otomatik kanıt toplamayla kapsar. SOC 2 Type II sertifikası hazırlarken veya sürdürürken kullan."
+description: "SOC 2 Type II AICPA TSC boşluk değerlendirmesi; AWS, Azure, GCP, Okta, GitHub, Jira'dan otomatik kanıt toplama ve 5 TSC kategorisi."
 domain: cybersecurity
 subdomain: governance-risk-compliance
 tags:

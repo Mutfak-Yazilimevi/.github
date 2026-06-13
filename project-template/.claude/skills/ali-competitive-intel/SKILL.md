@@ -1,6 +1,6 @@
 ---
 name: "competitive-intel"
-description: "CMO konumlandırmasını, CRO battlecard'larını ve CPO yol haritası kararlarını besleyen sistematik rakip takibi. Rakipleri analiz ederken, satış battlecard'ları oluştururken, pazar hareketlerini izlerken, alternatiflere karşı konumlandırma yaparken veya kullanıcı rekabet istihbaratı, rekabet analizi, rakip araştırması, battlecard'lar, kazan/kaybet ya da pazar konumlandırmasından bahsettiğinde kullan."
+description: "CMO konumlandırması, CRO battlecard'ları ve CPO yol haritası için sistematik rakip takibi ve rekabet zekası çerçevesi."
 license: MIT
 metadata:
   version: 1.0.0

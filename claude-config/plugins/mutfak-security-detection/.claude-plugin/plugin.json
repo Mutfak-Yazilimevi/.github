@@ -1,0 +1,9 @@
+{
+  "name": "mutfak-security-detection",
+  "version": "1.1.0",
+  "description": "Mavi takım tespit & tehdit avı: detection engineering, threat hunting, SIEM/SOC, anomali tespiti.",
+  "author": {
+    "name": "Mutfak Yazılımevi",
+    "url": "https://www.mutfakyazilimevi.com"
+  }
+}

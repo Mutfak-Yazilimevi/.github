@@ -1,6 +1,6 @@
 ---
 name: openai-docs-openai
-description: "Kullanıcı OpenAI ürünleri veya API'leriyle nasıl geliştirme yapacağını sorduğunda, Codex'in kendisi veya Codex yüzeyleri seçimi hakkında sorduğunda, alıntılı güncel resmi dokümantasyona ihtiyaç duyduğunda, bir kullanım durumu için en son modeli seçmek istediğinde veya model yükseltme ve istem yükseltme rehberliğine ihtiyaç duyduğunda kullanılır; Codex dışı belge soruları için OpenAI docs MCP araçlarını kullan, geniş Codex öz-bilgisi için önce Codex manual helper'ı kullan ve geri dönüş taramayı resmi OpenAI alan adlarıyla sınırlandır."
+description: "OpenAI API/ürünleri hakkında soru sorulduğunda, model seçimi veya yükseltme rehberliğine ihtiyaç duyulduğunda güncel resmi dokümantasyona başvurur."
 ---
 
 

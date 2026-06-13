@@ -1,6 +1,6 @@
 ---
 name: "signup-flow-cro"
-description: "Kullanıcı kayıt, hesap oluşturma veya deneme aktivasyon akışlarını optimize etmek istediğinde kullan. Ayrıca kullanıcı \"kayıt dönüşümleri\", \"kayıt sürtünmesi\", \"kayıt formu optimizasyonu\", \"ücretsiz deneme kaydı\", \"kayıt terki azaltma\" veya \"hesap oluşturma akışı\" ifadelerinden bahsettiğinde de kullan. Kayıt sonrası kullanıcı oryantasyonu için onboarding-cro'ya bak. Hesap oluşturma dışındaki müşteri adayı yakalama formları için form-cro'ya bak."
+description: "Kayıt, hesap oluşturma ve deneme aktivasyon akışlarını optimize etmek için kullan; kayıt dönüşüm oranı ve sürtünme azaltma senaryolarını kapsar."
 license: MIT
 metadata:
   version: 1.0.0

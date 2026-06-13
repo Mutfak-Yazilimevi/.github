@@ -1,6 +1,6 @@
 ---
 name: "webinar-marketing"
-description: "Kullanıcı talep oluşturmak ve dönüştürmek için bir webinar veya sanal etkinlik planlamak, tanıtmak, yürütmek veya iyileştirmek istediğinde kullan. Kullanıcı 'webinar', 'sanal etkinlik', 'çevrimiçi etkinlik', 'canlı demo', 'sanal zirve', 'atölye', 'masterclass', 'sohbet', 'yuvarlak masa', 'kayıt hunisi', 'katılım oranı', 'webinar tanıtımı', 'webinar takibi' veya 'talep üzerine webinar' ifadelerinden bahsettiğinde de kullan. Ayrıca dönüşüm sağlamayan bir webinarları olduğunda — düşük kayıtlar, düşük katılım veya satın almayan katılımcılar — ve bunu teşhis edip düzeltmek istediklerinde de kullan. Tam hunisi kapsar: kayıt, tanıtım, katılım, canlı etkileşim, canlı kapanış ve etkinlik sonrası besleme. launch-strategy (tam ürün lansmanları) ve email-sequence (yaşam döngüsü besleyici içerik) becerilerinden farklıdır — bu, uçtan uca webinar/etkinlik hareketidir. Yüz yüze saha etkinliği lojistiği için KULLANMA ve genel yaşam döngüsü e-postası için KULLANMA (email-sequence kullan)."
+description: "Talep oluşturmak için webinar veya sanal etkinlik planlamak, tanıtmak, yürütmek veya optimize etmek istediğinde kullan."
 license: MIT
 metadata:
   version: 1.0.0

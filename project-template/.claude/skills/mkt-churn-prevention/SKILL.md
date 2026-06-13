@@ -1,6 +1,6 @@
 ---
 name: churn-prevention
-description: "Kullanıcı churn'ü azaltmak, iptal akışları oluşturmak, kaydetme teklifleri ayarlamak, başarısız ödemeleri kurtarmak veya elde tutma stratejileri uygulamak istediğinde kullan. Ayrıca kullanıcı 'churn', 'cancel flow', 'offboarding', 'save offer', 'dunning', 'failed payment recovery', 'win-back', 'retention', 'exit survey', 'pause subscription', 'involuntary churn', 'müşteriler iptal ediyor', 'churn oranı çok yüksek', 'kullanıcıları nasıl tutarım' veya 'müşteriler gidiyor' dediğinde kullan. İptal sonrası win-back e-posta dizileri için emails'e, uygulama içi yükseltme paywallları için paywalls'a bakın."
+description: "Churn azaltma, iptal akışı, kaydetme teklifi, dunning, başarısız ödeme kurtarma ve müşteriyi elde tutma stratejileri için kullan."
 metadata:
   version: 2.0.0
 ---

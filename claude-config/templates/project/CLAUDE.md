@@ -20,4 +20,4 @@
 
 ## Etkin Plugin Profili
 Bu proje için açık plugin'ler (`.claude/settings.json`):
-- `mutfak-core`, `mutfak-dev`, `mutfak-dotnet`, `mutfak-security` _(örnek — projeye göre düzenle)_
+- `mutfak-core`, `mutfak-dev`, `mutfak-dotnet`, `mutfak-security-defense` _(örnek — projeye göre düzenle; güvenlik 6 alt-plugin: offensive/detection/forensics/defense/grc/intel)_

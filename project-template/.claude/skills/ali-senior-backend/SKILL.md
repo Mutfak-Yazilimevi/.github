@@ -1,6 +1,6 @@
 ---
 name: "senior-backend"
-description: "REST API'leri, mikroservisler, veritabanı mimarileri, kimlik doğrulama akışları ve güvenlik güçlendirmesi dahil backend sistemleri tasarlar ve uygular. Kullanıcı 'REST API tasarla', 'veritabanı sorgularını optimize et', 'kimlik doğrulama uygula', 'mikroservisler oluştur', 'backend kodunu incele', 'GraphQL kur', 'veritabanı migrasyonlarını yönet' veya 'API'leri yük testi yap' istediğinde kullan. Node.js/Express/Fastify geliştirme, PostgreSQL optimizasyonu, API güvenliği ve backend mimari kalıplarını kapsar"
+description: "REST API, mikroservis, veritabanı mimarisi ve kimlik doğrulama akışı tasarımı için kullan. Node.js, PostgreSQL, GraphQL ve API güvenliği destekler."
 ---
 
 # Senior Backend Engineer

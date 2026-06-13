@@ -1,6 +1,6 @@
 ---
 name: clr-activation-debugging
-description: "mscoree.dll tarafından üretilen CLR aktivasyon günlükleri (CLRLoad günlükleri) kullanılarak .NET Framework CLR aktivasyon sorunlarını tanımlar. Kullanım durumları: shim yanlış çalışma zamanını seçtiğinde, herhangi bir çalışma zamanı yükleyemediğinde, beklenmedik .NET 3.5 Feature-on-Demand (FOD) iletişim kutuları gösterdiğinde, beklenmedik biçimde FOD iletişim kutusu göstermediğinde, aynı işleme hem v2 hem de v4 yüklenip hatalara neden olduğunda veya \".NET Framework aktivasyonunda ne oluyor?\" sorusu ortaya çıktığında."
+description: "CLR aktivasyon günlükleri ile .NET Framework shim veya çalışma zamanı yükleme sorunlarını (beklenmedik FOD iletişim kutuları, v2/v4 çakışması) tanımlamak için kullan."
 license: MIT
 ---
 

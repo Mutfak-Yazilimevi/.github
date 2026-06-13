@@ -1,6 +1,6 @@
 ---
 name: "site-architecture"
-description: "Kullanıcı web sitesinin yapısını, URL hiyerarşisini, navigasyon tasarımını veya iç bağlantı stratejisini denetlemek, yeniden tasarlamak veya planlamak istediğinde kullan. Kullanıcı 'site architecture', 'URL structure', 'internal links', 'site navigation', 'breadcrumbs', 'topic clusters', 'hub pages', 'orphan pages', 'silo structure', 'information architecture' veya 'website reorganization' dediğinde de kullan."
+description: "Web sitesi URL hiyerarşisi, navigasyon, iç bağlantı, konu kümeleri ve silo yapısını denetle, yeniden tasarla veya planla."
 license: MIT
 metadata:
   version: 1.0.0

@@ -1,6 +1,6 @@
 ---
 name: reflect
-description: "Yürütmeyi durdurup detay modundan uzaklaşarak yönü, varsayımları ve önyargıyı dürüstçe yeniden değerlendiren konuşma ortası yansıma skill'i. Kullanıcı 'yansıt', 'bir adım geri çekil', 'geri çekil', 'büyüt', 'bir şeyi kaçırıyor muyuz', 'büyük resim', 'bunu akıl sağlığı kontrolünden geçir', 'yolda mıyız', 'fazla düşünüyor muyuz', 'ormandaki ağaçlar' dediğinde veya detay modundan çıkıp yeniden değerlendirme sinyali veren herhangi bir ifadede tetikle. Konuşma stratejik kontrol noktası olmadan uygulama detaylarına derinlemesine girdiğinde veya kullanıcı takılıp kaldığının belirtilerini gösterdiğinde de tetikle."
+description: "Konuşma ortasında yön, varsayım ve önyargıyı yeniden değerlendirmek için kullan; \"geri çekil\", \"büyük resim\", \"akıl sağlığı kontrolü\" ifadelerinde tetikle."
 license: MIT
 metadata:
   source_spec: "megaprompts/02-reflect-megaprompt.md"

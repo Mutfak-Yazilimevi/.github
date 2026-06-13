@@ -1,6 +1,6 @@
 ---
 name: "chief-customer-officer-advisor"
-description: "Girişimler için Chief Customer Officer danışmanlığı: elde tutma analizi (brüt elde tutma vs NRR dürüstlüğü, churn kök neden sınıflandırması), müşteri segmentasyon stratejisi (katmanlar arası diferansiyel yatırım ve ICP uyum puanlaması), CS ekip kapsama modeli (havuzlanmış vs named CSM eşikleri ve oran hesabı), CS ekip organizasyon evrimi (CS vs Destek vs AM ayrımları). Ne zaman kullanılır: elde tutma stratejisi tasarlarken, müşterileri diferansiyel yatırım için segmentlere ayırırken, CS ekibini boyutlandırırken veya CS işe alım sırasını belirlerken. Yalnızca stratejik — mühendislik/iş büyümesi taktik becerilerini tekrar etmez."
+description: "CCO danışmanlığı: elde tutma analizi (GRR/NRR), müşteri segmentasyonu, CS ekip kapsama modeli ve CS/Destek/AM organizasyon evrimi için stratejik kararlar."
 license: MIT
 metadata:
   version: 1.0.0

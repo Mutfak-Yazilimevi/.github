@@ -1,6 +1,6 @@
 ---
 name: social
-description: "Kullanıcı LinkedIn, Twitter/X, Instagram, TikTok, Facebook veya diğer platformlar için sosyal medya içeriği oluşturmak, zamanlamak veya optimize etmek istediğinde ya da sosyal dinleme ve etkileşim yönetimi yapmak istediğinde kullan. Ayrıca kullanıcı \"LinkedIn gönderisi\", \"Twitter thread\", \"sosyal medya\", \"içerik takvimi\", \"sosyal zamanlama\", \"etkileşim\", \"viral içerik\", \"ne paylaşmalıyım\", \"içeriği yeniden kullan\", \"tweet fikirleri\", \"LinkedIn carousel\", \"sosyal medya stratejisi\", \"takipçi kazan\", \"TikTok videosu\", \"Reels\", \"Shorts\", \"video senaryosu\", \"video hook\", \"kısa video\", \"reel oluştur\", \"sosyal dinleme\", \"marka bahisleri\", \"rakip takibi\", \"yorum yapılacak üst gönderiler\" veya \"soran kişileri bul\" ifadelerinden bahsettiğinde kullan. Sosyal medya içeriği oluşturma, yeniden kullanım, zamanlama, kısa video senaryosu yazımı ve sosyal dinleme için kullan. Daha geniş içerik stratejisi için content-strategy'e, ücretli reklamlar için ad-creative'e, kazanılmış medya için public-relations'a bakın."
+description: "LinkedIn, Twitter/X, Instagram, TikTok, Facebook için sosyal medya içeriği oluşturmak, zamanlamak veya optimize etmek için kullan."
 metadata:
   version: 2.1.0
 ---

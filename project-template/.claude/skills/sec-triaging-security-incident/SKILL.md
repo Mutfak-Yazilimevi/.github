@@ -1,6 +1,6 @@
 ---
 name: triaging-security-incident
-description: "NIST SP 800-61r3 ve SANS PICERL çerçevelerini kullanarak güvenlik olaylarının önem düzeyini, kapsamını ve gerekli müdahale eylemlerini belirlemek için ilk triyaj gerçekleştirir. Olayları türe göre sınıflandırır, iş etkisine göre öncelik atar ve uygun müdahale ekiplerine yönlendirir. Olay triyajı, güvenlik uyarısı sınıflandırması, önem değerlendirmesi, olay önceliklendirmesi veya ilk olay analizi içeren istekler için kullan."
+description: "NIST SP 800-61r3 ve SANS PICERL ile güvenlik olayı önem düzeyi, kapsamı ve müdahale eylemlerini belirlemek için ilk triyaj yapar."
 domain: cybersecurity
 subdomain: incident-response
 tags:

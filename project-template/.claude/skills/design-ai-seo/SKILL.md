@@ -1,6 +1,6 @@
 ---
 name: ai-seo
-description: "Kullanıcı içeriği AI arama motorları için optimize etmek, LLM'ler tarafından alıntılanmak veya AI tarafından oluşturulan yanıtlarda görünmek istediğinde kullan. Ayrıca kullanıcı 'AI SEO,' 'AEO,' 'GEO,' 'LLMO,' 'answer engine optimization,' 'generative engine optimization,' 'LLM optimization,' 'AI Overviews,' 'ChatGPT için optimize et,' 'Perplexity için optimize et,' 'AI alıntıları,' 'AI görünürlüğü,' 'sıfır tıklamalı arama,' 'AI yanıtlarında nasıl görünürüm,' 'LLM mentions' veya 'Claude/Gemini için optimize et' gibi terimler belirttiğinde kullan. Birisi içeriğinin AI asistanları ve AI arama motorları tarafından alıntılanmasını veya öne çıkarılmasını istediğinde kullan. Geleneksel teknik ve sayfa içi SEO denetimleri için bkz. seo-audit. Yapılandırılmış veri implementasyonu için bkz. schema-markup."
+description: "İçeriği AI arama motorları için optimize etmek, LLM'ler tarafından alıntılanmak veya AI yanıtlarında görünmek (AI SEO, AEO, GEO) için kullan."
 metadata:
   version: 1.1.0
 ---

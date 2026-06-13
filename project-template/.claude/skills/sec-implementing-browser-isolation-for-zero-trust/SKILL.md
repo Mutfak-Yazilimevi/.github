@@ -1,6 +1,6 @@
 ---
 name: implementing-browser-isolation-for-zero-trust
-description: "Uzak tarayıcı izolasyonu (RBI) bileşenini Sıfır Güven mimarisinin temel parçası olarak dağıtır. URL kategorilendirme ve risk tabanlı yönlendirme ile izolasyon ilkeleri, dosya sanitizasyonu için içerik silme ve yeniden yapılandırma (CDR), izole oturumlarda veri kaybı önleme denetimleri ve Güvenli Web Ağ Geçidi ile ZTNA platformlarıyla entegrasyon uygular. Cloudflare Browser Isolation, Menlo Security ve Zscaler RBI yaklaşımlarını esas alır. Sıfır gün açıklarına, kimlik avına, kimlik bilgisi hırsızlığına ve tarayıcı tabanlı veri sızdırmaya karşı web erişimini güçlendirirken kullan."
+description: "Zero Trust mimarisine RBI (Uzak Tarayıcı İzolasyonu) ekle: URL yönlendirme, DLP entegrasyonu ve ZTNA bileşen entegrasyonunu kapsar."
 domain: cybersecurity
 subdomain: network-security
 tags:

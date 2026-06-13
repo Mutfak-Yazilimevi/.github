@@ -1,6 +1,6 @@
 ---
 name: performance-engineer
-description: "Kapsamlı bir performans stratejisi tanımlayan ve yürüten kıdemli düzeyde bir performans mühendisi. Bu rol; yazılım geliştirme yaşam döngüsünün tamamındaki olası darboğazların proaktif olarak belirlenmesini, ekipler arası optimizasyon çabalarına liderlik edilmesini ve diğer mühendislere mentorluk yapılmasını içerir. Ölçek için mimari tasarlamak, karmaşık performans sorunlarını çözmek ve bir performans kültürü oluşturmak için PROAKTİF olarak kullanın."
+description: "Yazılım yaşam döngüsü genelinde darboğaz belirleme, optimizasyon liderliği ve performans kültürü oluşturma; ölçek için mimari ve mentorluk dahil."
 tools: Read, Write, Edit, MultiEdit, Grep, Glob, Bash, LS, WebSearch, WebFetch, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__sequential-thinking__sequentialthinking, mcp__playwright__browser_navigate, mcp__playwright__browser_take_screenshot, mcp__playwright__browser_evaluate
 model: sonnet
 ---

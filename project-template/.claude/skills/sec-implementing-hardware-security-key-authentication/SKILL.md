@@ -1,6 +1,6 @@
 ---
 name: implementing-hardware-security-key-authentication
-description: "Kayıt seremonileri, kimlik doğrulama akışları, YubiKey kaydı ve passkey geçiş stratejileri dahil olmak üzere FIDO2/WebAuthn donanım güvenlik anahtarı kimlik doğrulaması uygular. python-fido2 kütüphanesini kullanarak platformlar arası kimlik doğrulayıcıları, yerleşik anahtar (keşfedilebilir kimlik bilgisi) iş akışlarını ve kullanıcı doğrulama ilkelerini destekleyen eksiksiz bir bağlı taraf sunucusu oluşturur. FIDO2 uygulaması, WebAuthn kaydı, donanım güvenlik anahtarı kaydı, YubiKey entegrasyonu veya parola tabanlı kimlik doğrulamadan passkey geçişi içeren istekler için etkinleşir."
+description: "FIDO2/WebAuthn donanım güvenlik anahtarı kimlik doğrulaması; YubiKey, passkey geçişi ve python-fido2 ile bağlı taraf sunucusu uygula."
 domain: cybersecurity
 subdomain: identity-and-access-management
 tags:

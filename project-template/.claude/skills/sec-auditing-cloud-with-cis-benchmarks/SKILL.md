@@ -1,6 +1,6 @@
 ---
 name: auditing-cloud-with-cis-benchmarks
-description: "Bu skill, AWS, Azure ve GCP için Center for Internet Security kıyaslamalarını kullanarak bulut güvenliği denetimlerinin nasıl yürütüleceğini açıklar. CIS Foundations Benchmark denetimlerini yorumlamayı, Prowler ve ScoutSuite gibi araçlarla otomatik değerlendirmeler çalıştırmayı, başarısız denetimleri düzeltmeyi ve AWS için CIS v5, Azure için v4 ve GCP için v4'e karşı sürekli uyumluluk izlemeyi sürdürmeyi kapsar."
+description: "AWS/Azure/GCP için CIS Benchmarks kullanarak bulut güvenliği denetimi yapar; Prowler ve ScoutSuite ile otomatik değerlendirme, uyumluluk izleme için kullan."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

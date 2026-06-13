@@ -1,6 +1,6 @@
 ---
 name: implementing-patch-management-for-ot-systems
-description: "Bu skill, geleneksel BT yama yaklaşımlarının proses aksaklığına veya güvenlik tehlikelerine neden olabileceği OT/ICS ortamları için yapılandırılmış bir yama yönetimi programı uygulamayı kapsar. Tedarikçi uyumluluk testini, risk tabanlı yama önceliklendirmesini, test ortamları üzerinden aşamalı dağıtımı, bakım penceresi koordinasyonunu, geri alma prosedürlerini ve operasyonel kısıtlamalar veya tedarikçi kısıtlamaları nedeniyle yama uygulanamadığında telafi edici kontrolleri ele alır."
+description: "OT/ICS ortamları için Dragos, Claroty, Nozomi araçlarıyla yama yönetimi programı uygula; SCADA güvenlik yamalamasını kapsar."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

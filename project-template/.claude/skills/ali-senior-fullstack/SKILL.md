@@ -1,6 +1,6 @@
 ---
 name: "senior-fullstack"
-description: "Next.js, FastAPI, MERN ve Django yığınları için proje iskelet kurulumu, güvenlik ve karmaşıklık puanlamasıyla kod kalite analizi ve yığın seçim rehberliği içeren fullstack geliştirme araç takımı. Kullanıcı 'yeni proje iskelet yap', 'Next.js uygulaması oluştur', 'React ile FastAPI kur', 'kod kalitesini analiz et', 'kod tabanımı denetle', 'hangi yığını kullanmalıyım', 'proje şablonu oluştur' dediğinde ya da fullstack geliştirme, proje kurulumu veya teknoloji yığını karşılaştırmasından bahsettiğinde kullan"
+description: "Next.js, FastAPI, MERN, Django yığınları için proje iskelet kurulumu, kod kalite analizi ve yığın seçim rehberliği yapar."
 ---
 
 # Senior Fullstack

@@ -1,6 +1,6 @@
 ---
 name: implementing-sigstore-for-software-signing
-description: "Konteyner görüntüleri, ikili dosyalar ve yazılım yapıtları için kriptografik köken oluşturmak amacıyla Cosign anahtarsız imzalama, Rekor şeffaflık log doğrulaması ve Fulcio sertifika otoritesi entegrasyonunu kullanarak Sigstore tabanlı yazılım imzalama ve doğrulama uygular. Uygulayıcı OIDC tabanlı kimlik bağlamasını yapılandırır, Rekor şeffaflık loguna karşı imzalama olaylarını doğrular ve imzalama iş akışlarını CI/CD ardışık düzenlerine entegre eder. Yazılım tedarik zinciri imzalama, anahtarsız konteyner imzalama, Sigstore dağıtımı veya yapıt köken doğrulaması içeren istekler için etkinleşir."
+description: "Cosign anahtarsız imzalama, Rekor şeffaflık log ve Fulcio CA ile konteyner/artefakt imzalama; yazılım tedarik zinciri köken doğrulama için kullan."
 domain: cybersecurity
 subdomain: supply-chain-security
 tags:

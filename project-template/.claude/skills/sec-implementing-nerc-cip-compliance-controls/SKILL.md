@@ -1,6 +1,6 @@
 ---
 name: implementing-nerc-cip-compliance-controls
-description: "Bu skill, Toplu Elektrik Sistemi (BES) siber sistemleri için Kuzey Amerika Elektrik Güvenilirlik Kurumu Kritik Altyapı Koruma (NERC CIP) uyumluluk denetimlerini uygulamayı kapsar. Varlık kategorizasyonu (CIP-002), elektronik güvenlik çevresi (CIP-005), sistem güvenlik yönetimi (CIP-007), yapılandırma yönetimi (CIP-010), tedarik zinciri risk yönetimi (CIP-013) ve uzaktan erişim için zorunlu MFA ile genişletilmiş düşük etkili varlık gereksinimleri dahil 2025 güncellemelerini ele alır."
+description: "NERC CIP uyumluluk denetimleri uygular: CIP-002/005/007/010/013 ve 2025 güncellemeleri (uzaktan erişim için zorunlu MFA) dahil BES siber sistemleri için."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

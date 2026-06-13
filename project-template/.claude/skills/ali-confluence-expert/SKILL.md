@@ -1,6 +1,6 @@
 ---
 name: "confluence-expert"
-description: "Alanlar, bilgi tabanları ve dokümantasyon oluşturma ve yönetme için Atlassian Confluence uzmanı. Alan izinlerini ve hiyerarşilerini yapılandırır, makrolu sayfa şablonları oluşturur, dokümantasyon taksonomileri kurar, sayfa düzenleri tasarlar ve içerik yönetişimini yönetir. Kullanıcıların bir Confluence alanı oluşturması veya yeniden yapılandırması, izin yapılarıyla sayfa hiyerarşileri tasarlaması, dokümantasyon şablonları yazması veya standartlaştırması, Jira raporlarını sayfalara gömmesi, bilgi tabanı denetimleri yapması ya da dokümantasyon standartları ve işbirlikçi iş akışları oluşturması gerektiğinde kullan"
+description: "Confluence alan yönetimi: izin hiyerarşisi, makrolu sayfa şablonları, Jira rapor gömme ve dokümantasyon yönetişimi kurmak için kullan."
 ---
 
 # Atlassian Confluence Expert

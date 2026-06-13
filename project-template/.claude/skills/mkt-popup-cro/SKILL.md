@@ -1,6 +1,6 @@
 ---
 name: "popup-cro"
-description: "Kullanıcı dönüşüm amacıyla açılır pencereler, modaller, katmanlar, slayt içerenler veya afişler oluşturmak veya optimize etmek istediğinde kullan. Ayrıca kullanıcı \"exit intent\", \"popup conversions\", \"modal optimization\", \"lead capture popup\", \"email popup\", \"announcement banner\" veya \"overlay\" dediğinde de kullan. Açılır pencereler dışındaki formlar için form-cro'ya; genel sayfa dönüşüm optimizasyonu için page-cro'ya bakın."
+description: "Dönüşüm amaçlı açılır pencere, modal, katman, slayt ve afiş oluştur veya optimize et; \"exit intent\", \"popup conversions\", \"lead capture popup\" ifadelerinde tetikle."
 license: MIT
 metadata:
   version: 1.0.0

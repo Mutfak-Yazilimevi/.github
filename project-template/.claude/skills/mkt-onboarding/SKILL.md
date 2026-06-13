@@ -1,6 +1,6 @@
 ---
 name: onboarding
-description: "Kullanıcı, kayıt sonrası kullanıcı alıştırma sürecini, kullanıcı aktivasyonunu, ilk çalıştırma deneyimini veya değere ulaşma süresini optimize etmek istediğinde kullan. Ayrıca kullanıcı \"onboarding flow\", \"activation rate\", \"user activation\", \"first-run experience\", \"empty states\", \"onboarding checklist\", \"aha moment\", \"new user experience\", \"kullanıcılar aktive olmuyor\", \"kimse kurulumu tamamlamıyor\", \"düşük aktivasyon oranı\", \"kullanıcılar kaydoluyor ama ürünü kullanmıyor\", \"time to value\" veya \"first session experience\" ifadelerinden bahsettiğinde kullan. Kullanıcılar kaydoluyor ama devam etmiyorsa kullan. Kayıt/kayıt optimizasyonu için signup'a, devam eden e-posta dizileri için emails'e bakın."
+description: "Kayıt sonrası kullanıcı aktivasyonu, ilk çalıştırma deneyimi veya değere ulaşma süresi (onboarding flow, aha moment, TTV) optimize etmek için kullan."
 metadata:
   version: 2.0.0
 ---

@@ -1,6 +1,6 @@
 ---
 name: "email-sequence"
-description: "Kullanıcı e-posta dizisi, damla kampanyası, otomatik e-posta akışı veya yaşam döngüsü e-posta programı oluşturmak ya da optimize etmek istediğinde kullanılır. Ayrıca kullanıcı \"e-posta dizisi\", \"damla kampanyası\", \"besleyici dizi\", \"katılım e-postaları\", \"karşılama dizisi\", \"yeniden etkileşim e-postaları\", \"e-posta otomasyonu\" veya \"yaşam döngüsü e-postaları\" söylediğinde de kullanılır. Uygulama içi katılım için bkz. onboarding-cro."
+description: "E-posta dizisi, damla kampanyası, karşılama veya yeniden etkileşim akışı oluşturmak ya da optimize etmek için kullan; uygulama içi katılım için onboarding-cro'ya bak."
 license: MIT
 metadata:
   version: 1.0.0

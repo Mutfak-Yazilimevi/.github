@@ -1,6 +1,6 @@
 ---
 name: performing-insider-threat-investigation
-description: "Yetkili erişimi veri çalmak, sistemleri sabote etmek veya güvenlik politikalarını ihlal etmek için kötüye kullanan çalışanları, yüklenicileri veya güvenilen ortakları kapsayan iç tehdit olaylarını araştırır. Kanıta dayalı bir dava oluşturmak için dijital adli bilim, kullanıcı davranış analitiği ve İK/hukuki koordinasyonu birleştirir. İç tehdit soruşturması, çalışan veri hırsızlığı, ayrıcalık kötüye kullanımı, kullanıcı davranış anormalliği veya dahili tehdit tespiti içeren isteklerde etkinleşir."
+description: "Dijital adli bilim ve kullanıcı davranış analitiği ile iç tehdit olaylarını (çalışan veri hırsızlığı, ayrıcalık kötüye kullanımı) araştırır."
 domain: cybersecurity
 subdomain: incident-response
 tags:

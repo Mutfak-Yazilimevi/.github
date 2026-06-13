@@ -1,6 +1,6 @@
 ---
 name: securing-azure-with-microsoft-defender
-description: "Bu skill, Azure, çoklu cloud ve hibrit ortamlar için cloud-native uygulama koruma platformu olarak Microsoft Defender for Cloud dağıtımı konusunda güvenlik uygulayıcılarını yönlendirir. Sunucular, container'lar, depolama ve veritabanları için Defender planlarını etkinleştirmeyi, güvenlik önerilerini yapılandırmayı, Secure Score'u yönetmeyi ve merkezi tehdit yönetimi için birleşik Defender portalıyla entegrasyonu kapsar."
+description: "Azure ve hibrit ortamlar için Microsoft Defender for Cloud CNAPP dağıt: Defender planları, güvenlik puanı ve CSPM konularını kapsar."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

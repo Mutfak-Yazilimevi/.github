@@ -1,6 +1,6 @@
 ---
 name: performing-ransomware-response
-description: "İlk tespetten kontrol altına alma, adli analiz, şifre çözme değerlendirmesi, kurtarma ve olay sonrası sertleştirmeye kadar yapılandırılmış bir fidye yazılımı olay müdahalesini yürütür. Fidye müzakeresi değerlendirmelerini, yedek bütünlük doğrulamasını ve yasal bildirim gereksinimlerini ele alır. Fidye yazılımı müdahalesi, fidye yazılımı kurtarma, kripto-fidye yazılımı, veri şifreleme saldırısı, fidye ödeme kararı veya fidye yazılımı kontrol altına alma içeren istekler için kullan."
+description: "Fidye yazılımı olay müdahalesi: tespitten kontrol altına alma, adli analiz, şifre çözme değerlendirmesi ve kurtarmaya kadar tüm aşamaları yürütür."
 domain: cybersecurity
 subdomain: incident-response
 tags:

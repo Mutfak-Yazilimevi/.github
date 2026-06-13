@@ -1,6 +1,6 @@
 ---
 name: web-perf
-description: "Chrome DevTools MCP kullanarak web performansını analiz eder. Core Web Vitals (LCP, INP, CLS) ve tamamlayıcı metrikleri (FCP, TBT, Speed Index) ölçer, render engelleyici kaynakları, ağ bağımlılık zincirlerini, düzen kaymalarını, önbellekleme sorunlarını ve erişilebilirlik açıklarını tespit eder. Sayfa yükleme performansını, Lighthouse puanlarını veya site hızını denetlemek, profil çıkarmak, hata ayıklamak veya optimize etmek istendiğinde kullan. Önceden eğitilmiş bilgi yerine mevcut belgelerden alımı tercih eder."
+description: "Chrome DevTools MCP ile Core Web Vitals (LCP, INP, CLS), render engelleyici kaynaklar ve JS darboğazlarını analiz eder."
 ---
 
 # Web Performance Audit

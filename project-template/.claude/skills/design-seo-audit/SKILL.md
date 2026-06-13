@@ -1,6 +1,6 @@
 ---
 name: seo-audit
-description: "Kullanıcı sitesindeki SEO sorunlarını denetlemek, incelemek veya teşhis etmek istediğinde kullan. Ayrıca kullanıcı \"SEO denetimi,\" \"teknik SEO,\" \"neden sıralamıyorum,\" \"SEO sorunları,\" \"sayfa içi SEO,\" \"meta etiket incelemesi,\" \"SEO sağlık kontrolü,\" \"trafiğim düştü,\" \"sıralamalarımı kaybettim,\" \"Google'da görünmüyorum,\" \"site sıralamıyor,\" \"Google güncellemesinden etkilendim,\" \"sayfa hızı,\" \"core web vitals,\" \"tarama hataları\" veya \"indeksleme sorunları\" gibi terimler belirttiğinde kullan. Kullanıcı yalnızca \"SEO'm kötü\" veya \"SEO konusunda yardım edin\" gibi belirsiz bir şey söylese bile kullan — denetimle başla. Anahtar kelimeleri hedeflemek için ölçekte sayfalar oluşturmak için bkz. programmatic-seo. Yapılandırılmış veri eklemek için bkz. schema-markup. AI arama optimizasyonu için bkz. ai-seo."
+description: "Site SEO sorunlarını denetlemek/teşhis etmek istediğinde kullan; teknik SEO, meta etiket, Core Web Vitals, tarama/indeksleme sorunları dahil."
 metadata:
   version: 1.1.0
 ---

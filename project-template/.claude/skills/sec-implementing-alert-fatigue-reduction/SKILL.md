@@ -1,6 +1,6 @@
 ---
 name: implementing-alert-fatigue-reduction
-description: "Analist etkinliğini korumak ve kritik uyarıların göz ardı edilmesini önlemek amacıyla tespit kurallarını ayarlayarak, yinelenen uyarıları birleştirerek, risk tabanlı uyarı uygulayarak ve uyarı kalitesi metriklerini ölçerek SOC uyarı yorgunluğunu azaltma stratejileri uygular. SOC ekipleri bunaltıcı uyarı hacimleri, yüksek yanlış pozitif oranları veya düşen analist performansıyla karşılaştığında kullanın."
+description: "Tespit kural ayarlama, uyarı birleştirme ve risk tabanlı uyarı uygulayarak SOC/SIEM uyarı yorgunluğunu azaltır."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

@@ -1,6 +1,6 @@
 ---
 name: run-tests
-description: "`dotnet test` için: bir projenin `Directory.Build.props`, `global.json` ve `.csproj` dosyalarından hangi test platformunu (VSTest vs Microsoft.Testing.Platform) kullandığını belirler, ardından uygun komut sözdizimini seçer. ŞUNLAR İÇİN KULLAN: `dotnet test` çalıştırma, filtreleme veya sorun giderme; proje dosyalarından test çalıştırıcısını/platformunu belirleme; .NET SDK 8/9 vs 10+ için `--` ayırıcı kuralları; MSTest / xUnit / NUnit / TUnit için doğru filtre sözdizimi seçme (--filter, --filter-class, --filter-trait, --filter-query, --treenode-filter); TRX/raporlama (--report-trx vs --logger trx); blame/hang/crash tanılamaları (--blame-hang-timeout, --blame-crash); bir proje birden fazla TFM hedeflediğinde tek bir hedef çerçevesine karşı test çalıştırma (örn. `<TargetFrameworks>net8.0;net9.0</TargetFrameworks>`, `--framework <TFM>`); ve MTP/VSTest argüman karışıklıklarından kaçınma (MTP'de --logger trx, VSTest'te --report-trx, MTP'de --blame). ŞUNLAR İÇİN KULLANMA: test kodu yazma/oluşturma, CI/CD yapılandırması veya başarısız test mantığının hata ayıklaması."
+description: "`dotnet test` çalıştırma; VSTest/MTP platformu belirleme, filtre sözdizimi (MSTest/xUnit/NUnit/TUnit), TRX raporlama, blame/hang tanılamaları ve çoklu TFM testi."
 license: MIT
 ---
 

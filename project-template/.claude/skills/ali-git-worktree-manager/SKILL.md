@@ -1,6 +1,6 @@
 ---
 name: "git-worktree-manager"
-description: "Git worktree'leri ile paralel özellik çalışmalarını güvenli şekilde yürüt. Dal izolasyonunu, port tahsisini, ortam senkronizasyonunu ve temizliği standartlaştırarak her worktree'nin bağımsız bir yerel uygulama gibi davranmasını sağlar. Her ajanın veya terminal oturumunun bir worktree'ye sahip olduğu çok ajanlı iş akışları için optimize edilmiştir. Aynı repoda birden fazla özellik dalı çalıştırırken, deneysel çalışmaları izole ederken veya çok ajanlı geliştirmeyi koordine ederken kullan."
+description: "Git worktree'leriyle paralel özellik çalışmalarını yönet: dal izolasyonu, port tahsisi, ortam senkronizasyonu ve temizlik."
 ---
 
 # Git Worktree Manager

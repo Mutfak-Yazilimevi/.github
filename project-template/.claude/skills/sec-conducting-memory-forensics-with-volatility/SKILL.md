@@ -1,6 +1,6 @@
 ---
 name: conducting-memory-forensics-with-volatility
-description: "Olay müdahalesi sırasında yakalanan RAM dökümlerinden kötü amaçlı yazılım yürütme, süreç enjeksiyonu, ağ bağlantıları ve kimlik bilgisi hırsızlığının kanıtlarını çıkarmak için Volatility 3 kullanarak bellek adli analizi gerçekleştirir. Bellek edinimini, süreç analizini, DLL incelemesini ve kötü amaçlı yazılım tespitini kapsar. Bellek adli bilişimi, RAM analizi, Volatility framework, bellek dökümü araştırması, uçucu kanıt analizi veya canlı bellek edinimini içeren isteklerde etkinleşir."
+description: "Volatility 3 ile RAM dökümünden kötü amaçlı yazılım yürütme, süreç enjeksiyonu, ağ bağlantıları ve kimlik bilgisi hırsızlığı kanıtlarını çıkar."
 domain: cybersecurity
 subdomain: incident-response
 tags:

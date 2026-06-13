@@ -1,6 +1,6 @@
 ---
 name: "change-management"
-description: "Organizasyonel değişiklikleri kaotik olmadan hayata geçirme çerçevesi. Girişimler için uyarlanmış ADKAR modelini, iletişim şablonlarını, direnç örüntülerini ve değişim yorgunluğu yönetimini kapsar. Süreç değişikliklerini, organizasyon yeniden yapılanmalarını, strateji değişimlerini ve kültür değişikliklerini ele alır. Yeniden yapılanma duyurusu, araç değişimi, strateji değişimi, ürün kapatma, liderlik değişimi sırasında veya kullanıcı değişim yönetimi, değişim sunumu, direnci yönetme, organizasyon değişikliği, yeniden yapılanma veya değişim iletişiminden bahsettiğinde kullanılır."
+description: "ADKAR modeli ile yeniden yapılanma, araç değişimi, strateji değişimi veya kültür değişimi gibi organizasyonel değişiklikleri iletişim şablonları ve direnç yönetimi ile hayata geçirir."
 license: MIT
 metadata:
   version: 1.0.0

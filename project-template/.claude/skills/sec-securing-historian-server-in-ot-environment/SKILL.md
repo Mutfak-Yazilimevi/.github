@@ -1,6 +1,6 @@
 ---
 name: securing-historian-server-in-ot-environment
-description: "Bu skill, OT ortamlarında proses historian sunucularını (OSIsoft PI, Honeywell PHD, GE Proficy, AVEVA Historian) sertleştirmeyi ve güvenli hale getirmeyi kapsar. Purdue katmanlarındaki ağ yerleşimini, historian arayüzleri için erişim kontrolünü, veri diyotları veya PI-to-PI konektörleri kullanarak DMZ üzerinden veri replikasyonunu, historian sorgularında SQL enjeksiyon önlemeyi ve güvenlik analizi, düzenleyici raporlama ve süreç optimizasyonu için kullanılan proses verilerinin bütünlük korumasını ele alır."
+description: "OT ortamlarında OSIsoft PI, Honeywell PHD, GE Proficy gibi historian sunucularını sertleştirir; ağ yerleşimi, erişim kontrolü ve veri bütünlüğünü kapsar."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

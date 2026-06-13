@@ -1,6 +1,6 @@
 ---
 name: "scrum-master"
-description: "Veri güdümlü çevik ekip analizi ve koçluğu için gelişmiş Scrum Master becerisi. Kullanıcı sprint planlaması, hız takibi, retrospektifler, standup kolaylaştırma, product backlog yönetimi, story point'ler, burndown grafikleri, engel çözümü veya çevik ekip sağlığı hakkında sorduğunda kullan. Jira veya benzer araçlardan sprint JSON dışa aktarmalarını analiz etmek için Python betikleri çalıştırır: Monte Carlo sprint tahmini için velocity_analyzer.py, çok boyutlu sağlık puanlama için sprint_health_scorer.py ve aksiyon öğesi ile tema takibi için retrospective_analyzer.py. Yüksek performanslı Scrum ekipleri için güven aralığı tahminleri, sağlık notu raporları ve iyileştirme hızı trendleri üretir."
+description: "Sprint planlaması, hız takibi, retrospektif ve burndown analizi için kullan. Monte Carlo tahmin, sağlık puanlama ve retrospektif analiz betikleri çalıştırır."
 license: MIT
 metadata:
   version: 2.0.0

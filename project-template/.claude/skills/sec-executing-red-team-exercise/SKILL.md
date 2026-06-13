@@ -1,6 +1,6 @@
 ---
 name: executing-red-team-exercise
-description: "Bir kuruluşun insanlarına, süreçlerine ve teknolojisine karşı gerçek dünya saldırgan operasyonlarını simüle eden kapsamlı red team egzersizleri yürütür. Red team, tespit ve müdahale yeteneklerini test ederken ilk keşiften hedef tamamlamaya kadar tam saldırı yaşam döngüsünü uygulayarak birincil hedef olarak gizlilikle çalışır. Bu, güvenlik açığı tanımlaması yerine saldırgan öykünmesine odaklandığından sızma testinden farklıdır. Red team egzersizi, saldırgan simülasyonu, saldırgan öykünmesi veya tam kapsamlı saldırgan güvenlik değerlendirmesi içeren isteklerde etkinleşir."
+description: "Keşiften hedef tamamlamaya tam saldırı yaşam döngüsü simülasyonu; tespit/müdahale kapasitesi test için gizli saldırgan öykünmesi — pentest'ten farklı."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

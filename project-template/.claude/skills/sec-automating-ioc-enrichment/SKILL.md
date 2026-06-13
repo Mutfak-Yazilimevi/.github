@@ -1,6 +1,6 @@
 ---
 name: automating-ioc-enrichment
-description: "Analist triyaj süresini azaltmak ve zenginleştirme çıktılarını standart hale getirmek için SOAR platformları, Python pipeline'ları veya TIP playbook'ları kullanarak ham uzlaşma göstergelerini çok kaynaklı tehdit istihbaratı bağlamıyla otomatik olarak zenginleştirir. SIEM uyarılarıyla, e-posta gönderim pipeline'larıyla veya tehdit beslemelerinden toplu IOC işlemeyle entegre otomatik zenginleştirme iş akışları oluştururken kullan. SOAR zenginleştirmesi, Cortex XSOAR, Splunk SOAR, TheHive, Python zenginleştirme pipeline'ları veya otomatik IOC işlemeye yönelik isteklerde etkinleşir."
+description: "SOAR, Python pipeline veya TIP playbook ile IOC'leri çok kaynaklı tehdit istihbaratıyla otomatik zenginleştirir; Cortex XSOAR, Splunk SOAR, TheHive destekler."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

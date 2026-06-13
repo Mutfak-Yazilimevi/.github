@@ -1,6 +1,6 @@
 ---
 name: paywalls
-description: "Kullanıcı uygulama içi ödeme duvarları, yükseltme ekranları, upsell modal'ları veya özellik kapıları oluşturmak ya da optimize etmek istediğinde kullan. Aynı zamanda kullanıcı \"paywall\", \"upgrade screen\", \"upgrade modal\", \"upsell\", \"feature gate\", \"ücretsizden ücretliye geç\", \"freemium conversion\", \"deneme süresi bitiş ekranı\", \"limit aşıldı ekranı\", \"plan yükseltme istemi\", \"uygulama içi fiyatlandırma\", \"ücretsiz kullanıcılar yükseltme yapmıyor\", \"deneme sürümünden ücretliye geçiş\" veya \"kullanıcıları ödemeye nasıl ikna ederim\" ifadelerinden birini kullandığında da kullan. Kullanıcıların yükseltmesini istediğiniz her uygulama içi an için kullan. Genel fiyatlandırma sayfalarından (bkz. cro) farklıdır — bu skill, kullanıcının zaten değer yaşadığı uygulama içi yükseltme anlarına odaklanır. Fiyatlandırma kararları için bkz. pricing."
+description: "Uygulama içi paywall, yükseltme ekranı, upsell modal ve özellik kapısı oluştur veya optimize et; freemium dönüşümü ve deneme süresi bitiş ekranları için kullan."
 metadata:
   version: 2.0.0
 ---

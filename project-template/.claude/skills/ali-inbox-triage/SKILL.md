@@ -1,6 +1,6 @@
 ---
 name: inbox-triage
-description: "'inbox-setup' becerisi tarafından oluşturulan bilgi tabanını kullanarak tam bir gelen kutusu triajı yapar. Tasarım gereği hafif giriş (çoğu çağrı soruları atlar ve KB varsayılan tercihlerle çalışır); çağrı normal kadanın dışındaysa veya kategori atlama niyeti içeriyorsa en fazla 2 grill-me geçersiz kılma sorusu sorar. Son e-postaları arar, kullanıcının taksonomisiyle sınıflandırır, yeni gönderenleri araştırır, öneriler oluşturur, yanıt taslakları hazırlar (ASLA göndermez), kullanıcının tercih ettiği formatta rapor sunar ve bilgi tabanını öğrenilenlerle günceller. Günlük 1-3 kez yinelenen bir programa veya isteğe bağlı olarak çalışmak üzere tasarlanmıştır. Tetikleyiciler: 'gelen kutusunu triage et', 'inbox triage', 'e-postalarımı kontrol et', 'e-posta triajı yap', 'gelen kutusunu işle' veya kullanıcının gelen kutusunun işlenmesini istediğini gösteren herhangi bir varyasyon. inbox-setup becerisinin önce çalıştırılmış olmasını gerektirir."
+description: "inbox-setup KB'ını kullanarak e-postaları sınıflandır, yeni göndericileri araştır, yanıt taslakları hazırla ve KB'ı güncelle; \"inbox triage\", \"e-postalarımı kontrol et\" ifadelerinde tetikle."
 license: MIT
 metadata:
   source_spec: "megaprompts/07-inbox-triage-megaprompt.md"

@@ -1,6 +1,6 @@
 ---
 name: "imagegen"
-description: "Görev fotoğraflar, illüstrasyonlar, dokular, sprite'lar, maketler veya şeffaf arka planlı kesimler gibi yapay zeka üretimli bitmap görsellerden yararlandığında raster görseller oluşturur veya düzenler. Codex'in yepyeni bir görsel oluşturması, mevcut bir görseli dönüştürmesi veya referanslardan görsel varyantlar türetmesi ve çıktının bitmap varlığı olması gerektiğinde kullan. Görev mevcut SVG/vektör/kod-tabanlı varlıkları düzenlemeyi, köklü bir ikon veya logo sistemini genişletmeyi veya görseli doğrudan HTML/CSS/canvas'ta oluşturmayı daha iyi kapsıyorsa kullanma."
+description: "Fotoğraf, illüstrasyon, doku, sprite veya kesim gibi yapay zeka üretimli bitmap görseller oluştur veya dönüştür."
 ---
 
 # Image Generation Skill

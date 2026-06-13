@@ -1,6 +1,6 @@
 ---
 name: security-guidance
-description: "Claude Code için PreToolUse güvenlik karşı-kalıp kancası. Edit/Write/MultiEdit işlemi tamamlanmadan önce 12 yaygın güvenlik riskini yakalar (komut enjeksiyonu, XSS, SQL enjeksiyonu, güvensiz seri dışı bırakma, GitHub Actions iş akışı enjeksiyonu, eval/new Function kod enjeksiyonu). Aynı dosya+kural kombinasyonunda yinelenen uyarıları önlemek için oturum durumu önbelleği kullanır. Yalnızca stdlib — bağımlılık yok. Güvenliğe duyarlı koda değen Claude Code oturumlarında (kimlik doğrulama, ödemeler, kullanıcı girişi işleme, IaC) güvenlik ağı isterken kullan. Aksi takdirde tetikleyecek doğrulanmış güvenli bir işlem gerçekleştirmen gerekiyorsa ENABLE_SECURITY_REMINDER=0 ile devre dışı bırak."
+description: "Claude Code için PreToolUse güvenlik kancası; Edit/Write/MultiEdit öncesinde 12 yaygın güvenlik riskini (XSS, SQL enjeksiyonu, komut enjeksiyonu vb.) yakalar."
 ---
 
 # Security Guidance Hook

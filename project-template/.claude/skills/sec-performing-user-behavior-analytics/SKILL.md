@@ -1,6 +1,6 @@
 ---
 name: performing-user-behavior-analytics
-description: "SIEM tabanlı davranışsal taban çizgileri ve istatistiksel analiz kullanarak imkansız seyahat, olağandışı erişim kalıpları, ayrıcalık kötüye kullanımı ve içeriden tehditleri kapsayan anormal kullanıcı faaliyetlerini tespit etmek için Kullanıcı ve Varlık Davranış Analitiği (UEBA) gerçekleştirir. SOC ekiplerinin kurulmuş davranışsal normlardan sapma yoluyla ele geçirilmiş hesapları veya içeriden tehditleri tanımlaması gerektiğinde kullan."
+description: "UEBA ve SIEM tabanlı davranışsal taban çizgileri ile imkânsız seyahat, ayrıcalık kötüye kullanımı ve içeriden tehdit gibi anormal kullanıcı faaliyetlerini tespit eder."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

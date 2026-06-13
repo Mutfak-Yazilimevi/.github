@@ -1,6 +1,6 @@
 ---
 name: pricing
-description: "Kullanıcı fiyatlandırma kararları, paketleme veya para kazanma stratejisi konusunda yardım istediğinde kullanılır. Ayrıca kullanıcı \"fiyatlandırma\", \"fiyatlandırma kademeleri\", \"freemium\", \"ücretsiz deneme\", \"paketleme\", \"fiyat artışı\", \"değer metriği\", \"Van Westendorp\", \"ödeme isteği\", \"para kazanma\", \"ne kadar ücret almalıyım\", \"fiyatlandırmam yanlış\", \"fiyatlandırma sayfası\", \"yıllık vs aylık\", \"koltuk başına fiyatlandırma\" veya \"ücretsiz plan sunmalı mıyım\" söylediğinde de kullanılır. Birisinin ne kadar ücret alacağını veya planlarını nasıl yapılandıracağını anlamaya çalıştığı her durumda kullanılır. Uygulama içi yükseltme ekranları için bkz. paywalls."
+description: "Fiyatlandırma kademeleri, freemium, paketleme, Van Westendorp, değer metriği veya para kazanma stratejisi konusunda yardım ister; uygulama içi yükseltme için paywalls'a bak."
 metadata:
   version: 2.0.0
 ---

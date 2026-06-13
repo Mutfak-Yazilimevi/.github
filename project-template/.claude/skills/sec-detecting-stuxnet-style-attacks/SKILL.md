@@ -1,6 +1,6 @@
 ---
 name: detecting-stuxnet-style-attacks
-description: "Bu skill; operatörlerden manipülasyonu gizlemek için sensör okumalarını taklit ederken PLC mantığını değiştiren Stuxnet saldırı modelini izleyen sofistike siber-fiziksel saldırıların tespitini kapsar. PLC mantık bütünlüğü izleme, fizik tabanlı süreç anomalisi tespiti, mühendislik iş istasyonu ele geçirme göstergeleri, USB kaynaklı saldırı vektörleri ve IT'den OT'ye lateral movement'tan süreç manipülasyonuna uzanan çok aşamalı saldırı zinciri tespitini ele alır."
+description: "PLC mantık değişikliği ve sensör okuma manipülasyonunu tespit eder; Stuxnet benzeri siber-fiziksel saldırı zinciri, USB vektörü ve ICS/OT lateral movement için kullan."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

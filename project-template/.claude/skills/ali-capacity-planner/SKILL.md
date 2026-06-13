@@ -1,6 +1,6 @@
 ---
 name: capacity-planner
-description: "Bir ops lideri (CX Direktörü, Destek Başkanı, VP Ops, BizOps Başkanı, IT Ops Başkanı, Finans Ops Başkanı) ops kapasitesini boyutlandırırken, personel planı oluştururken, kullanım riskini modellerken, Q3 kapasitesini veya yıllık destek kapasitesini planlarken ya da CS kapsamı tasarlarken — Erlang-C kuyruk matematiği, P90 talep boyutlandırma, küçülme ayarlı FTE, yönetici tetik eşikleri ve rampa + yıpranmalı çeyreklik işe alım dizisi gerektirdiğinde kullan. Sürdürülen ekip kullanımı %80'in üzerinde olduğunda veya ekip 12 ayda %50'den fazla büyüdüğünde uygula. Personel bütçesini taahhüt etmeden önce çalıştır. Bu, mühendislik kapasitesi değil (DORA + döngü süresi için vpe-advisor'a bakın) ve stratejik 3 yıllık işgücü planlaması değil (chro-advisor'a bakın)."
+description: "Ops lideri için ops kapasitesi boyutlandırma, personel planı, kullanım riski modelleme ve rol profili tasarımı için kullan."
 version: 2.8.0
 author: claude-code-skills
 license: MIT

@@ -1,6 +1,6 @@
 ---
 name: programmatic-seo
-description: "Kullanıcı şablonlar ve veriler kullanarak ölçekli SEO odaklı sayfalar oluşturmak istediğinde kullan. Ayrıca kullanıcı \"programatik SEO\", \"şablon sayfalar\", \"ölçekli sayfalar\", \"dizin sayfaları\", \"konum sayfaları\", \"[anahtar kelime] + [şehir] sayfaları\", \"karşılaştırma sayfaları\", \"entegrasyon sayfaları\", \"SEO için pek çok sayfa oluşturma\", \"pSEO\", \"100 sayfa oluştur\", \"veri odaklı sayfalar\" veya \"şablonlu açılış sayfaları\" ifadelerinden bahsettiğinde de kullan. Birisinin farklı anahtar kelimeleri veya konumları hedefleyen çok sayıda benzer sayfa oluşturmak istediğinde her zaman kullan. Mevcut SEO sorunlarını denetlemek için seo-audit'e bak. İçerik stratejisi planlaması için content-strategy'ye bak."
+description: "Şablon ve verilerle ölçekli SEO sayfaları, dizin sayfaları ve veritabanı destekli otomatik içerik sayfaları oluşturmak için kullan."
 metadata:
   version: 2.0.0
 ---

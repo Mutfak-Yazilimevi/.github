@@ -1,6 +1,6 @@
 ---
 name: deploying-edr-agent-with-crowdstrike
-description: "Gerçek zamanlı tehdit tespiti, davranışsal analiz ve otomatik yanıt etkinleştirmek için kurumsal uç noktalar genelinde CrowdStrike Falcon EDR ajanlarını dağıtır ve yapılandırır. Uç noktaları EDR kapsamına alırken, tespit politikalarını yapılandırırken veya Falcon telemetrisini SIEM platformlarıyla entegre ederken kullan. CrowdStrike dağıtımı, Falcon sensor kurulumu, EDR politika yapılandırması veya uç nokta tespit ve müdahalesine yönelik isteklerde etkinleşir."
+description: "Kurumsal uç noktalara CrowdStrike Falcon EDR ajanı dağıt, yapılandır ve algılama politikalarıyla otomatik yanıtı etkinleştir."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

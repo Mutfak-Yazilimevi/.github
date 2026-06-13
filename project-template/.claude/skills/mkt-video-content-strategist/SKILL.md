@@ -1,6 +1,6 @@
 ---
 name: video-content-strategist
-description: "Video içerik stratejisi planlarken, video senaryoları yazarken, YouTube kanallarını optimize ederken, kısa form video işlem hatları (Reels, TikTok, Shorts) oluştururken veya uzun form içeriği videoya dönüştürürken kullan. Tetikleyiciler: 'YouTube kanalı başlat', 'video içerik stratejisi', 'video senaryosu yaz', 'videoya dönüştür', 'YouTube SEO', 'kısa form video'. Yazılı blog içeriği için KULLANMA (content-production kullan). Video olmadan sosyal medya açıklamaları için KULLANMA (social-media-manager kullan)."
+description: "Video içerik stratejisi planlamak, senaryo yazmak, YouTube optimize etmek veya Reels/TikTok/Shorts işlem hattı oluşturmak için kullan."
 ---
 
 # Video Content Strategist

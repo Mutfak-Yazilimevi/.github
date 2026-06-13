@@ -42,14 +42,28 @@ PATTERNS = [
     ("mutfak-design",    ["design-*"]),
     ("mutfak-pm",        ["pm-*"]),
     ("mutfak-marketing", ["mkt-*", "seo*"]),
-    ("mutfak-security",  ["sec-*"]),
     ("mutfak-research",  ["research-*"]),
     ("mutfak-diagrams",  ["md-*"]),
     ("mutfak-consulting", ["ali-*"]),
 ]
+
+# sec- alt-plugin routing — TEK doğruluk kaynağı: skills/sec-routing.tsv
+SEC_ROUTE = {}
+_sec_tsv = os.path.join(SK, "sec-routing.tsv")
+if os.path.exists(_sec_tsv):
+    for _ln in open(_sec_tsv, encoding="utf-8"):
+        if "\t" in _ln:
+            _n, _p = _ln.rstrip("\n").split("\t", 1)
+            SEC_ROUTE[_n.strip()] = _p.strip()
+
 # index'te plugin sırası + kısa açıklama
 PLUGIN_ORDER = [
-    ("mutfak-security",   "Savunma/blue-team güvenlik (forensics, detection, hunting, hardening, pentest)"),
+    ("mutfak-security-defense",   "Güvenlik savunma/hardening: kontroller, zero-trust, kimlik"),
+    ("mutfak-security-detection", "Güvenlik tespit/avlama: detection, hunting, SIEM, SOC"),
+    ("mutfak-security-offensive", "Saldırgan güvenlik: pentest, red-team, exploit, attack"),
+    ("mutfak-security-forensics", "Adli bilişim/DFIR: malware RE, memory/disk forensics, IOC"),
+    ("mutfak-security-grc",       "GRC: audit, vuln-mgmt, compliance, incident-response"),
+    ("mutfak-security-intel",     "Tehdit istihbaratı (CTI): threat intel, OSINT, STIX/TAXII"),
     ("mutfak-consulting", "İş/ops/C-level danışmanlık (ali-*)"),
     ("mutfak-dev",        "Genel yazılım geliştirme (TDD, review, debug, mimari, deploy, dil)"),
     ("mutfak-marketing",  "Pazarlama, SEO, growth, içerik"),
@@ -63,12 +77,16 @@ PLUGIN_ORDER = [
 ]
 # Yalnız adlandırması anlamlı kümelenen hacimli kovalar alt-başlığa ayrılır.
 # Diğerleri düz alfabetik (adlar zaten önek bazlı yan yana kümelenir).
-SUBGROUP = {"mutfak-security", "mutfak-consulting"}
+SUBGROUP = {"mutfak-security-defense", "mutfak-security-detection", "mutfak-security-offensive",
+            "mutfak-security-forensics", "mutfak-security-grc", "mutfak-security-intel",
+            "mutfak-consulting"}
 # Alt-kategori en az bu kadar üye içermeli; aksi halde "Diğer"e toplanır.
 MIN_GROUP = 3
 
 
 def plugin_of(name):
+    if name.startswith("sec-"):
+        return SEC_ROUTE.get(name, "mutfak-security-defense")
     for pl, pats in PATTERNS:
         if any(fnmatch.fnmatch(name, p) for p in pats):
             return pl

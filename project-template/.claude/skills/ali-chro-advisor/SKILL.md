@@ -1,6 +1,6 @@
 ---
 name: "chro-advisor"
-description: "Büyüyen şirketler için insan kaynakları liderliği. İşe alım stratejisi, ücret tasarımı, organizasyon yapısı, kültür ve elde tutma. İşe alım planları oluştururken, ücret çerçeveleri tasarlarken, ekipleri yeniden yapılandırırken, performansı yönetirken, kültür oluştururken veya kullanıcı CHRO, HR, people strategy, talent, headcount, compensation, org design, retention ya da performance management ifadelerini kullandığında kullan."
+description: "Büyüyen şirketler için işe alım stratejisi, ücret tasarımı, org yapısı, performans yönetimi ve kültür oluşturma konularında HR liderliği."
 license: MIT
 metadata:
   version: 1.0.0

@@ -1,6 +1,6 @@
 ---
 name: frontend-dev
-description: "Birinci sınıf UI tasarımı, sinematik animasyonlar, yapay zeka üretimi medya varlıkları, ikna edici metin yazarlığı ve görsel sanatı bir araya getiren full-stack frontend geliştirme. Gerçek medya, gelişmiş hareket ve çarpıcı metinlerle eksiksiz, görsel açıdan etkileyici web sayfaları oluşturur. Ne zaman kullanılır: açılış sayfaları, pazarlama siteleri, ürün sayfaları, gösterge panelleri oluştururken; medya varlıkları (görüntü/video/ses/müzik) üretirken; dönüşüm metni yazarken; üretken sanat oluştururken veya sinematik kaydırma animasyonları uygularken."
+description: "Sinematik animasyonlar, AI üretimi medya varlıkları ve ikna edici metin ile açılış sayfaları, pazarlama siteleri ve gösterge panelleri oluşturmak için kullan."
 license: MIT
 metadata:
   version: "1.0.0"

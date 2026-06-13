@@ -1,6 +1,6 @@
 ---
 name: dossier
-description: "Karar kalitesinde varlık araştırma skill'i — belirli bir şirket, kişi, kar amacı gütmeyen kuruluş veya devlet kurumu hakkında genel bir profil değil, hipotez testli dosya üretir. Zorlayıcı alım, kullanıcının hipotezini önceden belirtmesini sağlar (neye inandıklarını ve doğrulamak veya çürütmek istediklerini), böylece dosya onu test eder. Çıktı, hipotez üzerindeki karar, kimlik bilgileri, 12 aylık aktivite zaman çizelgesi, ağ sinyalleri, itibar sinyalleri, kırmızı bayraklar, belirli bulgulara bağlı 3-5 konuşma kancası ve kaynak köken denetim günlüğü içeren düzenlenebilir bir Word belgesidir (.docx). WebSearch + WebFetch + ücretsiz API'ler (SEC EDGAR, GitHub, ProPublica Nonprofit Explorer) ana motor; isteğe bağlı BYOK MCP'ler (LinkedIn, Crunchbase, Apollo, Pitchbook, SimilarWeb) kapsamı artırır."
+description: "Şirket/kişi/kuruluş hakkında hipotez testli karar kalitesinde dosya; WebSearch, SEC EDGAR, GitHub, LinkedIn, Crunchbase ile Word belgesi çıktısı."
 license: MIT
 metadata:
   source_spec: "megaprompts/12-dossier-megaprompt.md"

@@ -1,6 +1,6 @@
 ---
 name: building-cloud-siem-with-sentinel
-description: "Bu skill, merkezi güvenlik operasyonları için Microsoft Sentinel'i bulut tabanlı bir SIEM ve SOAR platformu olarak dağıtmayı kapsar. Çok bulutlu log alımı için veri bağlayıcılarını yapılandırmayı, KQL tespit sorguları yazmayı, Logic Apps ile otomatik yanıt playbook'ları oluşturmayı ve AWS, Azure ve GCP güvenlik telemetrisi üzerinde petabayt ölçekli tehdit avı için Sentinel veri gölünden yararlanmayı ayrıntılandırır."
+description: "Microsoft Sentinel ile bulut SIEM/SOAR dağıtımı; çok bulutlu log alımı, KQL tespit sorguları, Logic Apps playbook'ları ve petabayt ölçekli tehdit avı."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

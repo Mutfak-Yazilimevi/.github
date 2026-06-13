@@ -1,6 +1,6 @@
 ---
 name: "senior-data-engineer"
-description: "Ölçeklenebilir veri pipeline'ları, ETL/ELT sistemleri ve veri altyapısı oluşturmak için veri mühendisliği skill'i. Python, SQL, Spark, Airflow, dbt, Kafka ve modern veri yığınında uzmanlık. Veri modelleme, pipeline orkestrasyonu, veri kalitesi ve DataOps kapsar. Veri mimarileri tasarlarken, veri pipeline'ları inşa ederken, veri iş akışlarını optimize ederken, veri yönetişimi uygularken veya veri sorunlarını giderirken kullan."
+description: "Ölçeklenebilir ETL/ELT pipeline, Spark/Airflow/dbt/Kafka veri altyapısı, veri modelleme ve DataOps için kullan; Python ve SQL uzmanlığı."
 ---
 
 # Senior Data Engineer

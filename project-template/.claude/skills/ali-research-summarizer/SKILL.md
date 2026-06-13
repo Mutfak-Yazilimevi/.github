@@ -1,6 +1,6 @@
 ---
 name: "research-summarizer"
-description: "Geliştirici olmayan kullanıcılar için yapılandırılmış araştırma özetleme ajan becerisi. Akademik makaleleri, web makalelerini, raporları ve belgeleri işler. Temel bulguları çıkarır, karşılaştırmalı analizler üretir ve düzgün biçimlendirilmiş alıntılar oluşturur. Şunlar için kullan: kullanıcı bir araştırma makalesini özetlemek, birden fazla kaynağı karşılaştırmak, belgelerden alıntı çıkarmak veya yapılandırılmış araştırma brifinglari oluşturmak istediğinde. Claude Code, Codex, Gemini CLI ve OpenClaw için eklenti."
+description: "Akademik makale, web makalesi, rapor ve belgeleri işleyerek temel bulgular, karşılaştırmalı analiz ve tablolar çıkaran araştırma özetleyici."
 license: MIT
 metadata:
   version: 1.0.0

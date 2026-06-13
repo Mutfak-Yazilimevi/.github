@@ -1,6 +1,6 @@
 ---
 name: doc-coauthoring
-description: "Kullanıcıları ortak doküman yazma için yapılandırılmış bir iş akışında yönlendirir. Kullanıcı dokümantasyon, teklifler, teknik şartnameler, karar dokümanları veya benzeri yapılandırılmış içerik yazmak istediğinde kullan. Bu iş akışı kullanıcıların bağlamı verimli aktarmasına, yineleme yoluyla içeriği geliştirmesine ve dokümanın okuyucular için işe yaradığını doğrulamasına yardımcı olur. Kullanıcı doküman yazma, öneri oluşturma, şartname taslağı hazırlama veya benzeri dokümantasyon görevlerinden söz ettiğinde tetikle."
+description: "Ortak doküman yazımı için yapılandırılmış iş akışı; teknik şartname, teklif, karar dokümanı gibi yapılandırılmış içerik oluştururken kullan."
 ---
 
 # Doc Co-Authoring Workflow

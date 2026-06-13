@@ -1,6 +1,6 @@
 ---
 name: detecting-ransomware-precursors-in-network
-description: "Şifreleme başlamadan önce ağ trafiğindeki erken aşama fidye yazılımı göstergelerini tespit eder; ilk erişim aracısı faaliyeti, komuta-kontrol işaretleme, kimlik bilgisi toplama, keşif taraması ve hazırlık davranışı dahil. Cobalt Strike işaretleri, Mimikatz ağ imzaları ve RDP brute-force girişimleri gibi fidye yazılımı öncüsü kalıpları belirlemek için ağ tespit araçları (Zeek, Suricata, Arkime), SIEM korelasyon kuralları ve tehdit istihbarat beslemelerini kullanır. Fidye öncesi tespit, ağ tabanlı fidye yazılımı göstergeleri veya erken uyarı fidye yazılımı izleme içeren isteklerde etkinleşir."
+description: "Şifreleme öncesi ağ trafiğindeki erken fidye yazılımı göstergelerini tespit eder; Cobalt Strike işareti, Mimikatz imzası, RDP brute-force için Zeek/Suricata/Arkime kullan."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

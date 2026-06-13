@@ -1,6 +1,6 @@
 ---
 name: implementing-devsecops-security-scanning
-description: "Açık kaynak araçlar kullanarak CI/CD ardışık düzenlerine Statik Uygulama Güvenlik Testi (SAST), Dinamik Uygulama Güvenlik Testi (DAST) ve Yazılım Bileşimi Analizi (SCA) entegre eder. SAST için Semgrep, SCA ve konteyner tarama için Trivy, DAST için OWASP ZAP ve gizli bilgi tespiti için Gitleaks'i kapsar. DevSecOps ardışık düzen kurulumu, CI/CD'de otomatik güvenlik taraması, SAST/DAST/SCA entegrasyonu veya shift-left güvenlik uygulaması içeren istekler için etkinleşir."
+description: "CI/CD'ye SAST (Semgrep), DAST (OWASP ZAP), SCA ve gizli bilgi tespiti (Gitleaks/Trivy) entegrasyonu; shift-left güvenlik için kullan."
 domain: cybersecurity
 subdomain: application-security
 tags:

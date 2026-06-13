@@ -1,6 +1,6 @@
 ---
 name: handoff
-description: "Mevcut konuşmayı başka bir ajanın devralması için bir devir teslim belgesine sıkıştırır. Kullanıcı yapılandırılmış bir konuma kaydeder (işletim sistemi geçici klasörü, ana klasör veya proje başına .handoff/), yazmadan önce sırları düzenler, sonraki oturum için beceriler önerir ve bir sonraki SessionStart'ta en son devir teslimini otomatik yükler. Kullanıcı 'hand this off', 'handoff doc', 'summarize this for a new session', 'compact this conversation', 'I'm ending this session', 'pick this up later' veya çalışmayı yeni bir ajana geçirme niyetini gösteren herhangi bir varyasyon söylediğinde kullan."
+description: "Mevcut konuşmayı sıkıştırıp devir teslim belgesi oluştur, sırları düzenle ve bir sonraki oturum için kaydet; \"hand off\", \"I'm ending this session\" ifadelerinde tetikle."
 license: MIT
 argument-hint: "What will the next session be used for?"
 metadata:

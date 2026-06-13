@@ -1,6 +1,6 @@
 ---
 name: commercial-skills
-description: "Ticari hareketi incelemek, onaylamak veya tasarlamak için kullan — fiyatlandırma modelleri, anlaşma incelemesi, indirim onayı, ortaklık ekonomisi, kanal karması, ticari politika, RFP/RFI yanıtı, rezervasyon tahmini. Tetikleyiciler: \"review this deal\", \"should we discount\", \"pricing model\", \"partner economics\", \"RFP response\", \"bookings forecast\", \"channel mix\". Bağlamı yedi Commercial alt-skill'den birine yönlendirmek üzere çatallar (pricing-strategist, deal-desk, partnerships-architect, channel-economics, commercial-policy, rfp-responder, commercial-forecaster) ve özet döndürür. business-growth (satış yürütme) ve c-level-advisor/cro-advisor'dan (stratejik CRO yargısı) farklıdır."
+description: "Fiyatlandırma modeli, anlaşma incelemesi, indirim onayı, ortaklık ekonomisi, RFP yanıtı veya rezervasyon tahmini için doğru alt-skill'e yönlendirir."
 context: fork
 version: 2.8.0
 author: claude-code-skills

@@ -1,6 +1,6 @@
 ---
 name: performing-dynamic-analysis-with-any-run
-description: "Gerçek zamanlı yürütme davranışını gözlemlemek, kötü amaçlı yazılım istemleriyle etkileşim kurmak ve işlem ağaçlarını, ağ trafiğini ve sistem değişikliklerini yakalamak için ANY.RUN bulut sandbox'ını kullanarak etkileşimli dinamik kötü amaçlı yazılım analizi gerçekleştirir. Etkileşimli sandbox analizi, bulut tabanlı kötü amaçlı yazılım patlama, gerçek zamanlı davranışsal gözlem veya ANY.RUN kullanımı içeren isteklerde etkinleşir."
+description: "ANY.RUN bulut sandbox'ında etkileşimli kötü amaçlı yazılım dinamik analizi; işlem ağacı, ağ trafiği ve sistem değişikliklerini gerçek zamanlı gözlemle."
 domain: cybersecurity
 subdomain: malware-analysis
 tags:

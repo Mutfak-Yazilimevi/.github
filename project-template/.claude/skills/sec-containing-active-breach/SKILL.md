@@ -1,6 +1,6 @@
 ---
 name: containing-active-breach
-description: "Onaylanmış bir güvenlik ihlali sırasında aktif saldırgan operasyonlarını durdurmak ve yanal hareketi önlemek için izolasyon stratejileri uygular. Ağ segmentasyonu, uç nokta izolasyonu, kimlik bilgisi iptali ve erişim kontrolü değişikliklerini kullanarak kısa ve uzun vadeli izolasyon uygular. İhlal izolasyonu, yanal hareket önleme, ağ izolasyonu, aktif tehdit izolasyonu veya canlı olay müdahalesine yönelik isteklerde etkinleşir."
+description: "Aktif ihlal sırasında ağ segmentasyonu, uç nokta izolasyonu ve kimlik bilgisi sıfırlamasıyla saldırganı kontrol altına alır."
 domain: cybersecurity
 subdomain: incident-response
 tags:

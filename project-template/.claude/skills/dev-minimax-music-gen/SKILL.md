@@ -1,6 +1,6 @@
 ---
 name: minimax-music-gen
-description: "Kullanıcı müzik, şarkı veya ses parçası üretmek istediğinde kullan. Müzik oluşturma, şarkı yazma, sözler üretme, ses prodüksiyonu veya kapaklar içeren herhangi bir istekte tetiklenir. Ayrıca kullanıcı sözler sağlayıp bunları bir şarkıya dönüştürmek istediğinde veya bir ruh hali/sahne tanımlayıp arka plan müziği istediğinde de tetiklenir. Çok dilli tetikleyicileri destekler. Mevcut dosyaların çalınması, müzik teorisi soruları veya üretim olmaksızın müzik önerileri için KULLANMA."
+description: "Müzik, şarkı veya ses parçası üretmek; sözleri şarkıya dönüştürmek veya ruh haline göre arka plan müziği oluşturmak için kullan."
 license: MIT
 metadata:
   version: "1.1"

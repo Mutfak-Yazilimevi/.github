@@ -1,6 +1,6 @@
 ---
 name: analyzing-sbom-for-supply-chain-vulnerabilities
-description: "NVD 2.0 API aracılığıyla NVD CVE veritabanına karşı bileşenleri ilişkilendirerek tedarik zinciri güvenlik açıklarını belirlemek için CycloneDX ve SPDX JSON biçimlerindeki Yazılım Malzeme Listelerini (SBOM) ayrıştırır. Bağımlılık grafikleri oluşturur, risk puanları hesaplar, geçişli güvenlik açığı yollarını belirler ve uyumluluk raporları üretir. SBOM analizi, yazılım bileşimi analizi, tedarik zinciri güvenlik değerlendirmesi, bağımlılık güvenlik açığı taraması, CycloneDX/SPDX ayrıştırma veya CVE ilişkilendirmesini içeren istekler için etkinleşir."
+description: "CycloneDX/SPDX SBOM'u NVD CVE veritabanına karşı ayrıştır; bağımlılık grafikleri, risk puanları ve geçişli güvenlik açığı yollarını belirle."
 domain: cybersecurity
 subdomain: supply-chain-security
 tags:

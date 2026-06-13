@@ -1,6 +1,6 @@
 ---
 name: pulse
-description: "Yapılandırılabilir bir zaman penceresi (varsayılan 30 gün) içinde Reddit, Hacker News, açık web ve isteğe bağlı olarak X/Twitter genelinde herhangi bir konunun nabzını ölçen çok kaynaklı güncellik araştırma becerisi. Zorla alım; konu özgüllüğünü, açıyı (trend/duygu/sorunlar/fırsatlar/karşılaştırma), zaman penceresini ve platform kapsamını aramadan önce netleştirir. Atıflar, etkileşim metrikleri ve platformlar arası desen analiziyle sentezlenmiş bir brifing döndürür. Tetikleyiciler: 'pulse on [konu]', 'what's happening with [konu]', 'what are people saying about [konu]', 'current conversation about [konu]', 'take the pulse of [konu]', 'trending: [konu]', 'find me info on [konu]' veya çok kaynaklı güncellik istihbaratı isteyen herhangi bir varyasyon. Rakip araştırması, trend keşfi, araç karşılaştırmaları ve kitle duygu analizi için de kullan."
+description: "Reddit, Hacker News, açık web ve X/Twitter genelinde herhangi bir konunun güncel nabzını ölçer; trend, duygu, sorun ve fırsat analizi içeren brifing üretir."
 license: MIT
 metadata:
   source_spec: "megaprompts/01-pulse-megaprompt.md"

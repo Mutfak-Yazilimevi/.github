@@ -1,6 +1,6 @@
 ---
 name: implementing-ransomware-backup-strategy
-description: "3-2-1-1-0 metodolojisini (3 kopya, 2 ortam türü, 1 yedek site, 1 değiştirilemez/hava boşluklu, 0 geri yükleme doğrulama hatası) izleyerek fidye yazılımına dayanıklı yedekleme stratejisi tasarlar ve uygular. RPO/RTO gereksinimlerine uyumlu yedekleme zamanlamaları yapılandırır, fidye yazılımının yedek altyapısını tehlikeye atmasını önlemek için yedekleme kimlik bilgisi izolasyonu uygular ve otomatik geri yükleme testi oluşturur. Fidye yazılımı yedekleme planlaması, yedekleme dayanıklılığı, hava boşluklu yedekleme tasarımı veya yedekleme kurtarma noktası hedefi yapılandırması içeren istekler için etkinleşir."
+description: "3-2-1-1-0 metodolojisiyle fidye yazılımına dayanıklı yedekleme; değiştirilemez/hava boşluklu kopya, RPO/RTO planlaması ve otomatik geri yükleme testi."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

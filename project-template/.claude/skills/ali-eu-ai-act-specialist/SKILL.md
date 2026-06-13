@@ -1,6 +1,6 @@
 ---
 name: "eu-ai-act-specialist"
-description: "Uyum ekipleri için EU AI Act (Regulation (EU) 2024/1689) operasyonel uyum desteği. Üç Madde düzeyinde karar: (1) Bu AI sisteminin risk katmanı nedir — yasaklı (Art. 5), yüksek riskli (Art. 6 + Annex III), sınırlı riskli (Art. 50) veya minimal riskli? (2) Yüksek riskli sistemler için Art. 43 uygunluk değerlendirme yolu (Module A dahili kontrol vs Module H tam QMS + notified body) ve Annex IV teknik dokümantasyona ne girer? (3) Organizasyonel role göre (sağlayıcı / uygulayıcı / ithalatçı / dağıtıcı / yetkili temsilci) aktif yükümlülükler ve son tarihler nelerdir? AI sistem giriş incelemesi sırasında, uygunluk değerlendirmesi planlarken veya uygulayıcı yükümlülüklerini kapsamlandırırken kullan. Her çıktı için Maddeler + Ekler'i belirtir. Yönetici AI stratejisi değil (bkz. chief-ai-officer-advisor). Hukuki danışmanlık yerine geçmez."
+description: "EU AI Act (2024/1689) uyumluluğu: risk katmanı belirleme (Art.5/6/50), uygunluk değerlendirme yolu (Art.43) ve role göre yükümlülükler için kullan."
 license: MIT
 metadata:
   version: 1.0.0

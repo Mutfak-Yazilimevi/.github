@@ -1,6 +1,6 @@
 ---
 name: test-analysis-extensions
-description: "Test ANALİZİ skill'leri (assertion-quality, test-anti-patterns, test-gap-analysis, test-smell-detection, test-tagging) için dile özgü referans dosyalarının yollarını sağlar. Mevcut uzantı dosyalarını keşfetmek için bu skill'i çağır (ör. .NET/MSTest/xUnit/NUnit/TUnit için dotnet.md, pytest/unittest için python.md, Jest/Vitest/Mocha için typescript.md, JUnit/TestNG için java.md, vb.). Doğrudan kullanmayın — framework'e özgü arama tablolarına (test işaretleyicileri, assertion API'leri, atlama ek açıklamaları, uyku kalıpları, mystery guest göstergeleri, entegrasyon işaretleyicileri, kurulum/teardown, etiket desteği yeteneği) ihtiyaç duyan test-quality-auditor ajanı ve polglot analiz skill'leri tarafından çağrılır."
+description: "Test analizi skill'leri için dile özgü referans dosya yollarını sağlar (.NET/Python/TypeScript/Java); doğrudan kullanmayın, analiz skill'leri tarafından çağrılır."
 user-invocable: false
 license: MIT
 ---

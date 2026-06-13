@@ -1,6 +1,6 @@
 ---
 name: "risk-management-specialist"
-description: "Ürün yaşam döngüsü boyunca ISO 14971'i uygulayan tıbbi cihaz risk yönetimi uzmanı. Risk analizi, risk değerlendirmesi, risk kontrolü ve üretim sonrası bilgi analizi sağlar. Kullanıcı risk yönetimi, ISO 14971, risk analizi, FMEA, hata ağacı analizi, tehlike tanımlama, risk kontrolü, risk matrisi, fayda-risk analizi, artık risk, risk kabul edilebilirliği veya pazar sonrası risk konularını söz ettiğinde kullan."
+description: "ISO 14971 kapsamında tıbbi cihaz risk analizi, FMEA, hata ağacı analizi ve üretim sonrası risk yönetimi için kullan."
 ---
 
 # Risk Management Specialist

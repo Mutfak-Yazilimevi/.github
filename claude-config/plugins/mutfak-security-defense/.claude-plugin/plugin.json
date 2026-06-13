@@ -1,0 +1,9 @@
+{
+  "name": "mutfak-security-defense",
+  "version": "1.1.0",
+  "description": "Güvenlik savunma & sertleştirme: kontrol uygulama, zero-trust, kimlik, şifreleme, ağ segmentasyonu.",
+  "author": {
+    "name": "Mutfak Yazılımevi",
+    "url": "https://www.mutfakyazilimevi.com"
+  }
+}

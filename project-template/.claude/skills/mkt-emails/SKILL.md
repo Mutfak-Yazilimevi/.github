@@ -1,6 +1,6 @@
 ---
 name: emails
-description: "Kullanıcı bir e-posta dizisi, drip kampanyası, otomatik e-posta akışı veya yaşam döngüsü e-posta programı oluşturmak ya da optimize etmek istediğinde kullan. Aynı zamanda kullanıcı \"email sequence\", \"drip campaign\", \"nurture sequence\", \"onboarding emails\", \"welcome sequence\", \"re-engagement emails\", \"email automation\", \"lifecycle emails\", \"trigger-based emails\", \"email funnel\", \"email workflow\", \"ne tür e-postalar göndermeliyim\", \"karşılama serisi\" veya \"e-posta kadansı\" ifadelerinden birini kullandığında da kullan. Çok e-postalı herhangi bir otomatik akış için kullan. Soğuk giden e-postalar için bkz. cold-email. Uygulama içi kullanıcı katılımı için bkz. onboarding."
+description: "Çok e-postalı otomatik akış; drip kampanyası, karşılama/yeniden etkileşim/yaşam döngüsü e-postaları ve trigger-based email workflow için kullan."
 metadata:
   version: 2.0.0
 ---

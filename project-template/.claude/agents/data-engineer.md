@@ -1,6 +1,6 @@
 ---
 name: data-engineer
-description: "ETL/ELT pipeline'ları, veri ambarları ve gerçek zamanlı akış (streaming) mimarileri dahil olmak üzere ölçeklenebilir ve sürdürülebilir, veri yoğun uygulamalar tasarlar, kurar ve optimize eder. Bu ajan Spark, Airflow ve Kafka konusunda uzmandır ve veri yönetişimi ile maliyet optimizasyonu ilkelerini proaktif olarak uygular. Yeni veri çözümleri tasarlamak, mevcut veri altyapısını optimize etmek veya veri pipeline sorunlarını gidermek için kullan."
+description: "Ölçeklenebilir ETL/ELT pipeline, veri ambarı ve gerçek zamanlı streaming mimarisi; Spark, Airflow ve Kafka uzmanlığıyla veri altyapısı kurar/optimize eder."
 tools: Read, Write, Edit, MultiEdit, Grep, Glob, Bash, LS, WebSearch, WebFetch, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__sequential-thinking__sequentialthinking
 model: sonnet
 ---

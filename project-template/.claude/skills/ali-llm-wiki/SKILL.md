@@ -1,6 +1,6 @@
 ---
 name: llm-wiki
-description: "Bir LLM'nin kaynakları artımlı olarak işlediği, varlık/konsept sayfalarını güncellediği, çapraz referansları koruduğu ve sentezi güncel tuttuğu Obsidian'da kalıcı bir kişisel bilgi tabanı (ikinci beyin) oluştururken veya sürdürürken kullan. \"İkinci beyin\", \"Obsidian wiki\", \"kişisel bilgi yönetimi\", \"bu makaleyi/makaleyi/kitabı al\", \"araştırma wiki'si oluştur\", \"bileşik bilgi\", \"Memex\" ifadelerinde tetikle."
+description: "Obsidian'da LLM destekli kalıcı ikinci beyin/kişisel bilgi tabanı oluşturur ve sürdürür; \"Obsidian wiki\", \"ikinci beyin\", \"Memex\" ifadelerinde tetikle."
 context: fork
 version: 2.9.0
 author: claude-code-skills

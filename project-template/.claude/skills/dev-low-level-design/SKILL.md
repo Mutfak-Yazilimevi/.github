@@ -1,6 +1,6 @@
 ---
 name: low-level-design
-description: "Temiz nesne yönelimli bileşenler ve sınıflar tasarla — OOP temelleri, SOLID, temel ilkeler (DRY/KISS/YAGNI), nesne modelleme, tasarım deseni seçimi, hata yönetimi ve yeniden düzenlemeyi uygula. Düşük seviye/sınıf düzeyinde tasarım, tasarım deseni seçimi, varlık ve sorumlulukların modellenmesi, OO yapısının gözden geçirilmesi veya LLD mülakat problemlerini (otopark, asansör, ATM, çevrimiçi rezervasyon) çözmek için kullan."
+description: "OOP, SOLID, DRY/KISS/YAGNI ilkeleriyle temiz nesne yönelimli bileşenler, sınıf diyagramları ve tasarım desenleri için kullan."
 ---
 
 # Low-Level Design (LLD)

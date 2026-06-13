@@ -1,6 +1,6 @@
 ---
 name: performing-ios-app-security-assessment
-description: "Dinamik enstrümantasyon için Frida, çalışma zamanı keşfi için Objection, trafik durdurma için SSL sabitleme atlatma, kimlik bilgisi analizi için anahtarlık çıkarma ve ikili düzey inceleme için IPA statik analizi kullanarak kapsamlı iOS uygulama güvenliği değerlendirmeleri gerçekleştirir. Yetkili iOS sızma testleri yürütürken, OWASP MASTG'a karşı mobil uygulama güvenlik duruşunu değerlendirirken veya iOS uygulama veri koruma ve taşıma güvenliği denetimlerini değerlendirirken kullan. iOS uygulama sızma testi, Frida tabanlı iOS enstrümantasyonu, mobil uygulama SSL sabitleme atlatma veya IPA tersine mühendislik içeren isteklerde etkinleşir."
+description: "Frida, Objection, SSL sabitleme atlatma ve IPA statik analizi ile kapsamlı iOS uygulama güvenlik değerlendirmesi; OWASP MASTG uyumlu."
 domain: cybersecurity
 subdomain: mobile-security
 author: mukul975

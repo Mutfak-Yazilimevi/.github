@@ -45,9 +45,34 @@
       "description": "Pazarlama & SEO & growth + blog içerik pipeline agent'ları."
     },
     {
-      "name": "mutfak-security",
-      "source": "./plugins/mutfak-security",
-      "description": "Savunma/blue-team güvenlik skill'leri (forensics, detection, hardening) + security-auditor."
+      "name": "mutfak-security-defense",
+      "source": "./plugins/mutfak-security-defense",
+      "description": "Güvenlik savunma & sertleştirme: kontrol uygulama, zero-trust, kimlik, şifreleme, ağ segmentasyonu."
+    },
+    {
+      "name": "mutfak-security-detection",
+      "source": "./plugins/mutfak-security-detection",
+      "description": "Mavi takım tespit & tehdit avı: detection engineering, threat hunting, SIEM/SOC, anomali tespiti."
+    },
+    {
+      "name": "mutfak-security-offensive",
+      "source": "./plugins/mutfak-security-offensive",
+      "description": "Saldırgan güvenlik: sızma testi, red-team, exploit geliştirme, saldırı simülasyonu (yetkili pentest/CTF/araştırma)."
+    },
+    {
+      "name": "mutfak-security-forensics",
+      "source": "./plugins/mutfak-security-forensics",
+      "description": "Adli bilişim & DFIR: malware reverse engineering, bellek/disk/ağ forensics, IOC çıkarma, timeline."
+    },
+    {
+      "name": "mutfak-security-grc",
+      "source": "./plugins/mutfak-security-grc",
+      "description": "Güvenlik GRC: denetim, zafiyet yönetimi, uyumluluk (ISO/PCI/NIST/SOC2), olay müdahale + security-auditor."
+    },
+    {
+      "name": "mutfak-security-intel",
+      "source": "./plugins/mutfak-security-intel",
+      "description": "Tehdit istihbaratı (CTI): threat intel, OSINT, STIX/TAXII, tehdit aktörü/kampanya profilleme."
     },
     {
       "name": "mutfak-research",

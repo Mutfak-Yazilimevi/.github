@@ -1,6 +1,6 @@
 ---
 name: claude-api
-description: "Claude API / Anthropic SDK referansı — model id'leri, fiyatlandırma, parametreler, streaming, araç kullanımı, MCP, ajanlar, önbelleğe alma, token sayımı, model geçişi. TETIKLEYICI — hedef dosyayı açmadan ÖNCE oku; \"tek satırlık görünüyor\" diye atlama — şu durumlarda: komut isteminde herhangi bir biçimde Claude/Anthropic adı geçtiğinde (Claude, Anthropic, Fable, Opus, Sonnet, Haiku, `anthropic`, `@anthropic-ai`, `claude-*`, `us.anthropic.*`, `[1m]`); kullanıcı bir LLM hakkında sorduğunda (fiyatlandırma/model seçimi/sınırlar/önbelleğe alma) — asla bellekten yanıtlama; VEYA görev LLM şeklindeyse ve sağlayıcı belirtilmemişse (ajan/MCP/araç tanımı/çok ajanlı/RAG/LLM yargıcı/bilgisayar kullanımı; NL üzerinde oluşturma/özetleme/çıkarma/sınıflandırma/yeniden yazma/konuşma; reddetme/kesme/streaming/araç çağrıları/token hata ayıklama). YALNIZCA başka bir sağlayıcı üzerinde çalışılıyorsa atla (tüm tetikleyicileri geçersiz kılar): OpenAI/GPT/Gemini/Llama/Mistral/Cohere/Ollama sorguda adlandırıldığında; VEYA projede `grep -rE 'openai|langchain_openai|google.generativeai|genai|mistralai|cohere|ollama'` komutu sonuç döndürdüğünde (sağlayıcı adlandırılmamışsa önce bu grep'i çalıştır — dosyayı Read etme)."
+description: "Claude API / Anthropic SDK referansı: model id, fiyat, parametreler, streaming, araç kullanımı, MCP, ajan, önbellekleme ve token sayımı için kullan."
 license: Complete terms in LICENSE.txt
 ---
 

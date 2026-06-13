@@ -1,6 +1,6 @@
 ---
 name: cro
-description: "Kullanıcı herhangi bir pazarlama sayfası veya formundaki dönüşümleri optimize etmek, iyileştirmek veya artırmak istediğinde kullan — ana sayfa, açılış sayfaları, fiyatlandırma sayfaları, özellik sayfaları, potansiyel müşteri yakalama formları veya iletişim formları dahil. Ayrıca kullanıcı 'CRO,' 'dönüşüm oranı optimizasyonu,' 'bu sayfa dönüştürmüyor,' 'dönüşümleri artır,' 'bu sayfa neden çalışmıyor,' 'açılış sayfam berbat,' 'form terk etme,' 'kimse dönüştürmüyor,' 'düşük dönüşüm oranı' veya 'bu sayfanın çalışması lazım' dediğinde kullan. Kullanıcı yalnızca bir URL paylaşıp geri bildirim istese bile kullan. Kayıt/üyelik akışları için bkz. signup. Kayıt sonrası aktivasyon için bkz. onboarding. Popup/modal için bkz. popups."
+description: "Ana sayfa, açılış sayfaları, fiyatlandırma, özellik sayfaları ve kayıt akışları dahil pazarlama sayfalarındaki dönüşümleri optimize eder."
 metadata:
   version: 2.0.0
 ---

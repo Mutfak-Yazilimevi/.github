@@ -1,6 +1,6 @@
 ---
 name: monitoring-scada-modbus-traffic-anomalies
-description: "SCADA ve ICS ağlarında Modbus TCP trafiğini izleyerek anormal fonksiyon kodu kullanımını, yetkisiz register yazma işlemlerini ve şüpheli iletişim kalıplarını tespit eder. Analist, pymodbus, Scapy ve Zeek ile derin paket inceleme kullanarak normal PLC/RTU iletişim davranışını temel alır, ardından 502 numaralı porttaki Modbus cihazlarını hedefleyen keşif, parametre manipülasyonu ve hizmet reddi saldırılarını tespit etmek için istatistiksel ve kural tabanlı anomali tespiti uygular. Modbus trafik analizi, SCADA ağ izleme, ICS anomali tespiti, PLC güvenlik izleme veya OT ağ tehdit tespiti içeren isteklerde etkinleşir."
+description: "pymodbus, Scapy ve Zeek ile Modbus TCP trafiğini izle; anormal fonksiyon kodu, yetkisiz register yazımı ve SCADA'ya yönelik keşif/DoS saldırılarını tespit et."
 domain: cybersecurity
 subdomain: ot-security
 tags:

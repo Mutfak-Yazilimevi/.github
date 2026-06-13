@@ -1,6 +1,6 @@
 ---
 name: aeo
-description: "Answer Engine Optimization (AEO) skill'i — içeriği AI dil modelleri (ChatGPT, Perplexity, Claude, Gemini, Mistral) tarafından yetkili kaynak olarak alıntılanacak şekilde optimize eder. SEO'dan farklı — AEO, arama sıralamaları değil LLM tarafından oluşturulan yanıtlarda alıntılanma için optimize eder. AI öncelikli arama kitleleri için içerik planlarken, mevcut içeriği E-E-A-T sinyalleri için denetlerken, hangi sayfaların hangi LLM'ler tarafından alıntılandığını takip ederken veya alıntı dostu içerik stratejisi oluştururken kullan. Tetikleyiciler — 'AEO denetimi', 'ChatGPT için optimize et', 'Perplexity tarafından alıntılanma', 'LLM alıntı stratejisi', 'answer engine optimization', 'AI arama için içerik', 'E-E-A-T denetimi'. Çıktı bir markdown denetim raporu (varsayılan) veya pipeline entegrasyonu için JSON. Yalnızca stdlib Python araçları."
+description: "İçeriği ChatGPT, Perplexity, Gemini gibi AI motorlarında alıntılanmak için AEO/E-E-A-T odaklı optimize eder; geleneksel SEO sıralaması için değil."
 ---
 
 # Answer Engine Optimization (AEO)

@@ -1,6 +1,6 @@
 ---
 name: analyzing-bootkit-and-rootkit-samples
-description: "İşletim sisteminin altında kalıcılık kazanmak için Ana Önyükleme Kaydını (MBR), Birim Önyükleme Kaydını (VBR) veya UEFI firmware'i enfekte eden bootkit ve gelişmiş rootkit zararlı yazılımları analiz eder. Önyükleme sektörü analizi, UEFI modül incelemesi ve anti-rootkit tespit tekniklerini kapsar. Bootkit analizi, MBR zararlı yazılım araştırması, UEFI kalıcılık analizi veya işletim sistemi öncesi zararlı yazılım tespitini içeren istekler için etkinleşir."
+description: "MBR, VBR veya UEFI firmware'i enfekte eden bootkit/rootkit analizi; önyükleme sektörü, UEFI kalıcılık ve anti-rootkit tespit için kullan."
 domain: cybersecurity
 subdomain: malware-analysis
 tags:

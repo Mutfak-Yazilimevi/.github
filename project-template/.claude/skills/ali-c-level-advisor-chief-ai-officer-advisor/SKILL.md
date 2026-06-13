@@ -1,6 +1,6 @@
 ---
 name: c-level-advisor-chief-ai-officer-advisor
-description: "Startuplar için Chief AI Officer danışmanlığı: model kur-al-veya-satın-al kararları (API vs ince ayar vs kurum içi), AB Yapay Zeka Yasası + ABD eyalet yamaları altında AI risk sınıflandırması, AI maliyet ekonomisi (API'den kendi hostingine geçiş başabaş noktası) ve AI ekip org evrimi. Bir API çağırıp çağırmayacağına veya ince ayar yapıp yapmayacağına karar verirken, AI kullanım durumlarını düzenleyici risk açısından sınıflandırırken, kendi hostingin ne zaman işe yaradığını hesaplarken, AI işe alımlarını sıralarken veya kullanıcı CAIO, AI stratejisi, model seçimi, foundation model, fine-tuning, EU AI Act, NIST AI RMF, AI yönetişimi, model riski ya da AI ekonomisinden bahsettiğinde kullan. Yalnızca stratejik — mühendislik AI/ML becerilerini tekrar etmez."
+description: "Startuplar için Chief AI Officer danışmanlığı: model kur/al/satın al kararları, AB AI Yasası risk sınıflandırması ve AI ROI çerçeveleri."
 license: MIT
 metadata:
   version: 1.0.0

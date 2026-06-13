@@ -1,6 +1,6 @@
 ---
 name: testing-android-intents-for-vulnerabilities
-description: "Android uygulamasının dışa aktarılan bileşenler aracılığıyla saldırı yüzeyini değerlendirirken, intent tabanlı veri akışlarını test ederken veya IPC güvenliğini değerlendirirken intent enjeksiyonu, yetkisiz bileşen erişimi, yayın koklama, bekleyen intent ele geçirme ve içerik sağlayıcı veri sızıntısı dahil olmak üzere intent'ler aracılığıyla Android süreçler arası iletişim (IPC) güvenlik açıklarını test eder. Android intent güvenliği, IPC testi, dışa aktarılan bileşen analizi veya Drozer değerlendirmesi içeren istekler için kullan."
+description: "Android IPC güvenliğini test et; intent enjeksiyonu, yetkisiz bileşen erişimi, yayın koklama, bekleyen intent ele geçirme ve Drozer değerlendirmesi."
 domain: cybersecurity
 subdomain: mobile-security
 author: mahipal

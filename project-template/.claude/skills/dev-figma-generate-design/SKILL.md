@@ -1,6 +1,6 @@
 ---
 name: figma-generate-design
-description: "Görev bir uygulama sayfasını, görünümünü veya çok bölümlü düzeni Figma'ya çevirmekle ilgiliyse figma-use ile birlikte bu skill'i kullan. Tetikleyiciler: 'Figma'ya yaz', 'koddan Figma'da oluştur', 'sayfayı Figma'ya gönder', 'bu uygulama/sayfayı al ve Figma'da oluştur', 'bir ekran oluştur', 'Figma'da açılış sayfası oluştur', 'Figma ekranını koda eşleşecek şekilde güncelle'. Kullanıcı koddan veya açıklamadan Figma'da tam bir sayfa, ekran veya görünüm oluşturmak veya güncellemek istediğinde tercih edilen iş akışı skill'idir."
+description: "Koddan veya açıklamadan Figma'da tam sayfa/ekran/görünüm oluştur veya güncelle; figma-use ile birlikte kullan."
 ---
 
 # Build / Update Screens from Design System

@@ -1,6 +1,6 @@
 ---
 name: performing-power-grid-cybersecurity-assessment
-description: "Bu skill, üretim tesisleri, iletim alt istasyonları, dağıtım sistemleri ve enerji yönetim sistemi (EMS) kontrol merkezleri dahil olmak üzere elektrik şebekesi altyapısının siber güvenlik değerlendirmelerini yürütmeyi kapsar. NERC CIP uyumluluk doğrulamasını, alt istasyon otomasyon güvenliğini, IEC 61850 protokol analizini, senkrofazör (PMU) ağ güvenliğini ve Industroyer/CrashOverride ile ilgili saldırılarla gösterilen güç şebekesi operasyonlarını hedef alan benzersiz tehdit ortamını ele alır."
+description: "Elektrik şebekesi (üretim/iletim/dağıtım/EMS) siber güvenlik değerlendirmesi; NERC CIP, IEC 61850, PMU güvenliği ve Industroyer/CrashOverride tehditleri için."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

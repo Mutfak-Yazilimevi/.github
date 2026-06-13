@@ -1,6 +1,6 @@
 ---
 name: implementing-usb-device-control-policy
-description: "Uç noktalarda yetkisiz çıkarılabilir medya erişimini kısıtlamak ve USB cihazları aracılığıyla veri sızdırma ile kötü amaçlı yazılım girişini önlemek için USB cihaz denetim politikaları uygular. USB kısıtlamalarını uygulamak amacıyla Group Policy, Intune veya EDR platformları aracılığıyla cihaz denetimi dağıtırken kullan. USB denetimi, çıkarılabilir medya politikası, cihaz kontrolü veya USB üzerinden veri kaybı önleme içeren isteklerde etkinleşir."
+description: "USB cihaz denetim politikası uygular; Group Policy, Intune veya EDR aracılığıyla çıkarılabilir medya erişimini kısıtlar ve USB üzerinden veri sızıntısını önler."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: implementing-soar-automation-with-phantom
-description: "SOC ekiplerinin manuel analist çalışmasını azaltması, müdahale prosedürlerini standartlaştırması veya birden fazla güvenlik aracını otomatik iş akışlarına entegre etmesi gerektiğinde, uyarı triyajını, IOC zenginleştirmeyi, izolasyon eylemlerini ve olay müdahale kılavuzlarını otomatikleştirmek için Splunk SOAR (eski adıyla Phantom) kullanarak Security Orchestration, Automation, and Response (SOAR) iş akışları uygular."
+description: "Splunk SOAR (Phantom) ile uyarı triyajı, olay müdahalesi ve tehdit istihbaratı zenginleştirmesini otomatikleştirir."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

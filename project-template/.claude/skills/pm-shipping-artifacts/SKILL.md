@@ -1,6 +1,6 @@
 ---
 name: shipping-artifacts
-description: "AI ile geliştirilmiş (vibe-coded) bir uygulamayı yayınlamadan önce incelenebilir kılan kalıcı dokümantasyon seti. Her uygulamanın ihtiyaç duyduğu küçük bir temel — mimari, kullanıcı/izin akışları, izinler, değişkenler/sırlar ve test kapsam haritası — artı yalnızca geçerli olduğunda eklenen koşullu belgeler: e-postalar, zamanlanmış işler, SEO ve gömülü ajan/otomasyon. Her belgenin ne yakalaması gerektiğini ve bir gözden geçiren ya da denetçinin bunu nasıl kullandığını tanımlar. Bir kod tabanını teslim için belgelerken, kullanıcı yolculuklarını ve güven sınırı geçişlerini haritalandırırken, test kapsamını planlarken veya güvenlik ya da performans denetimi için hazırlanırken kullan."
+description: "Vibe-coded uygulamayı yayınlamadan önce mimari, kullanıcı/izin akışları ve SLA kararlarını içeren kalıcı dokümantasyon seti oluşturur."
 ---
 
 # Shipping Artifacts: The Docs That Make AI-Built Code Reviewable

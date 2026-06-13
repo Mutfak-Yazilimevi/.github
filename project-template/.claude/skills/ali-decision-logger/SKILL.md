@@ -1,6 +1,6 @@
 ---
 name: "decision-logger"
-description: "Yönetim kurulu toplantısı kararları için iki katmanlı bellek mimarisi. Ham transkriptleri (Katman 1) ve onaylı kararları (Katman 2) yönetir. Yönetim kurulu toplantısının ardından kararları günlüğe kaydetmek için, /cs:decisions ile geçmiş kararları gözden geçirmek için veya /cs:review ile vadesi geçmiş eylem maddelerini kontrol etmek için kullan. 5. Aşama kurucu onayından sonra board-meeting becerisi tarafından otomatik olarak çağrılır."
+description: "Yönetim kurulu kararlarını iki katmanlı bellekle (ham transkript + onaylı karar) yönetir; /cs:decisions geçmişi ve /cs:review eylem maddelerini takip eder."
 license: MIT
 metadata:
   version: 1.0.0

@@ -1,6 +1,6 @@
 ---
 name: ad-creative
-description: "Kullanıcı herhangi bir ücretli reklam platformu için reklam kreatifi üretmek, yinelemek veya ölçeklendirmek istediğinde kullan — başlıklar, açıklamalar, birincil metin veya tam reklam varyasyonları. Ayrıca kullanıcı 'reklam kopya varyasyonları', 'reklam kreatifi', 'başlık oluştur', 'RSA başlıkları', 'toplu reklam kopyası', 'reklam yinelemeleri', 'kreatif test', 'reklam performansı optimizasyonu', 'bana birkaç reklam yaz', 'Facebook reklam kopyası', 'Google reklam başlıkları', 'LinkedIn reklam metni' veya 'daha fazla reklam varyasyonuna ihtiyacım var' ifadelerinden bahsettiğinde de kullan. Birisinin ölçekli reklam kopyası üretmesi veya mevcut reklamları yinelemesi gerektiğinde her zaman kullan. Kampanya stratejisi ve hedefleme için ads'e bak. Açılış sayfası kopyası için copywriting'e bak."
+description: "Meta, Google, LinkedIn, TikTok dahil herhangi bir ücretli reklam platformu için başlık, metin ve reklam varyasyonları üret."
 metadata:
   version: 2.0.0
 ---

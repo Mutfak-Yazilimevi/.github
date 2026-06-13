@@ -1,6 +1,6 @@
 ---
 name: implementing-web-application-logging-with-modsecurity
-description: "Web uygulama günlüğü kaydı için OWASP Core Rule Set (CRS) ile ModSecurity WAF yapılandırır, yanlış pozitif oranını azaltmak için kuralları ayarlar, saldırı tespiti için denetim günlüklerini analiz eder ve uygulamaya özgü tehditler için özel SecRule'lar uygular. Analist, güvenlik kapsamı ile operasyonel kararlılığı dengelemek amacıyla SecRuleEngine, SecAuditEngine ve CRS paranoya düzeylerini yapılandırır. WAF yapılandırması, ModSecurity kural ayarı, web uygulaması denetim günlüğü veya CRS dağıtımı içeren isteklerde etkinleşir."
+description: "OWASP CRS ile ModSecurity WAF yapılandırır, yanlış pozitif azaltır ve özel SecRule'larla WAF kural ayarı veya CRS dağıtımı için kullan."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

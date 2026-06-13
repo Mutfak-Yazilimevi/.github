@@ -1,6 +1,6 @@
 ---
 name: "marketing-demand-acquisition"
-description: "Uluslararası ölçeklenen Series A+ girişimler için talep oluşturma kampanyaları oluşturur, LinkedIn, Google ve Meta'daki ücretli reklam harcamalarını optimize eder, SEO stratejileri geliştirir ve ortaklık programları yapılandırır. Pazarlama stratejisi, büyüme pazarlaması, reklam kampanyaları, PPC optimizasyonu, lead üretimi, pipeline oluşturma veya girişim pazarlama bütçeleri planlarken kullan. Çok kanallı edinim (Google Ads, LinkedIn Ads, Meta Ads), CAC analizi, MQL/SQL iş akışları, attribution modelleme, teknik SEO ve AB/ABD/Kanada pazarlarındaki hibrit PLG/Satış Odaklı hareketler için ortak pazarlama ortaklıklarını kapsar."
+description: "Series A+ girişimler için Google/LinkedIn/Meta reklamları, SEO, ortaklık programları ve çok kanallı müşteri edinme kampanyaları (CAC analizi, MQL/SQL iş akışları) için kullan."
 triggers:
   - demand gen
   - demand generation

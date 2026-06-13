@@ -1,6 +1,6 @@
 ---
 name: configuring-windows-defender-advanced-settings
-description: "Saldırı yüzeyi azaltma kuralları, denetimli klasör erişimi, ağ koruması ve exploit koruması dahil olmak üzere Microsoft Defender for Endpoint (MDE) gelişmiş koruma ayarlarını yapılandırır. Windows uç noktalarını varsayılan Defender ayarlarının ötesinde sertleştirirken, kurumsal düzey uç nokta koruması dağıtırken veya gelişmiş kötü amaçlı yazılım savunması için uyumluluk gereksinimlerini karşılarken kullan. Windows Defender yapılandırması, ASR kuralları, MDE ayarlama veya Microsoft uç nokta güvenliğine yönelik isteklerde etkinleşir."
+description: "Microsoft Defender for Endpoint (MDE) gelişmiş ayarlarını yapılandırır: ASR kuralları, denetimli klasör erişimi, ağ ve exploit koruması uç nokta sertleştirme."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

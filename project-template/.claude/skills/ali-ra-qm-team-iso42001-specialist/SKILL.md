@@ -1,6 +1,6 @@
 ---
 name: ra-qm-team-iso42001-specialist
-description: "İç denetim yapan uyumluluk ekipleri için ISO/IEC 42001:2023 Yapay Zeka Yönetim Sistemi (AIMS) uzmanı. Üç karar: (1) Madde 4-10'a karşı boşluklar nerede ve önce ne kapatılır? (2) AI risk kaydına ne girer ve hangi Ek A kontrolleri her riski işler? (3) Madde 9.2'yi karşılayan 12 aylık iç denetim planı nedir? Sertifikaya hazırlanırken, iç denetim döngülerini kapsamlarken veya mevcut bir ISMS (27001) / QMS (13485) programına AI sistemleri eklerken kullan."
+description: "ISO/IEC 42001:2023 AIMS iç denetim uzmanı; Madde 4-10 boşluk analizi, AI risk kaydı, Ek A kontrolleri ve 12 aylık denetim planı için kullan."
 license: MIT
 metadata:
   version: 1.0.0

@@ -1,6 +1,6 @@
 ---
 name: referrals
-description: "Kullanıcı bir tavsiye programı, bağlı kuruluş programı veya ağızdan ağıza strateji oluşturmak, optimize etmek veya analiz etmek istediğinde kullan. Ayrıca kullanıcı 'referral', 'affiliate', 'ambassador', 'word of mouth', 'viral loop', 'refer a friend', 'partner program', 'referral incentive', 'nasıl referans alınır', 'müşterilerin müşteri kazanması' veya 'affiliate ödemesi' dediğinde kullan. Mevcut kullanıcıların veya ortakların yeni müşteriler getirmesini isteyen her zaman kullan. Başlatmaya özgü viral büyüme için launch'a bak."
+description: "Tavsiye programı, bağlı kuruluş programı veya ağızdan ağıza strateji oluşturmak ya da optimize etmek için kullan."
 metadata:
   version: 2.0.0
 ---

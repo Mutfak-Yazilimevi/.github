@@ -1,6 +1,6 @@
 ---
 name: performing-post-quantum-cryptography-migration
-description: "NIST FIPS 203/204/205 standartlarına göre kuruluşun kuantum sonrası kriptografi geçişine hazırlığını değerlendirir. Kuantuma karşı savunmasız algoritmaları (RSA, ECDH, ECDSA) tespit etmek için kriptografik envanter taraması yapar, X25519MLKEM768 ile hibrit TLS yapılandırmalarını değerlendirir ve CRYSTALS-Kyber (ML-KEM) ile CRYSTALS-Dilithium (ML-DSA) hazırlığını doğrular. OpenSSL için oqs-provider kullanarak kripto-çeviklik değerlendirmesi uygular. Kurumsal altyapı genelinde klasik kriptografik algoritmalardan kuantum sonrası kriptografik algoritmalara geçişi planlayarken veya yürütürken kullan."
+description: "NIST FIPS 203/204/205'e göre RSA/ECDH/ECDSA envanteri tarar; ML-KEM, ML-DSA ve hibrit TLS geçiş planlaması için kullan; oqs-provider ile OpenSSL desteği."
 domain: cybersecurity
 subdomain: cryptography
 tags:

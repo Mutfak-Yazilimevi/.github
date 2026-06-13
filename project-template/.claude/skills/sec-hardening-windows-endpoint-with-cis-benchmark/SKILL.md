@@ -1,6 +1,6 @@
 ---
 name: hardening-windows-endpoint-with-cis-benchmark
-description: "Saldırı yüzeyini azaltmak, güvenlik taban çizgilerini uygulamak ve uyumluluk gereksinimlerini karşılamak amacıyla CIS (Center for Internet Security) Benchmark önerilerini kullanarak Windows endpoint'leri güçlendirir. Yeni Windows iş istasyonları veya sunucuları dağıtırken, denetim bulgularını gidererken veya kuruluş genelinde güvenlik taban çizgileri oluştururken kullanın. Windows güçlendirme, CIS benchmark'ları, GPO güvenlik taban çizgileri veya endpoint yapılandırma uyumluluğu içeren isteklerde etkinleşir."
+description: "CIS Benchmark ile Windows endpoint sertleştirme; GPO taban çizgileri, saldırı yüzeyi azaltma ve uyumluluk gereksinimleri için kullan."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: feature-flags-architect
-description: "Özellik bayrakları eklerken, kullanımdan kaldırırken veya denetlerken kullan. \"add a flag\", \"ship behind a flag\", \"rollout plan\", \"kill switch\", \"stale flags\", \"flag debt\", \"LaunchDarkly\", \"GrowthBook\", \"Statsig\", \"Unleash\", \"Flipt\" veya herhangi bir kademeli dağıtım sorusunda tetiklenir. Flag borç tarayıcısı, dağıtım planlayıcısı ve kill-switch denetçisi (tümü stdlib Python), flag taksonomisi + sağlayıcı karşılaştırması + dağıtım stratejileri + yaşam döngüsü üzerine 4 referans ve /flag-cleanup slash komutu içerir."
+description: "LaunchDarkly, GrowthBook, Statsig, Unleash veya Flipt ile özellik bayrakları eklerken, kaldırırken veya denetlerken kullan; flag borç tarayıcısı ve /flag-cleanup komutu dahil."
 context: fork
 version: 2.9.0
 author: claude-code-skills

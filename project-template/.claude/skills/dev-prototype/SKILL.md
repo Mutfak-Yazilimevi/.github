@@ -1,6 +1,6 @@
 ---
 name: prototype
-description: "Taahhüt vermeden önce tasarımı netleştirmek için kullanılıp atılacak prototip oluşturur. İki dal arasında yönlendirir — durum/iş mantığı soruları için çalıştırılabilir terminal uygulaması ya da tek rotadan açılıp kapanabilen birkaç farklı UI varyasyonu. Kullanıcı prototipleme, veri modeli veya state machine'i doğrulama, UI taslağı çıkarma, tasarım seçeneklerini keşfetme ya da \"prototype this\", \"let me play with it\", \"try a few designs\" dediğinde kullan."
+description: "Taahhüt öncesi tasarımı netleştirmek için kullanılıp atılacak prototip oluşturur; terminal uygulaması veya UI varyasyonları arasında yönlendirir."
 ---
 
 # Prototype

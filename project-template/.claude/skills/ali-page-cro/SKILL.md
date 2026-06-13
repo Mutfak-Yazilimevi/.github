@@ -1,6 +1,6 @@
 ---
 name: "page-cro"
-description: "Kullanıcı herhangi bir pazarlama sayfasındaki dönüşümleri optimize etmek, geliştirmek veya artırmak istediğinde kullan — ana sayfa, açılış sayfaları, fiyatlandırma sayfaları, özellik sayfaları veya blog yazıları dahil. Ayrıca kullanıcı \"CRO\", \"conversion rate optimization\", \"this page isn't converting\", \"improve conversions\" veya \"why isn't this page working\" dediğinde de kullan. Kayıt/giriş akışları için signup-flow-cro, kayıt sonrası aktivasyon için onboarding-cro, kayıt dışındaki formlar için form-cro, açılır pencereler/modaller için popup-cro skill'ini kullan."
+description: "Ana sayfa, açılış, fiyatlandırma veya özellik sayfasındaki dönüşümleri optimize etmek için kullan; CRO, conversion rate optimization isteklerinde tetiklenir."
 license: MIT
 metadata:
   version: 1.0.0

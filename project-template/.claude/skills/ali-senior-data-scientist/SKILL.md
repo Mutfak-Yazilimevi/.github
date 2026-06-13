@@ -1,6 +1,6 @@
 ---
 name: "senior-data-scientist"
-description: "İstatistiksel modelleme, deney tasarımı, nedensellik çıkarımı ve tahmine dayalı analitikte uzmanlaşmış dünya standartlarında kıdemli veri bilimci skill'i. A/B testi (örnek boyutlandırma, iki oranlı z-testleri, Bonferroni düzeltmesi), fark içindeki fark, özellik mühendisliği pipeline'ları (Scikit-learn, XGBoost), çapraz doğrulamalı model değerlendirmesi (AUC-ROC, AUC-PR, SHAP) ve MLflow deney takibini kapsar — Python (NumPy, Pandas, Scikit-learn), R ve SQL kullanır. Kontrollü deneyler tasarlarken veya analiz ederken, sınıflandırma veya regresyon modelleri oluştururken ve değerlendirirken, gözlemsel veriler üzerinde nedensel analiz yaparken, yapılandırılmış tablo veri setleri için özellik mühendisliği yaparken veya istatistiksel bulguları veri odaklı iş kararlarına dönüştürürken kullan"
+description: "A/B testi, fark içindeki fark, XGBoost/Scikit-learn modelleme, SHAP ve MLflow ile veri bilimi analizi için kullan. Python, R ve SQL destekler."
 ---
 
 # Senior Data Scientist

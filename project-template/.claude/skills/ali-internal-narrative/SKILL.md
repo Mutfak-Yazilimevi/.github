@@ -1,6 +1,6 @@
 ---
 name: "internal-narrative"
-description: "Tüm hedef kitleler — çalışanlar, yatırımcılar, müşteriler, adaylar ve iş ortakları — genelinde tek bir tutarlı şirket hikayesi oluştur ve sürdür. Anlatı çelişkilerini tespit eder ve her kitlenin ihtiyaçlarına göre aynı gerçeğin çerçevelenmesini sağlar. Yatırımcı güncellemeleri, genel toplantı sunumları, yönetim kurulu iletişimleri, işe alım anlatıları, kriz iletişimleri hazırlarken veya kullanıcı şirket anlatısı, mesajlaşma tutarlılığı, hikaye anlatımı, genel toplantı, yatırımcı güncellemesi ya da kriz iletişiminden bahsettiğinde kullan."
+description: "Çalışanlar, yatırımcılar, müşteriler ve adaylar için tutarlı şirket hikayesi oluştur ve anlatı çelişkilerini tespit et."
 license: MIT
 metadata:
   version: 1.0.0

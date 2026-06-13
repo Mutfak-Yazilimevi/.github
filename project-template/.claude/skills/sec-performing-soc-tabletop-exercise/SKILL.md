@@ -1,6 +1,6 @@
 ---
 name: performing-soc-tabletop-exercise
-description: "Üretim sistemlerini etkilemeden olay müdahale prosedürlerini, iletişim iş akışlarını ve baskı altında karar vermeyi test etmek amacıyla tartışma tabanlı senaryolar aracılığıyla güvenlik olaylarını simüle eden masa başı egzersizleri gerçekleştirir. Kuruluşların IR playbook'larını doğrulaması, analistleri eğitmesi veya olay müdahale testi için uyumluluk gereksinimlerini karşılaması gerektiğinde kullan."
+description: "IR playbook doğrulama, analist eğitimi ve uyumluluk için tartışma tabanlı güvenlik olayı simülasyonu masa başı egzersizleri."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

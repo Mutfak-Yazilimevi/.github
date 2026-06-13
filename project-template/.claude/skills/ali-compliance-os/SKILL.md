@@ -1,6 +1,6 @@
 ---
 name: "compliance-os"
-description: "Compliance OS — uyumluluk ekiplerinin hangi çerçevelerin geçerli olduğunu YAPILANDIRMASINA, çerçeveler arası kontrol örtüşmesini HESAPLAMASıNA, iç denetimleri SİMÜLE ETMESİNE ve birden fazla çerçeve genelinde kanıtları BİRLEŞTİRMESİNE olanak tanıyan meta-orkestratör. Dört karar: (1) Şirket profiline göre desteklenen 12 çerçeveden hangileri geçerli (ISO 27001/13485/42001/14971, EU AI Act, MDR 745, GDPR, SOC 2, FDA QSR, NIST CSF 2.0, NIS2, HIPAA)? (2) Seçilen çerçeveler arasında hangi kontroller örtüşüyor ve kanıt ne kadar yeniden kullanılabilir? (3) Belirli bir çerçeve ve kapsam için 205 senaryoluk kütüphaneden çeken gerçekçi bir sahte denetim ne üretir? (4) Seçilen çerçeveler genelinde yeniden kullanım haritasıyla birleşik kanıt listesi nedir? Çok çerçeveli bir program kurarken, yıllık denetim takvimini planlarken veya sertifikasyon 1. aşamasına hazırlanırken kullan. Çerçeve bazlı becerilerin yerini TUTMAZ (onları orkestre eder)."
+description: "ISO 27001/42001/13485, EU AI Act, SOC 2, GDPR, NIST CSF 2.0, HIPAA dahil 12 çerçeve için geçerlilik, kontrol örtüşmesi, sahte denetim ve birleşik kanıt listesi üretir."
 license: MIT
 metadata:
   version: 1.0.0

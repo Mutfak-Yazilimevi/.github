@@ -1,6 +1,6 @@
 ---
 name: analyzing-ransomware-encryption-mechanisms
-description: "Şifre çözme fizibiliteliğini değerlendirmek, uygulama zayıflıklarını belirlemek ve kurtarma çabalarını desteklemek için fidye yazılımı ailelerinin şifreleme algoritmalarını, anahtar yönetimini ve dosya şifreleme rutinlerini analiz eder. AES, RSA, ChaCha20 ve hibrit şifreleme şemalarını kapsar. Fidye yazılımı kriptanalizi, şifreleme analizi, anahtar kurtarma değerlendirmesi veya fidye yazılımı şifre çözme fizibiliteliğini içeren istekler için etkinleşir."
+description: "AES, RSA, ChaCha20 ve hibrit şemalar dahil fidye yazılımı şifreleme algoritmalarını ve anahtar yönetimini analiz ederek şifre çözme fizibiliteliğini değerlendirir."
 domain: cybersecurity
 subdomain: malware-analysis
 tags:

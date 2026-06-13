@@ -1,6 +1,6 @@
 ---
 name: "marketing-context"
-description: "Tüm pazarlama skill'lerinin başlamadan önce okuduğu pazarlama bağlamı belgesini oluşturur ve günceller. Kullanıcı 'marketing context', 'brand voice', 'set up context', 'target audience', 'ICP', 'style guide', 'who is my customer', 'positioning' gibi ifadeler kullandığında veya pazarlama görevleri arasında temel bilgileri tekrarlamak istemediğinde kullan. Diğer pazarlama skill'lerini kullanmadan önce her yeni projede çalıştır."
+description: "Tüm pazarlama skill'lerinin okuduğu marka sesi, ICP, hedef kitle ve konumlandırma bağlam dokümanını oluşturur/günceller; her yeni projede önce çalıştır."
 license: MIT
 metadata:
   version: 1.0.0

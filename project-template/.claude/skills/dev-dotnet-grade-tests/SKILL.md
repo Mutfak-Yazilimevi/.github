@@ -1,6 +1,6 @@
 ---
 name: grade-tests
-description: "Belirli bir test yöntemleri kümesini tek tek değerlendirir ve her testi (tam nitelikli ad) bir harf notuna (A–F), bir puan bandına ve tek satırlık bir nota eşleyen özlü bir tablo üretir — PR yorumu olarak paylaşılmak üzere tasarlanmıştır. Çağıran, seçilmiş bir yöntem listesi üzerinde test başına geri bildirim istediğinde kullan (örneğin bir pull request'teki yeni veya değiştirilen testler), tam süit denetimi için değil. Çoklu dil desteği: .NET (MSTest/xUnit/NUnit/TUnit), Python (pytest/unittest), TS/JS (Jest/Vitest/Mocha/node:test), Java (JUnit/TestNG), Go, Ruby (RSpec/Minitest), Rust, Swift (XCTest/Swift Testing), Kotlin (JUnit/Kotest), PowerShell (Pester), C++ (GoogleTest/Catch2/doctest). Girdi test yöntemi listesidir (veya yöntem gövdeleri/dosya+satır aralıkları); çıktı kompakt bir markdown tablosu ve kısa bir özettir. ŞUNLAR İÇİN KULLANMA: tam süit denetimleri (test-quality-auditor ajanı veya test-anti-patterns kullan), yeni test yazma (code-testing-generator ajanı veya writing-mstest-tests kullan), hata düzeltme veya kod kapsamı ölçme."
+description: "PR'daki seçilmiş test yöntemlerini A–F harf notu ve tek satır notla değerlendir; .NET, Python, TS/JS, Java, Go, Ruby, Rust, Swift, Kotlin, C++ destekler."
 license: MIT
 ---
 

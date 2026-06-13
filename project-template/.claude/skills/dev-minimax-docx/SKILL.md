@@ -10,7 +10,7 @@ metadata:
     - "GB/T 9704-2012 Layout Standard for Official Documents"
     - "IEEE / ACM / APA / MLA / Chicago / Turabian Style Guides"
     - "Springer LNCS / Nature / HBR Document Templates"
-description: "OpenXML SDK (.NET) kullanarak profesyonel DOCX belge oluşturma, düzenleme ve biçimlendirme. Üç pipeline: (A) sıfırdan yeni belgeler oluşturma, (B) mevcut belgelerde içerik doldurma/düzenleme, (C) XSD doğrulama kapı kontrolüyle şablon biçimlendirmesi uygulama. Kullanıcı bir Word belgesi üretmek, değiştirmek veya biçimlendirmek istediğinde — \"rapor yaz\", \"teklif taslağı hazırla\", \"sözleşme oluştur\", \"bu formu doldur\", \"bu şablona göre yeniden biçimlendir\" veya nihai çıktısı .docx dosyası olan herhangi bir görev dahil — BU BECERİYİ KULLANMAK ZORUNLUDUR. Kullanıcı \"docx\" söylemese bile, görev yazdırılabilir/resmi bir belge gerektiriyorsa bu beceriyi kullan."
+description: "OpenXML SDK (.NET) ile DOCX oluşturma, içerik doldurma veya şablon biçimlendirmesi yapar; çıktısı .docx olan her görevde kullanmak zorunludur."
 triggers:
   - Word
   - docx

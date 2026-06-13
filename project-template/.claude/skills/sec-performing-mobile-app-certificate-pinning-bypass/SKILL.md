@@ -1,6 +1,6 @@
 ---
 name: performing-mobile-app-certificate-pinning-bypass
-description: "Yetkili güvenlik değerlendirmeleri sırasında trafik dinlemeyi etkinleştirmek amacıyla Android ve iOS uygulamalarındaki SSL/TLS sertifika sabitleme (certificate pinning) uygulamalarını atlar. OkHttp, TrustManager, NSURLSession ve üçüncü taraf sabitleme kütüphanelerini Frida, Objection ve özel scriptler kullanarak atlatma tekniklerini kapsar. Sertifika sabitleme bypass'ı, SSL pinning engelleme, mobil TLS dinleme veya proxy'ye dirençli uygulama testi içeren istekler için kullan."
+description: "Yetkili güvenlik değerlendirmesinde Android/iOS SSL/TLS certificate pinning bypass; OkHttp, TrustManager, NSURLSession — Frida/Objection ile."
 domain: cybersecurity
 subdomain: mobile-security
 author: mahipal

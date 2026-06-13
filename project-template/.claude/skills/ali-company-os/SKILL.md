@@ -1,6 +1,6 @@
 ---
 name: "company-os"
-description: "Bir şirketin nasıl çalıştığına ilişkin meta-çerçeve — tüm C-suite rolleri arasındaki bağ dokusu. İşletim sistemi seçimini (EOS, Scaling Up, OKR-native, hibrit), hesap verebilirlik çizelgelerini, puan kartlarını, toplantı tempolarını, sorun çözümünü ve 90 günlük rocks'ları kapsar. Şirket operasyonlarını kurarken, yönetim çerçevesi seçerken, toplantı ritmi tasarlarken, hesap verebilirlik sistemleri oluştururken, OKR uygularken veya kullanıcı EOS, Scaling Up, operating system, L10 meetings, rocks, scorecard, accountability chart ya da quarterly planning'den bahsettiğinde kullan."
+description: "Şirket işletim sistemi seçimi (EOS, Scaling Up, OKR-native), hesap verebilirlik çizelgeleri, puan kartları ve karar hiyerarşisi için kullan."
 license: MIT
 metadata:
   version: 1.0.0

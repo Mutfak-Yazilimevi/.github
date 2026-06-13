@@ -1,6 +1,6 @@
 ---
 name: collecting-indicators-of-compromise
-description: "Tespit, engelleme ve tehdit istihbaratı paylaşımını etkinleştirmek için güvenlik olayları sırasında ve sonrasında uzlaşma göstergelerini (IOC) sistematik biçimde toplar, kategorize eder ve dağıtır. STIX/TAXII formatlarını ve tehdit istihbaratı platformlarını kullanarak ağ, ana bilgisayar, e-posta ve davranışsal göstergeleri kapsar. IOC toplama, gösterge çıkarma, tehdit göstergesi paylaşımı, uzlaşma göstergeleri, STIX dışa aktarımı veya IOC zenginleştirmesine yönelik isteklerde etkinleşir."
+description: "Güvenlik olaylarında ağ, host, e-posta ve davranışsal IOC'leri STIX/TAXII formatlarıyla topla, kategorize et ve dağıt."
 domain: cybersecurity
 subdomain: incident-response
 tags:

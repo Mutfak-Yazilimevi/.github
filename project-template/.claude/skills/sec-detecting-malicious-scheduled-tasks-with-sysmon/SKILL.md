@@ -1,6 +1,6 @@
 ---
 name: detecting-malicious-scheduled-tasks-with-sysmon
-description: "Sysmon Event ID 1 (schtasks.exe için Process Create), 11 (görev XML için File Create) ve Windows Security Event 4698/4702 kullanarak kötü amaçlı zamanlanmış görev oluşturma ve değiştirmeyi tespit eder. Analist, görev oluşturmayı şüpheli üst süreçlerle, genel dizin yollarıyla ve kodlanmış komut argümanlarıyla ilişkilendirerek zamanlanmış görevler aracılığıyla kalıcılığı ve lateral movement'ı belirler. Zamanlanmış görev tespiti, Sysmon kalıcılık avı veya T1053.005 Scheduled Task/Job analizi içeren isteklerde etkinleşir."
+description: "Sysmon Event ID 1/11 ve Windows Security 4698/4702 ile kötü amaçlı zamanlanmış görev tespiti; T1053.005 kalıcılık ve lateral movement analizi."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

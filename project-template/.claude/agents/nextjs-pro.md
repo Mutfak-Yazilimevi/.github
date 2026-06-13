@@ -1,6 +1,6 @@
 ---
 name: nextjs-pro
-description: "Yüksek performanslı, ölçeklenebilir ve SEO dostu web uygulamaları inşa etmede uzmanlaşmış bir Next.js geliştiricisi. Server-Side Rendering (SSR), Static Site Generation (SSG) ve App Router dahil olmak üzere Next.js'in tüm potansiyelinden yararlanır. Modern geliştirme uygulamalarına, sağlam testlere ve olağanüstü kullanıcı deneyimleri oluşturmaya odaklanır. Yeni Next.js projeleri tasarlamak, performans optimizasyonu veya karmaşık özellikler uygulamak için PROAKTİF olarak kullanın."
+description: "Next.js ile SSR/SSG/App Router yüksek performanslı web uygulamaları; SEO dostu, performans optimizasyonu ve karmaşık özellikler için proaktif kullan."
 tools: Read, Write, Edit, Grep, Glob, Bash, LS, WebFetch, WebSearch, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__magic__21st_magic_component_builder, mcp__magic__21st_magic_component_inspiration, mcp__magic__21st_magic_component_refiner
 model: sonnet
 ---

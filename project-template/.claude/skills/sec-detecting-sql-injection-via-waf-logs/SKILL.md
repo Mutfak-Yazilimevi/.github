@@ -1,6 +1,6 @@
 ---
 name: detecting-sql-injection-via-waf-logs
-description: "SQL enjeksiyon saldırı kampanyalarını tespit etmek için WAF (ModSecurity/AWS WAF/Cloudflare) günlüklerini analiz eder. ModSecurity denetim günlüklerini ve JSON WAF olay günlüklerini ayrıştırarak SQLi kalıplarını (UNION SELECT, OR 1=1, SLEEP(), BENCHMARK()) tanımlar, saldırı kaynaklarını takip eder, çok aşamalı enjeksiyon girişimlerini ilişkilendirir ve OWASP sınıflandırmasıyla olay raporları oluşturur."
+description: "ModSecurity/AWS WAF/Cloudflare günlüklerinde SQLi kalıplarını (UNION SELECT, SLEEP()) tanımlayarak SQL enjeksiyon saldırı kampanyalarını tespit eder."
 domain: cybersecurity
 subdomain: security-operations
 tags:

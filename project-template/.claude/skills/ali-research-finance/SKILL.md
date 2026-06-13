@@ -1,6 +1,6 @@
 ---
 name: research-finance
-description: "Dahili bir Ar-Ge programı veya portföyü için para yönetirken kullan — F&A (dolaylı) bölümüyle çok dönemli program bütçesi oluşturma, değer-enflasyon kilometre taşlarına karşı yanma oranı ve pist takibi veya Ar-Ge maliyet kalemlerini aktifleştir-gider belirleme kararına yönlendirme. Her bütçe çıktısı varsayımlar bloğunu ortaya çıkarır; aktifleştir-gider karar desteğidir ve adlandırılmış bir finans sahibine yönlendirilir — hiçbir zaman bir giriş kaydetmez veya muhasebe işlemini kararlaştırmaz. finance/financial-analysis'den (kurumsal DCF, kapanış, değerleme) ve research/grants'tan (fon keşfi — bu kazanılan parayı yönetir) farklıdır."
+description: "Dahili Ar-Ge portföy bütçesi, yanma oranı takibi ve aktifleştir-gider kararı desteği; kurumsal DCF veya hibe keşfi için değil."
 version: 2.9.0
 author: claude-code-skills
 license: MIT

@@ -1,6 +1,6 @@
 ---
 name: "isms-audit-expert"
-description: "ISO 27001 uyumluluk doğrulama, güvenlik kontrol değerlendirmesi ve sertifikasyon desteği için Information Security Management System (ISMS) denetim uzmanı. Kullanıcı ISO 27001, ISMS denetimi, Annex A kontrolleri, Statement of Applicability (SOA), boşluk analizi, uyumsuzluk yönetimi, iç denetim, gözetim denetimi veya güvenlik sertifikasyonu hazırlığından bahsettiğinde kullan. Kontrol uygulama kanıtlarını incelemeye, denetim bulgularını belgelemeye, uyumsuzlukları sınıflandırmaya, risk tabanlı denetim planları oluşturmaya, kontrolleri Annex A gerekliliklerine eşleştirmeye, Aşama 1 ve Aşama 2 denetim belgelerini hazırlamaya ve düzeltici faaliyet iş akışlarını desteklemeye yardımcı olur."
+description: "ISO 27001 ISMS denetim uzmanı; Annex A kontrol kanıtları, SOA boşluk analizi, uyumsuzluk sınıflandırma ve Aşama 1/2 denetim belgesi hazırlama."
 triggers:
   - ISMS audit
   - ISO 27001 audit

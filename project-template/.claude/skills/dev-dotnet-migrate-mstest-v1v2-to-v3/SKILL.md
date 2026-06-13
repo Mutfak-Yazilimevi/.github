@@ -1,6 +1,6 @@
 ---
 name: migrate-mstest-v1v2-to-v3
-description: "MSTest v1 veya v2 test projesini MSTest v3'e taşır. Kullanıcı \"upgrade MSTest\", \"upgrade to MSTest v3\", \"migrate to MSTest v3\", \"update test framework\", \"modernize tests\", \"MSTest v3 migration\", \"MSTest compatibility\", \"MSTest v2 to v3\" dediğinde ya da MSTest paketlerini 1.x/2.x'ten 3.x'e güncelledikten sonra derleme hataları aldığında kullan. ŞU DURUMLAR İÇİN KULLAN: MSTest v1 derleme referanslarından (Microsoft.VisualStudio.QualityTools.UnitTestFramework) veya MSTest v2 NuGet'ten (MSTest.TestFramework 1.x-2.x) MSTest v3'e yükseltme, assertion aşırı yükleme hatalarını düzeltme (AreEqual/AreNotEqual), DataRow kurucularını güncelleme, .testsettings'i .runsettings ile değiştirme, timeout davranışı değişiklikleri, hedef framework uyumluluğu (.NET 5 kaldırıldı -- .NET 6+ kullan; 4.6.2'den eski .NET Fx kaldırıldı), MSTest.Sdk benimseme. MSTest v4'e geçişin ilk adımı — bundan sonra migrate-mstest-v3-to-v4 kullan. ŞU DURUMLAR İÇİN KULLANMA: MSTest v4'e geçiş (migrate-mstest-v3-to-v4 kullan), framework değiştirme (MSTest'ten xUnit/NUnit'e geçiş), MSTest ile ilgisi olmayan genel .NET yükseltmeleri."
+description: "MSTest v1/v2'yi v3'e taşır; assertion aşırı yükleme, DataRow, .testsettings → .runsettings ve hedef framework uyumluluk sorunlarını çözer."
 license: MIT
 ---
 

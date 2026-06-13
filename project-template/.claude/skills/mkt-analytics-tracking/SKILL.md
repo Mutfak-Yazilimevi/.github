@@ -1,6 +1,6 @@
 ---
 name: "analytics-tracking"
-description: "GA4, Google Tag Manager, etkinlik taksonomisi, dönüşüm izleme ve veri kalitesi dahil analitik takip uygulamasını kurar, denetler ve hata ayıklar. Sıfırdan bir takip planı oluştururken, mevcut analitiği boşluklar veya hatalar için denetlerken, eksik olayları hata ayıklarken veya GTM kurarken kullan. Pazarlama kampanyası verilerini analiz etmek için campaign-analytics'i kullan. BI panoları için product-analytics kullan."
+description: "GA4, GTM, event taksonomisi, dönüşüm izleme ve veri kalitesi kurulumu, denetimi ve hata ayıklaması için kullan."
 license: MIT
 metadata:
   version: 1.0.0

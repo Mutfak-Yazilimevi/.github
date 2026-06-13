@@ -1,6 +1,6 @@
 ---
 name: performing-oil-gas-cybersecurity-assessment
-description: "Bu skill, upstream (arama/üretim), midstream (boru hattı/taşıma) ve downstream (rafineri/dağıtım) operasyonları dahil olmak üzere petrol ve gaz tesislerine özgü siber güvenlik değerlendirmeleri yürütmeyi kapsar. Boru hattı operasyonlarını kontrol eden SCADA sistemlerini, rafineri süreç kontrolü için DCS'yi, tehlikeli süreçler için güvenlik enstrümanları sistemlerini, insansız kuyu başı sahalarındaki uzak terminal birimlerini ve API 1164, TSA Pipeline Security Directives, IEC 62443 ile kritik altyapı için NIST Cybersecurity Framework uyumluluğunu ele alır."
+description: "Petrol ve gaz tesisleri için ICS/SCADA güvenlik değerlendirmesi; NERC CIP, IEC 62443 uyumluluk çerçevelerini kapsar."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

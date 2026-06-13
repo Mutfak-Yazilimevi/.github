@@ -1,6 +1,6 @@
 ---
 name: "terraform-patterns"
-description: "Claude Code, Codex, Gemini CLI, Cursor, OpenClaw için Terraform infrastructure-as-code ajan skill ve eklentisi. Modül tasarım desenlerini, state yönetim stratejilerini, provider yapılandırmasını, güvenlik sertleştirmeyi, Sentinel/OPA ile policy-as-code'u ve CI/CD plan/apply iş akışlarını kapsar. Kullanım: kullanıcı Terraform modülleri tasarlamak, state backend'lerini yönetmek, Terraform güvenliğini incelemek, çok bölgeli dağıtımlar uygulamak veya IaC en iyi uygulamalarını takip etmek istediğinde."
+description: "Terraform modül tasarımı, state yönetimi, Sentinel/OPA policy-as-code ve CI/CD plan/apply iş akışları dahil IaC en iyi uygulamaları için kullan."
 license: MIT
 metadata:
   version: 1.0.0

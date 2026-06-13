@@ -1,6 +1,6 @@
 ---
 name: public-relations
-description: "Kullanıcı halkla ilişkiler, kazanılan medya, basın kapsamı, gazeteci erişimi veya medya stratejisiyle (pull request değil) ilgili yardım istediğinde kullan. Ayrıca 'PR', 'halkla ilişkiler', 'basın', 'basın bülteni', 'basın kapsamı', 'medya erişimi', 'gazeteciye ulaş', 'öne çıkarıl', 'medya listesi', 'medya kiti', 'basın kiti', 'newsjacking', 'HARO', 'Qwoted', 'TechCrunch', 'kazanılan medya', 'düşünce liderliği', 'op-ed', 'misafir makale' ifadelerinde kullan."
+description: "PR, basın bülteni, medya erişimi, gazeteci listesi, newsjacking, HARO, TechCrunch ve kazanılan medya stratejisi için kullan."
 metadata:
   version: 1.0.0
 ---

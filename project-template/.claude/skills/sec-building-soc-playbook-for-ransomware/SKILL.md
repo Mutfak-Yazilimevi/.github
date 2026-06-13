@@ -1,6 +1,6 @@
 ---
 name: building-soc-playbook-for-ransomware
-description: "Belirli SIEM sorguları, izolasyon prosedürleri ve karar ağaçlarıyla birlikte tespit, izolasyon, temizleme ve kurtarma aşamalarını kapsayan fidye yazılımı saldırıları için yapılandırılmış bir SOC olay müdahale playbook'u oluşturur. SOC ekiplerinin NIST SP 800-61 ve MITRE ATT&CK fidye yazılımı tekniklerine uyumlu fidye yazılımı olayları için resmileştirilmiş yanıt prosedürlerine ihtiyaç duyduğunda kullan."
+description: "NIST SP 800-61 ve MITRE ATT&CK'ye uyumlu fidye yazılımı SOC olay müdahale playbook'u: tespit, izolasyon, temizleme ve kurtarma aşamalarını içerir."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

@@ -1,6 +1,6 @@
 ---
 name: performing-fuzzing-with-aflplusplus
-description: "Bellek bozulmasını, çökmeleri ve güvenlik açıklarını keşfetmek için AFL++ (American Fuzzy Lop Plus Plus) kullanarak derlenmiş ikililerin kapsam güdümlü fuzzing işlemini gerçekleştirir. Test uzmanı, hedef ikilileri afl-cc/afl-clang-fast ile enstrümante eder, girdi korpuslarını afl-cmin ve afl-tmin ile yönetir, afl-fuzz ile paralel fuzzing kampanyaları çalıştırır ve CASR veya GDB scriptleri kullanarak çökmeleri sınıflandırır. İkili fuzzing, çökme keşfi, kapsam güdümlü test veya AFL++ fuzzing kampanyaları içeren isteklerde etkinleşir."
+description: "AFL++ ile derlenmiş ikililerin kapsam güdümlü fuzzing işlemi; bellek bozulması, çökmeler ve güvenlik açıklarını keşfeder."
 domain: cybersecurity
 subdomain: application-security
 tags:

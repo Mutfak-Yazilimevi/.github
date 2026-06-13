@@ -1,6 +1,6 @@
 ---
 name: testing-for-xss-vulnerabilities
-description: "İstemci tarafı kod yürütme, oturum ele geçirme ve kullanıcı kimliğine bürünmeyi göstermek amacıyla yansıtılan, depolanan ve DOM tabanlı bağlamlara JavaScript yükleri enjekte ederek web uygulamalarını Cross-Site Scripting (XSS) güvenlik açıkları açısından test eder. Test uzmanı tüm enjeksiyon noktalarını ve çıktı bağlamlarını tespit eder, bağlama uygun yükler oluşturur ve sanitizasyon ile CSP korumalarını atlar. XSS testi, cross-site scripting değerlendirmesi, istemci tarafı enjeksiyon testi veya JavaScript enjeksiyon güvenlik açığı testi içeren istekler için kullan."
+description: "Yansıtılan, depolanan ve DOM tabanlı XSS güvenlik açıklarını test eder; bağlama uygun JavaScript yükleri oluşturur ve CSP/sanitizasyon atlatma yapar."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

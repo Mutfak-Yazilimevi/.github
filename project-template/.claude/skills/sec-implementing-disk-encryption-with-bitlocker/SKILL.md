@@ -1,6 +1,6 @@
 ---
 name: implementing-disk-encryption-with-bitlocker
-description: "Cihaz kaybı veya hırsızlık durumunda yetkisiz erişime karşı beklemedeki verileri korumak amacıyla Windows uç noktalarında Microsoft BitLocker kullanarak tam disk şifreleme uygular. Uyumluluk gereksinimleri için şifreleme dağıtırken, mobil iş istasyonlarını güvence altına alırken veya kuruluş genelinde veri koruma denetimleri uygularken kullan. BitLocker şifreleme, disk şifreleme, TPM yapılandırma veya beklemedeki veri koruma içeren istekler için etkinleşir."
+description: "Windows uç noktalarda BitLocker ile tam disk şifreleme; TPM yapılandırma, uyumluluk gereksinimleri ve beklemedeki veri koruma için kullan."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: implementing-immutable-backup-with-restic
-description: "S3 uyumlu depolama ve object lock ile restic kullanarak fidye yazılımına dayanıklı veri koruması için değiştirilemez yedekleme stratejisi uygular. Yedekleme oluşturma, restic check --read-data aracılığıyla bütünlük doğrulama, anlık görüntü saklama ilkesi zorunluluğu ve geri yükleme testini otomatikleştirir. Fidye yazılımı aktörlerinin yedek silmesini veya şifrelemesini önleyen WORM (Write Once Read Many) depolama için AWS S3 Object Lock, MinIO ve Backblaze B2 ile entegre olur."
+description: "restic ve S3 Object Lock (WORM) ile fidye yazılımına dayanıklı değiştirilemez yedekleme kurar; AWS S3, MinIO, Backblaze B2 destekler."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

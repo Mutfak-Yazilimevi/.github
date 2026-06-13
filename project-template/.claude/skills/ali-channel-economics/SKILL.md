@@ -1,6 +1,6 @@
 ---
 name: channel-economics
-description: "Doğrudan vs. iş ortağı öncülüğünde kanal ekonomiklerini incelerken veya yeniden dengeleyerek kullan — kanala göre tam yüklü servis maliyetini, nakit/LTV/marjinal bakış açılarıyla kanal ROI'unu ve kısıtlamalara tabi optimal kanal karışımını hesaplar. CAC, destek yükü, iş ortağı indirimi, anlaşma hızı farkları, elde tutma farkı ve genel gider dağıtımının tümü yüklendikten sonra hangi kanalın para kazandırdığını gerçekte bilmeden boru hattı karma olduğunda (ör. %60 doğrudan + %40 iş ortağı) çeyreklik kanal incelemesi yapan Ticari Başkan, RevOps ve Satış VP için. Servis maliyeti, kanal ROI kararları (DOUBLE-DOWN / MAINTAIN / DEFUND / EXIT), duyarlılık testi yapılmış kanal karışımı önerisi ve azalan getiriler eğilim noktası çıktılar. Kanal yapısı değil (bkz. partnerships-architect). RevOps süreci değil (bkz. business-growth/revenue-operations). Stratejik CRO kararı değil (bkz. c-level-advisor/cro-advisor). Tarihsel kapatma ve raporlama değil (bkz. finance/financial-analysis). Bu skill şu soruları yanıtlar: doğrudan vs iş ortağı karlılığı, kanal karlılığı, kanal karışımı, kanal ekonomikleri."
+description: "Doğrudan vs. iş ortağı kanal ekonomiklerini; CAC, destek yükü, LTV ve kanal ROI hesaplayarak DOUBLE-DOWN/DEFUND kararları için kullan."
 version: 2.8.0
 author: claude-code-skills
 license: MIT

@@ -1,6 +1,6 @@
 ---
 name: migrate-static-to-wrapper
-description: "Sınırlı bir kapsamda (dosya, proje veya namespace) statik bağımlılık çağrı noktalarını wrapper veya yerleşik soyutlama çağrılarıyla mekanik olarak değiştirir. DateTime.UtcNow'u TimeProvider.GetUtcNow()'a, File.ReadAllText'i IFileSystem'a ve benzeri dönüşümleri toplu codemod tarzında gerçekleştirir. Constructor injection parametreleri ekler ve DI kaydını günceller. KULLANIM ALANLARI: DateTime.UtcNow'u TimeProvider ile değiştirme, DateTime.Now'u TimeProvider ile değiştirme, statik çağrıları wrapper'a geçirme, File.*'ı IFileSystem ile toplu değiştirme, statik'ten injectable'a codemod, zaman sağlayıcısı için constructor injection ekleme, statiklerin mekanik geçişi, DateTime'ı TimeProvider'a yeniden düzenleme, statik'i enjekte edilmiş bağımlılıkla değiştirme, statik çağrıları soyutlama kullanacak şekilde dönüştürme, bir sınıftaki statikleri değiştirme, bir dosyayı TimeProvider'a geçirme, kapsamlı geçiş, çağrı noktalarını güncelleme. KULLANMA: statikleri tespit etme (detect-static-dependencies kullan), wrapper üretme (generate-testability-wrappers kullan), test framework'leri arasında geçiş."
+description: "C#'ta statik bağımlılık çağrı noktalarını wrapper/soyutlama çağrılarıyla değiştir; DateTime.UtcNow → TimeProvider gibi mekanik geçişler."
 license: MIT
 ---
 

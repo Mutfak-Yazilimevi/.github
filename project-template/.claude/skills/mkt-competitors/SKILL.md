@@ -1,6 +1,6 @@
 ---
 name: competitors
-description: "Kullanıcı SEO ve satış etkinleştirme için rakip karşılaştırma veya alternatif sayfaları oluşturmak istediğinde kullan. Ayrıca kullanıcı 'alternatif sayfası', 'karşı sayfası', 'rakip karşılaştırması', 'karşılaştırma sayfası', '[Ürün] karşı [Ürün]', '[Ürün] alternatifi', 'rekabetçi açılış sayfaları', 'X ile nasıl karşılaştırıyoruz', 'savaş kartı' veya 'rakip analizi' ifadelerinden bahsettiğinde de kullan. Ürününüzü rakiplere karşı konumlandıran herhangi bir içerik için kullan. Dört biçimi kapsar: tekil alternatif, çoğul alternatifler, sen karşı rakip ve rakip karşı rakip. Satışa özgü rakip belgeleri için sales-enablement'a bak."
+description: "SEO ve satış etkinleştirme için rakip karşılaştırma, alternatif sayfası veya vs. sayfası oluşturmak istediğinde kullan."
 metadata:
   version: 2.0.0
 ---

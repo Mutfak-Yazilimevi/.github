@@ -1,6 +1,6 @@
 ---
 name: analyzing-indicators-of-compromise
-description: "Kötü niyetlilik güvenilirliğini, kampanya ilişkilendirmesini ve engelleme önceliğini belirlemek için IP adresleri, alan adları, dosya hash'leri, URL'ler ve e-posta artifaktları dahil uzlaşma göstergelerini (IOC) analiz eder. Kimlik avı e-postalarından, güvenlik uyarılarından veya harici tehdit beslemelerinden IOC'leri triyaj ederken; ham IOC'leri çoklu kaynaklı istihbaratla zenginleştirirken; veya engelle/izle/beyaz listeye al kararları alırken kullan. VirusTotal, AbuseIPDB, MalwareBazaar, MISP veya IOC zenginleştirme işlem hatlarını içeren istekler için etkinleşir."
+description: "IP, alan, dosya hash, URL ve e-posta IOC'lerini kötü niyetlilik/ilişkilendirme için analiz eder; VirusTotal, AbuseIPDB, MalwareBazaar, MISP ile zenginleştirme."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

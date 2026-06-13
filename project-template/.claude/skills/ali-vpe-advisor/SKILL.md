@@ -1,6 +1,6 @@
 ---
 name: "vpe-advisor"
-description: "Startuplar için Mühendislik Başkan Yardımcısı danışmanlığı: teslimat verimi (DORA 4 metrik + darboğaz tespiti), mühendislik işe alım hunisi (kaynak bulma → eleme → yerinde → teklif dönüşümü + doldurma süresi + boru hattı açığı), mühendislik ekip yapısı (squad/tribe/chapter tasarımı + teknik lider yönetici tetik eşikleri) ve üretim disiplini (nöbet, dağıtım kadansı, postmortem kültürü). Sprint hızı düştüğünde, mühendislik işe alımı bozulduğunda, ekip yapısı belirsiz olduğunda veya teknik lider yönetici eklenip eklenmeyeceğine karar verilirken kullan. CTO becerisi değil (mimariyi sahiplenir) — VPE teslimat operasyonlarına ve ekibin nasıl gönderdiğine sahip çıkar."
+description: "Startuplar için VP Engineering danışmanlığı: DORA metrikleri, mühendislik işe alım, teknik borç önceliklendirme ve ölçekleme mimarisi."
 license: MIT
 metadata:
   version: 1.0.0

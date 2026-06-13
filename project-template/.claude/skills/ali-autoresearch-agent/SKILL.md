@@ -1,6 +1,6 @@
 ---
 name: "autoresearch-agent"
-description: "Ölçülebilir bir metrikle herhangi bir dosyayı optimize eden otonom deney döngüsü. Karpathy'nin autoresearch çalışmasından ilham alınmıştır. Ajan hedef dosyayı düzenler, sabit bir değerlendirme çalıştırır, iyileştirmeleri saklar (git commit), başarısızlıkları atar (git reset) ve süresiz döngü yapar. Kullanım durumları: kod hızını optimize etmek, bundle/görüntü boyutunu küçültmek, test geçiş oranını artırmak, istemleri optimize etmek, içerik kalitesini iyileştirmek (başlıklar, metin, TO) veya ölçülebilir herhangi bir iyileştirme döngüsü çalıştırmak. Gereksinimler: hedef dosya, metrik çıktıları veren değerlendirme komutu ve git deposu."
+description: "Ölçülebilir metrik ile hedef dosyayı optimize eden otonom deney döngüsü: kod hızı, bundle boyutu, test geçiş oranı veya içerik kalitesi için kullan. Git deposu gereklidir."
 license: MIT
 metadata:
   version: 2.0.0

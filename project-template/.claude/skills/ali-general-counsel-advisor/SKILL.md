@@ -1,6 +1,6 @@
 ---
 name: "general-counsel-advisor"
-description: "Girişimler için Genel Hukuk Müşaviri danışmanlığı: sözleşme incelemesi (MSA, SaaS, NDA, DPA, iş sözleşmesi), IP stratejisi, term sheet çözümleme ve düzenleyici ortam haritalama. Herhangi bir sözleşme veya term sheet incelenirken, dış hukuk müşavirinin ne zaman devreye alınacağına karar verilirken, IP stratejisi tanımlanırken, düzenleyici maruziyet değerlendirilirken (HIPAA, GDPR, FDA, fintech) ya da kullanıcı genel hukuk müşaviri, GC, hukuki inceleme, sözleşme riski, term sheet, IP devri veya düzenleyici maruziyet gibi kavramlardan bahsettiğinde kullan. Lisanslı hukuk müşavirinin yerini tutmaz — nitelikli avukatlara taşınacak soruları gün yüzüne çıkarır"
+description: "Genel Hukuk Müşaviri danışmanlığı: MSA, SaaS, NDA, DPA inceleme, IP stratejisi, term sheet çözümleme, HIPAA/GDPR/FDA düzenleyici ortam haritalama için kullan."
 license: MIT
 metadata:
   version: 1.0.0

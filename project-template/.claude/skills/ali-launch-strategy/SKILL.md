@@ -1,6 +1,6 @@
 ---
 name: "launch-strategy"
-description: "Kullanıcı bir ürün lansmanı, özellik duyurusu veya sürüm stratejisi planlamak istediğinde kullan. Ayrıca kullanıcı 'lansman,' 'Product Hunt,' 'özellik sürümü,' 'duyuru,' 'go-to-market,' 'beta lansmanı,' 'erken erişim,' 'bekleme listesi,' 'ürün güncellemesi,' 'GTM planı,' 'lansman kontrol listesi' veya 'lansman ivmesi' gibi terimler belirttiğinde kullan. Bu skill aşamalı lansmanları, kanal stratejisini ve devam eden lansman ivmesini kapsar."
+description: "Ürün lansmanı, özellik duyurusu veya GTM stratejisi planlarken kullan; Product Hunt, beta, erken erişim, bekleme listesi ve lansman ivmesini kapsar."
 license: MIT
 metadata:
   version: 1.0.0

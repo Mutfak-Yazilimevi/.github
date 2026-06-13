@@ -1,6 +1,6 @@
 ---
 name: "cfo-advisor"
-description: "Girişimler ve büyüyen şirketler için finansal liderlik. Finansal modelleme, birim ekonomisi, fon toplama stratejisi, nakit yönetimi ve yönetim kurulu finansal paketleri. Finansal modeller oluştururken, birim ekonomisi analizi yaparken, fon toplama planlarken, nakit akışını yönetirken, yönetim kurulu materyalleri hazırlarken veya kullanıcı CFO, burn rate, runway, fon toplama, birim ekonomisi, LTV, CAC, term sheets ya da finansal stratejiden bahsettiğinde kullan."
+description: "Girişimler için finansal modelleme, birim ekonomisi, burn rate, runway, fon toplama stratejisi ve yönetim kurulu finansal paketleri."
 license: MIT
 metadata:
   version: 1.0.0

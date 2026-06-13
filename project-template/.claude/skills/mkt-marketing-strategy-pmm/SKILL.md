@@ -1,6 +1,6 @@
 ---
 name: "marketing-strategy-pmm"
-description: "Konumlandırma, GTM stratejisi, rekabetçi istihbarat ve ürün lansmanları için ürün pazarlama becerisi. Kullanıcı ürün konumlandırma, go-to-market planlaması, rekabet analizi, hedef kitle tanımı, ICP tanımı, pazar araştırması, lansman planları veya satış etkinleştirme hakkında sorduğunda kullan. April Dunford konumlandırmasını, ICP tanımını, rekabetçi battlecard'ları, lansman playbook'larını ve uluslararası pazar girişini kapsar. Konumlandırma ifadeleri, battlecard belgeleri, lansman planları ve go-to-market stratejileri gibi çıktılar üretir."
+description: "Ürün pazarlama, konumlandırma ve GTM stratejisi için kullan. April Dunford konumlandırması, ICP tanımı, rekabetçi battlecard, lansman playbook'u üretir."
 triggers:
   - product marketing
   - PMM

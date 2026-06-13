@@ -1,6 +1,6 @@
 ---
 name: "content-strategy"
-description: "Kullanıcı bir içerik stratejisi planlamak, ne tür içerik oluşturacağına karar vermek veya hangi konuları ele alacağını bulmak istediğinde kullan. Ayrıca kullanıcı \"içerik stratejisi\", \"ne hakkında yazmalıyım\", \"içerik fikirleri\", \"blog stratejisi\", \"konu kümeleri\" veya \"içerik planlama\" ifadelerinden bahsettiğinde de kullan. Bireysel parçalar yazmak için copywriting'e bak. SEO'ya özgü denetimler için seo-audit'e bak."
+description: "İçerik stratejisi planlamak, içerik takvimi veya konu kümesi oluşturmak, içerik denetimi yapmak istediğinde kullan."
 license: MIT
 metadata:
   version: 1.0.0

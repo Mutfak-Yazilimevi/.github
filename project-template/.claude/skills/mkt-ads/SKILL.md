@@ -1,6 +1,6 @@
 ---
 name: ads
-description: "Kullanıcı Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X veya diğer reklam platformlarında ücretli reklam kampanyalarıyla ilgili yardım istediğinde kullan. Ayrıca kullanıcı 'PPC,' 'paid media,' 'ROAS,' 'CPA,' 'reklam kampanyası,' 'yeniden hedefleme,' 'kitle hedefleme,' 'Google Ads,' 'Facebook ads,' 'LinkedIn ads,' 'reklam bütçesi,' 'tıklama başına maliyet,' 'reklam harcaması' veya 'reklam yayınlamalı mıyım' gibi terimler belirttiğinde kullan. Kampanya stratejisi, kitle hedefleme, teklif verme ve optimizasyon için kullan. Toplu reklam kreatifi üretimi için bkz. ad-creative. Açılış sayfası optimizasyonu için bkz. cro."
+description: "Google Ads, Meta, LinkedIn, Twitter/X dahil ücretli reklam kampanyaları (PPC, paid media) için kullan."
 metadata:
   version: 2.0.1
 ---

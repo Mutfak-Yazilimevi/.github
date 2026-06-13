@@ -1,6 +1,6 @@
 ---
 name: triaging-security-alerts-in-splunk
-description: "SPL sorguları ve Incident Review panosu kullanarak önem düzeyini sınıflandırarak, önemli olayları araştırarak, ilgili telemetriyi ilişkilendirerek ve eskalasyon veya kapatma kararları vererek Splunk Enterprise Security'deki güvenlik uyarılarını triyaj eder. SOC analistlerinin korelasyon aramalarından gelen kuyruğa alınmış uyarılarla karşılaştığı, araştırma öncelik sırasını belirlemesi gerektiği veya Tier 2/3 analistlere devir için triyaj kararlarını belgelemesi gerektiğinde kullan."
+description: "Splunk Enterprise Security'de SPL sorguları ve Incident Review ile güvenlik uyarılarını triyaj eder; önceliklendirme ve Tier 2/3 devir kararları verir."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

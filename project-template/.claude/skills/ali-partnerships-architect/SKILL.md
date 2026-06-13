@@ -1,6 +1,6 @@
 ---
 name: partnerships-architect
-description: "Bir girişim olası bir ortaktan yaklaşıldığında ve birinin bu ortağı imzalayıp imzalamamayı, hangi ortak katmanında (referral / reseller / OEM / SI-consulting / strategic alliance), hangi ortak GTM taahhüdüyle ve hangi gelir paylaşımında yapılacağını karar verme gerektiğinde kullan. Ortak katmanını bağımsız talep kanıtına karşı tercihli terim avcılığından sınıflandırır, 90 günlük ortak GTM planı tasarlar, gelir paylaşımını doğrudan satış marjına karşı modeller ve düşük performanslı ortaklıkları çözmek için öldürme kriterlerini ortaya çıkarır. Satış etkinleştirme değil, kanal maliyet ekonomisi değil, M&A değil; Ortaklık Başkanı, BD Başkanı ve bayi anlaşması, OEM anlaşması veya stratejik ittifak incelemesi yapan Kurucu CEO'lar için."
+description: "Ortak katmanı (referral/reseller/OEM/SI/stratejik ittifak) sınıflandırır, 90 günlük GTM planı ve gelir paylaşımı modeli oluşturur; BD ve ortaklık kararları için."
 version: 2.8.0
 author: claude-code-skills
 license: MIT

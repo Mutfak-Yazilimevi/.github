@@ -1,6 +1,6 @@
 ---
 name: rfp-responder
-description: "RFP, RFI, RFQ, güvenlik anketi, satıcı anketi veya teklif talebi geldiğinde ve ekibin yapılandırılmış bir yanıta ihtiyaç duyduğunda kullan — çok bölümlü alıcı tanımlı gereksinimleri (ZORUNLU vs AĞIRLIKLI vs GÜZEL-OLUR) ayrıştırır, her gereksinimi doğrulanabilir bir kanıt noktasıyla eşleştiren Shipley yöntemi kanıt matrisi oluşturur, gereksinimler genelinde hiyerarşi kuran 3-5 kazanma teması belirler ve teklif ver / verme / ortak teklif ver önerisini destekleyen Shipley türevi bir kazanma oranı tahmini üretir. Teklif Yöneticileri, Teklif Liderleri, Satış Direktörleri ve Satış Mühendisleri için yanıt stratejisi aşamasında kullanılır. GAP gereksinimlerini açıkça ortaya çıkarır — asla iddia uydurmaz. Serbest biçimli teklif anlatısı yazma, sözleşme redline veya pazarlama materyali değildir."
+description: "RFP, RFI, RFQ veya güvenlik anketi geldiğinde Shipley yöntemi kanıt matrisi ve kazanma oranı tahmini ile yanıt stratejisi oluşturur."
 context: fork
 version: 2.8.0
 author: claude-code-skills

@@ -1,6 +1,6 @@
 ---
 name: apple-crash-symbolication
-description: "Apple platform .ips kilitlenme günlüklerinde (iOS, tvOS, Mac Catalyst, macOS) .NET çalışma zamanı çerçevelerini sembolize eder. Yerel geri izlemeden UUID'leri ve adresleri çıkarır, dSYM hata ayıklama sembollerini bulur ve kaynak dosya ile satır numaralarıyla işlev adları üretmek için atos çalıştırır. Mach-O UUID'lerini kullanarak Microsoft sembol sunucusundan .dwarf sembollerini otomatik olarak indirir. ŞU DURUMLARDA KULLAN: herhangi bir Apple platformundaki bir .ips dosyasından .NET MAUI veya Mono uygulama kilitlenmesini triyaj etmek, libcoreclr veya libmonosgen-2.0 içindeki yerel geri izleme çerçevelerini .NET çalışma zamanı kaynak koduna çözümlemek, bağlı bir iOS cihazından veya iPhone'dan .ips kilitlenme günlüklerini almak, .NET çalışma zamanından kaynaklanan EXC_CRASH, EXC_BAD_ACCESS, SIGABRT veya SIGSEGV araştırmak. .NET bileşeni olmayan saf Swift/Objective-C kilitlenmeleri veya Android tombstone dosyaları için KULLANMA. Symbolicate-Crash.ps1 betiğini, atos, dwarfdump ve idevicecrashreport'u çağırır."
+description: "iOS/macOS/tvOS .ips kilitlenme loglarındaki .NET çerçevelerini sembolize eder; dSYM bulma, atos çalıştırma ve Microsoft sembol sunucusundan .dwarf indirme yapar."
 license: MIT
 ---
 

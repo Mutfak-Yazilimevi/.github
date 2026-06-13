@@ -1,6 +1,6 @@
 ---
 name: beautiful-article
-description: "Kullanıcının sağladığı materyalleri (web URL / PDF / DOCX / Markdown / düz metin / ekran görüntüsü / yapıştırılan içerik) güzel, çevrimdışı açılıp paylaşılabilen tek dosyalı HTML web makalesi olarak düzenler ve tasarlar. reacticle bileşen protokolünü temel alır. Tetikleme senaryoları: URL/PDF/DOCX/makaleyi web makalesi / uzun metin / briefing / açıklayıcı metin / görsel makale / eğitim / inceleme / plan analizi olarak oluşturmak, 'render this as a beautiful web article / bu makaleyi web makalesine dönüştür / paylaşılabilir HTML uzun metin oluştur / reacticle makale'."
+description: "URL, PDF, DOCX veya metin içeriğini tek dosyalık, paylaşılabilir HTML web makalesine dönüştürür. reacticle protokolünü kullanır."
 ---
 
 # Beautiful Article

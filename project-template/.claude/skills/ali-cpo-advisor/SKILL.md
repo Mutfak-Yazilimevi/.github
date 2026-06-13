@@ -1,6 +1,6 @@
 ---
 name: "cpo-advisor"
-description: "Ölçeklenen şirketler için ürün liderliği. Ürün vizyonu, portföy stratejisi, ürün-pazar uyumu ve ürün org tasarımı. Ürün vizyonu belirlerken, ürün portföyü yönetirken, PMF ölçerken, ürün ekipleri tasarlarken, portföy düzeyinde önceliklendirirken, ürün hakkında yönetim kuruluna raporlarken ya da kullanıcı CPO, ürün stratejisi, ürün-pazar uyumu, ürün organizasyonu, portföy önceliklendirmesi veya roadmap stratejisinden bahsettiğinde kullan"
+description: "CPO danışmanlığı: ürün vizyonu, portföy stratejisi, PMF ölçümü ve ürün org tasarımı için kullan."
 license: MIT
 metadata:
   version: 1.0.0

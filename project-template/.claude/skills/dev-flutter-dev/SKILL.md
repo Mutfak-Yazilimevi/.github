@@ -1,6 +1,6 @@
 ---
 name: flutter-dev
-description: "Widget kalıpları, Riverpod/Bloc durum yönetimi, GoRouter navigasyon, performans optimizasyonu ve platforma özgü uygulamaları kapsayan Flutter çapraz platform geliştirme rehberi. Const optimizasyonu, duyarlı düzenler, test stratejileri ve DevTools profillemesi içerir. Şunlar için kullan: Flutter uygulamaları geliştirme, durum yönetimi uygulama (Riverpod/Bloc), GoRouter navigasyon kurma, özel widget'lar oluşturma, performansı optimize etme, widget testleri yazma, çapraz platform geliştirme"
+description: "Flutter çapraz platform geliştirme: Riverpod/Bloc durum yönetimi, GoRouter navigasyon, widget test ve DevTools profilleme rehberi."
 license: MIT
 metadata:
   version: "1.0.0"
