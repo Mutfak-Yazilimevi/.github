@@ -177,7 +177,7 @@ Agent'lar zaten ilgili skill'leri içeride kullanır.
 | :--- | :--- |
 | `settings.json` | İzinler + hook'lar + config (commit edilir, takım) |
 | `settings.local.json` | Kişisel override'lar (gitignore) — örnek: `settings.local.json.example` |
-| `rules/` | Modüler kurallar: `code-style`, `testing`, `api-conventions`, `architecture`, `scaling`, `mcp`, `process` (SDLC/ADLC), `catalog`, `model-selection`, `communication` (TR iletişim), `capability-gaps` |
+| `rules/` | Modüler kurallar: `code-style`, `testing`, `api-conventions`, `architecture`, `scaling`, `mcp`, `process` (SDLC/ADLC), `catalog`, `model-selection`, `communication` (TR iletişim), `autonomy` (otonom çalışma), `capability-gaps` |
 | `commands/` | Slash komutları — `/mutfak-intake` (yeni proje), `/mutfak-onboard` (mevcut proje, salt-okunur), `/mutfak-review`, `/mutfak-fix-issue`, `/mutfak-deploy`, `/mutfak-test-all`, `/mutfak-bootstrap`, `/mutfak-document`, `/mutfak-refactor` |
 | `skills/` | ⚠️ **DÜZ yapı** — her skill `skills/<önek-ad>/SKILL.md`; iç içe kategori klasörü otomatik bulunmaz |
 | `agents/` | Sub-agent tanımları (`<ad>.md`, düz) |
