@@ -1,6 +1,6 @@
 ---
 name: dotnet-test-frameworks
-description: "MSTest, xUnit, NUnit ve TUnit genelinde .NET test çerçevesi algılama kalıpları, assertion API'leri, atlama ek açıklamaları, kurulum/temizlik yöntemleri ve yaygın test kötü koku göstergeleri için referans verileri. Test analiz becerileri (test-anti-patterns) tarafından çerçeveye özgü arama tabloları olarak yüklenir."
+description: "MSTest, xUnit, NUnit ve TUnit için .NET test çerçevesi referans verileri: assertion API'leri, atlama notasyonları, kurulum/temizlik. Test analiz becerileri tarafından yüklenir."
 user-invocable: false
 license: MIT
 ---

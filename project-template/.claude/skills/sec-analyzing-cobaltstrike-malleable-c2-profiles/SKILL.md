@@ -1,6 +1,6 @@
 ---
 name: analyzing-cobaltstrike-malleable-c2-profiles
-description: "C2 göstergelerini çıkarmak, kaçınma tekniklerini tespit etmek ve ağ tespit imzaları oluşturmak için dissect.cobaltstrike ve pyMalleableC2 kullanarak Cobalt Strike Malleable C2 profillerini ayrıştır ve analiz et."
+description: "dissect.cobaltstrike ve pyMalleableC2 ile Cobalt Strike Malleable C2 profillerini ayrıştırır; C2 göstergeleri, kaçınma teknikleri ve ağ tespit imzaları üretir."
 domain: cybersecurity
 subdomain: malware-analysis
 tags:

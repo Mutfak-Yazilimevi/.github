@@ -1,6 +1,6 @@
 ---
 name: integrating-dast-with-owasp-zap-in-pipeline
-description: "Bu beceri, CI/CD pipeline'larında Dinamik Uygulama Güvenliği Testi için OWASP ZAP (Zed Attack Proxy) entegrasyonunu kapsar. Çalışan uygulamalara karşı temel, tam ve API taramaları yapılandırmayı, ZAP bulgularını yorumlamayı, tarama politikalarını ayarlamayı ve GitHub Actions ile GitLab CI'da DAST kalite kapıları oluşturmayı ele alır."
+description: "CI/CD'de OWASP ZAP ile DAST: temel/tam/API taramaları, bulgu yorumlama ve GitHub Actions/GitLab CI kalite kapıları oluşturma."
 domain: cybersecurity
 subdomain: devsecops
 tags:

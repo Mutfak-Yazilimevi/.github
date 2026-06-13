@@ -1,6 +1,6 @@
 ---
 name: "engineering-skills"
-description: "Claude Code, Codex, Gemini CLI, Cursor, OpenClaw ve 6 daha fazla araç için 23 mühendislik ajan becerisi ve eklentisi. Mimari, frontend, backend, QA, DevOps, güvenlik, AI/ML, veri mühendisliği, Playwright, Stripe, AWS, MS365. 30'dan fazla Python aracı (yalnızca stdlib)."
+description: "Mimari, frontend, backend, QA, DevOps, güvenlik, AI/ML, veri, Playwright, Stripe, AWS, MS365 için 23 mühendislik ajan becerisi. Claude Code, Codex, Gemini CLI, Cursor destekler."
 version: 2.9.0
 author: Alireza Rezvani
 license: MIT

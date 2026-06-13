@@ -1,6 +1,6 @@
 ---
 name: implementing-just-in-time-access-provisioning
-description: "Yalnızca gerektiğinde geçici, zaman sınırlı erişim vererek kalıcı ayrıcalıkları ortadan kaldırmak için Tam Zamanında (JIT) erişim sağlama uygula. Bu skill JIT mimarisi tasarımını, onay iş akışlarını ve daha fazlasını kapsar."
+description: "Kalıcı ayrıcalıkları ortadan kaldırmak için zaman sınırlı JIT erişim sağlama; mimari tasarım ve onay iş akışlarını kapsar."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

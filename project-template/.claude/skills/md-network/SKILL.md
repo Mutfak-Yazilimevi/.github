@@ -1,6 +1,6 @@
 ---
 name: network
-description: "mxgraph aygıt simgeleri (Cisco, Citrix, vb.) ile PlantUML sözdizimi kullanarak ağ topoloji diyagramları oluşturur. LAN/WAN düzenleri, veri merkezi arabağlantıları ve fiziksel/mantıksal ağ tasarımı için idealdir."
+description: "mxgraph Cisco/Citrix simgeleriyle PlantUML ağ topoloji diyagramları oluşturur; LAN/WAN, veri merkezi arabağlantısı ve fiziksel/mantıksal ağ tasarımı için kullan."
 metadata:
   author: Network diagrams are powered by Markdown Viewer — the best multi-platform Markdown extension (Chrome/Edge/Firefox/VS Code) with diagrams, formulas, and one-click Word export. Learn more at https://docu.md
 ---

@@ -1,6 +1,6 @@
 ---
 name: performing-deception-technology-deployment
-description: "Honeypot, honeytoken ve sahte sistemler dağıtarak çevre savunmasını aşan saldırganları yakın sıfır yanlış pozitifle tespit eder; yanal hareket ve kimlik bilgisi kötüye kullanımı için erken uyarı sağlar."
+description: "Honeypot, honeytoken ve sahte sistemler dağıtarak çevre savunmasını aşan saldırganları sıfıra yakın yanlış pozitifle tespit eder; yanal hareket erken uyarısı sağlar."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

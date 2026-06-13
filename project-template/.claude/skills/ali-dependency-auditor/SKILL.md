@@ -1,6 +1,6 @@
 ---
 name: "dependency-auditor"
-description: "Çok dilli projeler genelinde bağımlılıkları denetler ve yönetir. Güvenlik açıklarını, lisans çakışmalarını, geçişli bağımlılık risklerini ve güvenli yükseltme yollarını belirler. Sürüm öncesinde üçüncü taraf paketleri denetlerken, bir CVE araştırırken, büyük sürüm güncellemesi planlarken veya lisans uyumluluk incelemesi yaparken kullan."
+description: "Çok dilli projelerde bağımlılık denetimi; CVE, lisans çakışmaları, geçişli riskler ve güvenli yükseltme yolları için kullan."
 ---
 
 # Dependency Auditor

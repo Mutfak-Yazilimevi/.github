@@ -1,6 +1,6 @@
 ---
 name: "pdf"
-description: "Görüntüleme ve düzenin önemli olduğu PDF dosyalarını okuma, oluşturma veya inceleme görevleri söz konusu olduğunda kullan; sayfaları oluşturarak (Poppler) görsel kontrolleri tercih et ve oluşturma ile çıkarma için `reportlab`, `pdfplumber` ve `pypdf` gibi Python araçları kullan."
+description: "PDF okuma, oluşturma ve inceleme için Poppler, reportlab, pdfplumber ve pypdf kullanır. Görsel düzen önemli olduğunda kullan."
 ---
 
 

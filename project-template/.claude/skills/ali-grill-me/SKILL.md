@@ -1,6 +1,6 @@
 ---
 name: grill-me
-description: "Ortak bir anlayışa ulaşana ve karar ağacının her dalını çözene kadar kullanıcıyı bir plan veya tasarım hakkında amansızca sorgular. Kullanıcı planını stres testi yapmak, tasarımı hakkında sorgulanmak veya \"grill me\" ifadesini kullandığında kullan."
+description: "Plan veya tasarımı karar ağacının her dalı çözülene dek amansızca sorgular; planı stres testinden geçirmek veya \"grill me\" denildiğinde kullan."
 license: MIT
 metadata:
   derived_from: "https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me"

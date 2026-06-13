@@ -1,6 +1,6 @@
 ---
 name: implementing-anti-phishing-training-program
-description: "Güvenlik farkındalık eğitimi, kimlik avı savunmasının insani katmanıdır. Etkili bir anti-phishing eğitim programı; düzenli simülasyonları, etkileşimli öğrenme modüllerini, metrik takibini ve olumlu pekiştirmeyi birleştirir."
+description: "Simülasyon, etkileşimli modüller, metrik takibi ve olumlu pekiştirmeyi birleştiren anti-phishing güvenlik farkındalık eğitim programı uygular."
 domain: cybersecurity
 subdomain: phishing-defense
 tags:

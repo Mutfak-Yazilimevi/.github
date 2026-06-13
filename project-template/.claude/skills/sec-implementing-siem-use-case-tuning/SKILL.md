@@ -1,6 +1,6 @@
 ---
 name: implementing-siem-use-case-tuning
-description: "Splunk ve Elastic'te uyarı hacimlerini analiz ederek, beyaz listeler oluşturarak, eşikleri ayarlayarak ve tespit etkinlik ölçütlerini ölçerek yanlış pozitifleri azaltmak için SIEM tespit kurallarını ayarla."
+description: "Splunk ve Elastic'te uyarı hacmi analizi, beyaz liste oluşturma, eşik ayarı ile SIEM tespit kurallarını ayarlayarak yanlış pozitifleri azaltır."
 domain: cybersecurity
 subdomain: security-operations
 tags:

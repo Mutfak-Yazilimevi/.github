@@ -1,6 +1,6 @@
 ---
 name: code-simplification
-description: "Kod netliği için sadeleştirir. Davranışı değiştirmeden kodu netlik için yeniden düzenlerken kullan. Kod çalışıyor ancak olması gerekenden daha zor okunuyor, bakımı yapılıyor veya genişletiliyorsa kullan. Gereksiz karmaşıklık biriktirmiş kodu incelerken kullan"
+description: "Davranışı değiştirmeden kodu netlik için sadeleştirir; çalışan ama gereksiz karmaşık, bakımı zor veya okunması güç kodları yeniden düzenlerken kullan."
 ---
 
 # Code Simplification

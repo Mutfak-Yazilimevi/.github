@@ -1,6 +1,6 @@
 ---
 name: yt-competitive-analysis
-description: "Aykırı videolar ve paketleme kalıpları için YouTube kanallarını analiz eder. Herhangi bir kanal setinde neyin işe yaradığını (ortalama görüntülemenin 2 katı+) belirler. YouTube rekabet analizi, viral video kalıpları veya paketleme/başlık ilhamı istendiğinde kullan."
+description: "YouTube kanallarında aykırı video ve paketleme kalıplarını analiz eder; viral video tespiti, rekabet analizi veya başlık/paketleme ilhamı için kullan."
 ---
 
 # YouTube Competitive Analysis

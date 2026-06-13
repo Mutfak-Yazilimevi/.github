@@ -1,6 +1,6 @@
 ---
 name: performing-threat-hunting-with-elastic-siem
-description: "Otomatik tespiti atlatan tehditleri tanımlamak için KQL/EQL sorguları, tespit kuralları ve Timeline soruşturması kullanarak Elastic Security SIEM'de proaktif tehdit avı gerçekleştirir. SOC ekiplerinin belirli ATT&CK tekniklerini avlaması, anormal davranışları araştırması veya Elasticsearch ve Kibana Security kullanarak tespit kapsam boşluklarını doğrulaması gerektiğinde kullan."
+description: "Elastic Security'de KQL/EQL sorguları ve MITRE ATT&CK tekniklerine göre proaktif tehdit avı yapar; tespit kapsam boşluklarını doğrulamak için kullan."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

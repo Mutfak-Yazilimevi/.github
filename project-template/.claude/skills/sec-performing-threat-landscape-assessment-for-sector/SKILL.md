@@ -1,6 +1,6 @@
 ---
 name: performing-threat-landscape-assessment-for-sector
-description: "Kurumsal risk yönetimini bilgilendirmek amacıyla tehdit aktörü hedefleme kalıplarını, yaygın saldırı vektörlerini ve sektöre özgü güvenlik açıklarını analiz ederek sektöre özgü tehdit ortamı değerlendirmesi yürütür."
+description: "Tehdit aktörü hedefleme kalıpları, saldırı vektörleri ve sektöre özgü açıkları analiz ederek kurumsal risk yönetimini destekleyen sektör tehdit ortamı değerlendirmesi yapar."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

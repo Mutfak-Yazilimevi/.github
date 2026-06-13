@@ -1,6 +1,6 @@
 ---
 name: implementing-network-access-control
-description: "Yetkili cihazlar için kimlik tabanlı erişim ilkeleri, duruş değerlendirmesi ve otomatik VLAN atamasını zorunlu kılmak amacıyla RADIUS kimlik doğrulaması, PacketFence NAC ve switch yapılandırmalarını kullanarak 802.1X port tabanlı ağ erişim denetimi uygular."
+description: "RADIUS, PacketFence NAC ve 802.1X ile kimlik tabanlı erişim, duruş değerlendirmesi ve otomatik VLAN ataması uygular."
 domain: cybersecurity
 subdomain: network-security
 tags:

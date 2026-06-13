@@ -1,6 +1,6 @@
 ---
 name: "soc2-audit-prep"
-description: "/cs:soc2-audit-prep <scope> — SOC 2 Type II hazırlık 6 sorulu zorlayıcı sorgulama. Gözlem dönemi odaklı. Type II gözlemi başlamadan önce, dönem ortası kontrol noktasında veya saha testi öncesi 10. ay hazırlığında kullan."
+description: "SOC 2 Type II hazırlık için 6 soruluk sorgulama; gözlem dönemi başı, dönem ortası kontrol noktası veya saha testi öncesi 10. ayda kullan."
 ---
 
 # /cs:soc2-audit-prep — SOC 2 Type II Forcing Questions

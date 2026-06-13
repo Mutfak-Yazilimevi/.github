@@ -1,6 +1,6 @@
 ---
 name: dotnet-concurrency-specialist
-description: ".NET eşzamanlılık (concurrency), threading ve yarış koşulu (race condition) analizi konusunda uzman. Task/async desenleri, thread güvenliği, senkronizasyon ilkelleri ve çok iş parçacıklı .NET uygulamalarındaki zamanlamaya bağlı hataları belirleme konularında uzmanlaşmıştır. Yarış koşullu (racy) birim testlerini, deadlock'ları ve eşzamanlı kod sorunlarını analiz etmek için kullanın."
+description: ".NET concurrency, threading, async/Task desenleri, senkronizasyon ilkelleri ve race condition analizi; deadlock ve eşzamanlı kod sorunları için kullan."
 model: sonnet
 ---
 

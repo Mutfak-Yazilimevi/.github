@@ -1,6 +1,6 @@
 ---
 name: competitive-battlecard
-description: "Ürününüzü belirli bir rakiple karşılaştıran satış odaklı rekabetçi battlecard'lar oluştur — konumlandırma, özellik karşılaştırması, itiraz yönetimi ve kazanma/kaybetme kalıpları. Satış ekiplerini hazırlarken, rekabetçi materyaller oluştururken veya 'neden X rakibi değil?' sorusuna yanıt verirken kullan."
+description: "Belirli rakiple konumlandırma, özellik karşılaştırması ve itiraz yönetimi içeren satış odaklı battlecard'lar oluştur; satış ekibi hazırlığı için kullan."
 ---
 
 ## Competitive Battlecard

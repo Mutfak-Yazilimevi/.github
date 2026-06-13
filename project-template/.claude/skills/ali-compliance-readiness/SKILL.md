@@ -1,6 +1,6 @@
 ---
 name: "compliance-readiness"
-description: "/cs:compliance-readiness <program> — Herhangi bir uyumluluk programının çok çerçeveli uyum görevlisi 6 soruluk zorlayıcı sorgulaması. Yeni bir çerçeve başlatmadan önce, yıllık denetim takvimini planlamak veya sertifikasyon aşama 1 hazırlığı için kullan."
+description: "Herhangi bir uyumluluk programı için çok çerçeveli 6 soruluk sorgulama; yeni çerçeve başlatma, yıllık denetim planlaması veya sertifikasyon aşama 1 için kullan."
 ---
 
 # /cs:compliance-readiness — Compliance Officer Forcing Questions

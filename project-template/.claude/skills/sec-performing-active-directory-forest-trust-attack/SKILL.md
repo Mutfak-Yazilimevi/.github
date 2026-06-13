@@ -1,6 +1,6 @@
 ---
 name: performing-active-directory-forest-trust-attack
-description: "SID filtreleme analizi, güven anahtarı çıkarma, çapraz orman SID geçmişi kötüye kullanım tespiti ve ormanlar arası Kerberos bilet değerlendirmesi için impacket kullanarak Active Directory orman güven ilişkilerini numaralandırır ve denetler."
+description: "impacket ile Active Directory orman güven ilişkilerini numaralandırır; SID filtreleme, güven anahtarı çıkarma ve çapraz orman SID geçmişi kötüye kullanım tespiti için kullan."
 domain: cybersecurity
 subdomain: red-team
 tags:

@@ -1,6 +1,6 @@
 ---
 name: cohort-analysis
-description: "Kullanıcı etkileşim verileri üzerinde kohort analizi gerçekleştirir — tutma eğrileri, özellik benimseme eğilimleri ve segment düzeyinde içgörüler. Kohort bazında kullanıcı tutmayı analiz ederken, zaman içindeki özellik benimsemesini incelerken, churn kalıplarını araştırırken veya etkileşim eğilimlerini belirlerken kullan."
+description: "Kullanıcı etkileşim verilerinde kohort analizi: tutma eğrileri, özellik benimseme ve segment içgörüleri; churn kalıpları ve eğilim analizi için kullan."
 ---
 
 # Cohort Analysis & Retention Explorer

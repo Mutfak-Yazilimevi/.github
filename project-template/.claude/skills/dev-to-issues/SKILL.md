@@ -1,6 +1,6 @@
 ---
 name: to-issues
-description: "Bir plan, spec veya PRD'yi tracer-bullet dikey dilimleri kullanarak proje sorun izleyicisinde bağımsız olarak alınabilir sorunlara ayırır. Kullanıcı bir planı sorunlara dönüştürmek, uygulama biletleri oluşturmak veya işi sorunlara bölmek istediğinde kullanılır."
+description: "Plan, spec veya PRD'yi tracer-bullet dikey dilimleri olarak bağımsız alınabilir proje sorunlarına ayırır; uygulama biletleri oluşturma veya işi sorunlara bölme için kullan."
 ---
 
 # To Issues

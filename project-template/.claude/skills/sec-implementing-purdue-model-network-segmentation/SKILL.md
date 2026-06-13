@@ -1,6 +1,6 @@
 ---
 name: implementing-purdue-model-network-segmentation
-description: "OT ve BT etki alanları arasında sıkı trafik denetimi uygulayarak Düzey 0 fiziksel süreçten Düzey 5 kurumsal seviyeye kadar endüstriyel kontrol sistemi ağlarını hiyerarşik güvenlik bölgelerine ayırmak için Purdue Enterprise Referans Mimarisi (PERA) modeline dayalı ağ segmentasyonu uygula."
+description: "Purdue/PERA modeline göre ICS ağlarını Düzey 0-5 hiyerarşik güvenlik bölgelerine ayırır; OT-BT arası sıkı trafik denetimiyle ağ segmentasyonu uygular."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

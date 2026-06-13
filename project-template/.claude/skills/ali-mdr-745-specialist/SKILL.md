@@ -1,6 +1,6 @@
 ---
 name: "mdr-745-specialist"
-description: "Medikal cihaz sınıflandırması, teknik belgeler, klinik kanıtlar ve piyasa sonrası gözetim için EU MDR 2017/745 uyumluluk uzmanı. Ek VIII sınıflandırma kurallarını, Ek II/III teknik dosyalarını, Ek XIV klinik değerlendirmeyi ve EUDAMED entegrasyonunu kapsar."
+description: "EU MDR 2017/745 uyumluluk uzmanı; Ek VIII sınıflandırma, Ek II/III teknik dosyalar, Ek XIV klinik değerlendirme ve EUDAMED entegrasyonu için kullan."
 triggers:
   - MDR compliance
   - EU MDR

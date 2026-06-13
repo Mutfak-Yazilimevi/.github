@@ -1,6 +1,6 @@
 ---
 name: conducting-social-engineering-penetration-test
-description: "İnsan güvenliği direncini ölçmek ve eğitim açıklarını belirlemek için kimlik avı, vishing, smishing ve fiziksel pretexting kampanyaları dahil olmak üzere sosyal mühendislik penetrasyon testi tasarlar ve uygular."
+description: "Kimlik avı, vishing, smishing ve fiziksel pretexting kampanyaları dahil sosyal mühendislik penetrasyon testi tasarlar; insan güvenliği direnci ölçümü için kullan."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

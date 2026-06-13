@@ -1,6 +1,6 @@
 ---
 name: pr-review
-description: "MiniMax Skills deposu için pull request'leri inceler. PR inceleme, yeni skill gönderilerini doğrulama veya mevcut skill'leri uyumluluk açısından kontrol ederken kullan. Katı kontroller için önce doğrulama scriptini çalıştır, ardından içerik incelemesi için kalite yönergelerini uygula. Tetikleyiciler: PR inceleme, pull request, skill doğrulama, skill kontrolü."
+description: "MiniMax Skills deposu için PR inceleme, skill gönderisi doğrulama ve uyumluluk kontrolü; doğrulama scripti ve kalite yönergeleriyle kullan."
 license: MIT
 metadata:
   version: "1.0"

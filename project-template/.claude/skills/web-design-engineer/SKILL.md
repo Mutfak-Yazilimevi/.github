@@ -1,6 +1,6 @@
 ---
 name: web-design-engineer
-description: "HTML/CSS/JavaScript/React ile cilalı görsel web ürünleri oluşturur: sayfalar, panolar, prototipler, slayt desteleri, animasyonlar, UI mockup'ları ve veri görselleştirmeleri. Kullanıcı tarayıcıda işlenen, etkileşimli veya sunum amaçlı ön uç bir çıktı istediğinde kullan. Arka uç, CLI veya görsel olmayan kodlama görevleri için değil"
+description: "HTML/CSS/JS/React ile sayfalar, panolar, prototipler, animasyonlar ve veri görselleştirmeleri oluşturur; tarayıcıda işlenen ön uç çıktı için kullan, arka uç veya CLI için değil."
 ---
 
 # Web Design Engineer

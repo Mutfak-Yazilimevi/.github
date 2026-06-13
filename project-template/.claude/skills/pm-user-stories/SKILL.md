@@ -1,6 +1,6 @@
 ---
 name: user-stories
-description: "3 C (Kart, Konuşma, Onay) ve INVEST kriterlerini izleyerek açıklamalar, tasarım bağlantıları ve kabul kriterleriyle kullanıcı hikayeleri oluşturur. Kullanıcı hikayeleri yazarken, özellikleri backlog öğelerine ayırırken veya kabul kriterleri tanımlarken kullanılır."
+description: "3C (Kart/Konuşma/Onay) ve INVEST kriterli, kabul kriterleri dahil kullanıcı hikayeleri oluşturur; backlog ögesi yazma veya özellik ayrıştırma için kullan."
 ---
 # User Stories
 

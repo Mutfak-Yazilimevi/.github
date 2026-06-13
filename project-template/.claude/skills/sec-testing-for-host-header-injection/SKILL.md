@@ -1,6 +1,6 @@
 ---
 name: testing-for-host-header-injection
-description: "Parola sıfırlama zehirlenmesi, web önbellek zehirlenmesi, SSRF ve sanal host yönlendirme manipülasyonu risklerini tespit etmek için web uygulamalarını HTTP Host başlığı enjeksiyonu güvenlik açıkları açısından test eder."
+description: "Parola sıfırlama zehirlenmesi, web önbellek zehirlenmesi, SSRF ve sanal host yönlendirme riski için HTTP Host başlığı enjeksiyonunu test eder."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: tracking-threat-actor-infrastructure
-description: "Tehdit aktörü altyapısı takibi, komuta-kontrol (C2) sunucuları, kimlik avı domainleri, exploit kit ana bilgisayarları, kurşun geçirmez barındırma ve düşman tarafından kontrol edilen diğer varlıklar dahil olmak üzere izlemeyi ve haritalandırmayı içerir."
+description: "Tehdit aktörünün C2 sunucuları, phishing domainleri, exploit kit host'ları ve kurşun geçirmez barındırma altyapısını izler ve haritalandırır."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

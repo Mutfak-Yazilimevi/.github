@@ -1,6 +1,6 @@
 ---
 name: "intl-expansion"
-description: "Uluslararası pazar genişleme stratejisi. Pazar seçimi, giriş modları, yerelleştirme, düzenleyici uyumluluk ve bölgeye göre go-to-market. Yeni ülkelere genişlerken, uluslararası pazarları değerlendirirken, yerelleştirme planlarken veya bölgesel ekipler oluştururken kullan."
+description: "Uluslararası pazar genişleme stratejisi; pazar seçimi, giriş modları, yerelleştirme, düzenleyici uyumluluk ve bölgesel go-to-market için kullan."
 license: MIT
 metadata:
   version: 1.0.0

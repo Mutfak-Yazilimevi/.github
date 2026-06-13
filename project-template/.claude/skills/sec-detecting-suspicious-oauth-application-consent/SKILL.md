@@ -1,6 +1,6 @@
 ---
 name: detecting-suspicious-oauth-application-consent
-description: "Yasadışı onay verme saldırılarını belirlemek için Microsoft Graph API, denetim günlükleri ve izin analizini kullanarak Azure AD / Microsoft Entra ID'de riskli OAuth uygulama onay vermelerini tespit eder."
+description: "Microsoft Graph API ve denetim günlükleri ile Azure AD/Entra ID'de riskli OAuth uygulama onay vermelerini ve yasadışı onay verme saldırılarını tespit eder."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

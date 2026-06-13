@@ -1,6 +1,6 @@
 ---
 name: investigating-phishing-email-incident
-description: "SOC araçları olarak Splunk, Microsoft Defender ve sandbox analiz platformlarını kullanarak kimlik avı e-posta olaylarını ilk kullanıcı raporundan başlık analizine, URL/ek patlama işlemine, etkilenen kullanıcı tespitine ve kapsama eylemlerine kadar araştırır. Kapsam ve etkiyi belirlemek için bildirilen kimlik avı e-postasının tam olay soruşturması gerektiğinde kullan."
+description: "Splunk, Microsoft Defender ve sandbox ile kimlik avı e-posta olayını başlık analizinden URL/ek patlamaya, etkilenen kullanıcı tespitine ve kapsama kadar araştırır."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

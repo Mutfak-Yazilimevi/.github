@@ -1,6 +1,6 @@
 ---
 name: "tc-tracker"
-description: "Kullanıcı teknik değişiklikleri takip etmek, değişiklik kayıtları oluşturmak, TC yaşam döngülerini yönetmek veya AI oturumları arasında iş devretmek istediğinde kullan. Yapılandırılmış kod değişikliği belgelendirmesi için init/create/update/status/resume/close/export iş akışlarını kapsar."
+description: "Teknik değişiklikleri takip eder; init/create/update/status/resume/close/export iş akışlarıyla yapılandırılmış kod değişikliği belgelendirmesi ve oturumlar arası devir için kullan."
 ---
 
 # TC Tracker

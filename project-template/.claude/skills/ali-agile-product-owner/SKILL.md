@@ -1,6 +1,6 @@
 ---
 name: "agile-product-owner"
-description: "Backlog yönetimi ve sprint yürütme için Agile ürün sahipliği. Kullanıcı hikayesi yazımı, kabul kriterleri, sprint planlaması ve hız takibini kapsar. Kullanıcı hikayeleri yazarken, kabul kriterleri oluştururken, sprint planlama yaparken, hikaye puanlarını tahmin ederken, epic'leri parçalara ayırırken veya backlog'u önceliklendirirken kullan"
+description: "Kullanıcı hikayeleri, kabul kriterleri, sprint planlaması, hikaye puanları ve backlog önceliklendirmesi dahil Agile ürün sahipliği için kullan."
 not_for: Kanban-only workflows, waterfall project planning, general task management, non-Scrum agile frameworks (SAFe, LeSS) without adaptation
 triggers:
   - write user story

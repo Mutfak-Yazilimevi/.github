@@ -1,6 +1,6 @@
 ---
 name: web-design-guidelines
-description: "Web Arayüz Kuralları uyumluluğu için UI kodunu incele. Kullanıcı \"UI'mı incele\", \"erişilebilirliği kontrol et\", \"tasarımı denetle\", \"UX'i incele\" veya \"sitemin en iyi uygulamalara uygunluğunu kontrol et\" istediğinde kullan."
+description: "Web Arayüz Kuralları uyumluluğu için UI kodunu inceler; erişilebilirlik, UX ve en iyi uygulamaları denetler."
 argument-hint: <file-or-pattern>
 ---
 

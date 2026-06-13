@@ -1,6 +1,6 @@
 ---
 name: create-prd
-description: "Problem, hedefler, segmentler, değer önerileri, çözüm ve sürüm planlamasını kapsayan kapsamlı 8 bölümlü şablon kullanarak Ürün Gereksinimleri Belgesi oluştur. PRD yazarken, ürün gereksinimlerini belgelerken, özellik spesifikasyonu hazırlarken veya mevcut bir PRD'yi gözden geçirirken kullan."
+description: "Problem, hedefler, segmentler, değer önerileri, çözüm ve sürüm planlamasını kapsayan 8 bölümlü PRD şablonu oluşturur."
 ---
 
 # Create a Product Requirements Document

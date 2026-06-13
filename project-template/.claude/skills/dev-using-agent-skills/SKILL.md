@@ -1,6 +1,6 @@
 ---
 name: using-agent-skills
-description: "Ajan becerilerini keşfeder ve çağırır. Bir oturuma başlarken veya mevcut göreve hangi becerinin uygulanacağını bulmak istediğinde kullan. Bu, diğer tüm becerilerin nasıl keşfedilip çağrılacağını yöneten meta-beceridir."
+description: "Mevcut ajan becerilerini keşfeder ve çağırır; oturuma başlarken veya göreve hangi becerinin uygulanacağını bulmak için kullan. Diğer becerileri yöneten meta-beceri."
 ---
 
 # Using Agent Skills

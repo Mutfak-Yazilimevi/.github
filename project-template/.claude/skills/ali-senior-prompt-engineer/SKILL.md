@@ -1,6 +1,6 @@
 ---
 name: "senior-prompt-engineer"
-description: "Kullanıcı 'prompt'ları optimize et', 'prompt şablonları tasarla', 'LLM çıktılarını değerlendir', 'ajantik sistemler oluştur', 'RAG uygula', 'few-shot örnekleri oluştur', 'token kullanımını analiz et' veya 'AI iş akışları tasarla' istediğinde kullan. Prompt mühendisliği kalıpları, LLM değerlendirme framework'leri, ajan mimarileri ve yapılandırılmış çıktı tasarımı için kullan"
+description: "Prompt optimizasyonu, LLM değerlendirme, ajan mimarileri, RAG, few-shot örnekleri ve yapılandırılmış çıktı tasarımı için kullan; prompt/AI iş akışı isteklerinde tetiklenir."
 ---
 
 # Senior Prompt Engineer

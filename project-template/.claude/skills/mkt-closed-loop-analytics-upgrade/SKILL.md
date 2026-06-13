@@ -1,6 +1,6 @@
 ---
 name: closed-loop-analytics-upgrade
-description: "Değişikliklerin his yerine platform analitiğiyle değerlendirilmesi için pazarlama, içerik, SEO/AEO/GEO ve gelir becerilerini yükselt. X, YouTube, SEO, AEO/GEO, outbound, ücretli yaratıcı veya gelir iş akışlarına kapalı döngü öğrenimi uygularken kullan."
+description: "Pazarlama, SEO/AEO/GEO, içerik ve gelir becerilerini platform analitiğiyle kapalı döngü öğrenimine yükseltir; X, YouTube, outbound veya ücretli yaratıcı iş akışlarına uygularken kullan."
 ---
 
 # Closed-Loop Analytics Upgrade

@@ -1,6 +1,6 @@
 ---
 name: implementing-zero-trust-with-beyondcorp
-description: "GCP kaynaklarına ve dahili uygulamalara kimlik ve durum tabanlı erişimi zorunlu kılmak için Identity-Aware Proxy (IAP), bağlam duyarlı erişim politikaları, cihaz güveni doğrulaması ve Access Context Manager kullanarak Google BeyondCorp Enterprise sıfır güven erişim denetimleri dağıtır."
+description: "GCP'de IAP, bağlam duyarlı erişim politikaları, cihaz güveni ve Access Context Manager ile Google BeyondCorp Enterprise sıfır güven erişim denetimi dağıtır."
 domain: cybersecurity
 subdomain: zero-trust
 tags:

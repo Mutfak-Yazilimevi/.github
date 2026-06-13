@@ -1,6 +1,6 @@
 ---
 name: auditing-kubernetes-cluster-rbac
-description: "kubectl, rbac-tool, KubiScan ve Kubeaudit kullanarak aşırı izin veren rolleri, joker karakter izinlerini, tehlikeli ClusterRoleBinding'leri, service account kötüye kullanımını ve ayrıcalık yükseltme yollarını belirlemek için Kubernetes küme RBAC yapılandırmalarını denetler."
+description: "kubectl, rbac-tool, KubiScan, Kubeaudit ile K8s RBAC denetimi: aşırı izinler, joker karakterler, tehlikeli ClusterRoleBinding ve ayrıcalık yükseltme yolları."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: context-engineering
-description: "Ajan bağlamı kurulumunu optimize eder. Yeni bir oturum başlarken, ajan çıktı kalitesi düştüğünde, görevler arasında geçiş yaparken veya bir proje için kural dosyalarını ve bağlamı yapılandırmanız gerektiğinde kullan."
+description: "Ajan bağlam kurulumunu optimize eder; yeni oturum, kalite düşüşü veya kural/bağlam dosyası yapılandırması gerektiğinde kullan."
 ---
 
 # Context Engineering

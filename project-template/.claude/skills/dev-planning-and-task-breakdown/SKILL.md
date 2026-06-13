@@ -1,6 +1,6 @@
 ---
 name: planning-and-task-breakdown
-description: "Çalışmayı sıralı görevlere böler. Bir şartname veya net gereksinimlerin olduğunda ve çalışmayı uygulanabilir görevlere bölmek gerektiğinde kullan. Bir görev başlamak için fazla büyük hissettirdiğinde, kapsam tahmin etmek gerektiğinde veya paralel çalışma mümkün olduğunda kullan."
+description: "Gereksinimlerden sıralı görev listesi oluşturur; büyük iş kapsamı tahmininde, paralel çalışma planlamasında ve uygulanabilir adımlara bölmede kullan."
 ---
 
 # Planning and Task Breakdown

@@ -1,6 +1,6 @@
 ---
 name: scanning-infrastructure-with-nessus
-description: "Tenable Nessus, sunucular, iş istasyonları, ağ cihazları ve işletim sistemleri dahil olmak üzere ağ altyapısı genelinde güvenlik zayıflıklarını tespit etmek için kullanılan sektör lideri güvenlik açığı tarayıcısıdır."
+description: "Tenable Nessus ile sunucular, iş istasyonları ve ağ cihazları dahil altyapı genelinde güvenlik açığı taraması yapar."
 domain: cybersecurity
 subdomain: vulnerability-management
 tags:

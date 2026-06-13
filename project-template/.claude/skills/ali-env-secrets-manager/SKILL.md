@@ -1,6 +1,6 @@
 ---
 name: "env-secrets-manager"
-description: "Yerel geliştirme ve üretim genelinde ortam değişkeni hijyenini ve gizli güvenliğini yönet. Pratik denetim, sapma farkındalığı, rotasyon hazırlığı. .env dosyalarını işlenmiş gizliler için denetlerken, kimlik bilgisi rotasyonu planlarken, eksik ortam değişkeni üretim olaylarında hata ayıklarken veya yeni bir projeyi gizli sızıntısına karşı sertleştirirken kullan."
+description: ".env dosyası denetimi, kimlik bilgisi rotasyon planlaması ve gizli sızıntıya karşı proje sertleştirmesi dahil ortam değişkeni ve gizli güvenliğini yönetir."
 ---
 
 # Env & Secrets Manager

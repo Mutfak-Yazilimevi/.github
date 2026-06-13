@@ -1,6 +1,6 @@
 ---
 name: performing-threat-hunting-with-yara-rules
-description: "Dosya sistemleri ve bellek dökümleri genelinde kötü amaçlı yazılım, şüpheli dosyalar ve uzlaşma göstergelerini avlamak için YARA desen eşleştirme kurallarını kullan. Kural yazarlığını, yara-python taramasını ve tehdit istihbaratı beslemeleriyle entegrasyonu kapsar."
+description: "Dosya sistemleri ve bellek dökümlerinde kötü amaçlı yazılım ve IOC avlamak için YARA kuralları yazar, yara-python taraması ve tehdit istihbaratı entegrasyonu yapar."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

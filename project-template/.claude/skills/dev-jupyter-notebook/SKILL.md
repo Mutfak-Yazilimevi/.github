@@ -1,6 +1,6 @@
 ---
 name: "jupyter-notebook"
-description: "Kullanıcı deneyler, keşifler veya eğitimler için Jupyter notebook (.ipynb) oluşturmak, iskelet kurmak veya düzenlemek istediğinde kullan; temiz başlangıç notebook'u oluşturmak için `new_notebook.py` yardımcı scriptini çalıştır."
+description: "Jupyter notebook (.ipynb) oluşturur ve iskelet kurar; new_notebook.py yardımcısıyla deney, keşif veya eğitim notebook'ları için kullan."
 ---
 
 

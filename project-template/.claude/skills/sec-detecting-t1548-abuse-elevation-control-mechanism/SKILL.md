@@ -1,6 +1,6 @@
 ---
 name: detecting-t1548-abuse-elevation-control-mechanism
-description: "Kayıt defteri değişikliklerini, süreç yükseltme bayraklarını ve olağandışı ebeveyn-çocuk süreç ilişkilerini izleyerek UAC atlama, sudo istismarı ve setuid/setgid manipülasyonu dahil yükseltme kontrol mekanizmalarının kötüye kullanımını tespit eder."
+description: "UAC atlama, sudo istismarı ve setuid/setgid manipülasyonu dahil yükseltme kontrol mekanizması kötüye kullanımını (MITRE T1548) tespit eder."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

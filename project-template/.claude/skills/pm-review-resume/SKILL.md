@@ -1,6 +1,6 @@
 ---
 name: review-resume
-description: "XYZ+S formülü, anahtar kelime optimizasyonu, iş bazlı kişiselleştirme ve yapı dahil 10 en iyi uygulamaya karşı kapsamlı PM özgeçmiş incelemesi ve uyarlaması. PM özgeçmişini incelerken, iş başvurularına hazırlanırken veya özgeçmiş etkisini iyileştirirken kullan."
+description: "XYZ+S formülü, anahtar kelime optimizasyonu ve iş bazlı kişiselleştirme dahil 10 en iyi uygulamaya karşı PM özgeçmiş incelemesi ve uyarlaması için kullan."
 ---
 # Resume Review for Product Managers
 

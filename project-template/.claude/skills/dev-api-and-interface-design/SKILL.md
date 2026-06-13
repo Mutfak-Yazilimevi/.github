@@ -1,6 +1,6 @@
 ---
 name: api-and-interface-design
-description: "Kararlı API ve arayüz tasarımına rehberlik eder. API'ler, modül sınırları veya herhangi bir genel arayüz tasarlarken kullan. REST veya GraphQL endpoint'leri oluştururken, modüller arasında tip sözleşmeleri tanımlarken ya da frontend ile backend arasındaki sınırları belirlerken kullan."
+description: "Kararlı API ve arayüz tasarımına rehberlik eder; REST/GraphQL endpoint, modül tip sözleşmeleri veya frontend-backend sınır tasarımında kullan."
 ---
 
 # API and Interface Design

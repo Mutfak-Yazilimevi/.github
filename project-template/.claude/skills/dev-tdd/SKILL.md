@@ -1,6 +1,6 @@
 ---
 name: tdd
-description: "Kırmızı-yeşil-yeniden düzenle döngüsüyle test güdümlü geliştirme. Kullanıcı TDD kullanarak özellik geliştirmek veya hata düzeltmek istediğinde, \"kırmızı-yeşil-yeniden düzenle\"den bahsettiğinde, entegrasyon testleri istediğinde veya önce test geliştirme talep ettiğinde kullan."
+description: "Kırmızı-yeşil-yeniden düzenle döngüsüyle TDD; önce test geliştirme, entegrasyon testleri veya red-green-refactor istendiğinde kullan."
 ---
 
 # Test-Driven Development

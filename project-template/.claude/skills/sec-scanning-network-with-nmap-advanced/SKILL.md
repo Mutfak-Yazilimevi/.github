@@ -1,6 +1,6 @@
 ---
 name: scanning-network-with-nmap-advanced
-description: "Yetkili hedef ağlar genelinde ana bilgisayarları keşfetmek, servisleri numaralandırmak, güvenlik açıklarını tespit etmek ve işletim sistemlerini parmak izi almak için Nmap'in scripting motorunu, zamanlama kontrollerini, kaçınma tekniklerini ve çıktı ayrıştırmasını kullanarak gelişmiş ağ keşfi gerçekleştirir."
+description: "Nmap NSE, zamanlama kontrolü ve kaçınma teknikleriyle yetkili hedeflerde servis numaralandırma, zafiyet tespiti ve OS parmak izi alır."
 domain: cybersecurity
 subdomain: network-security
 tags:

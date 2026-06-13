@@ -1,6 +1,6 @@
 ---
 name: "migration-architect"
-description: "Sıfır kesinti süreli geçiş planlaması, uyumluluk doğrulaması ve geri alma stratejisi oluşturma. Minimal iş etkisiyle sistem, veritabanı ve altyapı geçişleri için araçlar. Veritabanı geçişi, altyapı kesimi, sistem değişimi veya açık geri alma yolları gerektiren yüksek riskli geçiş planlarken kullan."
+description: "Sıfır kesinti süreli geçiş planlaması, uyumluluk doğrulama ve geri alma stratejisi; veritabanı, altyapı ve sistem geçişleri için kullan."
 ---
 
 # Migration Architect

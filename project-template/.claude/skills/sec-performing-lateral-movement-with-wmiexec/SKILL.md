@@ -1,6 +1,6 @@
 ---
 name: performing-lateral-movement-with-wmiexec
-description: "Kırmızı takım tatbikatları sırasında gizli post-exploitation için Impacket wmiexec.py, CrackMapExec ve yerel WMI komutları dahil WMI tabanlı uzak yürütme teknikleri kullanarak Windows ağları genelinde yanal hareket gerçekleştirir."
+description: "Impacket wmiexec.py, CrackMapExec ve yerel WMI ile kırmızı takım tatbikatlarında Windows ağları genelinde gizli post-exploitation yanal hareket yapar."
 domain: cybersecurity
 subdomain: red-teaming
 tags:

@@ -1,6 +1,6 @@
 ---
 name: figma-implement-design
-description: "Figma tasarımlarını 1:1 görsel doğrulukla üretime hazır uygulama koduna dönüştürür. Figma dosyalarından UI kodu uygularken, kullanıcı \"implement design\", \"generate code\", \"implement component\" dediğinde, Figma URL'leri sağladığında veya Figma spec'lerine uyan bileşenler oluşturmasını istediğinde kullan. `use_figma` aracıyla Figma canvas yazmaları için `figma-use` kullan."
+description: "Figma tasarımlarını 1:1 görsel doğrulukla üretime hazır koda dönüştürür; \"implement design/component\", Figma URL paylaşımı veya spec uygulamasında kullan."
 ---
 
 # Implement Design

@@ -1,6 +1,6 @@
 ---
 name: analyzing-typosquatting-domains-with-dnstwist
-description: "Kuruluşunuzu hedef alan typosquatting, homograf kimlik avı ve marka taklidi alan adlarını tespit etmek için dnstwist kullanarak alan adı permütasyonları oluşturur ve kayıtlı benzer alan adlarını tanımlar."
+description: "dnstwist ile alan adı permütasyonları oluşturur; typosquatting, homograf phishing ve marka taklidi domainleri tespit eder."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

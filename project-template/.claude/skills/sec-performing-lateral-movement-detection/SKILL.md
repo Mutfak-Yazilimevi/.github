@@ -1,6 +1,6 @@
 ---
 name: performing-lateral-movement-detection
-description: "Windows olay günlükleri, ağ akış verileri ve uç nokta telemetrisinin SIEM korelasyonu kullanarak MITRE ATT&CK Yanal Hareket (TA0008) tekniklerine eşlenmiş Pass-the-Hash, PsExec, WMI yürütme, RDP pivoting ve SMB tabanlı yayılma dahil yanal hareket tekniklerini tespit eder."
+description: "SIEM korelasyonu ile Pass-the-Hash, PsExec, WMI, RDP pivoting ve SMB tabanlı yanal hareket (MITRE TA0008) tekniklerini tespit eder."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

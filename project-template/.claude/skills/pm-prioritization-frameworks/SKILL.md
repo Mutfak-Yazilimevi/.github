@@ -1,6 +1,6 @@
 ---
 name: prioritization-frameworks
-description: "Formüller, ne zaman kullanılacağına dair rehberlik ve şablonlarla 9 önceliklendirme çerçevesine referans kılavuzu — RICE, ICE, Kano, MoSCoW, Fırsat Puanı ve daha fazlası. Önceliklendirme yöntemi seçerken, RICE ile ICE gibi çerçeveleri karşılaştırırken veya farklı önceliklendirme yaklaşımlarının nasıl çalıştığını öğrenirken kullan."
+description: "RICE, ICE, Kano, MoSCoW, Fırsat Puanı dahil 9 önceliklendirme çerçevesine formül ve şablonlarla referans kılavuzu."
 ---
 
 ## Prioritization Frameworks Reference

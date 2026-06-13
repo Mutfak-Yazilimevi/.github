@@ -1,6 +1,6 @@
 ---
 name: performing-active-directory-penetration-test
-description: "Alan nesnelerini numaralandırmak, BloodHound ile saldırı yollarını keşfetmek, Kerberos zayıflıklarını istismar etmek, ADCS/DCSync aracılığıyla ayrıcalıkları yükseltmek ve alan ele geçirimini göstermek için odaklanmış bir Active Directory sızma testi yürütür."
+description: "Alan nesnelerini numaralandırır, BloodHound ile saldırı yolları keşfeder, Kerberos/ADCS/DCSync ayrıcalık yükseltme ve alan ele geçirimini test eden AD pentest yürütür."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

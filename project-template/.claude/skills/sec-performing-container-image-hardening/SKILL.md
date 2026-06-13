@@ -1,6 +1,6 @@
 ---
 name: performing-container-image-hardening
-description: "Bu beceri, güvenli üretime hazır görüntüler üretmek için saldırı yüzeyini en aza indirerek, gereksiz paketleri kaldırarak, çok aşamalı derlemeler uygulayarak, root olmayan kullanıcılar yapılandırarak ve CIS Docker Benchmark önerilerini uygulayarak konteyner görüntülerini sertleştirmeyi kapsar."
+description: "Saldırı yüzeyini azaltarak, gereksiz paketleri kaldırarak, çok aşamalı derleme ve CIS Docker Benchmark ile konteyner imajlarını sertleştirir."
 domain: cybersecurity
 subdomain: devsecops
 tags:

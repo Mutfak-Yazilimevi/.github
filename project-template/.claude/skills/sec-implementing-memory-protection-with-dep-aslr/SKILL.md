@@ -1,6 +1,6 @@
 ---
 name: implementing-memory-protection-with-dep-aslr
-description: "Bellek bozulma saldırılarını önlemek için DEP (Data Execution Prevention), ASLR (Address Space Layout Randomization), CFG (Control Flow Guard) ve diğer istismar azaltma mekanizmalarını uygular. Buffer overflow, ROP zinciri ve kod enjeksiyonuna karşı uç noktaları güçlendirirken kullan. Bellek koruması, istismar azaltma, DEP, ASLR veya CFG yapılandırması içeren istekler için etkinleşir."
+description: "Buffer overflow, ROP zinciri ve kod enjeksiyonuna karşı DEP, ASLR, CFG istismar azaltma mekanizmalarını uygular; bellek koruması yapılandırması için kullan."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

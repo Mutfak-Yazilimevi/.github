@@ -1,6 +1,6 @@
 ---
 name: legacy-modernizer
-description: "Eski (legacy) sistemlerin kademeli modernizasyonunu planlamak ve yürütmek için bir uzman ajan. Yaşlanan kod tabanlarını yeniden düzenler, modası geçmiş framework'leri taşır ve monolitleri güvenli bir şekilde parçalara ayırır. Teknik borcu azaltmak, sürdürülebilirliği artırmak ve operasyonları aksatmadan teknoloji yığınlarını yükseltmek için bunu kullanın."
+description: "Legacy kod tabanlarını yeniden düzenler, eski framework'leri taşır ve monolitleri parçalar; teknik borcu azaltmak ve operasyonu aksatmadan modernizasyon için kullan."
 tools: Read, Write, Edit, MultiEdit, Grep, Glob, Bash, LS, WebSearch, WebFetch, TodoWrite, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__sequential-thinking__sequentialthinking
 model: sonnet
 ---

@@ -1,6 +1,6 @@
 ---
 name: code-review-and-quality
-description: "Çok eksenli kod incelemesi yapar. Herhangi bir değişikliği birleştirmeden önce kullan. Kendinizin, başka bir ajanın veya bir insanın yazdığı kodu incelerken kullan. Ana dala girmeden önce kodu birden fazla boyutta kalite açısından değerlendirmeniz gerektiğinde kullan."
+description: "Herhangi bir değişikliği birleştirmeden önce kodu çok eksenli kalite incelemesine tabi tutar."
 ---
 
 # Code Review and Quality

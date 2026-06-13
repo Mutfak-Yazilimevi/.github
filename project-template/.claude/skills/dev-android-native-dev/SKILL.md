@@ -1,6 +1,6 @@
 ---
 name: android-native-dev
-description: "Android yerel uygulama geliştirme ve UI tasarım rehberi. Material Design 3, Kotlin/Compose geliştirme, proje yapılandırması, erişilebilirlik ve derleme sorun gidermeyi kapsar. Android yerel uygulama geliştirmeden önce oku."
+description: "Android yerel uygulama geliştirme rehberi; Material Design 3, Kotlin/Compose, proje yapılandırması, erişilebilirlik ve derleme sorun giderme için kullan."
 license: MIT
 metadata:
   version: "1.0.0"

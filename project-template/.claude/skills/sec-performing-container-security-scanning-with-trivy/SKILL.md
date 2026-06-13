@@ -1,6 +1,6 @@
 ---
 name: performing-container-security-scanning-with-trivy
-description: "SBOM oluşturma ve CI/CD entegrasyonuyla Aqua Security Trivy kullanarak konteyner görüntülerini, dosya sistemlerini ve Kubernetes manifest'lerini güvenlik açıkları, yanlış yapılandırmalar, açık sırlar ve lisans uyumluluğu sorunları açısından tarar."
+description: "Trivy ile konteyner imajları, dosya sistemleri ve Kubernetes manifest'lerini güvenlik açığı, yanlış yapılandırma, sır ve lisans uyumu için tarar; SBOM ve CI/CD entegrasyonu dahil."
 domain: cybersecurity
 subdomain: container-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: qa
-description: "Kullanıcının hataları veya sorunları konuşma yoluyla bildirdiği ve ajanın GitHub issue açtığı interaktif QA oturumu. Bağlam ve alan dili için arka planda kod tabanını araştırır. Kullanıcı hata bildirmek, QA yapmak, konuşarak issue açmak veya \"QA session\" demek istediğinde kullan."
+description: "Konuşma yoluyla hata bildirimi ve GitHub issue açma; arka planda kod tabanını araştırır. \"QA session\", hata bildirimi veya konuşarak issue açmak için kullan."
 ---
 
 # QA Session

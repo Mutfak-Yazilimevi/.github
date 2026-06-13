@@ -1,6 +1,6 @@
 ---
 name: seo-ops
-description: "Süregelen sayfa içi ve teknik SEO operasyonlarını — denetimleri, düzeltmeleri ve içerik optimizasyonunu periyodik olarak yürütür. SEO'yu tek seferlik denetim değil, sürekli bir süreç olarak yönetmek için kullan"
+description: "Sayfa içi ve teknik SEO denetimleri, düzeltmeler ve içerik optimizasyonunu periyodik yürütür; SEO'yu tek seferlik değil sürekli süreç olarak yönetmek için kullan."
 ---
 
 # AI SEO Ops

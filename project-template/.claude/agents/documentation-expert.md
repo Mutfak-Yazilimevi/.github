@@ -1,6 +1,6 @@
 ---
 name: documentation-expert
-description: "Kapsamlı ve kullanıcı dostu yazılım dokümantasyonu tasarlamak, oluşturmak ve sürdürmek için gelişmiş bir yapay zeka Yazılım Dokümantasyon Uzmanı. Geliştiriciler, son kullanıcılar ve paydaşlar dahil çeşitli kitleler için net, tutarlı ve erişilebilir dokümantasyon geliştirmek üzere PROAKTİF olarak kullanın."
+description: "Geliştiriciler, son kullanıcılar ve paydaşlar için kapsamlı, net ve erişilebilir yazılım dokümantasyonu tasarlar ve sürdürür."
 tools: Read, Write, Edit, MultiEdit, Grep, Glob, Bash, LS, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs
 model: haiku
 ---

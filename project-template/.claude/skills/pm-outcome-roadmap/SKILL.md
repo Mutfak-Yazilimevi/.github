@@ -1,6 +1,6 @@
 ---
 name: outcome-roadmap
-description: "Çıktı odaklı bir yol haritasını stratejik niyeti ileten sonuç odaklı birine dönüştürür. Girişimleri kullanıcı ve iş etkilerini yansıtan sonuç ifadeleri olarak yeniden yazar. Sonuç yol haritalarına geçerken, yol haritasını daha stratejik hale getirirken veya özellik listelerini sonuçlar olarak yeniden yazarken kullan"
+description: "Çıktı odaklı yol haritasını sonuç odaklıya dönüştürür; girişimleri kullanıcı/iş etkisi yansıtan sonuç ifadeleriyle yeniden yazar, özellik listelerini sonuçlaştırır."
 ---
 
 # Transform Roadmap to Outcome-Focused Format

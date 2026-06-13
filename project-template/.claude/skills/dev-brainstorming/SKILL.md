@@ -1,6 +1,6 @@
 ---
 name: brainstorming
-description: "Herhangi bir yaratıcı çalışmadan önce MUTLAKA kullan — özellik oluşturma, bileşen geliştirme, işlevsellik ekleme veya davranış değiştirme. Uygulamadan önce kullanıcı amacını, gereksinimleri ve tasarımı keşfeder."
+description: "Herhangi bir yaratıcı görevden önce kullan: özellik, bileşen, işlevsellik veya davranış değişikliği. Uygulamadan önce kullanıcı amacını ve tasarımı keşfeder."
 ---
 
 # Brainstorming Ideas Into Designs

@@ -1,6 +1,6 @@
 ---
 name: ppt-orchestra-skill
-description: "Sıfırdan çok slaytlı PowerPoint oluşturmayı planlar ve orkestre eder. Alt ajanlı tam deste oluşturmadan önce kullan: her slayt türünü sınıflandır, görsel çeşitliliği zorla, tipografi/aralık kurallarını belirle ve içerik sorunlarını yakalamak için metin tabanlı QA yürüt"
+description: "Alt ajanlı çok slaytlı PowerPoint oluşturmayı planlar ve orkestre eder; slayt türlerini sınıflandırır, görsel çeşitlilik ve tipografi kurallarını belirler, metin QA yapar."
 license: Proprietary. LICENSE.txt has complete terms
 ---
 

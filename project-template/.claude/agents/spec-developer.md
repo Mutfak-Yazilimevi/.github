@@ -1,6 +1,6 @@
 ---
 name: spec-developer
-description: "Spesifikasyonlara dayalı olarak özellikleri hayata geçiren uzman geliştirici. Mimari desenleri ve en iyi uygulamaları izleyerek temiz, bakımı kolay kod yazar. Birim testleri oluşturur, hata durumlarını ele alır ve kodun performans gereksinimlerini karşılamasını sağlar."
+description: "Spesifikasyonlardan temiz, bakımı kolay kod yazar; mimari desenleri izler, birim testleri oluşturur ve performans gereksinimlerini sağlar."
 tools: Read, Write, Edit, MultiEdit, Bash, Glob, Grep, TodoWrite
 model: sonnet
 ---

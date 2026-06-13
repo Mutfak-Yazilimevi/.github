@@ -1,6 +1,6 @@
 ---
 name: securing-aws-iam-permissions
-description: "Bu skill, cloud hesapları genelinde en az ayrıcalıklı erişimi uygulamak için AWS Identity and Access Management yapılandırmalarını sertleştirme konusunda uygulayıcılara rehberlik eder. Ele geçirilmiş kimliklerin patlama yarıçapını azaltmak amacıyla IAM politika kapsamını, izin sınırlarını, Access Analyzer entegrasyonunu ve kimlik bilgisi rotasyon stratejilerini kapsar."
+description: "AWS IAM yapılandırmalarını sertleştirip en az ayrıcalıklı erişim uygular; politika kapsamı, izin sınırları, Access Analyzer ve kimlik bilgisi rotasyonunu kapsar."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

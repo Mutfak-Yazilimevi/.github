@@ -1,6 +1,6 @@
 ---
 name: improve-codebase-architecture
-description: "CONTEXT.md'deki alan dili ve docs/adr/ içindeki kararlar rehberliğinde bir kod tabanında derinleştirme fırsatları bul. Kullanıcı mimariyi iyileştirmek, yeniden düzenleme fırsatları bulmak, sıkı eşleşmiş modülleri birleştirmek veya kod tabanını daha test edilebilir ve yapay zeka ile gezinilebilir hale getirmek istediğinde kullan."
+description: "CONTEXT.md ve docs/adr/ rehberliğinde mimariyi iyileştirme, yeniden düzenleme, sıkı eşleşme azaltma ve kod tabanını daha test edilebilir hale getirme fırsatları bulur."
 ---
 
 # Improve Codebase Architecture

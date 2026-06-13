@@ -1,6 +1,6 @@
 ---
 name: detecting-aws-iam-privilege-escalation
-description: "Aşırı izin veren politikaları, tehlikeli izin kombinasyonlarını ve en az ayrıcalık ihlallerini belirlemek için boto3 ve Cloudsplaining politika analizini kullanarak AWS IAM ayrıcalık yükseltme yollarını tespit eder."
+description: "boto3 ve Cloudsplaining ile aşırı izinli politikaları ve tehlikeli izin kombinasyonlarını analiz ederek AWS IAM ayrıcalık yükseltme yollarını tespit eder."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

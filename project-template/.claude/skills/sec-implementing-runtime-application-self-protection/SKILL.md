@@ -1,6 +1,6 @@
 ---
 name: implementing-runtime-application-self-protection
-description: "Java ve Python web uygulamaları için OpenRASP entegrasyonu, saldırı örüntüsü tespiti ve güvenlik ilkesi yapılandırmasını kapsayan, uygulama çalışma zamanı içinden saldırıları tespit etmek ve engellemek için Runtime Application Self-Protection (RASP) ajanlarını dağıt."
+description: "Java ve Python web uygulamaları için OpenRASP entegrasyonu ile çalışma zamanı içinden saldırıları tespit edip engelleyen RASP ajanları dağıtır."
 domain: cybersecurity
 subdomain: application-security
 tags:

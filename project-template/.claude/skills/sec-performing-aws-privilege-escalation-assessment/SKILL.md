@@ -1,6 +1,6 @@
 ---
 name: performing-aws-privilege-escalation-assessment
-description: "Pacu, CloudFox, Principal Mapper ve manuel IAM politika analizi teknikleri kullanarak kullanıcıların veya rollerin izinlerini yükseltmesine olanak tanıyan IAM yanlış yapılandırmalarını belirlemek için AWS ortamlarında yetkili ayrıcalık yükseltme değerlendirmeleri gerçekleştirir."
+description: "Pacu, CloudFox, Principal Mapper ile AWS IAM yanlış yapılandırmalarından ayrıcalık yükseltme yollarını tespit eden yetkili değerlendirme yapar."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

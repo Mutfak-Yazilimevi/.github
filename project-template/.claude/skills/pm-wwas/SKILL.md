@@ -1,6 +1,6 @@
 ---
 name: wwas
-description: "Neden-Ne-Kabul biçiminde ürün backlog öğeleri oluşturur — stratejik bağlamla bağımsız, değerli, test edilebilir öğeler. Yapılandırılmış backlog öğeleri yazarken, özellikleri iş öğelerine bölerken veya WWA biçimini kullanırken kullan."
+description: "Neden-Ne-Kabul biçiminde stratejik bağlamlı, bağımsız ve test edilebilir ürün backlog öğeleri oluşturur; WWA formatında backlog yazımı için kullan."
 ---
 # Why-What-Acceptance (WWA)
 

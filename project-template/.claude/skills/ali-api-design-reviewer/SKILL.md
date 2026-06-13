@@ -1,6 +1,6 @@
 ---
 name: "api-design-reviewer"
-description: "Otomatik linting, kırıcı değişiklik tespiti ve tasarım puan kartları içeren kapsamlı REST API tasarım incelemesi. API'ler yayına girmeden önce tutarsız kuralları, eksik sürümlemeyi ve tasarım sorunlarını yakalar. API uç noktaları ekleyen veya değiştiren bir PR incelerken, v2 geçişi için mevcut bir API'yi denetlerken veya bir ekip için API standartları oluştururken kullan."
+description: "Otomatik linting, kırıcı değişiklik tespiti ve puan kartıyla REST API tasarımını inceler. API PR, v2 geçişi veya ekip API standartları için kullan."
 ---
 
 # API Design Reviewer

@@ -1,6 +1,6 @@
 ---
 name: building-threat-intelligence-platform
-description: "Bir Threat Intelligence Platform (TIP) oluşturmak, tehdit istihbaratı toplamak, analiz etmek, zenginleştirmek ve yaymak için birden fazla CTI aracının birleşik bir sisteme dağıtılmasını ve entegre edilmesini kapsar. T"
+description: "Tehdit istihbaratı toplamak, analiz etmek, zenginleştirmek ve yaymak için çok CTI aracını birleştiren Threat Intelligence Platform (TIP) kurar."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

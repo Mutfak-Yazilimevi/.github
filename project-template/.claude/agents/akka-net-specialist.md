@@ -1,6 +1,6 @@
 ---
 name: akka-net-specialist
-description: "Akka.NET mimarisi, aktör sistemleri ve dağıtık hesaplama desenlerinde uzman. Aktör yaşam döngüsü sorunlarını, mesaj geçişi problemlerini, küme koordinasyonunu, kalıcılığı ve akış işlemeyi analiz etmekte uzmanlaşmıştır. Akka.NET'e özgü hata ayıklama, mimari kararlar ve aktör sistemi davranışını anlamak için kullanın."
+description: "Akka.NET aktör sistemi, mesaj geçişi, küme koordinasyonu, kalıcılık ve akış işleme analizi; Akka.NET mimarisi ve hata ayıklama için kullan."
 model: sonnet
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: "business-growth-skills"
-description: "Claude Code, Codex, Gemini CLI, Cursor, OpenClaw için 4 iş büyüme ajan skill'i ve eklentisi. Müşteri başarısı (sağlık puanlaması, churn), satış mühendisi (RFP), gelir operasyonları (pipeline, GTM), sözleşme ve teklif yazarı. Python araçları (yalnızca stdlib)."
+description: "Claude Code/Codex/Cursor için 4 iş büyüme skill: müşteri başarısı (churn), satış mühendisi (RFP), gelir operasyonları (GTM), sözleşme/teklif yazarı."
 version: 2.9.0
 author: Alireza Rezvani
 license: MIT

@@ -1,6 +1,6 @@
 ---
 name: observability-and-instrumentation
-description: "Üretimdeki davranışı görünür ve teşhis edilebilir kılmak için kodu enstrümante eder. Günlük kaydı, metrik, izleme veya uyarı eklerken kullan. Üretimde çalışan herhangi bir özelliği gönderirken ve çalıştığına dair kanıta ihtiyaç duyulduğunda kullan. Üretim sorunları bildirildiğinde ancak mevcut verilerden ne olduğu anlaşılamadığında kullan."
+description: "Üretim davranışını görünür kılmak için günlük, metrik, izleme ve uyarı ekler. Özellik gönderirken veya üretim sorunları teşhis edilirken kullan."
 ---
 
 # Observability and Instrumentation

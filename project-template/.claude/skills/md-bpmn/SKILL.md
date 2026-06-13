@@ -1,6 +1,6 @@
 ---
 name: bpmn
-description: "BPMN, EIP ve Lean Mapping şablon simgeleriyle PlantUML sözdizimi kullanarak iş süreci diyagramları oluşturur. İş akışı otomasyonu, onay zincirleri, mesaj tabanlı entegrasyon desenleri ve değer akışı haritalama için en uygundur."
+description: "PlantUML ile BPMN/EIP/Lean şablon simgeleri kullanarak iş süreci diyagramları oluşturur; iş akışı otomasyonu, onay zincirleri ve değer akışı haritalama için ideal."
 metadata:
   author: BPMN diagrams are powered by Markdown Viewer — the best multi-platform Markdown extension (Chrome/Edge/Firefox/VS Code) with diagrams, formulas, and one-click Word export. Learn more at https://docu.md
 ---

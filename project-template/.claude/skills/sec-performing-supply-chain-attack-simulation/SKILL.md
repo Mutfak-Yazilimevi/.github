@@ -1,6 +1,6 @@
 ---
 name: performing-supply-chain-attack-simulation
-description: "Levenshtein mesafesi ile yazım hatası tabanlı paket tespiti, özel registry'lere karşı bağımlılık karışıklığı testi, pip ile paket hash doğrulaması ve pip-audit ile bilinen güvenlik açığı taraması dahil olmak üzere yazılım tedarik zinciri saldırılarını simüle eder ve tespit eder."
+description: "Yazım hatası tabanlı paket tespiti, bağımlılık karışıklığı testi, pip hash doğrulama ve pip-audit ile yazılım tedarik zinciri saldırılarını simüle eder ve tespit eder."
 domain: cybersecurity
 subdomain: application-security
 tags:

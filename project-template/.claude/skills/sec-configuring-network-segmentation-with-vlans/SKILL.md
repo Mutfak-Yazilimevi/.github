@@ -1,6 +1,6 @@
 ---
 name: configuring-network-segmentation-with-vlans
-description: "Ağ bölgelerini izole etmek, segmentler arasında erişim kontrolünü uygulamak ve kurumsal ağ ortamlarında yanal hareket yollarını sınırlayarak saldırı yüzeyini azaltmak için yönetilen anahtarlar üzerinde VLAN tabanlı ağ segmentasyonu tasarlar ve uygular."
+description: "Yönetilen anahtarlar üzerinde VLAN tabanlı ağ segmentasyonu tasarlar; bölgeler arası erişim kontrolü ve yanal hareket yollarını sınırlar."
 domain: cybersecurity
 subdomain: network-security
 tags:

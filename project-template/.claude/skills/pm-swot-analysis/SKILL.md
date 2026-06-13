@@ -1,6 +1,6 @@
 ---
 name: swot-analysis
-description: "Eyleme dönük önerilerle birlikte güçlü yönler, zayıf yönler, fırsatlar ve tehditler içeren ayrıntılı bir SWOT analizi yapar. Stratejik değerlendirme, rekabet analizi veya bir ürün ya da iş pozisyonunu değerlendirirken kullan."
+description: "Eyleme dönük önerilerle SWOT analizi yapar; stratejik değerlendirme, rekabet analizi ve ürün/iş pozisyonu incelemesi için kullan."
 ---
 # SWOT Analysis
 

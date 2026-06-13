@@ -1,6 +1,6 @@
 ---
 name: performing-clickjacking-attack-test
-description: "Yetkili güvenlik değerlendirmeleri sırasında çerçeve gömme denetimlerini değerlendirerek ve kavram kanıtı katman saldırıları oluşturarak web uygulamalarını clickjacking güvenlik açıkları açısından test eder."
+description: "Yetkili güvenlik değerlendirmelerinde çerçeve gömme denetimlerini test eder ve PoC katman saldırıları oluşturarak clickjacking açıklarını tespit eder."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

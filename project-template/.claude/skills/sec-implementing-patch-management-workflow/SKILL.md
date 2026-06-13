@@ -1,6 +1,6 @@
 ---
 name: implementing-patch-management-workflow
-description: "Yama yönetimi, bir kuruluşun BT altyapısındaki güvenlik açıklarını gidermek için yazılım güncellemelerini tanımlama, test etme, dağıtma ve doğrulamanın sistematik sürecidir. Etkili bir yama yönetimi kritik öneme sahiptir."
+description: "BT altyapısında güvenlik açıklarını gidermek için yazılım güncellemelerini tanımlama, test etme, dağıtma ve doğrulama sistematik yama yönetimi iş akışı için kullan."
 domain: cybersecurity
 subdomain: vulnerability-management
 tags:

@@ -1,6 +1,6 @@
 ---
 name: "playwright-pro"
-description: "Üretim düzeyinde Playwright test araç takımı. Kullanıcı Playwright testleri, uçtan uca test, tarayıcı otomasyonu, kararsız testleri düzeltme, test göçü, CI/CD testi veya test paketleri hakkında konuştuğunda kullan. Testler oluşturur, kararsız hataları düzeltir, Cypress/Selenium'dan geçiş yapar, TestRail ile senkronize eder, BrowserStack'te çalıştırır. 55 şablon, 3 ajan, akıllı raporlama."
+description: "Üretim Playwright araç takımı: E2E test oluşturma, kararsız test düzeltme, Cypress/Selenium göçü, TestRail senkronizasyonu, BrowserStack. 55 şablon."
 ---
 
 # Playwright Pro

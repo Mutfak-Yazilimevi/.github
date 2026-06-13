@@ -1,6 +1,6 @@
 ---
 name: "browserstack"
-description: "BrowserStack üzerinde testler çalıştırır. Kullanıcı \"browserstack\", \"cross-browser\", \"cloud testing\", \"browser matrix\", \"test on safari\", \"test on firefox\" veya \"browser compatibility\" dediğinde kullan."
+description: "BrowserStack üzerinde cross-browser/cloud testing çalıştırır; \"browserstack\", \"browser compatibility\", \"test on safari/firefox\" gibi ifadelerde kullan."
 ---
 
 # BrowserStack Integration

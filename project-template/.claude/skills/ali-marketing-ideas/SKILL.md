@@ -1,6 +1,6 @@
 ---
 name: "marketing-ideas"
-description: "Kullanıcının SaaS veya yazılım ürünü için pazarlama fikirleri, ilham veya stratejilere ihtiyaç duyduğunda kullan. Ayrıca kullanıcı 'marketing ideas', 'growth ideas', 'how to market', 'marketing strategies', 'marketing tactics', 'ways to promote' veya 'ideas to grow' dediğinde kullan. Bu beceri kategori bazında düzenlenmiş 139 kanıtlanmış pazarlama yaklaşımı sunar."
+description: "SaaS/yazılım ürünleri için kategori bazlı 139 kanıtlanmış pazarlama yaklaşımı sunar; \"marketing ideas\", \"growth ideas\", \"how to market\" gibi ifadelerde kullan."
 license: MIT
 metadata:
   version: 1.0.0

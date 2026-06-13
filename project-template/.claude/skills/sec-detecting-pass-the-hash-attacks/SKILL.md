@@ -1,6 +1,6 @@
 ---
 name: detecting-pass-the-hash-attacks
-description: "NTLM kimlik doğrulama kalıplarını analiz ederek, Kerberos beklenirken NTLM ile Type 3 oturum açmalarını belirleyerek ve kimlik bilgisi dökümü ile ilişkilendirerek Pass-the-Hash saldırılarını tespit eder."
+description: "NTLM kimlik doğrulama kalıplarını ve kimlik bilgisi dökümünü analiz ederek Pass-the-Hash saldırılarını tespit eder."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

@@ -1,6 +1,6 @@
 ---
 name: performing-network-packet-capture-analysis
-description: "Ağ iletişimlerini yeniden oluşturmak, aktarılan dosyaları çıkarmak, kötü amaçlı trafiği tespit etmek ve veri sızdırma ya da komuta-kontrol faaliyetlerinin kanıtını ortaya koymak için Wireshark, tshark ve tcpdump kullanarak ağ paket yakalamalarının (PCAP/PCAPNG) adli analizini gerçekleştirir."
+description: "Wireshark/tshark/tcpdump ile PCAP/PCAPNG analizinde ağ iletişimi yeniden oluşturur, dosya çıkarır ve C2/veri sızdırma kanıtı ortaya koyar."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

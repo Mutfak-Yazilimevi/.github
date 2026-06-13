@@ -1,6 +1,6 @@
 ---
 name: dummy-dataset
-description: "Özelleştirilebilir sütunlar, kısıtlamalar ve çıktı formatlarıyla (CSV, JSON, SQL, Python betiği) test için gerçekçi sahte veri setleri oluşturur. Test verisi oluştururken, sahte veri setleri kurarken veya geliştirme ve demolar için örnek veriler üretirken kullan."
+description: "Özelleştirilebilir sütunlar ve kısıtlamalarla CSV/JSON/SQL/Python formatında gerçekçi sahte veri setleri oluşturur; test ve demo için kullan."
 ---
 # Dummy Dataset Generation
 

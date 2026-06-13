@@ -1,6 +1,6 @@
 ---
 name: implementing-pci-dss-compliance-controls
-description: "PCI DSS 4.0.1, kart sahibi verilerini depolayan, işleyen veya ileten kuruluşlar için 6 kontrol hedefi kapsamında 12 gereklilik belirler. PCI DSS 3.2.1 Nisan 2024'te kullanımdan kaldırılmış ve 51 yeni gereklilik eklenmiştir."
+description: "Kart sahibi verileri saklayan/işleyen/ileten kuruluşlar için PCI DSS 4.0.1 kapsamında 12 gereklilik ve uyumluluk kontrolleri uygular."
 domain: cybersecurity
 subdomain: compliance-governance
 tags:

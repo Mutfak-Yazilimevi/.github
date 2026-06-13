@@ -1,6 +1,6 @@
 ---
 name: figma-code-connect-components
-description: "Figma tasarım bileşenlerini Code Connect eşleme araçları kullanarak kod bileşenlerine bağlar. Kullanıcı 'code connect', 'bu bileşeni koda bağla', 'bu bileşeni eşle', 'bileşeni koda link et', 'code connect eşlemesi oluştur' dediğinde veya Figma tasarımları ile kod uygulamaları arasında eşleme kurmak istediğinde kullan. `use_figma` ile canvas yazmaları için `figma-use`'u kullan"
+description: "Figma tasarım bileşenlerini Code Connect eşleme araçlarıyla kod bileşenlerine bağlar; \"code connect\", \"bileşeni koda bağla\" veya tasarım-kod eşlemesi için kullan."
 ---
 
 # Code Connect Components

@@ -1,6 +1,6 @@
 ---
 name: "fda-consultant-specialist"
-description: "Medikal cihaz şirketleri için FDA düzenleyici danışmanı. 510(k)/PMA/De Novo yol gösterimi, QSR (21 CFR 820) uyumluluğu, HIPAA değerlendirmeleri ve cihaz siber güvenliği sağlar. Kullanıcı FDA başvurusu, 510(k), PMA, De Novo, QSR, premarket, predicate device, substantial equivalence, HIPAA medikal cihaz veya FDA siber güvenliği dediğinde kullan."
+description: "Medikal cihaz şirketleri için FDA düzenleyici danışmanı; 510(k)/PMA/De Novo, QSR (21 CFR 820), HIPAA ve cihaz siber güvenliği konularında kullan."
 ---
 
 # FDA Consultant Specialist

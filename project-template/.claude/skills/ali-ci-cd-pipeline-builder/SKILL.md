@@ -1,6 +1,6 @@
 ---
 name: "ci-cd-pipeline-builder"
-description: "Algılanan proje yığını sinyallerinden pragmatik CI/CD pipeline'ları oluşturur — hızlı temel oluşturma, tekrarlanabilir kontroller, ortam farkında dağıtım aşamaları. Yeni bir proje için CI kurarken, mevcut pipeline'ları yeniden düzenlerken veya birden fazla repo genelinde dağıtım iş akışlarını standartlaştırırken kullan."
+description: "Proje yığını sinyallerinden hızlı CI/CD pipeline'ları oluşturur; yeni CI kurulumu, pipeline yeniden düzenleme veya çok-repo dağıtım standardizasyonu için kullan."
 ---
 
 # CI/CD Pipeline Builder

@@ -1,6 +1,6 @@
 ---
 name: ppt-editing-skill
-description: "XML güvenli iş akışlarıyla mevcut PowerPoint dosyalarını veya şablonları düzenler. Şablon tabanlı deste güncellemeleri için kullan: düzenleri analiz et, içeriği slaytlara eşle, slaytları güvenle kopyala/yeniden sırala/sil, slayt XML'ini paralel düzenle, yalnız kalmış varlıkları temizle ve doğrulanmış PPTX çıktısını yeniden paketle"
+description: "XML güvenli iş akışlarıyla mevcut PowerPoint şablonlarını düzenler; düzen analizi, içerik eşleme, slayt kopyalama/yeniden sıralama ve PPTX yeniden paketleme için kullan."
 license: Proprietary. LICENSE.txt has complete terms
 ---
 

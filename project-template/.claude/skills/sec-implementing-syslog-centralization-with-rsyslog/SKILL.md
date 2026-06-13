@@ -1,6 +1,6 @@
 ---
 name: implementing-syslog-centralization-with-rsyslog
-description: "TLS şifrelemesi, özel şablonlar ve log rotasyonu ile merkezi log toplama için rsyslog yapılandırır. GnuTLS stream sürücüleri, x509 sertifika kimlik doğrulaması, sunucu başına log ayrıştırması ve yüksek kullanılabilirlikli syslog altyapısı için güvenilir kuyruk ayarlarıyla sunucu ve istemci yapılandırma dosyaları üretir."
+description: "TLS şifrelemesi, GnuTLS stream sürücüleri, x509 kimlik doğrulama ve güvenilir kuyruklar ile merkezi rsyslog log toplama altyapısı yapılandırır."
 domain: cybersecurity
 subdomain: security-operations
 tags:

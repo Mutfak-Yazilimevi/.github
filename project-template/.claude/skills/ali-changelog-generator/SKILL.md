@@ -1,6 +1,6 @@
 ---
 name: "changelog-generator"
-description: "Conventional Commits'ten tutarlı, denetlenebilir sürüm notları üretir. Otomatik sürümler için editorial kontrol ile commit ayrıştırma, semantic-bump mantığı ve changelog oluşturmayı birbirinden ayırır. Sürüm keserken, git geçmişinden CHANGELOG.md oluştururken veya CI'da sürüm notlarını otomatikleştirirken kullan."
+description: "Conventional Commits'ten semantic-bump, commit ayrıştırma ve CHANGELOG.md üretimini ayırır; sürüm kesme ve CI changelog otomasyonu için kullan."
 ---
 
 # Changelog Generator

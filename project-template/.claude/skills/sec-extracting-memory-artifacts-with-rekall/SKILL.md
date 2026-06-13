@@ -1,6 +1,6 @@
 ---
 name: extracting-memory-artifacts-with-rekall
-description: "Windows bellek görüntülerinden adli artifaktlar çıkarmak için pslist, psscan, vadinfo, malfind ve dlllist gibi eklentileri uygulayarak process hollowing, VAD anomalileri aracılığıyla enjekte edilmiş kod, gizli süreçler ve rootkit tespiti için bellek dökümlerini analiz etmek amacıyla Rekall bellek adli bilişim çerçevesini kullanır. Olay müdahalesi bellek analizi sırasında kullanın."
+description: "Rekall ile Windows bellek görüntülerinden pslist/psscan/malfind eklentileri kullanarak process hollowing, rootkit ve enjekte kod adli tespiti yapar."
 domain: cybersecurity
 subdomain: security-operations
 tags:

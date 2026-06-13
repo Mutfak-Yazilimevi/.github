@@ -1,6 +1,6 @@
 ---
 name: auditing-aws-s3-bucket-permissions
-description: "En az ayrıcalıklı veri erişim denetimlerini uygulamak amacıyla AWS CLI, S3audit ve Prowler kullanarak herkese açık bucket'ları, aşırı izin veren ACL'leri, yanlış yapılandırılmış bucket politikalarını ve eksik şifreleme ayarlarını belirlemek için AWS S3 bucket izinlerini sistematik biçimde denetler."
+description: "AWS CLI, S3audit ve Prowler ile herkese açık S3 bucket'ları, aşırı izinli ACL'leri ve eksik şifreleme ayarlarını denetler."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

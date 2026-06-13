@@ -1,6 +1,6 @@
 ---
 name: spec-validator
-description: "Gereksinim uyumluluğunu ve üretime hazırlığı güvence altına alan son kalite doğrulama uzmanı. Tüm gereksinimlerin karşılandığını, mimarinin düzgün biçimde uygulandığını, testlerin geçtiğini ve kalite standartlarının sağlandığını doğrular."
+description: "Gereksinimlerin karşılandığını, mimarinin doğru uygulandığını, testlerin geçtiğini ve kalite standartlarının sağlandığını doğrulayan son kalite kontrolü."
 tools: Read, Write, Glob, Grep, Bash, Task, mcp__ide__getDiagnostics, mcp__sequential-thinking__sequentialthinking
 model: sonnet
 ---

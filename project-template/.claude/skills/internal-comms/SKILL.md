@@ -1,6 +1,6 @@
 ---
 name: internal-comms
-description: "Her türlü iç iletişimi, şirketimin kullandığı biçimlere uygun olarak yazmama yardımcı olan kaynak seti. Bir tür iç iletişim (durum raporları, liderlik güncellemeleri, 3P güncellemeleri, şirket bültenleri, SSS'ler, olay raporları, proje güncellemeleri vb.) yazması istendiğinde Claude bu beceriyi kullanmalıdır."
+description: "Durum raporları, liderlik güncellemeleri, olay raporları, bültenler ve SSS gibi her türlü iç iletişimi şirkete uygun biçimde yazmak için kullan."
 license: Complete terms in LICENSE.txt
 ---
 

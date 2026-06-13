@@ -1,6 +1,6 @@
 ---
 name: dotnet-architecture-selection
-description: "Doğru .NET uygulama mimarisini seçer — Monolitik, N-Tier, Clean (Onion), Vertical Slice, Mikroservisler, CQRS veya Event-Driven — somut artılar/eksiler ve en uygun rehberlikle. Yeni bir .NET çözümüne başlarken, mimari değişiklik veya geçişi değerlendirirken, yapısal kararı gerekçelendirirken veya desenleri nasıl birleştireceğine karar verirken kullan (ör. Clean + Vertical Slice + CQRS)."
+description: ".NET için Monolitik, Clean, Vertical Slice, CQRS, Mikroservisler vb. mimari seçer; yeni çözüm başlatırken veya mimari değişikliği gerekçelendirirken kullan."
 ---
 
 # .NET Core — Architecture Selection

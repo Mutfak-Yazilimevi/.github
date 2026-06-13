@@ -1,6 +1,6 @@
 ---
 name: implementing-ot-network-traffic-analysis-with-nozomi
-description: "Davranışsal anomali tespiti ve protokol bilinçli izlemeden yararlanarak operasyonları aksatmadan endüstriyel kontrol sistemleri genelinde kapsamlı varlık görünürlüğü, gerçek zamanlı tehdit tespiti ve güvenlik açığı değerlendirmesi elde etmek için pasif OT ağ trafiği analizi amacıyla Nozomi Networks Guardian sensörlerini dağıt."
+description: "Nozomi Networks Guardian sensörleriyle pasif OT ağ trafiği analizi; ICS genelinde varlık görünürlüğü, gerçek zamanlı tehdit tespiti ve güvenlik açığı değerlendirmesi sağlar."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: performing-ssl-stripping-attack
-description: "Kullanıcıları şifreli bağlantılardaki düşürme saldırılarından koruyan HSTS uygulamasını, sertifika doğrulamasını ve HTTPS yükseltme mekanizmalarını test etmek amacıyla yetkili ortamlarda sslstrip, Bettercap ve mitmproxy kullanarak SSL stripping saldırılarını simüle eder."
+description: "Yetkili ortamlarda sslstrip/Bettercap/mitmproxy ile SSL stripping simüle eder; HSTS, sertifika doğrulama ve HTTPS yükseltme mekanizmalarını test eder."
 domain: cybersecurity
 subdomain: network-security
 tags:

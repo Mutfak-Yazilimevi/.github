@@ -1,6 +1,6 @@
 ---
 name: caveman
-description: "Ultra sıkıştırılmış iletişim modu. Dolgu sözcükleri, tanımlayıcıları ve nezaket ifadelerini bırakarak token kullanımını ~%75 azaltır; tam teknik doğruluğu korur. Kullanıcı \"caveman mode\", \"talk like caveman\", \"use caveman\", \"less tokens\", \"be brief\" dediğinde veya /caveman çağırdığında kullan."
+description: "Token kullanımını ~%75 azaltan ultra sıkıştırılmış mod; teknik doğruluğu korur. \"caveman mode\", \"less tokens\", \"be brief\" veya /caveman ile tetikle."
 license: MIT
 metadata:
   derived_from: "https://github.com/mattpocock/skills/tree/main/skills/productivity/caveman"

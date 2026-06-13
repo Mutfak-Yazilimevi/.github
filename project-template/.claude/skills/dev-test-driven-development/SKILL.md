@@ -1,6 +1,6 @@
 ---
 name: test-driven-development
-description: "Geliştirmeyi testlerle sürdürür. Herhangi bir mantığı uygularken, herhangi bir hatayı düzeltirken veya herhangi bir davranışı değiştirirken kullan. Kodun çalıştığını kanıtlamanız gerektiğinde, bir hata raporu geldiğinde veya mevcut işlevselliği değiştirmek üzereyken kullan."
+description: "Herhangi bir mantık uygularken, hata düzeltirken veya davranış değiştirirken geliştirmeyi testlerle sürdürür."
 ---
 
 # Test-Driven Development

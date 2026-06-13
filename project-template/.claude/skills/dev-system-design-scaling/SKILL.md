@@ -1,6 +1,6 @@
 ---
 name: system-design-scaling
-description: "Büyüme aşamaları boyunca bir sistemi ölçeklendirir — yaklaşık 1K (erken/MVP), 1M (ölçekleme) ve 10M+ (kurumsal) kullanıcı. Mimari, veritabanı, API tasarımı, trafik yönetimi, önbellekleme, kuyruk, dağıtım, gözlemlenebilirlik, hata toleransı ve veri tutarlılığı stratejilerini MEVCUT ölçeğe uygun şekilde seçerken veya MVP'den kurumsala gereksiz karmaşıklık olmadan evrim yolunu planlarken kullanılır."
+description: "1K→1M→10M+ kullanıcı büyüme aşamalarında mimari, DB, API, önbellekleme, kuyruk, gözlemlenebilirlik ve hata toleransı stratejileri seçerken veya MVP'den kurumsala evrim planlarken kullan."
 ---
 
 # System Design — Scaling by Stage

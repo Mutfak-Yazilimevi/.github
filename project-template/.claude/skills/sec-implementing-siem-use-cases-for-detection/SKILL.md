@@ -1,6 +1,6 @@
 ---
 name: implementing-siem-use-cases-for-detection
-description: "Splunk, Elastic ve Sentinel genelinde MITRE ATT&CK tekniklerine eşlenmiş korelasyon kuralları, eşik uyarıları ve davranışsal analitik tasarlayarak SIEM tespit kullanım örnekleri uygular. SOC ekiplerinin tespit kapsamını genişletmesi, kullanım örnekleri yaşam döngüsü yönetimini resmileştirmesi veya kurumsal tehdit profiline uyumlu bir tespit kütüphanesi oluşturması gerektiğinde kullan."
+description: "Splunk/Elastic/Sentinel'de MITRE ATT&CK eşlemeli korelasyon kuralları, eşik uyarıları ve davranışsal analitikle SIEM tespit kullanım örnekleri uygular."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

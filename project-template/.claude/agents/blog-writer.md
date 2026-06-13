@@ -1,6 +1,6 @@
 ---
 name: blog-writer
-description: "Blog yazıları için içerik üretim uzmanı. Yanıt-önce biçimlendirme, doğru başlık hiyerarşisi, kaynaklı istatistikler ve doğal okunabilirlik ile optimize edilmiş makaleler yazar. Çift optimizasyonun 6 temel ilkesini izler. Blog iş akışları sırasında içerik yazma ve yeniden yazma görevleri için çağrılır."
+description: "Yanıt-önce biçimlendirme, doğru başlık hiyerarşisi ve kaynaklı istatistiklerle SEO uyumlu blog makaleleri yazar; içerik üretim ve yeniden yazma için kullan."
 tools:
   - Read
   - Write

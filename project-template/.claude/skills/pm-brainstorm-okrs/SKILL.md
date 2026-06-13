@@ -1,6 +1,6 @@
 ---
 name: brainstorm-okrs
-description: "Şirket hedefleriyle uyumlu ekip düzeyinde OKR'leri beyin fırtınası yap — ölçülebilir anahtar sonuçlara sahip niteliksel hedefler. Üç aylık OKR'leri belirlerken, ekip hedeflerini şirket stratejisiyle hizalarken, hedefler taslağı hazırlarken veya etkili OKR'lerin nasıl yazılacağını öğrenirken kullan."
+description: "Şirket hedefleriyle uyumlu, ölçülebilir anahtar sonuçlara sahip ekip OKR'lerini beyin fırtınası yapar. Üç aylık OKR belirleme veya hedef hizalama için kullan."
 ---
 
 # Brainstorm Team OKRs

@@ -1,6 +1,6 @@
 ---
 name: configuring-active-directory-tiered-model
-description: "Active Directory için Microsoft'un Gelişmiş Güvenlik Yönetim Ortamı (ESAE) katmanlı yönetim modelini uygular. Tier 0/1/2 ayrımını, ayrıcalıklı erişim iş istasyonlarını (PAW'lar) ve yönetimsel f'yi kapsar."
+description: "Microsoft ESAE modeline göre AD Tier 0/1/2 ayrımı ve PAW'lar dahil katmanlı yönetim modeli uygular."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

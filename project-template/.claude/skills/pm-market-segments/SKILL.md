@@ -1,6 +1,6 @@
 ---
 name: market-segments
-description: "Demografik, JTBD ve ürün uyumu analiziyle 3-5 potansiyel müşteri segmenti tanımla. Pazar segmentlerini keşfederken, hedef kitleleri belirlerken, yeni pazarları değerlendirirken veya bir pazarı nasıl segmentlere ayıracağını öğrenirken kullan."
+description: "Demografik, JTBD ve ürün uyumu analiziyle 3-5 potansiyel müşteri segmenti tanımla; pazar segmentasyonu ve hedef kitle tespiti için kullan."
 ---
 
 # Market Segments

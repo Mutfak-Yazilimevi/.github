@@ -1,6 +1,6 @@
 ---
 name: documentation-and-adrs
-description: "Kararları ve dokümantasyonu kaydeder. Mimari kararlar alınırken, genel API'ler değiştirilirken, özellikler yayınlanırken veya gelecekteki mühendislerin ve ajanlara kod tabanını anlamak için ihtiyaç duyacakları bağlamı kaydetmek gerektiğinde kullan"
+description: "Mimari kararlar, API değişiklikleri ve özellik yayınları için ADR ve dokümantasyon kaydeder; gelecekteki mühendisler için bağlamı korumak amacıyla kullan."
 ---
 
 # Documentation and ADRs

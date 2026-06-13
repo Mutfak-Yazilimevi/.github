@@ -1,6 +1,6 @@
 ---
 name: detecting-s3-data-exfiltration-attempts
-description: "Yetkisiz toplu indirmeleri ve hesaplar arası veri transferlerini belirlemek için CloudTrail S3 veri olaylarını, VPC Flow Logs'u, GuardDuty bulgularını, Amazon Macie uyarılarını ve S3 erişim kalıplarını analiz ederek AWS S3 bucket'larından veri sızdırma girişimlerini tespit eder."
+description: "CloudTrail S3 olayları, VPC Flow Logs, GuardDuty ve Macie ile AWS S3'ten yetkisiz toplu indirme ve hesaplar arası transfer girişimlerini tespit eder."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

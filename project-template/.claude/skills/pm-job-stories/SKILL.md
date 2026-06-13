@@ -1,6 +1,6 @@
 ---
 name: job-stories
-description: "'Ne zaman [durum], [motivasyon] istiyorum, böylece [sonuç] sağlayabileyim' biçiminde ayrıntılı kabul kriterleriyle iş hikayeleri oluştur. İş hikayeleri yazarken, JTBD tarzı backlog öğeleri oluştururken veya kullanıcı durumlarını ve motivasyonlarını ifade ederken kullan."
+description: "\"Ne zaman [durum], [motivasyon] istiyorum, böylece [sonuç]\" formatında kabul kriterli iş hikayeleri oluştur; JTBD backlog ve kullanıcı durumları için kullan."
 ---
 # Job Stories
 

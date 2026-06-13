@@ -1,6 +1,6 @@
 ---
 name: ci-cd-and-automation
-description: "CI/CD hat kurulumunu otomatikleştirir. Yapım ve dağıtım hatlarını kurarken veya değiştirirken kullan. Kalite kapılarını otomatikleştirmeniz, CI'da test çalıştırıcıları yapılandırmanız veya dağıtım stratejileri oluşturmanız gerektiğinde kullan."
+description: "CI/CD hat kurulumu, kalite kapıları, test çalıştırıcı yapılandırması ve dağıtım stratejisi oluşturma için kullan."
 ---
 
 # CI/CD and Automation

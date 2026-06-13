@@ -1,6 +1,6 @@
 ---
 name: grammar-check
-description: "Metindeki dilbilgisi, mantık ve akış hatalarını belirler ve tüm metni yeniden yazmadan hedefli düzeltmeler önerir. İçeriği düzeltirken, yazım kalitesini kontrol ederken veya bir taslağı incelelerken kullan."
+description: "Metindeki dilbilgisi, mantık ve akış hatalarını tespit eder; metni yeniden yazmadan hedefli düzeltmeler önerir."
 ---
 # Grammar and Flow Checking
 

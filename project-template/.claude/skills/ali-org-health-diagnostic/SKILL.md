@@ -1,6 +1,6 @@
 ---
 name: "org-health-diagnostic"
-description: "Tüm C-suite rollerinden sinyalleri birleştiren çapraz fonksiyonlu organizasyonel sağlık kontrolü. 8 boyutu trafik ışığı ölçeğinde puanlar ve detaylı önerilerle değerlendirir. Genel şirket sağlığını değerlendirirken, yönetim kurulu incelemelerine hazırlanırken, riskli fonksiyonları belirlerken veya kullanıcı org health, health check ya da health dashboard bahsettiğinde kullan."
+description: "Tüm C-suite sinyallerini birleştiren 8 boyutlu trafik ışığı organizasyonel sağlık kontrolü; \"org health\", \"health check\" veya yönetim kurulu incelemesi için kullan."
 license: MIT
 metadata:
   version: 1.0.0

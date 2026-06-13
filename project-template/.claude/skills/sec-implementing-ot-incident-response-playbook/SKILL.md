@@ -1,6 +1,6 @@
 ---
 name: implementing-ot-incident-response-playbook
-description: "Güvenlik açısından kritik sistemler, sınırlı kesinti toleransı ve BT SOC, OT mühendisliği ile tesis operasyonları ekipleri arasındaki koordinasyon dahil benzersiz ICS zorluklarını ele alan SANS PICERL çerçevesi, IEC 62443 ve NIST SP 800-82 ile uyumlu OT'ye özgü olay müdahale kılavuzları geliştir ve uygula."
+description: "SANS PICERL, IEC 62443 ve NIST SP 800-82 uyumlu OT'ye özgü olay müdahale kılavuzları geliştirip uygular; ICS kritik sistem ve BT/OT/tesis koordinasyonunu kapsar."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

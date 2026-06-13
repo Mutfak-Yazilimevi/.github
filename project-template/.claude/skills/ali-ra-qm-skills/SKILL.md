@@ -1,6 +1,6 @@
 ---
 name: "ra-qm-skills"
-description: "Claude Code, Codex, Gemini CLI, Cursor, OpenClaw için 12 düzenleyici ve KYS ajan becerisi ve eklentisi. ISO 13485 QMS, MDR 2017/745, FDA 510(k)/PMA, ISO 27001 ISMS, GDPR/DSGVO, risk yönetimi (ISO 14971), CAPA, belge kontrolü, denetim. Python araçları (yalnızca stdlib)."
+description: "ISO 13485, MDR 2017/745, FDA 510(k)/PMA, ISO 27001, GDPR, ISO 14971 risk yönetimi ve CAPA için 12 QMS becerisi. Claude Code, Codex, Gemini CLI, Cursor destekler."
 version: 2.9.0
 author: Alireza Rezvani
 license: MIT

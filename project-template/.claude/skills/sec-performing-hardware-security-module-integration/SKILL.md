@@ -1,6 +1,6 @@
 ---
 name: performing-hardware-security-module-integration
-description: "python-pkcs11, AWS CloudHSM ve YubiHSM2 ile kriptografik anahtar yönetimi, imzalama operasyonları ve güvenli anahtar depolama için PKCS#11 arayüzü kullanarak Hardware Security Module'leri (HSM) entegre eder."
+description: "python-pkcs11, AWS CloudHSM ve YubiHSM2 ile PKCS#11 arayüzü kullanarak HSM'leri kriptografik anahtar yönetimi ve imzalama operasyonları için entegre eder."
 domain: cybersecurity
 subdomain: cryptography
 tags:

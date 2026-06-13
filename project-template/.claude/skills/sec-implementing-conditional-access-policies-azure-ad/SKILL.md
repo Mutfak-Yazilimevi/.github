@@ -1,6 +1,6 @@
 ---
 name: implementing-conditional-access-policies-azure-ad
-description: "Sıfır güven erişim denetimi için Microsoft Entra ID (Azure AD) Koşullu Erişim ilkelerini yapılandır. Sinyal tabanlı ilke tasarımını, cihaz uyumluluk gereksinimlerini, risk tabanlı kimlik doğrulamayı ve adlandırılmış konumları kapsar."
+description: "Sıfır güven için Microsoft Entra ID Koşullu Erişim ilkeleri kurar; cihaz uyumluluğu, risk tabanlı kimlik doğrulama ve adlandırılmış konumları kapsar."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

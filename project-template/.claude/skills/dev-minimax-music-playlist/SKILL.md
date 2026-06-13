@@ -1,6 +1,6 @@
 ---
 name: minimax-music-playlist
-description: "Kullanıcının müzik zevkini ve üretim geri bildirim geçmişini analiz ederek kişiselleştirilmiş müzik çalma listeleri oluşturur. Çalma listesi oluşturma, müzik zevki profilleme veya kişiselleştirilmiş müzik önerisi içeren her istekte tetiklenir. Çok dilli tetikleyicileri destekler — herhangi bir dildeki eşdeğer ifadeleri eşleştirir."
+description: "Kullanıcının müzik zevki ve üretim geri bildirimini analiz ederek kişiselleştirilmiş çalma listesi oluşturur; çok dilli tetikleyicileri destekler."
 license: MIT
 metadata:
   version: "2.0"

@@ -1,6 +1,6 @@
 ---
 name: figma
-description: "Figma MCP sunucusunu kullanarak Figma'dan tasarım bağlamı, ekran görüntüleri, değişkenler ve varlıklar al ve Figma düğümlerini üretim koduna çevir. Bir görev Figma URL'lerini, düğüm kimliklerini, tasarımdan koda uygulamayı veya Figma MCP kurulumunu ve sorun gidermeyi içerdiğinde tetikle."
+description: "Figma MCP ile tasarım bağlamı, değişkenler ve varlıklar alır; Figma düğümlerini üretim koduna çevirir. Figma URL'leri veya tasarımdan-koda görevlerinde tetikle."
 ---
 
 # Figma MCP

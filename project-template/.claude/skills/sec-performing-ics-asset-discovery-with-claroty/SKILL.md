@@ -1,6 +1,6 @@
 ---
 name: performing-ics-asset-discovery-with-claroty
-description: "Purdue Modeli katmanları genelinde PLC'ler, RTU'lar, HMI'lar ve ağ altyapısı dahil endüstriyel kontrol sistemi varlıklarının tam görünürlüğünü elde etmek için pasif izleme, Claroty Edge aktif sorgular ve entegrasyon ekosistemini kullanarak Claroty xDome platformuyla kapsamlı ICS/OT varlık keşfi gerçekleştirir."
+description: "Claroty xDome ile pasif izleme ve Edge aktif sorgular kullanarak PLC/RTU/HMI dahil ICS/OT varlık keşfi yapar; Purdue Modeli katmanlarında tam görünürlük sağlar."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

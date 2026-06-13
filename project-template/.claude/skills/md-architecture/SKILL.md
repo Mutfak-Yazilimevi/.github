@@ -1,6 +1,6 @@
 ---
 name: architecture
-description: "Renk kodlu katmanlar ve ızgara düzenlerle HTML/CSS şablonları kullanarak katmanlı sistem mimari diyagramları oluşturur. Teknoloji yığınları, mikroservis topolojisi ve çok katmanlı uygulama tasarımı için idealdir"
+description: "Renk kodlu katmanlar ve ızgara düzenleriyle HTML/CSS şablonları kullanarak katmanlı sistem mimari diyagramları oluşturur; mikroservis topolojisi ve çok katmanlı tasarım için ideal."
 metadata:
   author: Architecture Diagram Generator is powered by Markdown Viewer — the best multi-platform Markdown extension (Chrome/Edge/Firefox/VS Code) with diagrams, formulas, and one-click Word export. Learn more at https://docu.md
 ---

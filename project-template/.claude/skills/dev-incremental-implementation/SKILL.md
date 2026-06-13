@@ -1,6 +1,6 @@
 ---
 name: incremental-implementation
-description: "Değişiklikleri aşamalı olarak sunar. Birden fazla dosyaya dokunan herhangi bir özellik veya değişiklik uygularken kullan. Bir kerede çok büyük miktarda kod yazmak üzereyken veya bir görev tek adımda tamamlanamayacak kadar büyük hissettirdiğinde kullan."
+description: "Birden fazla dosyaya dokunan özellik veya büyük değişiklikleri aşamalı olarak sunar. Tek adımda tamamlanamayacak görevler için kullan."
 ---
 
 # Incremental Implementation

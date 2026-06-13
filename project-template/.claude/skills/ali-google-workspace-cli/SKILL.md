@@ -1,6 +1,6 @@
 ---
 name: "google-workspace-cli"
-description: "gws CLI aracılığıyla Google Workspace yönetimi. Gmail, Drive, Sheets, Calendar, Docs, Chat ve Tasks için kur, kimlik doğrula ve otomatikleştir. Güvenlik denetimleri çalıştır, 43 yerleşik tarifi uygula ve 10 persona paketini kullan. Google Workspace yönetimi, gws CLI kurulumu, Gmail otomasyonu, Drive yönetimi veya Calendar planlaması için kullan."
+description: "gws CLI ile Gmail, Drive, Sheets, Calendar, Docs, Chat ve Tasks yönetimini otomatikleştirir; 43 tarif, 10 persona paketi ve güvenlik denetimleri içerir."
 ---
 
 # Google Workspace CLI

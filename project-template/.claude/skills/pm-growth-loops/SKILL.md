@@ -1,6 +1,6 @@
 ---
 name: growth-loops
-description: "Sürdürülebilir çekiş için büyüme döngülerini (volan) belirler. 5 döngü türünü değerlendirir: Viral, Kullanım, İşbirliği, Kullanıcı Üretimli ve Yönlendirme. Büyüme mekanizmaları tasarlarken, ürün liderliğinde çekiş oluştururken veya büyüme döngülerinin nasıl çalıştığını anlamak istediğinde kullan."
+description: "Viral, Kullanım, İşbirliği, UGC ve Yönlendirme olmak üzere 5 büyüme döngüsü türünü değerlendirerek sürdürülebilir çekiş için büyüme döngüleri tasarlar."
 ---
 # Growth Loops
 

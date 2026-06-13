@@ -1,6 +1,6 @@
 ---
 name: performing-cloud-native-forensics-with-falco
-description: "Kabuk başlatma, dosya kurcalama, ağ anormallikleri ve ayrıcalık yükseltme için sistem çağrılarını izleyerek konteynerlerde ve Kubernetes'te çalışma zamanı tehdit tespiti için Falco YAML kurallarını kullanır. Falco kurallarını Falco gRPC API aracılığıyla yönetir ve Falco uyarı çıktısını ayrıştırır. Konteyner çalışma zamanı güvenliği oluştururken veya k8s küme uzlaşmalarını araştırırken kullan."
+description: "Falco YAML kurallarıyla konteyner ve Kubernetes'te kabuk başlatma, dosya kurcalama ve ayrıcalık yükseltme tespiti; çalışma zamanı güvenliği veya k8s uzlaşma araştırması için kullan."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

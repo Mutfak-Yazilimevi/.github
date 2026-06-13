@@ -1,6 +1,6 @@
 ---
 name: grill-me
-description: "Ortak bir anlayışa ulaşana ve karar ağacının her dalını çözene kadar kullanıcıyı bir plan veya tasarım hakkında amansızca sorgular. Kullanıcı bir planı stres testine tabi tutmak, tasarımı üzerine sorgulanmak veya \"grill me\" demek istediğinde kullan."
+description: "Plan veya tasarım hakkında karar ağacının her dalı çözülene dek amansızca sorgular; \"grill me\" veya tasarım stres testi için kullan."
 ---
 
 Interview me relentlessly about every aspect of this plan until we reach a shared understanding. Walk down each branch of the design tree, resolving dependencies between decisions one-by-one. For each question, provide your recommended answer.

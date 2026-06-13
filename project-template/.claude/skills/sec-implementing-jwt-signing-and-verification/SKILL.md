@@ -1,6 +1,6 @@
 ---
 name: implementing-jwt-signing-and-verification
-description: "RFC 7519'da tanımlanan JSON Web Tokens (JWT), web uygulamalarında kimlik doğrulama ve yetkilendirme için kullanılan kompakt, URL güvenli token'lardır. Bu skill, HMAC-SHA256 ile güvenli JWT imzalamayı uygulamayı kapsar."
+description: "RFC 7519 JWT imzalama ve doğrulama; HMAC-SHA256 ile güvenli token oluşturma ve web uygulama kimlik doğrulama/yetkilendirme için kullan."
 domain: cybersecurity
 subdomain: cryptography
 tags:

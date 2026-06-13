@@ -1,6 +1,6 @@
 ---
 name: "speech"
-description: "Kullanıcı metin okuma anlatımı veya seslendirme, erişilebilirlik okumaları, sesli istemler veya OpenAI Audio API üzerinden toplu konuşma üretimi istediğinde kullan; yerleşik sesler ve canlı çağrılar için `OPENAI_API_KEY` gerektiren paketlenmiş CLI'yi (`scripts/text_to_speech.py`) çalıştır. Özel ses oluşturma kapsam dışıdır."
+description: "OpenAI Audio API ile metin okuma, seslendirme ve toplu konuşma üretimi; OPENAI_API_KEY gerektirir, özel ses oluşturma kapsam dışıdır."
 ---
 
 

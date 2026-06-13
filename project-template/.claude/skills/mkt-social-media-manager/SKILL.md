@@ -1,6 +1,6 @@
 ---
 name: "social-media-manager"
-description: "Kullanıcı sosyal medya stratejisi geliştirmek, içerik takvimleri planlamak, topluluk katılımını yönetmek veya platformlar genelinde sosyal varlığını büyütmek istediğinde kullan. Ayrıca 'sosyal medya stratejisi', 'sosyal takvim', 'topluluk yönetimi', 'takipçi büyüt', 'etkileşim oranı', 'sosyal medya denetimi' veya 'hangi platformları kullanmalıyım' ifadelerinde kullan."
+description: "Sosyal medya stratejisi, içerik takvimi, topluluk yönetimi ve platform büyümesi için kullan; \"sosyal takvim\", \"etkileşim oranı\", \"hangi platform\" sorgularında tetiklenir."
 license: MIT
 metadata:
   version: 1.0.0

@@ -1,6 +1,6 @@
 ---
 name: brainstorm-experiments-existing
-description: "Mevcut bir ürün için varsayımları test edecek deneyler tasarlar — prototipler, A/B testleri, spike'lar ve diğer düşük çabaya dayalı doğrulama yöntemleri. Varsayımları doğrularken, özellik fikirlerini ucuza test ederken veya ürün deneyleri planlarken kullan."
+description: "Mevcut ürün için A/B testi, prototip ve spike gibi düşük çabalı doğrulama deneyleri tasarlar; varsayım testi veya özellik fikirleri ucuza test edilirken kullan."
 ---
 
 ## Design Experiments (Existing Product)

@@ -1,6 +1,6 @@
 ---
 name: render-deploy
-description: "Kod tabanlarını analiz ederek, render.yaml Blueprint'leri oluşturarak ve Dashboard derin bağlantıları sağlayarak uygulamaları Render'a dağıt. Kullanıcı uygulamasını Render'ın bulut platformunda dağıtmak, barındırmak, yayınlamak veya kurmak istediğinde kullan."
+description: "Kod tabanını analiz edip render.yaml Blueprint'leri oluşturarak uygulamayı Render bulut platformuna dağıtmak için kullan."
 ---
 
 # Deploy to Render

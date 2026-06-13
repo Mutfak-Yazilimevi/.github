@@ -1,6 +1,6 @@
 ---
 name: performing-wifi-password-cracking-with-aircrack
-description: "Parola gücünü ve kablosuz ağ güvenlik duruşunu değerlendirmek amacıyla yetkili kablosuz güvenlik değerlendirmeleri sırasında aircrack-ng, hashcat ve sözlük saldırıları kullanarak WPA/WPA2 el sıkışmalarını yakalar ve çevrimdışı parola kırma gerçekleştirir."
+description: "Yetkili kablosuz güvenlik değerlendirmelerinde aircrack-ng ve hashcat ile WPA/WPA2 el sıkışmalarını yakalar ve çevrimdışı parola kırma yapar."
 domain: cybersecurity
 subdomain: network-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: analyzing-network-traffic-with-wireshark
-description: "Yetkili ağ segmentlerinde kötü amaçlı trafik kalıplarını belirlemek, protokol sorunlarını teşhis etmek, artifaktları çıkarmak ve olay müdahalesi araştırmalarını desteklemek için Wireshark ve tshark kullanarak ağ paketi verilerini yakala ve analiz et."
+description: "Wireshark/tshark ile ağ paketlerini yakalar: kötü amaçlı trafik kalıpları, protokol teşhisi ve olay müdahalesi adli araştırmaları için kullan."
 domain: cybersecurity
 subdomain: network-security
 tags:

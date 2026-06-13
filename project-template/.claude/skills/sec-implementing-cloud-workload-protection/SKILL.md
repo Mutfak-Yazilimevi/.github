@@ -1,6 +1,6 @@
 ---
 name: implementing-cloud-workload-protection
-description: "EC2/GCE örneklerinde çalışma zamanı güvenlik izlemesi, işlem anomali tespiti ve dosya bütünlüğü denetimi için boto3 ve google-cloud API'lerini kullanarak bulut iş yükü koruması uygular. Kripto madenciliği, ters kabuk ve yetkisiz ikilileri tarar. Bulut hesaplama iş yükleri için çalışma zamanı güvenlik denetimleri oluştururken kullan."
+description: "boto3/google-cloud API ile EC2/GCE üzerinde çalışma zamanı güvenlik izlemesi, işlem anomali tespiti ve kripto madenciliği/ters kabuk taraması yapar."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

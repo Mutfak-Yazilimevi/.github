@@ -1,6 +1,6 @@
 ---
 name: user-personas
-description: "Araştırma verilerinden rafine kullanıcı personaları oluşturur — JTBD, sancılar, kazanımlar ve beklenmedik içgörüler içeren 3 persona. Anket verilerinden persona oluştururken, araştırmadan kullanıcı profilleri oluştururken veya ürün kararları için kullanıcıları segmentlere ayırırken kullan."
+description: "Araştırma verilerinden JTBD, sancılar ve kazanımlar içeren 3 rafine kullanıcı personası oluşturur; anket verilerinden persona veya kullanıcı segmentasyonu için kullan."
 ---
 
 # User Personas

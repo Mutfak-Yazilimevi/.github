@@ -1,6 +1,6 @@
 ---
 name: implementing-dmarc-dkim-spf-email-security
-description: "SPF, DKIM ve DMARC, e-posta kimlik doğrulamasının üç temel direğini oluşturur. Birlikte alan adı sahteciliğini önler, ileti bütünlüğünü doğrular ve kimliği doğrulanmamış postayı işleme ilkeleri tanımlar. Doğru uygulama kritik öneme sahiptir."
+description: "SPF, DKIM ve DMARC ile e-posta kimlik doğrulaması uygular; alan adı sahteciliğini önler, ileti bütünlüğünü doğrular ve kimlik doğrulanmamış posta politikası tanımlar."
 domain: cybersecurity
 subdomain: phishing-defense
 tags:

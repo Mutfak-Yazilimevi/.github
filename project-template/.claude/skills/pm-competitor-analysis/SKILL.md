@@ -1,6 +1,6 @@
 ---
 name: competitor-analysis
-description: "Rakipleri güçlü ve zayıf yönleri ile farklılaşma fırsatlarıyla analiz et. Doğrudan rakipleri tespit eder ve rekabet ortamını haritalandırır. Rekabet araştırması yaparken, rekabet brifing'i hazırlarken veya farklılaşma fırsatları ararken kullan."
+description: "Doğrudan rakipleri tespit edip güçlü/zayıf yönleri ve farklılaşma fırsatlarıyla rekabet ortamını haritalandırır."
 ---
 
 # Competitor Analysis

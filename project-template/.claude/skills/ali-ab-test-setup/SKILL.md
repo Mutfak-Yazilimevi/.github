@@ -1,6 +1,6 @@
 ---
 name: "ab-test-setup"
-description: "Kullanıcı bir A/B testi veya deney planlamak, tasarlamak ya da uygulamak istediğinde kullan. Ayrıca kullanıcı \"A/B testi\", \"split test\", \"deney\", \"bu değişikliği test et\", \"varyant kopya\", \"çok değişkenli test\", \"hipotez\", \"dönüşüm deneyi\", \"istatistiksel anlamlılık\" veya \"bunu test et\" ifadelerinden bahsettiğinde de kullan. İzleme uygulaması için analytics-tracking'e bak."
+description: "A/B testi, split test, deney, hipotez veya istatistiksel anlamlılık konularında test planlaması, tasarımı veya uygulaması için kullan."
 license: MIT
 metadata:
   version: 1.0.0

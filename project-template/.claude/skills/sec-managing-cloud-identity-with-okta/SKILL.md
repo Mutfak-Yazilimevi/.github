@@ -1,6 +1,6 @@
 ---
 name: managing-cloud-identity-with-okta
-description: "Bu beceri, bulut ortamları için merkezi kimlik sağlayıcı olarak Okta'yı uygulamayı, AWS, Azure ve GCP ile SSO entegrasyonu yapılandırmayı, Okta FastPass ile kimlik avına dayanıklı MFA dağıtmayı, kullanıcı sağlama ve kaldırma için yaşam döngüsü otomasyonunu yönetmeyi ve cihaz duruşu ile risk sinyallerine dayalı uyarlamalı erişim politikalarını uygulamayı kapsar."
+description: "AWS/Azure/GCP SSO entegrasyonu, Okta FastPass kimlik avına dayanıklı MFA, kullanıcı yaşam döngüsü otomasyonu ve uyarlamalı erişim politikaları için Okta bulut kimlik yönetimi uygular."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

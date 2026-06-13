@@ -1,6 +1,6 @@
 ---
 name: deploying-cloudflare-access-for-zero-trust
-description: "VPN yedeği için WARP istemci kaydı ile kimliğe duyarlı erişim politikaları, cihaz duruşu kontrolleri yapılandırarak ve IdP'lerle entegrasyon sağlayarak kendi barındırılan ve özel uygulamalara sıfır güven erişimi sağlamak için Cloudflare Tunnel ile Cloudflare Access dağıtır."
+description: "Cloudflare Tunnel ve Access ile kimliğe duyarlı politikalar, cihaz duruşu kontrolü ve IdP entegrasyonu üzerinden özel uygulamalara sıfır güven erişimi dağıtır."
 domain: cybersecurity
 subdomain: zero-trust-architecture
 tags:

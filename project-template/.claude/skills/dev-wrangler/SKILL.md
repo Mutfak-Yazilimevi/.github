@@ -1,6 +1,6 @@
 ---
 name: wrangler
-description: "Workers, KV, R2, D1, Vectorize, Hyperdrive, Workers AI, Containers, Queues, Workflows, Pipelines ve Secrets Store dağıtımı, geliştirilmesi ve yönetimi için Cloudflare Workers CLI. Doğru sözdizimi ve en iyi uygulamaları sağlamak için wrangler komutlarını çalıştırmadan önce yükle. Önceden eğitilmiş bilgi yerine Cloudflare dokümantasyonundan alımı tercih eder."
+description: "Cloudflare Workers, KV, R2, D1, Vectorize, AI, Containers, Queues ve Workflows için Wrangler CLI; doğru sözdizimi ve güncel dökümantasyon için wrangler komutlarından önce yükle."
 ---
 
 # Wrangler CLI

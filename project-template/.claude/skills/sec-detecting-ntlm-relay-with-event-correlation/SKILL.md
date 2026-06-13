@@ -1,6 +1,6 @@
 ---
 name: detecting-ntlm-relay-with-event-correlation
-description: "IP-ana bilgisayar adı uyuşmazlıkları için Event 4624 LogonType 3'ü analiz ederek, Responder/LLMNR zehirleme artifaktlarını belirleyerek, etki alanı genelinde SMB ve LDAP imzalama uygulamasını denetleyerek ve olay günlüğü analizi kullanarak NTLMv2'den NTLMv1'e NTLM düşürme saldırılarını tespit ederek Windows Security Event korelasyonu aracılığıyla NTLM relay saldırılarını tespit eder."
+description: "Event 4624 LogonType 3 IP uyuşmazlıkları, Responder/LLMNR artifaktları ve SMB/LDAP imza denetimi analiz ederek NTLM relay saldırılarını tespit eder."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

@@ -1,6 +1,6 @@
 ---
 name: configuring-snort-ids-for-intrusion-detection
-description: "Yetkili ağ segmentlerinde özel ve topluluk kural setleri, ön işlemciler ve uyarı çıktı eklentileri kullanarak kötü amaçlı etkinlik için ağ trafiğini izlemek amacıyla Snort 3 saldırı tespit sistemini kurar, yapılandırır ve ince ayarlar yapar."
+description: "Özel ve topluluk kural setleri, ön işlemciler ve uyarı eklentileriyle Snort 3 IDS kurar, yapılandırır ve ince ayar yapar; ağ izleme ve saldırı tespiti için kullan."
 domain: cybersecurity
 subdomain: network-security
 tags:

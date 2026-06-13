@@ -1,6 +1,6 @@
 ---
 name: hunting-for-t1098-account-manipulation
-description: "Windows Security Event Logs kullanarak gölge yönetici oluşturma, SID geçmişi enjeksiyonu, grup üyeliği değişiklikleri ve kimlik bilgisi değişiklikleri dahil MITRE ATT&CK T1098 hesap manipülasyonunu avlar."
+description: "Windows Security Event Logs ile gölge yönetici, SID geçmişi enjeksiyonu ve grup üyeliği değişiklikleri dahil MITRE ATT&CK T1098 hesap manipülasyonunu avlar."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

@@ -1,6 +1,6 @@
 ---
 name: identify-assumptions-new
-description: "Go-to-Market, Strateji ve Ekip dahil 8 risk kategorisinde yeni bir ürün fikri için riskli varsayımları belirler. Startup risklerini değerlendirirken, yeni bir ürün konseptini değerlendirirken veya yeni bir girişim için varsayımları haritalandırırken kullan."
+description: "Yeni ürün fikri için GTM, Strateji ve Ekip dahil 8 risk kategorisinde riskli varsayımları belirler; startup risk değerlendirmesi için kullan."
 ---
 
 ## Identify Assumptions (New Product)

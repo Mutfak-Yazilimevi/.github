@@ -1,6 +1,6 @@
 ---
 name: growth-engine
-description: "Edinim döngüleri, aktivasyon, elde tutma ve yönlendirme mekaniklerini eyleme dönük bir plana dönüştürerek growth engine tasarlar ve işletir. Bir ürünün growth sistemini baştan sona inşa etmek veya denetlemek için kullan."
+description: "Edinim, aktivasyon, elde tutma ve yönlendirme mekaniklerini growth engine planına dönüştürür; ürünün büyüme sistemini inşa etmek veya denetlemek için kullan."
 ---
 
 # Growth Engine

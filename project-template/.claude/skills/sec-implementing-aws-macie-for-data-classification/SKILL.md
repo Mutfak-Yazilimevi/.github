@@ -1,6 +1,6 @@
 ---
 name: implementing-aws-macie-for-data-classification
-description: "PII, finansal veri ve kimlik bilgisi tespiti için makine öğrenimi ve örüntü eşleştirme kullanarak S3 bucket'larındaki hassas verileri otomatik olarak keşfetmek, sınıflandırmak ve korumak için Amazon Macie'yi uygula."
+description: "Amazon Macie ile S3'teki PII, finansal veri ve kimlik bilgilerini ML/örüntü eşleştirmeyle otomatik keşfet, sınıflandır ve koru."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

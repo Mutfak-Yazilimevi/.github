@@ -1,6 +1,6 @@
 ---
 name: "cloud-security"
-description: "Bulut altyapısını güvenlik yanlış yapılandırmaları, IAM ayrıcalık yükseltme yolları, S3 genel erişimi, açık güvenlik grubu kuralları veya IaC güvenlik açıkları açısından değerlendirirken kullan. MITRE ATT&CK eşlemesiyle AWS, Azure ve GCP durum değerlendirmesini kapsar."
+description: "AWS, Azure ve GCP'de IAM ayrıcalık yükseltme, S3 genel erişimi, güvenlik grubu kuralları ve IaC açıklarını MITRE ATT&CK eşlemesiyle değerlendirir."
 ---
 
 # Cloud Security

@@ -1,6 +1,6 @@
 ---
 name: detecting-email-account-compromise
-description: "Microsoft Graph ve denetim günlükleri aracılığıyla gelen kutusu kuralı oluşturma, şüpheli oturum açma konumları, posta iletme kuralları ve olağandışı API erişim kalıplarını analiz ederek ele geçirilmiş O365 ve Google Workspace e-posta hesaplarını tespit eder."
+description: "Microsoft Graph ve denetim günlükleriyle gelen kutusu kuralları, şüpheli oturum açmalar ve posta iletme analiz ederek O365/Google Workspace hesap ele geçirmelerini tespit eder."
 domain: cybersecurity
 subdomain: incident-response
 tags:

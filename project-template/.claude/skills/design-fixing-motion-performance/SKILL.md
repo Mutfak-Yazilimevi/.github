@@ -1,6 +1,6 @@
 ---
 name: fixing-motion-performance
-description: "Layout thrashing, compositor özellikleri, kaydırma bağlantılı hareket ve bulanıklık efektleri dahil animasyon performans sorunlarını denetler ve düzeltir. Animasyonlar takıldığında, geçişler titirdiğinde veya CSS/JS animasyon performansını incelerken kullan."
+description: "Layout thrashing, compositor özellikleri ve CSS/JS animasyon performans sorunlarını denetler ve düzeltir; takılan animasyonlar için kullan."
 ---
 
 # fixing-motion-performance

@@ -1,6 +1,6 @@
 ---
 name: using-git-worktrees
-description: "Mevcut çalışma alanından izolasyon gerektiren özellik çalışması başlatırken veya uygulama planlarını yürütmeden önce kullan — yerel araçlar veya git worktree geri dönüşü ile izole bir çalışma alanının var olmasını sağlar."
+description: "Özellik çalışması veya plan yürütmeden önce git worktree ile izole çalışma alanı oluşturmak için kullan."
 ---
 
 # Using Git Worktrees

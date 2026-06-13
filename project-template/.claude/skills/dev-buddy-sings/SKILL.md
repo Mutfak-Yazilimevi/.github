@@ -1,6 +1,6 @@
 ---
 name: buddy-sings
-description: "Kullanıcı Claude Code evcil hayvanının (/buddy) şarkı söylemesini istediğinde kullan. Claude Code arkadaşı, evcil hayvanı veya yoldaşı kavramını şarkı söyleme veya müzikle birleştiren herhangi bir istekte tetikle. Çok dilli tetikleyicileri destekler — herhangi bir dildeki eşdeğer ifadelerle eşleş."
+description: "Claude Code evcil hayvanı (/buddy) şarkı söyletmek için kullan; şarkı veya müzikle birleştiren herhangi bir istekte tetiklenir."
 license: MIT
 metadata:
   version: "1.1"

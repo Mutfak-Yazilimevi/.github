@@ -1,6 +1,6 @@
 ---
 name: "ui-design-system"
-description: "Kıdemli UI Tasarımcısı için tasarım token oluşturma, bileşen dokümantasyonu, duyarlı tasarım hesaplamaları ve geliştirici el teslim araçları içeren UI tasarım sistemi araç takımı. Tasarım sistemleri oluştururken, görsel tutarlılığı sürdürürken ve tasarım-geliştirme işbirliğini kolaylaştırmak için kullan"
+description: "Tasarım token oluşturma, bileşen dokümantasyonu, duyarlı tasarım hesaplamaları ve geliştirici el teslim araçları içeren UI tasarım sistemi araç takımı."
 ---
 
 # UI Design System

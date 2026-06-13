@@ -1,6 +1,6 @@
 ---
 name: implementing-container-image-minimal-base-with-distroless
-description: "Kabuk, paket yöneticisi veya gereksiz işletim sistemi yardımcı programları içermeyen yalnızca uygulama çalışma zamanını barındıran Google distroless temel görüntüleri üzerinde uygulama görüntüleri oluşturarak konteyner saldırı yüzeyini azalt."
+description: "Google distroless temel görüntüleri üzerinde kabuk ve paket yöneticisi içermeyen minimal konteyner görüntüleri oluşturarak saldırı yüzeyini azaltır."
 domain: cybersecurity
 subdomain: container-security
 tags:

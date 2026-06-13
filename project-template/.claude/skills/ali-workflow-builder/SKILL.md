@@ -1,6 +1,6 @@
 ---
 name: workflow-builder
-description: "Claude Code'un Workflow aracı için deterministik çok ajanlı iş akışı scriptleri (.claude/workflows/ içinde .js dosyaları) tasarla ve yaz. Kullanıcı özel bir Claude Code iş akışı oluşturmak, alt ajanları orkestre etmek (fan-out, pipeline, döngü, yargı paneli) veya yeni bağlam ajanları genelinde tekrarlanabilir çok adımlı bir görevi otomatikleştirmek istediğinde kullan."
+description: ".claude/workflows/ içinde .js iş akışı scriptleri tasarlar; fan-out, pipeline, döngü, yargı paneli kalıplarıyla çok ajanlı Claude Code otomasyonu için kullan."
 license: MIT
 metadata:
   inspired_by: "https://github.com/ray-amjad/claude-code-workflow-creator (Ray Amjad)"

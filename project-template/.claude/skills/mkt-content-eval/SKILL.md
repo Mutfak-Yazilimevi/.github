@@ -1,6 +1,6 @@
 ---
 name: content-eval
-description: "Pazarlama içeriğini netlik, ikna, SEO ve marka kriterleri açısından değerlendirir; puanlar ve somut iyileştirmeleri listeler. Yayınlamadan önce blog yazılarını, açılış sayfası metnini veya kampanya içeriğini incelemek veya puanlamak için kullan."
+description: "Blog, açılış sayfası veya kampanya içeriğini netlik, SEO ve marka kriterlerine göre değerlendirir, puanlar ve iyileştirmeleri listeler."
 ---
 
 ---

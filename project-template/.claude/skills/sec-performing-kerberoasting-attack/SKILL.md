@@ -1,6 +1,6 @@
 ---
 name: performing-kerberoasting-attack
-description: "Kerberoasting, Service Principal Name'e sahip hesaplar için Kerberos TGS (Ticket Granting Service) biletleri talep ederek Active Directory'deki hizmet hesaplarını hedef alan bir post-exploitation tekniğidir"
+description: "SPN'e sahip hesaplara TGS bileti talep ederek Active Directory hizmet hesaplarını hedef alan Kerberoasting post-exploitation tekniği için kullan."
 domain: cybersecurity
 subdomain: red-teaming
 tags:

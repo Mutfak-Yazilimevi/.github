@@ -1,6 +1,6 @@
 ---
 name: building-threat-feed-aggregation-with-misp
-description: "Merkezi IOC yönetimi ve otomatik SIEM entegrasyonu için birden fazla kaynaktan tehdit istihbaratı beslemelerini toplamak, ilişkilendirmek ve dağıtmak amacıyla MISP (Malware Information Sharing Platform) dağıtır."
+description: "MISP (Malware Information Sharing Platform) dağıtarak çok kaynaktan tehdit istihbaratı besleme toplama, ilişkilendirme ve otomatik SIEM entegrasyonu için kullan."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

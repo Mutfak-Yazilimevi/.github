@@ -1,6 +1,6 @@
 ---
 name: performing-scada-hmi-security-assessment
-description: "IEC 62443 ve NIST SP 800-82 yönergelerine uyumlu olarak web tabanlı HMI'lardaki, ince istemci yapılandırmalarındaki, kimlik doğrulama mekanizmalarındaki ve HMI ile PLC'ler arasındaki iletişim kanallarındaki güvenlik açıklarını tespit etmek için SCADA İnsan-Makine Arayüzü (HMI) sistemlerinin güvenlik değerlendirmelerini gerçekleştirir."
+description: "IEC 62443 ve NIST SP 800-82 uyumlu SCADA HMI güvenlik değerlendirmesi; web HMI, kimlik doğrulama ve HMI-PLC iletişim açıklarını tespit eder."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

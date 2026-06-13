@@ -1,6 +1,6 @@
 ---
 name: performing-gcp-security-assessment-with-forseti
-description: "IAM politikalarını, güvenlik duvarı kurallarını, depolama izinlerini denetlemek ve CIS GCP Foundations Benchmark'a karşı uyumluluğu değerlendirmek için Forseti Security, Security Command Center ve gcloud CLI kullanarak Google Cloud Platform ortamlarının kapsamlı güvenlik değerlendirmelerini gerçekleştirir."
+description: "Forseti Security, Security Command Center ve gcloud ile GCP IAM, güvenlik duvarı, depolama izinleri denetimi ve CIS GCP Foundations Benchmark uyumluluk değerlendirmesi yapar."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

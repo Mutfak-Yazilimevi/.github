@@ -1,6 +1,6 @@
 ---
 name: detecting-insider-threat-with-ueba
-description: "Elasticsearch/OpenSearch kullanarak User and Entity Behavior Analytics uygular; davranışsal taban çizgileri oluşturur, anomali skorları hesaplar, akran grubu analizi yapar ve veri sızdırma, ayrıcalık kötüye kullanımı ile yetkisiz erişim kalıpları gibi içeriden tehdit göstergelerini tespit eder."
+description: "Elasticsearch/OpenSearch ile UEBA; davranışsal taban çizgisi, anomali skoru, akran grubu analizi ve veri sızdırma/ayrıcalık kötüye kullanımı tespiti için kullan."
 domain: cybersecurity
 subdomain: threat-detection
 tags:

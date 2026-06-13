@@ -1,6 +1,6 @@
 ---
 name: analyze-feature-requests
-description: "Özellik isteklerini tema, stratejik uyum, etki, çaba ve risk açısından analiz eder ve önceliklendirir. Müşteri özellik isteklerini incelerken, bir birikmiş iş listesini sıralarken veya önceliklendirme kararları alırken kullan."
+description: "Özellik isteklerini tema, stratejik uyum, etki, çaba ve risk açısından analiz edip önceliklendirir; backlog sıralama için kullan."
 ---
 
 ## Analyze Feature Requests

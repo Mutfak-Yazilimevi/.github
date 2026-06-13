@@ -1,6 +1,6 @@
 ---
 name: scaffold-exercises
-description: "Linting testlerini geçen bölümler, problemler, çözümler ve açıklayıcılar içeren egzersiz dizin yapıları oluştur. Kullanıcı egzersiz yapısı oluşturmak, egzersiz taslakları yaratmak veya yeni bir kurs bölümü kurmak istediğinde kullan."
+description: "Linting testlerini geçen bölümler, problemler, çözümler ve açıklayıcılar içeren egzersiz dizin yapıları oluşturur. Kurs bölümü kurulumu için kullan."
 ---
 
 # Scaffold Exercises

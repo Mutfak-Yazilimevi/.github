@@ -1,6 +1,6 @@
 ---
 name: "iso27001-audit-prep"
-description: "/cs:iso27001-audit-prep <kapsam> — ISO 27001 ISMS denetim hazırlığı için 6 soruluk zorlayıcı sorgulama. Yıllık Madde 9.2 iç denetim, gözetim denetimi hazırlığı veya aşama 1 sertifikasyon hazırlığından önce kullan."
+description: "ISO 27001 ISMS denetim hazırlığı için 6 soruluk sorgulama; Madde 9.2 iç denetim, gözetim denetimi veya sertifikasyon aşama 1 öncesi kullan."
 ---
 
 # /cs:iso27001-audit-prep — ISO 27001 ISMS Audit Forcing Questions

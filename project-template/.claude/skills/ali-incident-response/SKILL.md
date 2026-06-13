@@ -1,6 +1,6 @@
 ---
 name: "incident-response"
-description: "Bir güvenlik olayı tespit edildiğinde veya ilan edildiğinde ve sınıflandırma, önceliklendirme, eskalasyon yolu belirleme ve adli delil toplama gerektiğinde kullan. SEV1-SEV4 sınıflandırmasını, yanlış pozitif filtrelemeyi, olay taksonomiyi ve NIST SP 800-61 yaşam döngüsünü kapsar."
+description: "Güvenlik olayı sınıflandırma (SEV1-SEV4), önceliklendirme, eskalasyon ve adli delil toplama; NIST SP 800-61 yaşam döngüsü ve olay taksonomisi kapsar."
 ---
 
 # Incident Response

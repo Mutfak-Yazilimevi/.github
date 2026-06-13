@@ -1,6 +1,6 @@
 ---
 name: implementing-device-posture-assessment-in-zero-trust
-description: "Kaynak erişimi vermeden önce uyumluluğu zorunlu kılan koşullu erişim ilkelerine CrowdStrike ZTA, Microsoft Intune ve Jamf'tan gelen uç nokta sağlık sinyallerini entegre ederek sıfır güven erişim denetimi olarak cihaz duruşu değerlendirmesi uygulama."
+description: "CrowdStrike ZTA/Intune/Jamf uç nokta sağlık sinyallerini koşullu erişim politikalarına entegre eden sıfır güven cihaz duruşu değerlendirmesi uygular."
 domain: cybersecurity
 subdomain: zero-trust-architecture
 tags:

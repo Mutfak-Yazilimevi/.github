@@ -1,6 +1,6 @@
 ---
 name: "jira-expert"
-description: "Proje oluşturma ve yönetme, planlama, ürün keşfi, JQL sorguları, iş akışları, özel alanlar, otomasyon, raporlama ve tüm Jira özellikleri için Atlassian Jira uzmanı. Jira proje kurulumu, yapılandırması, gelişmiş arama, gösterge paneli oluşturma, iş akışı tasarımı ve teknik Jira işlemleri için kullan."
+description: "Jira proje kurulumu, JQL sorguları, iş akışları, özel alanlar, otomasyon, raporlama ve gösterge paneli için Atlassian Jira uzmanı."
 ---
 
 # Atlassian Jira Expert

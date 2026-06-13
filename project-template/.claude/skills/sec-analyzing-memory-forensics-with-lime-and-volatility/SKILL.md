@@ -1,6 +1,6 @@
 ---
 name: analyzing-memory-forensics-with-lime-and-volatility
-description: "LiME (Linux Memory Extractor) çekirdek modülü kullanarak Linux bellek edinimi ve Volatility 3 çerçevesiyle analiz gerçekleştirir. Linux bellek görüntülerinden süreç listeleri, ağ bağlantıları, bash geçmişi, yüklenen çekirdek modülleri ve enjekte edilmiş kodu çıkarır. Güvenliği ihlal edilmiş Linux sistemlerinde olay müdahalesi gerçekleştirirken kullan."
+description: "LiME ile Linux bellek edinimi ve Volatility 3 ile analiz; süreç, ağ bağlantısı, bash geçmişi ve enjekte kod tespiti için kullan."
 domain: cybersecurity
 subdomain: security-operations
 tags:

@@ -1,6 +1,6 @@
 ---
 name: x-longform-post
-description: "Kurucu/CEO sesinde uzun biçimli X (Twitter) yazıları ve thread'leri yazar. X makaleleri, uzun tweet'ler, fikir liderliği thread'leri veya viral içerik taslağı hazırlarken kullanılır. ASCII diyagramlar ve kod bloğu görselleriyle karşı çıkan, veriye dayalı gönderiler üretir. Sonuçlandırmadan önce zorunlu yapay zeka insanlaştırma geçişini içerir (24 örüntü dedektörü)."
+description: "Kurucu/CEO sesinde uzun biçimli X yazıları ve thread'leri yazar; ASCII diyagram ve veriye dayalı viral içerik üretir, yapay zeka insanlaştırma geçişi (24 örüntü dedektörü) içerir."
 ---
 
 # X Long-Form Post Writer

@@ -1,6 +1,6 @@
 ---
 name: "x-twitter-growth"
-description: "Kitle oluşturma, viral içerik oluşturma ve etkileşim analizi için X/Twitter büyüme motoru. Kullanıcı X/Twitter'da büyümek, tweet veya thread yazmak, X profilini analiz etmek, X'te rakipleri araştırmak, yayınlama stratejisi planlamak veya etkileşimi optimize etmek istediğinde kullan."
+description: "X/Twitter büyüme motoru; kitle oluşturma, viral içerik, etkileşim analizi, profil analizi ve yayınlama stratejisi için kullan."
 license: MIT
 metadata:
   version: 1.0.0

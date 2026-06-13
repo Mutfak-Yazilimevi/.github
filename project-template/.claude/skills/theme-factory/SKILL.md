@@ -1,6 +1,6 @@
 ---
 name: theme-factory
-description: "Artifaktları bir tema ile şekillendirmek için araç seti. Bu artifaktlar slaytlar, dökümanlar, raporlar, HTML açılış sayfaları vb. olabilir. İstediğiniz herhangi bir artifakta uygulayabileceğiniz renkler/fontlar içeren 10 önceden ayarlanmış tema mevcuttur veya anında yeni bir tema oluşturabilirsiniz."
+description: "Slayt, döküman, rapor ve HTML sayfaları için 10 hazır tema veya anında yeni tema oluşturarak artifaktları biçimlendiren araç seti."
 license: Complete terms in LICENSE.txt
 ---
 

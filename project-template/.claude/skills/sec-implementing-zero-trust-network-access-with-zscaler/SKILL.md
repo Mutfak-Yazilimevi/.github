@@ -1,6 +1,6 @@
 ---
 name: implementing-zero-trust-network-access-with-zscaler
-description: "Zscaler Zero Trust Exchange üzerinden özel uygulamalara kimlik tabanlı, bağlam duyarlı erişimle geleneksel VPN'in yerini almak üzere Zscaler Private Access (ZPA) kullanarak Zero Trust Network Access uygular."
+description: "Zscaler ZPA ile kimlik tabanlı bağlam-duyarlı erişim sağlayarak geleneksel VPN'in yerini alan Zero Trust Network Access uygular."
 domain: cybersecurity
 subdomain: zero-trust-architecture
 tags:

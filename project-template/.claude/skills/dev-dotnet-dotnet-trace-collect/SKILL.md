@@ -1,6 +1,6 @@
 ---
 name: dotnet-trace-collect
-description: "Üretim .NET performans sorunlarını tanılamak için geliştiricilere tanılama artifact'ları yakalamada rehberlik eder. Kullanıcı tanılama araçları seçmek, performans verisi toplamak veya farklı ortamlarda araç ödünleşimlerini anlamak istediğinde kullan (Windows/Linux, .NET Framework/modern .NET, container/container-dışı)."
+description: "Üretim .NET performans sorunları için tanılama araç seçimi ve artifact yakalama rehberi; Windows/Linux, .NET Framework/modern, container ortamlarını kapsar."
 license: MIT
 ---
 

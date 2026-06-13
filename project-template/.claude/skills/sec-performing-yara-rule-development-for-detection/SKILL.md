@@ -1,6 +1,6 @@
 ---
 name: performing-yara-rule-development-for-detection
-description: "Yanlış pozitifleri en aza indirirken çalıştırılabilir dosyalardaki benzersiz bayt kalıplarını, dizeleri ve davranışsal göstergeleri tespit ederek kötü amaçlı yazılım tespiti için hassas YARA kuralları geliştirir."
+description: "Çalıştırılabilir dosyalardaki benzersiz bayt kalıpları, dizeler ve davranışsal göstergeleri tespit eden hassas YARA kuralları geliştirir; yanlış pozitif minimizasyonuyla."
 domain: cybersecurity
 subdomain: malware-analysis
 tags:

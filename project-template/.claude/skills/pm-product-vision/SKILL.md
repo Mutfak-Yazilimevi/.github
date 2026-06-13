@@ -1,6 +1,6 @@
 ---
 name: product-vision
-description: "Ekipleri motive eden ve paydaşları hizalayan ilham verici, ulaşılabilir ve duygusal bir ürün vizyonu üretir. Bir ürün vizyonu tanımlarken veya rafine ederken, bir vizyon bildirimi oluştururken ya da ekibi ortak bir yön etrafında hizalarken kullan."
+description: "Ekipleri motive eden ilham verici, ulaşılabilir ürün vizyonu üretir; vizyon bildirimi oluşturma ve paydaş hizalama için kullan."
 ---
 # Product Vision
 

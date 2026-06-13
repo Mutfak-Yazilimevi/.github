@@ -1,6 +1,6 @@
 ---
 name: identify-assumptions-existing
-description: "Mevcut bir üründeki bir özellik fikri için Değer, Kullanılabilirlik, Uygulanabilirlik ve Fizibilite açısından riskli varsayımları belirle. Çok perspektifli şeytan avukatı düşüncesi kullanır. Bir özellik fikrini stres testinden geçirirken, risk değerlendirmesi yaparken veya varsayım haritalama için hazırlanırken kullan."
+description: "Mevcut ürün özelliği için Değer, Kullanılabilirlik, Uygulanabilirlik ve Fizibilite boyutlarında riskli varsayımları şeytan avukatı perspektifiyle belirle."
 ---
 
 ## Identify Assumptions (Existing Product)

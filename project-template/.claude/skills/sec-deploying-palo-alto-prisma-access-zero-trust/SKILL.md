@@ -1,6 +1,6 @@
 ---
 name: deploying-palo-alto-prisma-access-zero-trust
-description: "Birleşik güvenlik yönetimi için Strata Cloud Manager ile entegrasyon sağlayarak GlobalProtect ajanları, ZTNA Connector'lar ve güvenlik politikası uygulaması kullanarak SASE tabanlı sıfır güven ağ erişimi için Palo Alto Networks Prisma Access dağıtır."
+description: "Palo Alto Networks Prisma Access SASE tabanlı sıfır güven; GlobalProtect, ZTNA Connector ve Strata Cloud Manager entegrasyonu ile dağıtım için kullan."
 domain: cybersecurity
 subdomain: zero-trust-architecture
 tags:

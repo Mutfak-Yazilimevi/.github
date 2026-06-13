@@ -1,6 +1,6 @@
 ---
 name: performing-cloud-storage-forensic-acquisition
-description: "API tabanlı uzaktan veri hem de uç nokta cihazlarındaki yerel senkronizasyon istemcisi artifact'larını toplayarak Google Drive, OneDrive, Dropbox ve Box dahil bulut depolama hizmetlerinin adli edinimi ve analizini gerçekleştirir."
+description: "Google Drive, OneDrive, Dropbox, Box gibi bulut depolama hizmetlerinin API tabanlı uzaktan ve yerel senkronizasyon istemcisi artifact'larıyla adli edinim ve analizini gerçekleştirir."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

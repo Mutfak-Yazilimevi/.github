@@ -1,6 +1,6 @@
 ---
 name: analyzing-mft-for-deleted-file-recovery
-description: "MFTECmd, analyzeMFT ve X-Ways Forensics kullanarak MFT kayıt girişlerini, $LogFile'ı, $UsnJrnl'yi ve MFT boş alanını inceleyerek silinen dosyaların meta verilerini ve içeriğini kurtarmak için NTFS Ana Dosya Tablosunu ($MFT) analiz et."
+description: "MFTECmd, analyzeMFT ve X-Ways Forensics ile NTFS $MFT, $LogFile ve $UsnJrnl inceleyerek silinen dosya meta verisi ve içeriğini kurtarır."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

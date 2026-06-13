@@ -1,6 +1,6 @@
 ---
 name: implementing-zero-trust-for-saas-applications
-description: "Bulut barındırılan hizmetler için kimlik doğrulama, cihaz uyumluluğu ve veri korumasını zorunlu kılmak amacıyla CASB, SSPM, koşullu erişim politikaları, OAuth uygulama yönetimi ve oturum kontrolleri kullanarak SaaS uygulamaları için sıfır güven erişim denetimleri uygular."
+description: "CASB, SSPM, koşullu erişim, OAuth yönetimi ve oturum kontrolleri ile SaaS uygulamaları için sıfır güven erişim denetimleri uygular."
 domain: cybersecurity
 subdomain: zero-trust-architecture
 tags:

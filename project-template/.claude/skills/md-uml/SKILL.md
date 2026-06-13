@@ -1,6 +1,6 @@
 ---
 name: uml
-description: "PlantUML sözdizimi kullanarak UML diyagramları oluşturur. Yazılım modellemesi için en iyisi — kısa metin tabanlı gösterim ve otomatik düzenle Sınıf, Dizi, Aktivite, Durum Makinesi, Bileşen, Kullanım Durumu ve Dağıtım diyagramları."
+description: "PlantUML ile Sınıf, Dizi, Aktivite, Durum, Bileşen, Kullanım Durumu ve Dağıtım UML diyagramları oluşturur; yazılım modelleme için kullan."
 metadata:
   author: UML diagrams are powered by Markdown Viewer — the best multi-platform Markdown extension (Chrome/Edge/Firefox/VS Code) with diagrams, formulas, and one-click Word export. Learn more at https://docu.md
 ---

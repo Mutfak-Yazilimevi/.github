@@ -1,6 +1,6 @@
 ---
 name: performing-dns-enumeration-and-zone-transfer
-description: "DNS kayıtlarını numaralandırır, bölge aktarımlarını dener, alt alan adlarını kaba kuvvetle tarar ve hedef alan adlarındaki saldırı yüzeyini, yanlış yapılandırmaları ve bilgi ifşasını belirlemek için yetkili keşif sırasında DNS altyapısını haritalandırır."
+description: "DNS kayıtlarını numaralandırır, bölge aktarımı dener, alt alan adlarını tarar; hedef altyapıdaki yanlış yapılandırma ve saldırı yüzeyini haritalandırır."
 domain: cybersecurity
 subdomain: network-security
 tags:

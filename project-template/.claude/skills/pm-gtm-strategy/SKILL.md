@@ -1,6 +1,6 @@
 ---
 name: gtm-strategy
-description: "Pazarlama kanallarını, mesajlaşmayı, başarı metriklerini ve lansman zaman çizelgesini kapsayan bir go-to-market stratejisi oluşturur. Ürün lansmanı planlarken, sıfırdan GTM planı oluştururken veya yeni bir pazar için lansman stratejisi tanımlarken kullan."
+description: "Pazarlama kanalları, mesajlar, başarı metrikleri ve lansman zaman çizelgesiyle go-to-market stratejisi oluşturur; ürün lansmanı veya pazar genişlemesi planlarken kullan."
 ---
 # GTM Strategy
 

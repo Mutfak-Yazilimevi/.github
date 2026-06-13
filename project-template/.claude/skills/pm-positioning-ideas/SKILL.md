@@ -1,6 +1,6 @@
 ---
 name: positioning-ideas
-description: "Rakiplerden farklılaşan ürün konumlandırma fikirleri üret. Başlıca rakipleri tespit eder ve gerekçeli konumlandırma beyanları oluşturur. Ürün konumlandırması geliştirirken, rakiplerden farklılaşırken veya marka konumlandırma stratejisi hazırlarken kullan."
+description: "Rakiplerden farklılaşan ürün konumlandırma beyanları üretir. Konumlandırma geliştirme veya marka farklılaştırma stratejisi için kullan."
 ---
 # Positioning Ideas
 

@@ -1,6 +1,6 @@
 ---
 name: writing-beats
-description: "Bir makaleyi beat yolculuğu olarak şekillendirir; choose-your-own-adventure tarzında. Kullanıcı ham materyalden bir başlangıç beat'i seçer, siz yalnızca o beat'i yazarsınız, ardından sıradaki pivot için seçenekler sunarsınız — makale doğal bir bitişe ulaşana kadar beat beat devam eder. Kullanıcının ham materyali olduğunda ve bunu argüman yerine anlatı olarak bir araya getirmek istediğinde kullan."
+description: "Ham materyalden beat yolculuğu olarak makale şekillendirir: kullanıcı beat seçer, siz yazarsınız, sonra pivot seçenekleri sunar; anlatı odaklı içerik için kullan."
 ---
 
 <what-to-do>

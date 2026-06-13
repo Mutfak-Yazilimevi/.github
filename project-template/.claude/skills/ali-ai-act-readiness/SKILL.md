@@ -1,6 +1,6 @@
 ---
 name: "ai-act-readiness"
-description: "/cs:ai-act-readiness <sistem> — EU AI Act 6 soruluk zorlayıcı sorgulama. AI sistem alımı sırasında, AB dağıtımından önce veya Madde 113 yükümlülükleri aşamalı olarak devreye girerken (2025-02-02 / 2025-08-02 / 2026-08-02 / 2027-08-02) yıllık uyumluluk tazelemesinde kullan."
+description: "EU AI Act uyumluluğu için 6 soruluk zorlayıcı sorgulama. AB dağıtımı veya Madde 113 yükümlülükleri (2025-2027) öncesi kullan."
 ---
 
 # /cs:ai-act-readiness — EU AI Act Forcing Questions

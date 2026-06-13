@@ -1,6 +1,6 @@
 ---
 name: implementing-end-to-end-encryption-for-messaging
-description: "Uçtan uca şifreleme (E2EE), yalnızca iletişim kuran tarafların mesajları okuyabilmesini, hiçbir aracının (sunucu dahil) bunları deşifre edememesini sağlar. Bu skill, basitleştirilmiş bir sürümünü uygular."
+description: "Yalnızca iletişim kuran tarafların mesajları okuyabildiği, sunucu dahil hiçbir aracının deşifre edemediği E2EE mesajlaşma uygulaması yapar."
 domain: cybersecurity
 subdomain: cryptography
 tags:

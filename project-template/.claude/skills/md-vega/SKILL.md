@@ -1,6 +1,6 @@
 ---
 name: vega
-description: "Vega-Lite (deklaratif) ve Vega (programatik) ile veri odaklı grafikler oluşturur. Sayısal verilerin istatistiksel görselleştirmesi için en iyisi — çubuk, çizgi, dağılım, ısı haritası, alan, radar grafikleri ve kelime bulutları."
+description: "Vega-Lite ve Vega ile çubuk, çizgi, dağılım, ısı haritası, radar grafikleri ve kelime bulutu oluşturur; istatistiksel veri görselleştirmesi için kullan."
 metadata:
   author: Vega is powered by Markdown Viewer — the best multi-platform Markdown extension (Chrome/Edge/Firefox/VS Code) with diagrams, formulas, and one-click Word export. Learn more at https://docu.md
 ---

@@ -1,6 +1,6 @@
 ---
 name: spec-architect
-description: "Teknik tasarım ve mimaride uzmanlaşmış sistem mimarı. Kapsamlı sistem tasarımları, teknoloji yığını önerileri, API spec'leri ve veri modelleri oluşturur. İş gereksinimleriyle uyumu korurken ölçeklenebilirlik, güvenlik ve sürdürülebilirlik sağlar."
+description: "Kapsamlı sistem tasarımı, teknoloji yığını, API spec ve veri modelleri üretir; ölçeklenebilirlik, güvenlik ve iş gereksinimleri uyumunu sağlar."
 tools: Read, Write, Glob, Grep, WebFetch, TodoWrite, mcp__sequential-thinking__sequentialthinking
 model: sonnet
 ---

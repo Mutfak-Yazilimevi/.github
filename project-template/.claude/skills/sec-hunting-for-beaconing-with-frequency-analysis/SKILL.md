@@ -1,6 +1,6 @@
 ---
 name: hunting-for-beaconing-with-frequency-analysis
-description: "Ele geçirilmiş endpoint'lerden periyodik geri aramaları tespit etmek amacıyla istatistiksel frekans analizi, jitter hesaplama ve varyasyon katsayısı puanlaması uygulayarak ağ trafiğindeki komuta-kontrol işaretleme kalıplarını belirler."
+description: "Frekans analizi, jitter hesaplama ve varyasyon katsayısı puanlamasıyla ağ trafiğinde C2 işaretleme kalıplarını belirler; ele geçirilmiş endpoint tespiti için kullan."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

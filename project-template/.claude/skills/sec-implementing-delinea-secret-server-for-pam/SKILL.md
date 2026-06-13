@@ -1,6 +1,6 @@
 ---
 name: implementing-delinea-secret-server-for-pam
-description: "Gizli kasa yapılandırması, rol tabanlı erişim ilkeleri, otomatik parola rotasyonu, oturum kaydı ve Active Directory ile bulut platformlarıyla entegrasyon dahil olmak üzere ayrıcalıklı erişim yönetimi (PAM) için Delinea Secret Server uygular. PAM dağıtımı, ayrıcalıklı kimlik bilgisi kasalama, secret server yönetimi veya parola rotasyonu otomasyonu içeren istekler için etkinleşir."
+description: "Delinea Secret Server ile PAM; gizli kasa, RBAC, otomatik parola rotasyonu, oturum kaydı ve AD/bulut entegrasyonunu kapsar. PAM dağıtımı veya kimlik bilgisi kasalama için kullan."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

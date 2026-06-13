@@ -1,6 +1,6 @@
 ---
 name: "adversarial-reviewer"
-description: "Öz inceleme monokulturasını kıran eleştirel kod incelemesi. Son değişikliklerin gerçekten eleştirel bir incelemesini istediğinizde, bir PR birleştirilmeden önce veya Claude'un kod kalitesi konusunda çok uyumlu olduğundan şüphelendiğinizde kullan. Yazarın zihinsel modelinin gözden kaçırdığı kör noktaları yakalayan düşmanca yorumlayıcı personaları aracılığıyla bakış açısı değişimlerini zorlar."
+description: "Eleştirel kod incelemesi: PR birleşmeden önce veya Claude'un çok uyumlu olduğu durumlarda düşmanca perspektiflerle kör noktaları yakalar."
 tier: "STANDARD"
 category: "Engineering / Code Quality"
 dependencies: "None (prompt-only, no external tools required)"

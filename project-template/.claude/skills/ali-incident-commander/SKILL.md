@@ -1,6 +1,6 @@
 ---
 name: "incident-commander"
-description: "Tespitden çözüme ve olay sonrası incelemeye kadar kapsamlı olay müdahale çerçevesi. Savaşta test edilmiş SRE/DevOps uygulamaları: önem sınıflandırması, zaman çizelgesi yeniden oluşturma, yapılandırılmış olay sonrası analiz. Olay ilan ederken, bir kesinti sırasında çok ekipli müdahaleyi koordine ederken, post-mortem yönetirken veya yeni bir servis için nöbet uygulamaları kurarken kullan."
+description: "Tespitden çözüme post-mortem'e kadar kapsamlı olay müdahale çerçevesi; önem sınıflandırması, zaman çizelgesi ve çok ekipli koordinasyon için kullan."
 ---
 
 # Incident Commander Skill

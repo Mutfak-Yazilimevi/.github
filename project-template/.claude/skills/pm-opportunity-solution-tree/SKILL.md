@@ -1,6 +1,6 @@
 ---
 name: opportunity-solution-tree
-description: "Ürün keşfini yapılandırmak için Fırsat Çözüm Ağacı (OST) oluştur — istenen sonucu fırsatlara, çözümlere ve deneylere bağla. Teresa Torres'in Sürekli Keşif Alışkanlıklarına dayanır. Keşif çalışmasını yapılandırırken, fırsatları çözümlerle eşleştirirken veya ne oluşturacağına karar verirken kullan."
+description: "Teresa Torres OST yöntemiyle sonucu fırsatlara, çözümlere ve deneylere bağlayan Fırsat Çözüm Ağacı oluştur; keşif yapılandırması için kullan."
 ---
 
 ## Opportunity Solution Tree (OST)

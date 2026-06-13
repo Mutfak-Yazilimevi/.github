@@ -1,6 +1,6 @@
 ---
 name: triage
-description: "Sorunları triage rolleri ile çalışan bir durum makinesi aracılığıyla sınıflandırır. Kullanıcı sorun oluşturmak, sorunları triaj etmek, gelen hataları veya özellik isteklerini gözden geçirmek, AFK agent için sorunları hazırlamak veya sorun iş akışını yönetmek istediğinde kullanılır."
+description: "Hataları ve özellik isteklerini triage durum makinesiyle sınıflandırır; sorun oluşturma, AFK agent iş hazırlığı veya sorun iş akışı yönetimi için kullan."
 ---
 
 # Triage

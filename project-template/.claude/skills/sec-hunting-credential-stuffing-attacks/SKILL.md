@@ -1,6 +1,6 @@
 ---
 name: hunting-credential-stuffing-attacks
-description: "Giriş hızı anomalileri, ASN çeşitliliği, parola spreyI kalıpları ve başarısız girişlerin coğrafi dağılımı için kimlik doğrulama günlüklerini analiz ederek credential stuffing saldırılarını tespit eder. Splunk veya ham günlük verilerinde istatistiksel analiz kullanır. Hesap ele geçirme kampanyalarını araştırırken veya kimlik doğrulama kötüye kullanımı için tespit kuralları oluştururken kullanın."
+description: "Kimlik doğrulama günlüklerinde giriş hızı anomalileri, ASN çeşitliliği ve coğrafi dağılım analizi yaparak credential stuffing saldırılarını tespit eder; Splunk veya ham log verisinde kullan."
 domain: cybersecurity
 subdomain: security-operations
 tags:

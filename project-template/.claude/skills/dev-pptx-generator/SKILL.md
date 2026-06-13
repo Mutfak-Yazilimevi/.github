@@ -1,6 +1,6 @@
 ---
 name: pptx-generator
-description: "PowerPoint sunumları oluşturur, düzenler ve okur. PptxGenJS ile sıfırdan oluştur (kapak, içindekiler, içerik, bölüm ayıracı, özet slaytlar), XML iş akışlarıyla mevcut PPTX'i düzenle veya markitdown ile metin çıkar. Tetikleyiciler: PPT, PPTX, PowerPoint, sunum, slayt, deck, slides."
+description: "PPT/PPTX oluşturur, düzenler, okur. PptxGenJS ile sıfırdan yarat, XML ile düzenle, markitdown ile metin çıkar. Tetikleyiciler: sunum, slayt, deck, PowerPoint."
 license: MIT
 metadata:
   version: "1.0"

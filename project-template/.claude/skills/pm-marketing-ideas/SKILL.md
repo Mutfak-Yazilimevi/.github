@@ -1,6 +1,6 @@
 ---
 name: marketing-ideas
-description: "Kanallar, mesajlar ve etkileşim gerekçesiyle 5 yaratıcı, maliyet etkin pazarlama fikri üretir. Pazarlama kampanyaları için beyin fırtınası yaparken, ürün tanıtımı planlarken veya yaratıcı pazarlama taktikleri ararken kullan"
+description: "Kanallar, mesajlar ve etkileşim gerekçesiyle 5 yaratıcı, maliyet etkin pazarlama fikri üretir; kampanya beyin fırtınası veya ürün tanıtımı planlarken kullan."
 ---
 # Marketing Ideas
 

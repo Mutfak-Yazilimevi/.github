@@ -1,6 +1,6 @@
 ---
 name: configuring-multi-factor-authentication-with-duo
-description: "Kurumsal uygulamalar, VPN, RDP ve SSH erişim noktaları genelinde Cisco Duo çok faktörlü kimlik doğrulaması dağıtır. Bu skill Duo entegrasyon yöntemlerini, uyarlanabilir kimlik doğrulama politikalarını ve cihaz güvenini kapsar."
+description: "Kurumsal uygulamalar, VPN, RDP ve SSH genelinde Cisco Duo MFA dağıtır; entegrasyon yöntemleri, uyarlanabilir politikalar ve cihaz güvenini kapsar."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

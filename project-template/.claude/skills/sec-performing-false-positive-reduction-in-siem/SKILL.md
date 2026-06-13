@@ -1,6 +1,6 @@
 ---
 name: performing-false-positive-reduction-in-siem
-description: "Uyarı yorgunluğuyla mücadele etmek için kural ayarlama, eşik düzenlemesi, korelasyon iyileştirme ve tehdit istihbaratı zenginleştirme yoluyla sistematik SIEM yanlış pozitif azaltma işlemi gerçekleştirir."
+description: "Kural ayarlama, eşik düzenlemesi, korelasyon iyileştirme ve tehdit istihbaratı zenginleştirme ile SIEM yanlış pozitiflerini sistematik biçimde azaltır."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

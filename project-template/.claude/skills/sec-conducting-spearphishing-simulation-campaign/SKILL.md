@@ -1,6 +1,6 @@
 ---
 name: conducting-spearphishing-simulation-campaign
-description: "Spearphishing simülasyonu, kırmızı takımların ilk erişim kazanmak için kullandığı hedefli bir sosyal mühendislik saldırı vektörüdür. Geniş kapsamlı kimlik avı kampanyalarının aksine, spearphishing OSINT kaynaklı istihbarat kullanarak mesajları özelleştirir."
+description: "OSINT tabanlı hedefli spearphishing simülasyon kampanyası yürütür; kırmızı takım ilk erişim testi ve sosyal mühendislik farkındalığı için kullan."
 domain: cybersecurity
 subdomain: red-teaming
 tags:

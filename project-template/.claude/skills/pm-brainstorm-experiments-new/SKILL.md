@@ -1,6 +1,6 @@
 ---
 name: brainstorm-experiments-new
-description: "Yeni bir ürün için yalın başlangıç deneyleri (pretotype) tasarla. XYZ hipotezleri oluşturur ve açılış sayfaları, açıklayıcı videolar ve ön siparişler gibi düşük çabalı doğrulama yöntemleri önerir. Yeni bir ürün fikrini doğrularken, pretotype oluştururken veya pazar talebini test ederken kullan."
+description: "Yeni ürün fikirleri için XYZ hipotezleri ve açılış sayfası/ön sipariş gibi düşük çabalı pretotype doğrulama yöntemleri tasarlar."
 ---
 
 ## Design Lean Startup Experiments (New Product)

@@ -1,6 +1,6 @@
 ---
 name: "atlassian-templates"
-description: "Jira ve Confluence şablonları, taslakları, özel düzenler, yeniden kullanılabilir bileşenler ve standartlaştırılmış içerik yapıları oluşturmak, değiştirmek ve yönetmek için Atlassian Şablonu ve Dosyaları Oluşturucu/Değiştiricisi uzmanı. Kuruluş genelinde şablonlar, özel taslaklar, sayfa düzenleri ve otomatik içerik üretimi oluştururken kullan."
+description: "Jira ve Confluence için şablonlar, özel düzenler ve standartlaştırılmış içerik yapıları oluşturur, değiştirir ve yönetir; kuruluş genelinde şablon otomasyonu için kullan."
 ---
 
 # Atlassian Template & Files Creator Expert

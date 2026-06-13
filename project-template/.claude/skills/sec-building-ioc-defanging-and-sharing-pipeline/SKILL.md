@@ -1,6 +1,6 @@
 ---
 name: building-ioc-defanging-and-sharing-pipeline
-description: "Uzlaşma göstergelerini (URL'ler, IP'ler, alan adları, e-postalar) güvenli paylaşım için etkisizleştiren ve bunları STIX formatında TAXII beslemeleri ve tehdit istihbaratı platformları aracılığıyla dağıtan otomatik bir pipeline oluşturur."
+description: "URL, IP, domain ve e-postaları etkisizleştirip STIX/TAXII ile tehdit istihbaratı platformlarına dağıtan otomatik IOC paylaşım pipeline'ı oluşturur."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

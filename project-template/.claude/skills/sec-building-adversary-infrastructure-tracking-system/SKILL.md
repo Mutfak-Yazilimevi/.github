@@ -1,6 +1,6 @@
 ---
 name: building-adversary-infrastructure-tracking-system
-description: "Tehdit aktörü komuta ve kontrol ağlarını haritalamak ve izlemek için pasif DNS, sertifika şeffaflığı, WHOIS verisi ve IP zenginleştirmesini kullanarak saldırgan altyapısını izleyen otomatik bir sistem oluşturur."
+description: "Pasif DNS, sertifika şeffaflığı, WHOIS ve IP zenginleştirme kullanarak tehdit aktörü C2 ağlarını haritalayan otomatik saldırgan altyapısı izleme sistemi kurar."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

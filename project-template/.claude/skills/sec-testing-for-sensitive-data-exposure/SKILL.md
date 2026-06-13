@@ -1,6 +1,6 @@
 ---
 name: testing-for-sensitive-data-exposure
-description: "Güvenlik değerlendirmeleri sırasında API anahtar sızıntısı, yanıtlardaki kişisel veriler (PII), güvensiz depolama ve korumasız veri iletimi dahil olmak üzere hassas veri ifşa güvenlik açıklarını tespit eder."
+description: "Güvenlik değerlendirmelerinde API anahtar sızıntısı, yanıttaki PII, güvensiz depolama ve korumasız veri iletimi dahil hassas veri ifşa açıklarını tespit eder."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

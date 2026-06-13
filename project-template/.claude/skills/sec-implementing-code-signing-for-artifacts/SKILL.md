@@ -1,6 +1,6 @@
 ---
 name: implementing-code-signing-for-artifacts
-description: "Bu skill, yazılım tedarik zinciri boyunca bütünlük ve özgünlüğü sağlamak için derleme yapıtlarına kod imzalama uygulamayı kapsar. GPG, Sigstore ve platforma özgü imzalama araçlarını kullanarak ikilileri, paketleri ve konteynerleri imzalamayı, güven zincirlerini oluşturmayı ve dağıtım ardışık düzenlerinde imzaları doğrulamayı ele alır."
+description: "GPG/Sigstore ile ikili, paket ve konteyner imzalama; yazılım tedarik zinciri bütünlüğü ve dağıtım pipeline imza doğrulaması için kullan."
 domain: cybersecurity
 subdomain: devsecops
 tags:

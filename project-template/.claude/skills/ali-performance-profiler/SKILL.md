@@ -1,6 +1,6 @@
 ---
 name: "performance-profiler"
-description: "Node.js, Python ve Go uygulamaları için sistematik performans profili çıkarma. CPU, bellek ve G/Ç darboğazlarını tespit eder, flamegraph üretir, bundle boyutlarını analiz eder, veritabanı sorgularını optimize eder, k6 ve Artillery ile yük testleri çalıştırır. Daima önce ve sonra ölçer. Yavaş bir endpoint araştırırken, performans bütçesi planlarken veya üretimdeki bellek sızıntısını ararken kullan."
+description: "Node.js, Python, Go için CPU/bellek/G/Ç darboğazı tespiti, flamegraph, bundle analizi, DB sorgu optimizasyonu ve k6/Artillery yük testi yapar. Yavaş endpoint veya bellek sızıntısı araştırırken kullan."
 ---
 
 # Performance Profiler

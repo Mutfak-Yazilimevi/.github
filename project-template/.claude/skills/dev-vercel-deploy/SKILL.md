@@ -1,6 +1,6 @@
 ---
 name: vercel-deploy
-description: "Uygulamaları ve web sitelerini Vercel'e dağıtır. Kullanıcı \"deploy my app\", \"deploy and give me the link\", \"push this live\" veya \"create a preview deployment\" gibi dağıtım eylemleri istediğinde kullan."
+description: "Uygulamaları Vercel'e dağıtır; \"deploy my app\", \"push this live\", \"create preview deployment\" gibi dağıtım isteklerinde kullan."
 ---
 
 # Vercel Deploy

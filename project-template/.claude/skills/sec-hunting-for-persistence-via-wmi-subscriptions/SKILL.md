@@ -1,6 +1,6 @@
 ---
 name: hunting-for-persistence-via-wmi-subscriptions
-description: "Sistem olayları tarafından tetiklenen kötü amaçlı kod yürüten WMI tüketici, filtre ve bağlama oluşturma olaylarını izleyerek Windows Management Instrumentation olay abonelikleri aracılığıyla saldırgan kalıcılığını avlar."
+description: "WMI tüketici, filtre ve bağlama oluşturma olaylarını izleyerek WMI olay abonelikleri aracılığıyla saldırgan kalıcılığını avlar."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

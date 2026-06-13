@@ -1,6 +1,6 @@
 ---
 name: "playwright"
-description: "Görev `playwright-cli` veya paketlenmiş sarmalayıcı betik aracılığıyla terminalden gerçek bir tarayıcıyı otomatikleştirmeyi (gezinme, form doldurma, anlık görüntüler, ekran görüntüleri, veri çıkarma, UI akışı hata ayıklama) gerektirdiğinde kullan."
+description: "playwright-cli ile gerçek tarayıcı otomasyonu: gezinme, form doldurma, ekran görüntüsü, veri çıkarma ve UI akışı hata ayıklama için kullan."
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 name: engineering-team-review
-description: "Playwright testlerini kalite açısından inceler. Kullanıcı \"review tests\", \"check test quality\", \"audit tests\", \"improve tests\", \"test code review\" veya \"playwright best practices check\" dediğinde kullan."
+description: "Playwright testlerini kalite açısından inceler; \"review tests\", \"audit tests\", \"improve tests\" veya \"playwright best practices check\" denildiğinde kullan."
 ---
 
 # Review Playwright Tests

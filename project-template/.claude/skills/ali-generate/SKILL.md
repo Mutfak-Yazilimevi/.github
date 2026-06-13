@@ -1,6 +1,6 @@
 ---
 name: "generate"
-description: "Playwright testleri üretir. Kullanıcı \"write tests\", \"generate tests\", \"add tests for\", \"test this component\", \"e2e test\", \"create test for\", \"test this page\" veya \"test this feature\" dediğinde kullan."
+description: "Playwright testleri üretir; \"write tests\", \"generate tests\", \"e2e test\", \"test this component/page/feature\" ifadelerinde tetiklenir."
 ---
 
 # Generate Playwright Tests

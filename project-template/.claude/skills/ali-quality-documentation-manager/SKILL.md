@@ -1,6 +1,6 @@
 ---
 name: "quality-documentation-manager"
-description: "Medikal cihaz QMS için belge kontrol sistemi yönetimi. Belge numaralandırma, sürüm kontrolü, değişiklik yönetimi ve 21 CFR Part 11 uyumluluk konularını kapsar. Belge kontrol prosedürleri, değişiklik kontrol iş akışı, belge numaralandırma, sürüm yönetimi, elektronik imza uyumu veya düzenleyici belge incelemesi için kullan"
+description: "Tıbbi cihaz QMS için belge numaralandırma, sürüm kontrolü, değişiklik yönetimi ve 21 CFR Part 11 uyumluluğunu kapsar; belge kontrol prosedürleri için kullan."
 triggers:
   - document control
   - document numbering

@@ -1,6 +1,6 @@
 ---
 name: "gh-fix-ci"
-description: "Kullanıcı GitHub Actions'ta çalışan başarısız GitHub PR kontrollerini hata ayıklamak veya düzeltmek istediğinde kullan; kontrolleri ve günlükleri incelemek için `gh` kullan, hata bağlamını özetle, bir düzeltme planı hazırla ve yalnızca açık onaydan sonra uygula. Harici sağlayıcıları (örneğin Buildkite) kapsam dışı olarak değerlendir ve yalnızca ayrıntılar URL'sini raporla."
+description: "GitHub Actions'ta başarısız PR kontrollerini gh CLI ile hata ayıklar; bağlamı özetler, düzeltme planı hazırlar, onay sonrası uygular."
 ---
 
 

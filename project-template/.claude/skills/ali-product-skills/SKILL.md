@@ -1,6 +1,6 @@
 ---
 name: "product-skills"
-description: "Claude Code, Codex, Gemini CLI, Cursor, OpenClaw için 10 ürün ajan skill'i ve eklentisi. PM araç takımı (RICE), çevik PO, ürün stratejisti (OKR), UX araştırmacısı, UI tasarım sistemi, rekabetçi analiz, açılış sayfası oluşturucu, SaaS iskelet kurucusu, araştırma özetleyici. Python araçları (yalnızca stdlib)."
+description: "Claude Code/Codex/Cursor için 10 ürün skill: PM (RICE), çevik PO, ürün stratejisti (OKR), UX araştırmacısı, UI, rekabetçi analiz, SaaS iskelet kurucu."
 version: 2.9.0
 author: Alireza Rezvani
 license: MIT

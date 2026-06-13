@@ -1,6 +1,6 @@
 ---
 name: implementing-cloud-trail-log-analysis
-description: "Yetkisiz erişimi, ayrıcalık yükseltmeyi ve şüpheli API etkinliklerini tespit etmek için Athena, CloudWatch Logs Insights ve SIEM entegrasyonu kullanarak güvenlik izleme, tehdit tespiti ve adli soruşturmaya yönelik AWS CloudTrail log analizi uygulama."
+description: "Athena/CloudWatch Logs Insights ile AWS CloudTrail log analizi: yetkisiz erişim, ayrıcalık yükseltme ve şüpheli API aktivitesi tespiti için kullan."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

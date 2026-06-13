@@ -1,6 +1,6 @@
 ---
 name: implementing-gcp-organization-policy-constraints
-description: "Riskli yapılandırmaları kısıtlamak ve organizasyon, klasör ve proje düzeylerinde uyumluluğu sağlamak için tüm kaynak hiyerarşisinde güvenlik korumaları zorunlu kılmak amacıyla GCP Organization Policy kısıtlamalarını uygula."
+description: "GCP Organization Policy kısıtlamalarını org/klasör/proje düzeyinde uygulayarak riskli yapılandırmaları kısıtlar ve uyumluluk sağlar."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

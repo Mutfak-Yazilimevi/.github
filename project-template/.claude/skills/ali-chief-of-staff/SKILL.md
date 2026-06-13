@@ -1,6 +1,6 @@
 ---
 name: "chief-of-staff"
-description: "C-suite orkestrasyon katmanı. Kurucu sorularını doğru danışman rollerine yönlendirir, karmaşık kararlar için çok rollü yönetim kurulu toplantıları tetikler, çıktıları sentezler ve kararları takip eder. Tüm C-suite etkileşimleri buradan başlar. Şirket bağlamını otomatik olarak yükler."
+description: "C-suite orkestrasyon katmanı: kurucu sorularını doğru danışmana yönlendirir, çok rollü yönetim kurulu toplar, çıktıları sentezler ve kararları takip eder."
 license: MIT
 metadata:
   version: 1.0.0

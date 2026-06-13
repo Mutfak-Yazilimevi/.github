@@ -1,6 +1,6 @@
 ---
 name: testing-for-open-redirect-vulnerabilities
-description: "Kimlik avı ve token hırsızlığı için URL yönlendirme parametrelerini, atlatma tekniklerini ve istismar zincirlerini analiz ederek web uygulamalarındaki açık yönlendirme güvenlik açıklarını tespit eder ve test eder."
+description: "Kimlik avı ve token hırsızlığı için URL yönlendirme parametrelerini, atlatma tekniklerini ve istismar zincirlerini analiz ederek açık yönlendirme açıklarını tespit eder."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

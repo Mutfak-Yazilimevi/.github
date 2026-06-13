@@ -1,6 +1,6 @@
 ---
 name: detecting-lateral-movement-in-network
-description: "Saldırganların sistemler arasında hareketini tespit etmek için Zeek, Velociraptor ve SIEM korelasyon kurallarını kullanarak kimlik doğrulama günlüklerini, ağ akışlarını, SMB trafiğini ve RDP oturumlarını analiz ederek kurumsal ağlardaki lateral movement tekniklerini belirler."
+description: "Zeek, Velociraptor ve SIEM ile kimlik doğrulama logları, SMB, RDP analiz ederek kurumsal ağdaki lateral movement tekniklerini tespit eder."
 domain: cybersecurity
 subdomain: network-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: detecting-aws-credential-exposure-with-trufflehog
-description: "Kimlik bilgisi hırsızlığını ve yetkisiz hesap erişimini önlemek için TruffleHog, git-secrets ve AWS'nin yerel tespit mekanizmalarını kullanarak kaynak kod depolarında, CI/CD pipeline'larında ve yapılandırma dosyalarında açığa çıkan AWS kimlik bilgilerini tespit eder."
+description: "TruffleHog ve git-secrets ile kaynak kodu, CI/CD ve yapılandırma dosyalarında açığa çıkan AWS kimlik bilgilerini tespit eder."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

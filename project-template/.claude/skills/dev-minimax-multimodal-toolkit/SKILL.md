@@ -1,6 +1,6 @@
 ---
 name: mmx-cli
-description: "MiniMax AI platformu üzerinden metin, görüntü, video, konuşma ve müzik üretmek için mmx kullanır. Kullanıcı medya içeriği oluşturmak, MiniMax modelleriyle sohbet etmek, web araması yapmak veya terminalden MiniMax API kaynaklarını yönetmek istediğinde kullan."
+description: "MiniMax API ile metin/görüntü/video/konuşma/müzik üretimi ve web araması için kullan; mmx CLI ile terminal üzerinden MiniMax kaynaklarını yönetir."
 ---
 
 # MiniMax CLI — Agent Skill Guide

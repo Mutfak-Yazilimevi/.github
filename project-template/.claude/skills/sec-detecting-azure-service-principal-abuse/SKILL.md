@@ -1,6 +1,6 @@
 ---
 name: detecting-azure-service-principal-abuse
-description: "Microsoft Entra ID ortamlarında ayrıcalık yükseltme, kimlik bilgisi ihlali, yönetici onayı atlatma ve yetkisiz numaralandırma dahil olmak üzere Azure service principal kötüye kullanımını tespit eder ve araştırır."
+description: "Microsoft Entra ID'de Azure service principal kötüye kullanımını (ayrıcalık yükseltme, kimlik bilgisi ihlali, yönetici onayı atlama) tespit eder ve araştırır."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

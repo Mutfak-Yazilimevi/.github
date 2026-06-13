@@ -1,6 +1,6 @@
 ---
 name: performing-ssl-tls-inspection-configuration
-description: "Sertifikaları, muafiyetleri ve gizlilik uyumluluğunu yönetirken tehdit tespiti için HTTPS trafiğini şifre çözme, inceleme ve yeniden şifreleme amacıyla ağ güvenlik cihazlarında SSL/TLS denetimini yapılandırır."
+description: "Ağ güvenlik cihazlarında HTTPS trafiğini şifreli çözerek tehdit tespiti için SSL/TLS denetimi kurar; sertifika, muafiyet ve gizlilik uyumluluğunu yönetir."
 domain: cybersecurity
 subdomain: network-security
 tags:

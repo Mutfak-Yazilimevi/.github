@@ -1,6 +1,6 @@
 ---
 name: "self-eval"
-description: "İki eksenli puanlama sistemi kullanarak yapay zeka çalışma kalitesini dürüstçe değerlendirir. Bir görev, kod incelemesi veya çalışma oturumu tamamlandıktan sonra tarafsız bir değerlendirme almak için kullan. Puan şişirmesini tespit eder, şeytanın avukatı mantığını zorlar ve puanları oturumlar arasında kalıcı kılar."
+description: "İki eksenli puanlama ile AI çalışma kalitesini değerlendirir; puan şişirmesini tespit eder, şeytan avukatı zorlar. Görev/kod incelemesi sonrası tarafsız değerlendirme için kullan."
 license: "MIT"
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: lead-dossier
-description: "Potansiyel müşteri/aday hakkında araştırma dosyası oluştur — şirket, paydaşlar, sorunlar, tetikleyiciler ve iletişim açıları. Eksiksiz, kaynaklı bir potansiyel müşteri profili oluşturmak için satış iletişiminden önce kullan."
+description: "Satış iletişiminden önce potansiyel müşteri/aday için şirket, paydaşlar, sorunlar, tetikleyiciler ve iletişim açılarını kapsayan araştırma dosyası oluşturur."
 ---
 
 ---

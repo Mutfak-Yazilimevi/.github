@@ -1,6 +1,6 @@
 ---
 name: auditing-gcp-iam-permissions
-description: "gcloud CLI, Policy Analyzer ve IAM Recommender kullanarak aşırı izin veren bağlamaları, temel rol kullanımını, service account anahtarı çoğalmasını ve proje genelindeki erişim risklerini belirlemek için Google Cloud Platform IAM izinlerini denetler."
+description: "gcloud CLI, Policy Analyzer ve IAM Recommender ile GCP IAM izinlerini aşırı izinli bağlamalar, temel rol kullanımı ve service account anahtarı riskleri için denetler."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

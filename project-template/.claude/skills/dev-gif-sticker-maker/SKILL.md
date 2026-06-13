@@ -1,6 +1,6 @@
 ---
 name: gif-sticker-maker
-description: "Fotoğrafları (insanlar, evcil hayvanlar, nesneler, logolar) altyazılı 4 animasyonlu GIF çıkartmasına dönüştür. Kullanıcı karikatür çıkartmaları, GIF ifadeleri, emoji paketleri, animasyonlu avatarlar oluşturmak veya fotoğrafları Funko Pop / Pop Mart blind box tarzı animasyonlara dönüştürmek istediğinde kullan. Tetikleyiciler: çıkartma, GIF, karikatür, emoji, ifade paketi, avatar animasyonu."
+description: "Fotoğrafları 4 animasyonlu GIF çıkartmasına dönüştürür. Karikatür çıkartma, GIF ifadesi, emoji paketi veya animasyonlu avatar oluşturmak için kullan."
 license: MIT
 metadata:
   version: "1.2"

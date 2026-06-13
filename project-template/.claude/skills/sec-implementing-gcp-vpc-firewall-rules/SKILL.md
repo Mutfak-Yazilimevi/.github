@@ -1,6 +1,6 @@
 ---
 name: implementing-gcp-vpc-firewall-rules
-description: "Ağ segmentasyonunu zorunlu kılmak, gelen ve giden trafiği kısıtlamak, organizasyon genelinde hiyerarşik güvenlik duvarı ilkeleri uygulamak ve VPC Flow Logs kullanarak güvenlik duvarı kuralı etkinliğini izlemek için GCP VPC güvenlik duvarı kurallarını uygulama ve denetleme."
+description: "GCP VPC güvenlik duvarı kuralları, hiyerarşik politikalar ve VPC Flow Logs ile ağ segmentasyonu zorunluluğu ve trafik kısıtlaması için kullan."
 domain: cybersecurity
 subdomain: cloud-security
 tags:
