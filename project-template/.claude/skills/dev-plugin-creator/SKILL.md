@@ -1,6 +1,6 @@
 ---
 name: plugin-creator
-description: "Zorunlu `.codex-plugin/plugin.json` ile isteğe bağlı eklenti klasörleri/dosyaları ve yayınlamadan veya test etmeden önce düzenleyebileceğin temel yer tutucularla birlikte Codex için eklenti dizinleri oluştur ve iskeletle. Codex'in yeni yerel eklenti oluşturması, isteğe bağlı eklenti yapısı eklemesi veya eklenti sıralaması ve kullanılabilirlik meta verileri için repo kökündeki `.agents/plugins/marketplace.json` girişlerini oluşturması ya da güncellemesi gerektiğinde kullan."
+description: "Codex için plugin.json ve eklenti yapısıyla yeni yerel eklenti oluşturur; marketplace.json girişlerini oluşturur veya günceller."
 ---
 
 # Plugin Creator

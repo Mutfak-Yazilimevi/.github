@@ -1,6 +1,6 @@
 ---
 name: "revenue-operations"
-description: "SaaS gelir optimizasyonu için satış hattı sağlığı, gelir tahmini doğruluğu ve pazara çıkış verimliliği metriklerini analiz eder. Satış hattı kapsamını analiz ederken, gelir tahmin ederken, pazara çıkış performansını değerlendirirken, satış metriklerini gözden geçirirken, hattı analiz ederken, MAPE ile tahmin doğruluğunu takip ederken, GTM verimliliğini hesaplarken veya SaaS ekipleri için satış verimliliği ve birim ekonomisini ölçerken kullan."
+description: "SaaS için satış hattı sağlığı, gelir tahmini doğruluğu (MAPE), GTM verimliliği ve satış birim ekonomisini analiz eder."
 ---
 
 # Revenue Operations

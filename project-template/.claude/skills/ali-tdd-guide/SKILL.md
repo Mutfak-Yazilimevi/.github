@@ -1,6 +1,6 @@
 ---
 name: "tdd-guide"
-description: "Jest, Pytest, JUnit, Vitest ve Mocha genelinde birim testleri yazmak, test fikstürleri ve mock'lar oluşturmak, kapsama boşluklarını analiz etmek ve kırmızı-yeşil-yeniden düzenleme iş akışlarına rehberlik etmek için test güdümlü geliştirme becerisi. Kullanıcı test yazmak, test kapsamını iyileştirmek, TDD uygulamak, mock veya stub oluşturmak istediğinde ya da Jest, pytest veya JUnit gibi test çerçevelerinden bahsettiğinde kullan."
+description: "TDD iş akışı rehberi: Jest, Pytest, JUnit, Vitest, Mocha ile birim testi yazma, mock/fixture oluşturma ve kapsama boşluğu analizi için kullan."
 ---
 
 # TDD Guide

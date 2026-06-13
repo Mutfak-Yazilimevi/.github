@@ -1,6 +1,6 @@
 ---
 name: procurement-optimizer
-description: "Yıllık SaaS denetimi yaparken, kategori düzeyinde harcama incelemesi yaparken veya tedarikçi tabanını rasyonalize ederken kullan — kullanıcının harcama denetimi, harcama kategorizasyonu (UNSPSC uyumlu), satın alma döngüsü analizi veya risk dengeli tedarikçi konsolidasyonu yapması gerektiğinde. \"spend audit\", \"SaaS audit\", \"spend categorization\", \"supplier rationalization\", \"supplier consolidation\", \"purchasing cycle\", \"procurement review\", \"category strategy\", \"duplicate SaaS\", \"renewal cluster\" tetiklemelerinde devreye girer."
+description: "SaaS denetimi, UNSPSC uyumlu harcama kategorizasyonu, satın alma döngüsü analizi ve tedarikçi konsolidasyonu için kullan."
 version: 2.8.0
 author: claude-code-skills
 license: MIT

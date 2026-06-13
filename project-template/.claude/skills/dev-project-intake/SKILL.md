@@ -1,6 +1,6 @@
 ---
 name: project-intake
-description: "Yeni proje BAŞLATMAK için yapılandırılmış ön kapı. Kullanıcıyla yapılandırılmış bir brifing yaparak (sorun, kullanıcılar, olmazsa olmazlar, kapsam dışı, kısıtlamalar, başarı kriterleri) mülakat yap, fikirler ve ödünleşimler öner, kapsamı yönlendir, ardından kabul kriterleriyle birlikte tamamlanmış brifing'i PRD'ye aktar. Gereksinimler belirsizken, ortaya çıkarılması, şekillendirilmesi ve tasarım veya geliştirmeye başlamadan önce bir spesifikasyona dönüştürülmesi gereken proje başlangıcında kullan."
+description: "Yeni proje başlatmak için yapılandırılmış ön kapı: problem, olmazsa olmazlar ve başarı kriterleri brifing yaparak PRD'ye aktarır."
 ---
 
 # Project Intake (new project front door)

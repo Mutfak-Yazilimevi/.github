@@ -1,6 +1,6 @@
 ---
 name: "customer-success-manager"
-description: "SaaS müşteri başarısı için ağırlıklı puanlama modelleri kullanarak müşteri sağlığını izler, churn riskini tahmin eder ve genişleme fırsatlarını belirler. Müşteri hesaplarını analiz ederken, elde tutma metriklerini incelerken, risk altındaki müşterileri puanlarken veya kullanıcı churn, customer health score, upsell fırsatları, genişleme geliri, elde tutma analizi ya da müşteri analitiği gibi konulardan bahsettiğinde kullan. Enterprise, Mid-Market ve SMB segmentlerinde deterministik sağlık puanları, churn risk kademeleri ve önceliklendirilmiş genişleme önerileri üretmek için üç Python CLI aracı çalıştırır."
+description: "SaaS müşteri sağlık skoru, churn riski tahmini ve genişleme fırsatı belirleme; Enterprise/Mid-Market/SMB segmentleri için Python CLI araçları çalıştırır."
 license: MIT
 metadata:
   version: 1.0.0

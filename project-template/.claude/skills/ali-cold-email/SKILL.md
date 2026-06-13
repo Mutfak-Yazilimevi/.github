@@ -1,6 +1,6 @@
 ---
 name: "cold-email"
-description: "Kullanıcı henüz haber almak istememiş potansiyel müşterilere B2B soğuk giden e-posta yazmak, geliştirmek veya bir e-posta dizisi oluşturmak istediğinde kullan. Kullanıcı 'soğuk e-posta', 'soğuk giden iletişim', 'potansiyel müşteri e-postaları', 'SDR e-postaları', 'satış e-postaları', 'ilk temas e-postası', 'takip dizisi' veya 'e-posta ile aday bulma' ifadelerinden bahsettiğinde kullan. Ayrıca çok satışı andıran ve insanlaştırılması gereken bir e-posta taslağı paylaştıklarında da kullan. Onay almış abonelere gönderilen email-sequence (yaşam döngüsü/besleyici içerik) becerisinden farklıdır — bu, yeni adaylara yönelik istenmeyen bir giden iletişimdir. Yaşam döngüsü e-postaları, bültenler veya damla kampanyaları için KULLANMA (email-sequence kullan)."
+description: "B2B soğuk giden e-posta yazmak veya dizi oluşturmak için kullan; SDR/satış e-postaları ve potansiyel müşteri iletişimi senaryolarını kapsar."
 license: MIT
 metadata:
   version: 1.0.0

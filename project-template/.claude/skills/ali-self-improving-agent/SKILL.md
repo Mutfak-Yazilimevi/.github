@@ -1,6 +1,6 @@
 ---
 name: "self-improving-agent"
-description: "Claude Code'un otomatik belleğini kalıcı proje bilgisine dönüştürür. MEMORY.md'yi desenlere göre analiz eder, kanıtlanmış öğrenmeleri CLAUDE.md ve .claude/rules/ konumlarına taşır, yinelenen çözümleri yeniden kullanılabilir becerilere dönüştürür. Şu durumlarda kullan: (1) Claude'un projeniz hakkında neler öğrendiğini incelemek, (2) bir deseni notlardan zorunlu kurallara yükseltmek, (3) hata ayıklama çözümünü beceriye dönüştürmek, (4) bellek sağlığını ve kapasitesini kontrol etmek."
+description: "MEMORY.md'yi analiz edip kanıtlanmış öğrenmeleri CLAUDE.md ve .claude/rules/ dosyalarına taşır; tekrarlı çözümleri beceriye dönüştürür; bellek sağlığını yönetir."
 ---
 
 # Self-Improving Agent

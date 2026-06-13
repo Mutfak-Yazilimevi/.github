@@ -1,6 +1,6 @@
 ---
 name: "skill-security-auditor"
-description: "Kurulum öncesinde AI ajan skill'leri için güvenlik denetimi ve açık tarayıcı. Şu durumlarda kullan: (1) güvenilir olmayan bir kaynaktan skill değerlendirme, (2) kötü amaçlı kod için bir skill dizinini veya git repo URL'sini denetleme, (3) Claude Code eklentileri, OpenClaw skill'leri veya Codex skill'leri için kurulum öncesi güvenlik kapısı, (4) Python betiklerini os.system, eval, subprocess, ağ dışa veri sızdırma gibi tehlikeli örüntüler için tarama, (5) SKILL.md dosyalarında prompt enjeksiyonu tespiti, (6) bağımlılık tedarik zinciri risklerini kontrol etme, (7) dosya sistemi erişiminin skill sınırları içinde kalmasını doğrulama. Tetikleyiciler: \"bu skill'i denetle\", \"bu skill güvenli mi\", \"skill güvenliği tara\", \"kurmadan önce skill'i kontrol et\", \"skill güvenlik kontrolü\", \"skill açık tarama\"."
+description: "Kurulum öncesi AI ajan skill'lerini güvenlik açığı, kötü amaçlı kod, prompt enjeksiyonu ve tedarik zinciri riski için denetler; SKILL.md ve Python betiklerini tarar."
 ---
 
 # Skill Security Auditor

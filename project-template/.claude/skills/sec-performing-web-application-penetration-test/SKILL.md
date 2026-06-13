@@ -1,6 +1,6 @@
 ---
 name: performing-web-application-penetration-test
-description: "Kimlik doğrulama, yetkilendirme, giriş doğrulama, oturum yönetimi ve iş mantığındaki güvenlik açıklarını tespit etmek amacıyla OWASP Web Security Testing Guide (WSTG) metodolojisini izleyerek web uygulamalarının sistematik güvenlik testini gerçekleştirir. Test uzmanı, otomatik tarayıcıların kaçırdığı açıkları bulmak için Burp Suite'i birincil dinleme proxy'si olarak manuel test teknikleriyle birlikte kullanır. Web uygulama sızma testi, OWASP testi, uygulama güvenliği değerlendirmesi veya web güvenlik açığı testi içeren istekler için kullan."
+description: "OWASP WSTG metodolojisi ve Burp Suite ile web uygulamalarında kimlik doğrulama, yetkilendirme, oturum yönetimi güvenlik açıklarını sistematik olarak test eder."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

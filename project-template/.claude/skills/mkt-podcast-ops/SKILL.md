@@ -1,6 +1,6 @@
 ---
 name: podcast-pipeline
-description: "Podcast'ten-Her Şeye içerik işlem hattı. Bir podcast RSS beslemesi veya ham transkript alır ve tam bir çapraz platform içerik takvimi oluşturur: kısa form video klipleri, Twitter/X dizileri, LinkedIn makaleleri, bülten bölümleri, alıntı kartları, SEO anahtar kelimeleriyle blog ana hatları ve YouTube Shorts/TikTok senaryoları. Her parçayı viral potansiyele göre puanlar (yenilik × tartışma × fayda) ve son çıktıya karşı tekilleştirir. Şunlar istendiğinde kullan: \"bu podcast'i yeniden kullan\", \"bu bölümü içeriğe çevir\", \"podcast içerik takvimi\", \"bu bölümden klipler çıkar\", \"podcast'ten sosyal medyaya\", \"RSS beslemesinden içerik\", \"bölümleri toplu işle\" veya podcast/ses içeriğini çok platformlu bir içerik planına dönüştürme talebi."
+description: "Podcast RSS beslemesi veya transkriptten çapraz platform içerik takvimi oluştur: kısa video, Twitter/X, LinkedIn, bülten ve blog."
 ---
 
 

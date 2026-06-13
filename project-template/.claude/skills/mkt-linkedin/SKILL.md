@@ -1,6 +1,6 @@
 ---
 name: linkedin
-description: "Profesyoneller ve kurucular için LinkedIn odaklı skill — profili optimize eder (başlık, Hakkında, Öne Çıkanlar, Deneyim, beceriler), içerik motoru oluşturur (kancalar ve kadansla gönderiler, karusel'ler, makaleler), ağı ve etkileşimi büyütür ve düşünceli giden mesajlar/DM'ler yürütür. LinkedIn profil denetimi/optimizasyonu, kişisel marka veya kurucu öncülüğünde içerik, LinkedIn büyüme stratejisi, bağlantı/giden mesaj dizileri veya \"LinkedIn'imi geliştir\" için kullan. LinkedIn'i yalnızca bir kanal olarak ele alan çok platformlu sosyal içerik skill'lerinden daha derine gider."
+description: "LinkedIn profil optimizasyonu (başlık, Hakkında, Deneyim), içerik motoru (gönderiler, karusel, makaleler), ağ büyütme ve giden mesaj dizileri için kullan."
 ---
 
 # LinkedIn (profil · içerik · büyüme · outreach)

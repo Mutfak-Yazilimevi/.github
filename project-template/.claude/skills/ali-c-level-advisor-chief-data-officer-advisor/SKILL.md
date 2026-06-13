@@ -1,6 +1,6 @@
 ---
 name: c-level-advisor-chief-data-officer-advisor
-description: "Girişimler için Chief Data Officer danışmanlığı: yapay zeka eğitim verisi hakları ve onay kaynağı, veri ürün stratejisi (warehouse vs lakehouse vs mesh, yapma-vs-satın alma), B2B müşteri-verisi-varlık değerlemesi ve M&A hazırlığı, veri ekibi organizasyon evrimi. Müşteri verisi üzerinde model eğitip eğitmeme kararı verirken, veri mimarisi seçerken, fundraising veya M&A için veri değerlerken, veri işe alım sırasını belirlerken veya kullanıcı CDO, chief data officer, veri stratejisi, data mesh, lakehouse, eğitim verisi, veri ürünü, veri para kazanma veya müşteri veri varlığı dediğinde kullan. Taktik veri mühendisliği becerisi değil — yalnızca stratejik kararlar."
+description: "CDO danışmanlığı: AI eğitim verisi hakları, warehouse/lakehouse/mesh mimarisi, veri ürünü değerlemesi ve veri ekibi organizasyon evrimi için stratejik kararlar."
 license: MIT
 metadata:
   version: 1.0.0

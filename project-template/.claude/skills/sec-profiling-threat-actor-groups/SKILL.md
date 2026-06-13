@@ -1,6 +1,6 @@
 ---
 name: profiling-threat-actor-groups
-description: "Birden fazla istihbarat kaynağından TTP belgeleri, geçmiş kampanya verileri, araçlama parmak izleri ve atıf göstergelerini bir araya getirerek APT grupları, suç örgütleri ve hacktivist kolektifler için kapsamlı tehdit aktörü profilleri geliştirir. Sektöre özgü tehditler hakkında yöneticilere brifing verirken, tehdit modeli varsayımlarını güncellerken veya belirli düşmanlara karşı savunma kontrollerini önceliklendirirken kullan. MITRE ATT&CK Groups, Mandiant APT profilleri, CrowdStrike düşman isimlendirmesi veya sektöre özgü tehdit brifinglieri içeren istekler için kullan."
+description: "APT grupları, suç örgütleri ve hacktivistler için TTP, kampanya verisi ve araçlama parmak iziyle kapsamlı tehdit aktörü profili geliştirir; MITRE ATT&CK Groups kullanır."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

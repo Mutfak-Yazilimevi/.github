@@ -25,9 +25,16 @@ def add(sev,cat,msg): issues.append((sev,cat,msg))
 
 SKILL_PATTERNS=[("mutfak-dotnet",["dev-dotnet-*"]),("mutfak-dev",["dev-*"]),
  ("mutfak-frontend",["fe-*","frontend","web-*","web","theme*","webapp*"]),("mutfak-design",["design-*"]),
- ("mutfak-pm",["pm-*"]),("mutfak-marketing",["mkt-*","seo*"]),("mutfak-security",["sec-*"]),
+ ("mutfak-pm",["pm-*"]),("mutfak-marketing",["mkt-*","seo*"]),
  ("mutfak-research",["research-*"]),("mutfak-diagrams",["md-*"]),("mutfak-consulting",["ali-*"])]
+SEC_ROUTE={}
+_sec_tsv=f"{SK}/sec-routing.tsv"
+if os.path.exists(_sec_tsv):
+    for _ln in open(_sec_tsv,encoding="utf-8"):
+        if "\t" in _ln:
+            _n,_p=_ln.rstrip("\n").split("\t",1); SEC_ROUTE[_n.strip()]=_p.strip()
 def skill_plugin(n):
+    if n.startswith("sec-"): return SEC_ROUTE.get(n,"mutfak-security-defense")
     for pl,ps in SKILL_PATTERNS:
         if any(fnmatch.fnmatch(n,p) for p in ps): return pl
     return "mutfak-core"
@@ -66,7 +73,7 @@ for pl,nm in names_by_plugin.items():
         if len(ds)>1: add("ERR","collision",f"[{pl}] frontmatter name '{name}' çakışması: {ds}")
 
 for x in os.listdir(SK):
-    if not os.path.isdir(f"{SK}/{x}") and x not in ("index_skills.md","skills-catalog.csv"):
+    if not os.path.isdir(f"{SK}/{x}") and x not in ("index_skills.md","skills-catalog.csv","sec-routing.tsv"):
         add("WARN","skill",f"skills/ kökünde beklenmedik dosya: {x}")
 
 VALID_MODELS={"haiku","sonnet","opus"}

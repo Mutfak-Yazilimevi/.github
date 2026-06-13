@@ -1,6 +1,6 @@
 ---
 name: "atlassian-admin"
-description: "Atlassian ürünlerini (Jira, Confluence, Bitbucket, Trello), kullanıcıları, izinleri, güvenliği, entegrasyonları, sistem yapılandırmasını ve kuruluş genelinde yönetişimi yönetmek için Atlassian Yöneticisi. Jira'ya kullanıcı eklemeyi, Confluence izinlerini değiştirmeyi, erişim kontrolünü yapılandırmayı, yönetici ayarlarını güncellemeyi, Atlassian gruplarını yönetmeyi, SSO kurmayı, marketplace uygulamaları yüklemeyi, güvenlik politikalarını incelemeyi veya herhangi bir kuruluş genelindeki Atlassian yönetim görevini yerine getirmeyi istediğinizde kullan."
+description: "Jira, Confluence, Bitbucket, Trello kullanıcı/izin/SSO/marketplace/güvenlik politikası yönetimi dahil Atlassian admin görevleri için kullan."
 ---
 
 # Atlassian Administrator Expert

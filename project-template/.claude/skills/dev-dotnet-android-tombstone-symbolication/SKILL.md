@@ -1,6 +1,6 @@
 ---
 name: android-tombstone-symbolication
-description: "Android tombstone dosyasındaki .NET çalışma zamanı çerçevelerini sembolize eder. BuildId'leri ve PC ofsetlerini yerel geri izlemeden çıkarır, Microsoft sembol sunucusundan hata ayıklama sembollerini indirir ve kaynak dosya ile satır numaralarıyla işlev adları üretmek için llvm-symbolizer çalıştırır. ŞU DURUMLARDA KULLAN: tombstone'dan .NET MAUI veya Mono Android uygulama kilitlenmesini triyaj etmek, libmonosgen-2.0.so veya libcoreclr.so içindeki yerel geri izleme çerçevelerini .NET çalışma zamanı kaynak koduna çözümlemek, Android'de .NET çalışma zamanından kaynaklanan SIGABRT, SIGSEGV veya diğer yerel sinyalleri araştırmak. Saf Java/Kotlin kilitlenmeleri, logcat'te zaten yakalanan yönetilen .NET istisnaları veya iOS kilitlenme günlükleri için KULLANMA. Symbolicate-Tombstone.ps1 betiğini, llvm-symbolizer ve Microsoft sembol sunucusunu çağırır."
+description: "Android tombstone'daki .NET çerçevelerini sembolize eder; llvm-symbolizer ve Microsoft sembol sunucusuyla MAUI/Mono SIGABRT/SIGSEGV kilitlenmelerini çözümler."
 license: MIT
 ---
 

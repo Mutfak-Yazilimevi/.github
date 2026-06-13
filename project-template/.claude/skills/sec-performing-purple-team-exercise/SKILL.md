@@ -1,6 +1,6 @@
 ---
 name: performing-purple-team-exercise
-description: "MITRE ATT&CK'e eşlenmiş saldırı senaryoları, gerçek zamanlı tespit testi ve işbirlikçi boşluk giderimi kullanarak mavi ekip tespit doğrulamasıyla kırmızı ekip düşman emülasyonunu koordine ederek mor ekip egzersizleri gerçekleştirir. SOC ekiplerinin tespit yeteneklerini doğrulaması, analist becerilerini geliştirmesi ve yapılandırılmış saldırı-savunma işbirliği yoluyla tespit boşluklarını kapatması gerektiğinde kullan."
+description: "MITRE ATT&CK eşlemeli saldırı senaryoları ile kırmızı ekip emülasyonu ve mavi ekip tespit doğrulamasını koordine eden mor ekip egzersizi yürütür."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

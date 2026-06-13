@@ -3,7 +3,7 @@
 > Organizasyonun **tüm Claude Code skill & agent'larının** tek deposu.
 > Projeler bu kütüphaneyi **kopyalamaz** — yalnızca ihtiyaç duyduğu plugin'leri **açar.**
 
-**📦 12 plugin · 🧩 1613 skill · 🤖 64 agent · ⌨️ 9 slash komutu**
+**📦 17 plugin · 🧩 1613 skill · 🤖 64 agent · ⌨️ 9 slash komutu**
 
 ---
 
@@ -59,7 +59,7 @@ bash scripts/integrate-into-project.sh --target /yol/projeye --profile dotnet-ap
   "extraKnownMarketplaces": {
     "mutfak": { "source": { "source": "github", "repo": "mutfak-yazilimevi/claude-config" } }
   },
-  "enabledPlugins": { "mutfak-dotnet@mutfak": true, "mutfak-security@mutfak": true }
+  "enabledPlugins": { "mutfak-dotnet@mutfak": true, "mutfak-security-defense@mutfak": true }
 }
 ```
 > `enabledPlugins` **object** formatındadır (`"plugin@mutfak": true`), array değil.
@@ -90,14 +90,16 @@ Proje tipine göre önerilen plugin setleri — detay: [`templates/PROFILES.md`]
 
 | Profil | Açılan plugin'ler |
 | :--- | :--- |
-| `dotnet-api` | core · dev · dotnet · security |
+| `dotnet-api` | core · dev · dotnet · security-defense |
 | `web-frontend` | core · dev · frontend · design |
-| `fullstack` | core · dev · dotnet · frontend · design · security |
+| `fullstack` | core · dev · dotnet · frontend · design · security-defense |
 | `marketing` | core · marketing · pm · design |
-| `security` | core · dev · security |
+| `blueteam` | core · security-detection · -forensics · -intel · -grc |
+| `redteam` | core · dev · security-offensive |
+| `seceng` | core · dev · security-defense · -grc |
 | `minimal` | core · dev |
 
-> Tam liste: `minimal, dotnet-api, web-frontend, fullstack, mobile, marketing, product, security, research, spec`.
+> Tam liste: `minimal, dotnet-api, web-frontend, fullstack, mobile, marketing, product, blueteam, redteam, seceng, research, spec`.
 
 ---
 
@@ -112,7 +114,12 @@ Proje tipine göre önerilen plugin setleri — detay: [`templates/PROFILES.md`]
 | `mutfak-design` | Vendor marka/ürün tasarım sistemleri (99+) |
 | `mutfak-pm` | Ürün yönetimi: strateji, PRD, metrik, keşif |
 | `mutfak-marketing` | Pazarlama, SEO, growth, içerik + blog agent'ları |
-| `mutfak-security` | Savunma/blue-team güvenlik (forensics, detection, hunting…) |
+| `mutfak-security-offensive` | Saldırgan: pentest, red-team, exploit, attack (yetkili) |
+| `mutfak-security-detection` | Tespit & avlama: detection, hunting, SIEM/SOC |
+| `mutfak-security-forensics` | Adli bilişim/DFIR: malware RE, memory/disk forensics, IOC |
+| `mutfak-security-defense` | Savunma/hardening: kontroller, zero-trust, kimlik, şifreleme |
+| `mutfak-security-grc` | GRC: audit, zafiyet yönetimi, uyumluluk, IR + security-auditor |
+| `mutfak-security-intel` | Tehdit istihbaratı (CTI): threat intel, OSINT, STIX/TAXII |
 | `mutfak-research` | Akademik & derin araştırma |
 | `mutfak-diagrams` | Markdown diyagram/görselleştirme |
 | `mutfak-consulting` | İş/ops/C-level danışmanlık |
@@ -137,12 +144,12 @@ Yeni skill/agent ekleyince izlenecek akış:
 
 | Script | Ne yapar |
 | :--- | :--- |
-| `build-marketplace.sh` | Skill/agent'ları önek bazlı 12 plugin'e **materyalize** eder |
+| `build-marketplace.sh` | Skill/agent'ları önek bazlı 17 plugin'e **materyalize** eder |
 | `build-skill-index.py` | `index_skills.md` (kategori bazlı ad listesi) üretir |
 | `build-catalog.py` | Sorgulanabilir CSV kataloglarını (skills/agents) üretir |
 | `audit-claude.py` | Kütüphaneyi denetler (frontmatter, çakışma, kırık referans, senkron) — ERR'de exit 1 |
 | `integrate-into-project.sh` | Marketplace'i mevcut bir projeye güvenle ekler |
-| `publish.sh` | `.github`'tan çekip 12 plugin'i materyalize eder, commit + push (**tek komut yayım**) |
+| `publish.sh` | `.github`'tan çekip 17 plugin'i materyalize eder, commit + push (**tek komut yayım**) |
 
 Her biri `--source <.claude dizini>` alır (publish hariç). Örn:
 ```bash
@@ -160,7 +167,7 @@ bash scripts/publish.sh
 ## Nasıl çalışıyor? (zihinsel model)
 
 - **Kaynak tek yerde:** asıl skill/agent içeriği `mutfak-yazilimevi/.github/project-template/.claude/` altındadır.
-- **Önek = plugin:** skill adının öneki hangi plugin'e gideceğini belirler (`dev-` → mutfak-dev, `sec-` → mutfak-security…). Agent'lar ise ada göre eşlenir.
+- **Önek = plugin:** skill adının öneki hangi plugin'e gideceğini belirler (`dev-` → mutfak-dev, `sec-` → mutfak-security-* (6 alt-plugin, `sec-routing.tsv`)…). Agent'lar ise ada göre eşlenir.
 - **Materyalize:** `build-marketplace.sh` skill/agent'ları `plugins/<ad>/{skills,agents}/`, **slash komutlarını** `plugins/mutfak-core/commands/` altına kopyalar.
 - **Plugin ile gelmeyenler:** `rules/`, `CLAUDE.md`, `hooks/`, `.mcp.json` — proje scaffold'udur (bkz. "Marketplace ne taşır/taşımaz").
 - **Proje tarafı:** proje yalnız `settings.json` ile plugin'i **açar**; içeriği Claude Code marketplace'ten çeker (`~/.claude/plugins/`).
@@ -172,7 +179,7 @@ bash scripts/publish.sh
 ```
 claude-config/
 ├── marketplace.json        # marketplace tanımı
-├── plugins/                # 12 plugin (materyalize skill/agent içeriği)
+├── plugins/                # 17 plugin (materyalize skill/agent içeriği)
 ├── scripts/                # build / catalog / audit / integrate / publish
 ├── templates/              # proje settings.json + PROFILES.md
 └── README.md               # bu dosya

@@ -23,7 +23,15 @@ while [ $# -gt 0 ]; do case "$1" in --source) SRC="$2"; shift 2;; *) echo "bilin
 
 SK="$SRC/skills"; AG="$SRC/agents"
 
-# Bir skill'i hangi plugin'e? (önek bazlı)
+# sec- alt-plugin routing — TEK doğruluk kaynağı: skills/sec-routing.tsv
+# (classify-security.py üretir). sec- skill'leri 6 güvenlik alt-plugin'ine yönlendirir;
+# eşleşme yoksa mutfak-security-defense.
+declare -A SEC_ROUTE
+if [ -f "$SK/sec-routing.tsv" ]; then
+  while IFS=$'\t' read -r _sn _sp; do [ -n "$_sn" ] && SEC_ROUTE["$_sn"]="$_sp"; done < "$SK/sec-routing.tsv"
+fi
+
+# Bir skill'i hangi plugin'e? (önek bazlı; sec- için routing tablosu)
 skill_plugin() {
   case "$1" in
     dev-dotnet-*)                 echo mutfak-dotnet ;;
@@ -32,7 +40,7 @@ skill_plugin() {
     design-*)                     echo mutfak-design ;;
     pm-*)                         echo mutfak-pm ;;
     mkt-*|seo*)                   echo mutfak-marketing ;;
-    sec-*)                        echo mutfak-security ;;
+    sec-*)                        echo "${SEC_ROUTE[$1]:-mutfak-security-defense}" ;;
     research-*)                   echo mutfak-research ;;
     md-*)                         echo mutfak-diagrams ;;
     ali-*)                        echo mutfak-consulting ;;
@@ -47,7 +55,7 @@ agent_plugin() {
     spec-*|agent-organizer|tech-lead-orchestrator|team-configurator|project-analyst) echo mutfak-spec-workflow ;;
     blog-*)                                                 echo mutfak-marketing ;;
     frontend-developer|senior-frontend-architect|react-pro|nextjs-pro|ui-designer|ux-designer|ui-ux-master) echo mutfak-frontend ;;
-    security-auditor)                                       echo mutfak-security ;;
+    security-auditor)                                       echo mutfak-security-grc ;;
     product-manager)                                        echo mutfak-pm ;;
     prompt-engineer)                                        echo mutfak-core ;;
     *)                                                      echo mutfak-dev ;;  # backend/data/devops/quality/dil uzmanları

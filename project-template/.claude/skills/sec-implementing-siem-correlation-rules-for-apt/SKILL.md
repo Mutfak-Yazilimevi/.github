@@ -1,6 +1,6 @@
 ---
 name: implementing-siem-correlation-rules-for-apt
-description: "Tek olay tespitlerinde görünmez saldırı dizilerini yüzeye çıkarmak için kayan zaman pencereleri içinde Event ID 4624, 4648, 4688 ve Sysmon Olay 1/3'ü ilişkilendirmek amacıyla Splunk SPL ve Sigma kural formatını kullanarak APT yanal hareketini, Windows kimlik doğrulama olaylarını, işlem yürütme telemetrisini ve ağ bağlantı loglarını birden fazla ana bilgisayar genelinde zincirleyerek tespit eden çok olaylı korelasyon kuralları yaz."
+description: "Splunk SPL ve Sigma ile APT yanal hareketini tespit eden çok olaylı korelasyon kuralları yazar; Event ID 4624/4648/4688 ve Sysmon 1/3 olaylarını zincirler."
 domain: cybersecurity
 subdomain: security-operations
 tags:

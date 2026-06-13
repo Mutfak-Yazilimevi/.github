@@ -1,6 +1,6 @@
 ---
 name: marketing-psychology
-description: "Kullanıcı pazarlamaya psikolojik ilkeler, zihinsel modeller veya davranış bilimleri uygulamak istediğinde kullan. Ayrıca 'psychology', 'mental models', 'cognitive bias', 'persuasion', 'behavioral science', 'why people buy', 'decision-making', 'consumer behavior', 'anchoring', 'social proof', 'scarcity', 'loss aversion', 'framing' veya 'nudge' ifadelerini kullandığında da kullan. İnsanların pazarlama bağlamında nasıl düşündüğünü ve karar verdiğini anlamak ya da bundan yararlanmak isteyen birileri olduğunda kullan. Belirli sayfalar için psikoloji uygulamak için cro; fiyatlandırma taktikleri için pricing; metin çerçeveleme için copywriting skill'ini kullan."
+description: "Pazarlamaya psikoloji, bilişsel önyargı ve davranış bilimi uygulamak istediğinde kullan; anchoring, social proof, loss aversion, nudge dahil."
 metadata:
   version: 2.0.0
 ---

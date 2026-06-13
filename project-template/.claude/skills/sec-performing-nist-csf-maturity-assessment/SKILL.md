@@ -1,6 +1,6 @@
 ---
 name: performing-nist-csf-maturity-assessment
-description: "Şubat 2024'te yayımlanan NIST Cybersecurity Framework (CSF) 2.0, Govern, Identify, Protect, Detect, Respond ve Recover olmak üzere altı temel Fonksiyon aracılığıyla siber güvenlik riskini yönetmek için kapsamlı bir sınıflandırma sistemi sunar. Bu skill, Implementation Tiers kullanarak CSF'ye karşı olgunluk değerlendirmesi yapmayı, kurumsal siber güvenlik duruşunu ölçmeyi ve iyileştirme yol haritaları oluşturmayı kapsar."
+description: "NIST CSF 2.0 (Govern, Identify, Protect, Detect, Respond, Recover) ile olgunluk değerlendirmesi yapar ve iyileştirme yol haritası oluşturur."
 domain: cybersecurity
 subdomain: compliance-governance
 tags:

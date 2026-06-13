@@ -1,6 +1,6 @@
 ---
 name: test-gap-analysis
-description: "Mevcut test paketlerindeki boşlukları bulmak için herhangi bir dildeki prodüksiyon kodunda sözde mutasyon analizi yapar. Kullanıcı zayıf testleri bulmak, test edilmemiş kenar durumlarını keşfetmek, testlerin bir hatayı yakalayıp yakalamayacağını kontrol etmek veya mutasyon tarzı akıl yürütmeyle test etkinliğini değerlendirmek istediğinde kullan. Mutasyon noktaları (sınırlar, boolean dönüşümleri, null/None/nil dönüşleri, istisna/hata kaldırma, aritmetik değişiklikler) için prodüksiyon kodunu analiz eder ve testlerin her mutasyonu tespit edip etmeyeceğini kontrol eder. Çok dilli: .NET (MSTest/xUnit/NUnit/TUnit), Python (pytest/unittest), TS/JS (Jest/Vitest/Mocha/node:test), Java (JUnit/TestNG), Go, Ruby (RSpec/Minitest), Rust, Swift, Kotlin (JUnit/Kotest), PowerShell (Pester), C++ (GoogleTest/Catch2). ŞU DURUMLARDA KULLANMA: yeni test yazma (code-testing-agent veya MSTest için writing-mstest-tests), anti-desen tespiti (test-anti-patterns), iddia çeşitliliği ölçümü (assertion-quality) veya gerçek mutasyon test araçları çalıştırma (Stryker, mutmut, PIT, cargo-mutants)."
+description: "Sözde mutasyon analizi ile test boşluklarını bulur; .NET, Python, JS/TS, Java, Go, Rust ve diğer dillerde sınır/boolean/null mutasyon noktalarını değerlendirir."
 license: MIT
 ---
 

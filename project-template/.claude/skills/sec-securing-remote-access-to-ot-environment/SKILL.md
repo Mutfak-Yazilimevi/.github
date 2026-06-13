@@ -1,6 +1,6 @@
 ---
 name: securing-remote-access-to-ot-environment
-description: "Bu skill, endüstriyel operasyonları tehlikeye atabilecek yetkisiz erişimi önlerken operatörler, mühendisler ve satıcılar için OT/ICS ortamlarına güvenli uzaktan erişim uygulamayı kapsar. Jump server mimarisini, çok faktörlü kimlik doğrulamayı, oturum kaydını, ayrıcalıklı erişim yönetimini, satıcı uzaktan erişim kontrollerini ve IEC 62443 ile NERC CIP-005 uzaktan erişim gereksinimlerine uyumu ele alır."
+description: "OT/ICS ortamlarına jump server, MFA, oturum kaydı, ayrıcalıklı erişim yönetimi ve IEC 62443/NERC CIP-005 uyumlu güvenli uzaktan erişim uygula."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

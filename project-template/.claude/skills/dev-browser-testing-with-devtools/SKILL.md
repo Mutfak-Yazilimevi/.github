@@ -1,6 +1,6 @@
 ---
 name: browser-testing-with-devtools
-description: "Chrome DevTools MCP aracılığıyla gerçek tarayıcılarda test yapar. Tarayıcıda çalışan bir şey oluştururken veya hata ayıklarken kullan. DOM'u incelemeniz, konsol hatalarını yakalamanız, ağ isteklerini analiz etmeniz, performansı profil çıkarmanız veya gerçek çalışma zamanı verileriyle görsel çıktıyı doğrulamanız gerektiğinde kullan. chrome-devtools MCP sunucusunun yapılandırılmış olmasını gerektirir."
+description: "Chrome DevTools MCP aracılığıyla gerçek tarayıcılarda test, hata ayıklama, DOM inceleme, konsol/ağ analizi ve görsel doğrulama için kullan; chrome-devtools MCP gerektirir."
 ---
 
 # Browser Testing with DevTools

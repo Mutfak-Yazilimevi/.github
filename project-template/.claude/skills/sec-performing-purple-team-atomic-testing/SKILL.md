@@ -1,6 +1,6 @@
 ---
 name: performing-purple-team-atomic-testing
-description: "MITRE ATT&CK tekniklerine eşlenmiş Atomic Red Team testleri yürütür, ATT&CK matrisi genelinde kapsam boşluğu analizi gerçekleştirir ve mavi ekip görünürlüğünü ölçmek için tespit doğrulama döngüleri çalıştırır. Invoke-AtomicRedTeam PowerShell yürütmesini, ısı haritaları için ATT&CK Navigator katman oluşturmasını, Sigma kural korelasyonunu ve sürekli atomik test iş hatlarını kapsar. Mor ekip egzersizleri, atomik test yürütme, ATT&CK kapsam değerlendirmesi, tespit mühendisliği doğrulaması veya düşman emülasyon testi içeren istekler için kullan."
+description: "MITRE ATT&CK ile Atomic Red Team testleri yürütür, ATT&CK Navigator ısı haritası ve Sigma kural korelasyonu ile mavi ekip tespit kapsamını ölçer."
 domain: cybersecurity
 subdomain: purple-team
 tags:

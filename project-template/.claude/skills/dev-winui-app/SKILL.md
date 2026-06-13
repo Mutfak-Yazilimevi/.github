@@ -1,6 +1,6 @@
 ---
 name: winui-app
-description: "Resmi Microsoft kılavuzu, WinUI Gallery kalıpları, Windows App SDK örnekleri ve CommunityToolkit bileşenlerini kullanarak C# ile modern WinUI 3 masaüstü uygulamaları oluştur, geliştir ve tasarla. Yeni uygulama oluştururken, makineyi WinUI'ya hazırlarken, WinUI 3 XAML, kontroller, gezinme, pencereleme, tema, erişilebilirlik, yanıt verme, performans, dağıtım veya ilgili Windows uygulama tasarımı ve geliştirme çalışmalarını incelemek, yeniden düzenlemek, planlamak, sorun gidermek, ortamı kontrol etmek veya kurmak için kullan."
+description: "WinUI 3, Windows App SDK ve CommunityToolkit ile C# masaüstü uygulamaları oluşturmak, geliştirmek veya sorun gidermek için kullan."
 ---
 
 # WinUI App

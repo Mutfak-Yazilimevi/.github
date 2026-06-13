@@ -1,6 +1,6 @@
 ---
 name: performing-entitlement-review-with-sailpoint-iiq
-description: "Yönetici sertifikasyonları, hedefli yetki incelemeleri, rol tabanlı erişim doğrulaması, SoD ihlali giderme ve otomatik iptal iş akışları dahil SailPoint IdentityIQ kullanarak yetki incelemesi ve erişim sertifikasyon kampanyaları gerçekleştirir. Erişim incelemeleri, yetki sertifikasyonları, SailPoint IIQ yönetişimi veya periyodik kullanıcı erişimi yeniden sertifikasyonu içeren isteklerde etkinleşir."
+description: "SailPoint IdentityIQ ile yetki incelemesi: yönetici sertifikasyonları, SoD ihlali giderme ve otomatik iptal iş akışları."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

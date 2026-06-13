@@ -1,6 +1,6 @@
 ---
 name: correlating-threat-campaigns
-description: "Birleşik tehdit kampanyalarını belirlemek, bunları ortak tehdit aktörlerine atfetmek ve iyileştirilmiş tespit için paylaşılan göstergeler çıkarmak amacıyla zaman ve kuruluşlar genelindeki dağınık güvenlik olaylarını, IOC'leri ve saldırgan davranışlarını ilişkilendirir. Birden fazla olay örtüşen göstergeler sergilediğinde, sektör genelindeki saldırı kampanyaları kuruluşlar arası analiz gerektirdiğinde veya kampanya düzeyinde istihbarat ürünleri oluşturulurken kullan. Kampanya analizi, olay kümeleme, kuruluşlar arası IOC korelasyonu veya MISP korelasyon motoruna yönelik isteklerde etkinleşir."
+description: "Dağınık olayları, IOC'leri ve saldırgan davranışlarını ilişkilendirerek birleşik tehdit kampanyası belirler ve MISP korelasyon motoruyla analiz eder."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

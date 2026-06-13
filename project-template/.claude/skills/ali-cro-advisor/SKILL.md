@@ -1,6 +1,6 @@
 ---
 name: "cro-advisor"
-description: "B2B SaaS şirketleri için gelir liderliği. Gelir tahmini, satış modeli tasarımı, fiyatlandırma stratejisi, net gelir elde tutma ve satış ekibi ölçeklendirme. Gelir motorunu tasarlarken, kotalar belirlerken, NRR modellerken, fiyatlandırmayı değerlendirirken, yönetim kurulu tahminleri oluştururken veya kullanıcı CRO, chief revenue officer, revenue strategy, satış modeli, ARR büyümesi, NRR, expansion revenue, churn, fiyatlandırma stratejisi veya satış kapasitesinden bahsettiğinde kullan."
+description: "B2B SaaS için CRO danışmanlığı: gelir tahmini, satış modeli, fiyatlandırma stratejisi, NRR modeli ve satış ekibi ölçeklendirme için kullan."
 license: MIT
 metadata:
   version: 1.0.0

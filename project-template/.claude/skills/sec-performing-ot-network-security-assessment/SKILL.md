@@ -1,6 +1,6 @@
 ---
 name: performing-ot-network-security-assessment
-description: "Bu skill, SCADA sistemleri, DCS mimarileri ve endüstriyel kontrol sistemi iletişim yolları dahil olmak üzere Operasyonel Teknoloji (OT) ağlarının kapsamlı güvenlik değerlendirmelerini yürütmeyi kapsar. Purdue Referans Modeli katmanlarını ele alır, IT/OT yakınsama risklerini tanımlar, bölgeler arası güvenlik duvarı kurallarını değerlendirir ve kritik altyapıdaki yanlış yapılandırmaları, yetkisiz bağlantıları ve saldırı yüzeylerini tespit etmek için endüstriyel protokol trafiğini (Modbus, DNP3, OPC UA, EtherNet/IP) haritalandırır."
+description: "OT/SCADA/DCS ağlarını Purdue Modeli, IT/OT yakınsama riskleri ve Modbus/DNP3/OPC UA/EtherNet/IP protokol trafiği analizi ile değerlendir."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

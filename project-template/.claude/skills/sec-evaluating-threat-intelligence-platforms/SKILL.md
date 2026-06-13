@@ -1,6 +1,6 @@
 ---
 name: evaluating-threat-intelligence-platforms
-description: "Tehdit İstihbarat Platformu (TIP) ürünlerini; besleme entegrasyon kapasitesi, STIX/TAXII desteği, iş akışı otomasyonu, analist arayüzü ve toplam sahip olma maliyeti dahil kurumsal gereksinimlere göre değerlendirir ve seçer. TIP tedariki yaparken, TIP çözümleri arasında geçiş yaparken veya mevcut TIP'nin program olgunluk gereksinimlerini karşılayıp karşılamadığını değerlendirirken kullanın. ThreatConnect, MISP, OpenCTI, Anomali, EclecticIQ veya TIP tedarik kararları içeren isteklerde etkinleşir."
+description: "TIP ürünlerini (ThreatConnect, MISP, OpenCTI, Anomali, EclecticIQ) STIX/TAXII desteği, besleme entegrasyonu ve TCO kriterlerine göre değerlendirir."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

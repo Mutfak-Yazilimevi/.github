@@ -1,6 +1,6 @@
 ---
 name: pptx
-description: "Bir .pptx dosyasının herhangi bir biçimde — girdi, çıktı veya her ikisi — dahil olduğu her durumda bu skill'i kullan. Bu şunları kapsar: slayt destesi, sunum destesi veya prezentasyon oluşturma; herhangi bir .pptx dosyasından metin okuma, ayrıştırma veya çıkarma (çıkarılan içerik e-posta veya özet gibi başka yerlerde kullanılacak olsa bile); mevcut sunumları düzenleme, değiştirme veya güncelleme; slayt dosyalarını birleştirme veya bölme; şablonlar, düzenler, konuşmacı notları veya yorumlarla çalışma. Kullanıcı \"deste\", \"slaytlar\", \"sunum\" ifadelerini kullandığında veya bir .pptx dosya adına atıfta bulunduğunda, içerikle sonradan ne yapmayı planladığından bağımsız olarak tetikle. Bir .pptx dosyasının açılması, oluşturulması veya işlenmesi gerekiyorsa bu skill'i kullan."
+description: "Bir .pptx dosyasının girdi veya çıktı olduğu her durumda kullan; slayt destesi oluşturma, okuma, düzenleme, birleştirme ve konuşmacı notları dahil."
 license: Proprietary. LICENSE.txt has complete terms
 ---
 

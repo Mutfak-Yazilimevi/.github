@@ -1,6 +1,6 @@
 ---
 name: "email-template-builder"
-description: "Eksiksiz işlemsel e-posta sistemleri oluşturur: React Email şablonları, sağlayıcı entegrasyonu (Resend, Postmark, SendGrid, AWS SES), önizleme sunucusu, i18n desteği, karanlık mod, spam optimizasyonu, analitik takibi. Yeni bir ürüne işlemsel e-posta eklerken, e-posta sağlayıcıları arasında geçiş yaparken, erişilebilirlik için eski e-posta şablonlarını yeniden düzenlerken veya mevcut şablonlara uluslararasılaştırma eklerken kullanılır."
+description: "React Email ile işlemsel e-posta şablonları oluşturur; Resend/Postmark/SendGrid/AWS SES entegrasyonu, i18n, karanlık mod ve spam optimizasyonu dahil."
 ---
 
 # Email Template Builder

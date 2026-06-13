@@ -1,6 +1,6 @@
 ---
 name: implementing-llm-guardrails-for-security
-description: "Prompt enjeksiyonunu, veri sızıntısını, zararlı içerik üretimini ve halüsinasyonlu çıktıları önlemek için LLM destekli uygulamalarda girdi ve çıktı doğrulama korumaları uygular. NVIDIA NeMo Guardrails Colang tanımlarını, PII tespiti ve içerik ilkesi zorunluluğu için özel Python doğrulayıcıları ve yapılandırılmış çıktı doğrulama için Guardrails AI çerçevesini kullanan bir güvenlik doğrulama ardışık düzeni oluşturur. Koruma sistemi hem kullanıcı girdilerini (enjeksiyon girişimlerini engelleme, PII'yi temizleme, konu sınırlarını zorunlu kılma) hem de model çıktılarını (halüsinasyon tespiti, zararlı içerik filtreleme, JSON şema uyumluluğunu doğrulama) durdurur. LLM çıktı doğrulama, AI içerik filtreleme, koruma uygulaması veya LLM güvenlik zorunluluğu içeren istekler için etkinleşir."
+description: "LLM uygulamalarında prompt enjeksiyonu, PII sızıntısı ve zararlı içerik önlemek için NeMo Guardrails, Guardrails AI ile girdi/çıktı doğrulama uygular."
 domain: cybersecurity
 subdomain: ai-security
 tags:

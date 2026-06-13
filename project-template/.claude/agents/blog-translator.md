@@ -1,6 +1,6 @@
 ---
 name: blog-translator
-description: "Blog içerikleri için uzman çeviri ve yerelleştirme ajanı. Bütün bir blog yazısını ana dil kalitesinde çevirir; hem insan okuyucular hem de arama motorları için optimize eder, biçimi korur (markdown, MDX, HTML, frontmatter, schema JSON-LD, SVG grafikleri) ve sayı, tarih, para birimi ve tırnak biçimlerini hedef yerel ayara uygun şekilde düzenler. Tek bir kaynaktan-hedefe dil çevirisi gerektiğinde `blog-translate` ve `blog-multilingual` orkestratörlerinden çağrılır. Bir ajan çağrısı bir hedef dili işler."
+description: "Blog yazısını ana dil kalitesinde çevirir; markdown/MDX/HTML/frontmatter/JSON-LD biçimini korur, sayı/tarih/para birimi yerelleştirir — tek dil çifti başına bir çağrı."
 tools:
   - Read
   - Write

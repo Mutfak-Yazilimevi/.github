@@ -1,6 +1,6 @@
 ---
 name: "docker-development"
-description: "Dockerfile optimizasyonu, docker-compose orkestrasyonu, çok aşamalı build'ler ve konteyner güvenliği sertleştirme için Docker ve konteyner geliştirme ajan skill'i. Şu durumlarda kullan: kullanıcı bir Dockerfile'ı optimize etmek, docker-compose yapılandırmaları oluşturmak veya geliştirmek, çok aşamalı build'ler uygulamak, konteyner güvenliğini denetlemek, imaj boyutunu küçültmek veya konteyner en iyi uygulamalarını takip etmek istediğinde. Build performansı, katman önbelleğe alma, gizli anahtar yönetimi ve üretime hazır konteyner kalıplarını kapsar."
+description: "Dockerfile optimizasyonu, docker-compose orkestrasyonu, çok aşamalı build ve konteyner güvenliği için kullan; imaj boyutu, katman önbelleği ve sır yönetimi dahil."
 license: MIT
 metadata:
   version: 1.0.0

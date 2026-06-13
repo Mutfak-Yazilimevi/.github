@@ -1,6 +1,6 @@
 ---
 name: durable-objects
-description: "Cloudflare Durable Objects oluştur ve incele. Durumlu koordinasyon (sohbet odaları, çok oyunculu oyunlar, rezervasyon sistemleri) oluştururken, RPC yöntemleri, SQLite depolama, alarmlar, WebSockets uygularken veya en iyi uygulamalar için DO kodunu incelerken kullan. Workers entegrasyonunu, wrangler yapılandırmasını ve Vitest ile test etmeyi kapsar. Önceden eğitilmiş bilgi yerine Cloudflare belgeleri alımını tercih eder."
+description: "Cloudflare Durable Objects ile durumlu koordinasyon (sohbet, oyun, rezervasyon), RPC, SQLite, WebSocket ve Miniflare testi için kullan."
 ---
 
 # Durable Objects

@@ -1,6 +1,6 @@
 ---
 name: fullstack-dev
-description: "Full-stack arka uç mimarisi ve frontend-backend entegrasyon kılavuzu. Şu durumlarda TETİKLE: full-stack uygulama oluşturma, frontend ile REST API oluşturma, arka uç servisi iskeletleme, todo uygulaması oluşturma, CRUD uygulaması oluşturma, gerçek zamanlı uygulama oluşturma, sohbet uygulaması oluşturma, Express + React, Next.js API, Node.js arka uç, Python arka uç, Go arka uç, servis katmanları tasarlama, hata yönetimi uygulama, yapılandırma/kimlik doğrulama yönetimi, API istemcileri kurma, kimlik doğrulama akışları uygulama, dosya yükleme işleme, gerçek zamanlı özellikler ekleme (SSE/WebSocket), üretime sertleştirme. Şu durumlarda TETİKLEME: saf frontend UI çalışması, saf CSS/stillendirme, yalnızca veritabanı şeması."
+description: "Full-stack uygulama, REST API, CRUD, gerçek zamanlı özellik (SSE/WebSocket) veya kimlik doğrulama akışı geliştirirken kullan; Express/React/Next.js/Node/Python/Go."
 license: MIT
 metadata:
   category: full-stack

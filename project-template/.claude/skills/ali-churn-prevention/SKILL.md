@@ -1,6 +1,6 @@
 ---
 name: "churn-prevention"
-description: "İptal akış tasarımı, kaydetme teklifleri, çıkış anketleri ve dunning dizileri aracılığıyla gönüllü ve istemsiz churn'ü azalt. İptal akışı tasarlarken veya optimize ederken, kaydetme teklifleri oluştururken, dunning e-postaları kurarken veya başarısız ödeme churn'ünü azaltırken kullan. Tetik anahtar sözcükleri: cancel flow, churn reduction, save offers, dunning, exit survey, payment recovery, win-back, involuntary churn, failed payments, cancel page. Müşteri sağlık puanlaması veya genişletme geliri için değil — bunlar için customer-success-manager'ı kullan."
+description: "İptal akışı, kaydetme teklifleri, çıkış anketleri ve dunning dizileriyle gönüllü ve istemsiz churn'ü azalt."
 license: MIT
 metadata:
   version: 1.0.0

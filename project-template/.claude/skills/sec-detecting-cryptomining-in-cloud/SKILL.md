@@ -1,6 +1,6 @@
 ---
 name: detecting-cryptomining-in-cloud
-description: "Bu skill, güvenlik ekiplerine bulut ortamlarında yetkisiz kripto para madenciliği operasyonlarını nasıl tespit edeceklerini ve bu duruma nasıl müdahale edeceklerini öğretir. Hesaplama kullanımı anomalileri, madencilik havuzlarına yönelik ağ trafiği modelleri, GuardDuty CryptoCurrency bulguları ve EC2, ECS, EKS ve Azure Automation iş yüklerinde çalışma zamanı süreç izleme aracılığıyla kripto madenciliği göstergelerini tanımlamayı kapsar."
+description: "Bulut ortamlarında hesaplama anomalileri, ağ trafiği ve harcama anormallikleriyle yetkisiz kripto para madenciliği tespiti ve müdahalesi."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

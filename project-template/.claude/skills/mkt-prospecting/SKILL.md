@@ -1,6 +1,6 @@
 ---
 name: prospecting
-description: "Kullanıcı B2B SaaS, genel B2B veya yerel küçük işletmeler için potansiyel müşteri bulmak, nitelendirmek ve bir liste oluşturmak istediğinde kullan. Ayrıca \"prospecting\", \"build a prospect list\", \"find prospects\", \"find leads\", \"lead gen list\", \"find SaaS companies that\", \"find B2B companies\", \"find local businesses\", \"ICP-fit accounts\", \"who should we go after\", \"outbound list\", \"target account list\", \"find clients near me\", \"businesses without websites\", \"prospect research\" veya \"qualified leads\" ifadelerini kullandığında da kullan. Bu skill liste oluşturma ve nitelendirme aşaması içindir. Liste oluşturduktan sonra outbound metin yazmak için cold-email, belirli hesaplar üzerinde derin rekabet araştırması için competitor-profiling skill'ini kullan."
+description: "B2B SaaS veya yerel işletmeler için potansiyel müşteri bulma, nitelendirme ve liste oluşturma; outreach metni için cold-email kullan."
 metadata:
   version: 1.0.0
 ---

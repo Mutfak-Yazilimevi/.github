@@ -1,6 +1,6 @@
 ---
 name: detecting-ransomware-encryption-behavior
-description: "Entropi analizi, dosya sistemi G/Ç izleme ve davranışsal buluşsal yöntemler kullanarak fidye yazılımı şifreleme faaliyetini gerçek zamanlı olarak tespit eder. Toplu dosya değiştirme kalıplarını, yazılan verideki anormal entropi artışlarını ve fidye yazılımı şifreleme rutinlerine özgü şüpheli süreç davranışlarını belirler. Fidye yazılımı davranışsal tespiti, entropi tabanlı dosya izleme, G/Ç anomalisi tespiti veya gerçek zamanlı şifreleme faaliyeti uyarısı içeren isteklerde etkinleşir."
+description: "Entropi analizi ve dosya sistemi G/Ç izlemeyle fidye yazılımı şifreleme davranışını gerçek zamanlı tespit eder; toplu dosya değişim kalıpları ve anormal entropi artışlarını belirler."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

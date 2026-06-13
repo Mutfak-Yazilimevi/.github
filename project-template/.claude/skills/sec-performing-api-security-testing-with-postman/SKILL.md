@@ -1,6 +1,6 @@
 ---
 name: performing-api-security-testing-with-postman
-description: "Kimlik doğrulama atlatma, yetkilendirme açıkları, enjeksiyon ve veri ifşası dahil OWASP API Security Top 10 güvenlik açıklarını test eden koleksiyonlar oluşturmak için Postman kullanarak yapılandırılmış API güvenliği testi gerçekleştirir. Test uzmanı birden fazla kullanıcı rolüyle ortamlar oluşturur, otomatik güvenlik doğrulaması için test scriptleri yazar ve CI/CD güvenlik testi için Postman'i OWASP ZAP ve Newman ile entegre eder. Postman güvenlik testi, API güvenliği koleksiyonu, otomatik API testi veya Postman ile OWASP API testi içeren isteklerde etkinleşir."
+description: "Postman ile OWASP API Security Top 10 testi: kimlik doğrulama atlatma, yetkilendirme açığı, enjeksiyon; Newman ve OWASP ZAP CI/CD entegrasyonu yapar."
 domain: cybersecurity
 subdomain: api-security
 tags:

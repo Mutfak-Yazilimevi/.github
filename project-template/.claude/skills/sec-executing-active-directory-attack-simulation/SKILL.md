@@ -1,6 +1,6 @@
 ---
 name: executing-active-directory-attack-simulation
-description: "Alan ele geçirmesine yol açabilecek yanlış yapılandırmaları, zayıf kimlik bilgilerini, tehlikeli ayrıcalık yollarını ve istismar edilebilir güven ilişkilerini belirlemek amacıyla Active Directory ortamlarına karşı yetkili saldırı simülasyonları yürütür. Test uzmanı, saldırı yolu analizi için BloodHound, kimlik bilgisi çıkarma için Mimikatz ve Kerberoasting, AS-REP Roasting ve delege kötüye kullanımı dahil protokol düzeyinde saldırılar için Impacket kullanır. Active Directory pentest, AD saldırı simülasyonu, alan ele geçirme testi veya Kerberos saldırı değerlendirmesi içeren isteklerde etkinleşir."
+description: "Active Directory'e yetkili saldırı simülasyonu; BloodHound, Mimikatz, Impacket ile Kerberoasting, AS-REP Roasting ve delege kötüye kullanımı için."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

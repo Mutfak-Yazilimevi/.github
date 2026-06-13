@@ -1,6 +1,6 @@
 ---
 name: generative-ui
-description: "Konuşmalarda etkileşimli UI bileşenleri (grafikler, diyagramlar, akış diyagramları, hesap makineleri, veri görselleştirmeleri) oluştur. Kullanıcı görselleştirme, grafikler, akış diyagramları, mimari diyagramlar, karşılaştırma tabloları, veri gösterimleri, etkileşimli bileşenler veya grafik sunumdan yararlanan herhangi bir içerik talep ettiğinde kullan. Şunlar için KULLANMA: düz metin soru-cevap, kod üretimi, dosya işlemleri."
+description: "Konuşmalarda grafikler, diyagramlar, akış şemaları ve hesap makineleri gibi etkileşimli UI bileşenleri oluştur."
 metadata: { "openclaw": { "emoji": "📊", "requires": { "env": ["CHROME_CDP_URL"] } } }
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: "copywriting"
-description: "Kullanıcı herhangi bir sayfa için pazarlama metni yazmak, yeniden yazmak veya geliştirmek istediğinde kullan — ana sayfa, açılış sayfaları, fiyatlandırma sayfaları, özellik sayfaları, hakkında sayfaları veya ürün sayfaları dahil. Ayrıca kullanıcı \"write copy for\", \"improve this copy\", \"rewrite this page\", \"marketing copy\", \"headline help\" veya \"CTA copy\" dediğinde de kullan. E-posta metni için email-sequence, açılır pencere metni için popup-cro skill'ini kullan."
+description: "Ana sayfa, açılış, fiyatlandırma veya özellik sayfası için pazarlama metni yazmak/yeniden yazmak istediğinde kullan; başlık ve CTA copy dahil."
 license: MIT
 metadata:
   version: 1.0.0

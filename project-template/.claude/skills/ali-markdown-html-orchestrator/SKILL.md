@@ -1,6 +1,6 @@
 ---
 name: markdown-html-orchestrator
-description: "Kullanıcı Claude projesindeki herhangi bir markdown dosyasını tek dosyalı, hafif etkileşimli bir HTML'ye dönüştürmek istediğinde kullan — uzun biçimli belgeler (şartnameler, planlar, RFC'ler, raporlar, açıklayıcılar), diff'ler ve önem düzeyine göre etiketlenmiş notlarla kod incelemeleri veya slayt desteleri. Tetikleyiciler: \"convert this markdown to HTML\", \"make this an HTML file\", \"turn this into an interactive document\", \"render this report as HTML\", \"PR writeup as HTML\", \"slides from this markdown\". Belirleyici bir belge türü sınıflandırıcısına dayalı olarak bağlamı üç dönüştürücü alt-skill'den birine (md-document, md-review, md-slides) yönlendirmek için bağlamı çatallar; kullanıcı tasarım sistemi yerleşimini bir kez çalıştırdıktan sonra. Girdi 100 satırın altındaysa (Shihipar'a göre — eşiğin altında markdown hâlâ kazanır) veya tasarım sistemi yerleştirilmemişse reddeder. Anthropic'in resmi Playground eklentisinden (kaydırıcılar/düğmeler/prompt-geri kopyalama kontrollü etkileşimli prompt ayarlama) ve marketing/landing/'den (açılış sayfası oluşturucu) farklıdır."
+description: "Claude projesindeki markdown dosyasını etkileşimli tek dosya HTML'ye dönüştürür; belge, kod incelemesi veya slayt destesi için bağlamı doğru alt-skill'e yönlendirir."
 context: fork
 version: 2.10.0
 author: Alireza Rezvani

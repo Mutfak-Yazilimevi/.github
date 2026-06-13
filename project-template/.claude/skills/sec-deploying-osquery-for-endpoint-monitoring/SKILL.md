@@ -1,6 +1,6 @@
 ---
 name: deploying-osquery-for-endpoint-monitoring
-description: "Çalışan süreçleri, açık portları, yüklü yazılımları ve sistem yapılandırmasını incelemek için SQL tabanlı sorgular kullanarak gerçek zamanlı uç nokta izleme için osquery'yi dağıtır ve yapılandırır. Uç nokta durum görünürlüğü oluştururken, filo genelinde tehdit avı yaparken veya uyumluluk izleme uygularken kullan. osquery dağıtımı, uç nokta görünürlüğü, filo yönetimi veya SQL tabanlı uç nokta sorgulamasına yönelik isteklerde etkinleşir."
+description: "SQL tabanlı sorgularla gerçek zamanlı uç nokta izleme için osquery'yi dağıtır ve yapılandırır; tehdit avı ve uyumluluk izleme için kullan."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

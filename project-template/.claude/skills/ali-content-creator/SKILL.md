@@ -1,6 +1,6 @@
 ---
 name: "content-creator"
-description: "Eski \"content creator\" isteklerini doğru uzmana yönlendiren kullanımdan kalkmış yönlendirme becerisi. Kullanıcı 'content creator' ifadesini kullandığında, blog yazısı, makale, rehber veya marka sesi analizi yazmak istediğinde (content-production'a yönlendirir), veya içerik planlamak, konu kümesi oluşturmak ya da içerik takvimi oluşturmak istediğinde (content-strategy'ye yönlendirir) kullan. İstekleri doğrudan ele almaz — kullanıcı niyetini belirler ve yazma/SEO/marka sesi görevleri için content-production'a, planlama görevleri için content-strategy'ye yönlendirir."
+description: "Eski content creator isteklerini doğru skill'e yönlendiren kullanımdan kalkmış yönlendirme skill'i: yazma için content-production, planlama için content-strategy'ye yönlendirir."
 license: MIT
 metadata:
   version: 2.0.0

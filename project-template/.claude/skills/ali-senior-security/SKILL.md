@@ -1,6 +1,6 @@
 ---
 name: "senior-security"
-description: "Tehdit modelleme, güvenlik açığı analizi, güvenli mimari ve sızma testi için güvenlik mühendisliği araç seti. STRIDE analizi, OWASP rehberliği, kriptografi desenleri ve güvenlik tarama araçlarını içerir. Kullanıcı güvenlik incelemeleri, tehdit analizi, güvenlik açığı değerlendirmeleri, güvenli kodlama uygulamaları, güvenlik denetimleri, saldırı yüzeyi analizi, CVE düzeltme veya güvenlik en iyi uygulamaları hakkında sorduğunda kullan."
+description: "Tehdit modelleme, güvenlik açığı analizi ve sızma testi için: STRIDE, OWASP, kriptografi desenleri ve güvenlik tarama araçları."
 triggers:
   - security architecture
   - threat modeling

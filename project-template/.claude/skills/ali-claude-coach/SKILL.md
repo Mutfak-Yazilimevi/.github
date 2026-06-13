@@ -1,7 +1,7 @@
 ---
 Name: claude-coach
 name: claude-coach
-description: "Kullanıcılara Claude power user olmayı öğreten kişisel koç. Bu beceriyi kullanıcı ilk kez \"Claude'u öğren\", \"power user ol\", \"beni koçla\", \"Claude hilelerini öğret\", \"Claude ne yapabilir\", \"istemlerde daha iyi olmamı sağla\" veya herhangi bir varyasyonu sorduğunda KULLAN. Etkinleştirmeden sonra, kaçırılan optimizasyon fırsatlarını (belirsiz istemler, göz ardı edilen yetenekler, Claude'un otomatikleştirebileceği manuel işler) tespit etmek ve tek bir power-user ipucu sunmak için HER sonraki turda da kullan. Cömertçe tetikle — çoğu kullanıcı ne bilmediklerini bilmez, bu yüzden koçluk etme eğiliminde ol."
+description: "Kullanıcılara Claude power user olmayı öğreten kişisel koç; her turda kaçırılan optimizasyon fırsatlarını tespit eder ve tek bir ipucu sunar."
 Tier: POWERFUL
 Category: meta
 Author: claude-skills

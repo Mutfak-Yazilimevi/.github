@@ -1,6 +1,6 @@
 ---
 name: testing-api-authentication-weaknesses
-description: "Kimlik doğrulama atlamalarını tanımlamak amacıyla kimlik doğrulama mekanizmalarını değerlendirmek için JWT uygulamasını, API anahtar işlemeyi, OAuth akışlarını ve oturum token entropisini değerlendirerek bozuk token doğrulaması, uç noktalarda eksik kimlik doğrulama, zayıf parola politikaları, kimlik bilgisi doldurma duyarlılığı, URL'lerde veya günlüklerde token sızıntısı ve oturum yönetimi açıkları dahil olmak üzere API kimlik doğrulama mekanizmalarındaki zayıflıkları test eder. OWASP API2:2023 Broken Authentication ile eşlenir. API kimlik doğrulama testi, token doğrulama değerlendirmesi, kimlik bilgisi güvenliği testi veya API kimlik doğrulama atlaması içeren istekler için kullan."
+description: "JWT, OAuth, API anahtarı ve oturum token'ı zayıflıklarını test eder; OWASP API2:2023 Broken Authentication kapsamında kimlik doğrulama atlama değerlendirmesi için kullan."
 domain: cybersecurity
 subdomain: api-security
 tags:

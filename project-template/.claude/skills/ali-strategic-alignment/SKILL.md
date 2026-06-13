@@ -1,6 +1,6 @@
 ---
 name: "strategic-alignment"
-description: "Stratejiyi yönetim kurulundan bireysel katkıda bulunanlara kadar basamaklandırır. Şirket hedefleri ile ekip uygulaması arasındaki hizalanma sorunlarını tespit eder ve düzeltir. Strateji ifadesi, basamak haritalama, sahipsiz hedef tespiti, silo belirleme, iletişim boşluğu analizi ve yeniden hizalama protokollerini kapsar. Ekipler farklı yönlere çekiştiğinde, OKR'lar bağlantı kurmadığında, departmanlar şirket pahasına yerel optimizasyon yaptığında veya kullanıcı hizalanma, strateji basamaklandırma, silo, çakışan OKR'lar ya da strateji iletişiminden bahsettiğinde kullan."
+description: "Stratejiyi yönetim kurulundan uygulama katmanına kademelendiren hizalama skill'i; OKR bağlantısı, silo tespiti ve iletişim boşluğu analizi."
 license: MIT
 metadata:
   version: 1.0.0

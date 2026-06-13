@@ -1,6 +1,6 @@
 ---
 name: implementing-application-whitelisting-with-applocker
-description: "Kötü amaçlı yazılımlardan, yetkisiz araçlardan ve gölge IT'den kaynaklanan saldırı yüzeyini azaltmak amacıyla endpoint'lerde yetkisiz yazılım yürütmesini kısıtlamak için Windows AppLocker kullanarak uygulama beyaz listeleme uygular. Uygulama kontrol politikaları uygularken, yazılım kısıtlaması için uyumluluk gereksinimlerini karşılarken veya imzasız ya da güvenilmeyen binary'lerin yürütülmesini önlerken kullanın. AppLocker, uygulama beyaz listeleme, yazılım kısıtlaması veya yürütülebilir dosya kontrolü içeren isteklerde etkinleşir."
+description: "Windows AppLocker ile uygulama beyaz listeleme uygulayarak kötü amaçlı yazılım ve yetkisiz yazılım yürütmesini kısıtlar; uyumluluk gereksinimleri için de kullan."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

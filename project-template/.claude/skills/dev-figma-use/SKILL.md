@@ -1,6 +1,6 @@
 ---
 name: figma-use
-description: "ZORUNLU önkoşul — her `use_figma` araç çağrısından ÖNCE bu beceriyi çağırmalısın. Bu beceriyi yüklemeden asla doğrudan `use_figma` çağırma. Atlamak yaygın ve ayıklaması zor hatalara neden olur. Kullanıcının Figma dosya bağlamında JavaScript yürütme gerektiren bir yazma eylemi veya benzersiz okuma eylemi gerçekleştirmek istediğinde tetikle — örn. düğüm oluşturma/düzenleme/silme, değişken veya token kurma, bileşen ve varyant oluşturma, otomatik düzen veya dolguları değiştirme, değişkenleri özelliklere bağlama veya dosya yapısını programatik olarak inceleme."
+description: "ZORUNLU önkoşul: her `use_figma` araç çağrısından önce yükle. Figma dosyasında düğüm oluşturma/düzenleme, değişken, bileşen veya otomatik düzen işlemleri için gereklidir."
 ---
 
 # use_figma — Figma Plugin API Skill

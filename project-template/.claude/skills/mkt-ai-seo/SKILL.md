@@ -1,6 +1,6 @@
 ---
 name: ai-seo
-description: "Kullanıcı içeriği yapay zeka arama motorları için optimize etmek, LLM'ler tarafından alıntılanmak veya yapay zeka üretimi yanıtlarda görünmek istediğinde kullanılır. Ayrıca kullanıcı \"AI SEO\", \"AEO\", \"GEO\", \"LLMO\", \"answer engine optimization\", \"generative engine optimization\", \"LLM optimization\", \"AI Overviews\", \"ChatGPT için optimize et\", \"Perplexity için optimize et\", \"AI alıntıları\", \"AI görünürlüğü\", \"zero-click search\", \"AI yanıtlarında nasıl görünürüm\", \"LLM bahisleri\" veya \"Claude/Gemini için optimize et\" söylediğinde de kullanılır. Birisinin içeriğinin yapay zeka asistanları ve yapay zeka arama motorları tarafından alıntılanmasını veya yüzeyine çıkarılmasını istediği her durumda kullanılır. Geleneksel teknik ve sayfa içi SEO denetimleri için bkz. seo-audit. Yapılandırılmış veri uygulaması için bkz. schema."
+description: "İçeriği ChatGPT, Perplexity, AI Overviews ve LLM'ler tarafından alıntılanacak şekilde optimize eder (AEO, GEO, LLMO); geleneksel SEO için seo-audit'e bak."
 metadata:
   version: 2.0.1
 ---

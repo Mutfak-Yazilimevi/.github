@@ -1,6 +1,6 @@
 ---
 name: coverage-analysis
-description: ".NET projeleri için proje genelinde kod kapsam ve CRAP (Change Risk Anti-Patterns) skoru analizi. Metod başına CRAP skorları hesaplar ve risk hotspot'larını — değiştirmesi tehlikeli olan düşük kapsama sahip karmaşık kodu — ortaya çıkarır. Kapsamın neden takıldığını veya platoya ulaştığını teşhis etmek, hangi metodların iyileştirmeyi engellediğini belirlemek veya risk sıralamasıyla proje genelinde kapsam analizi almak için kullan. KULLANIM ALANLARI: coverage stuck, coverage plateau, can't increase coverage, what's blocking coverage, coverage gap, CRAP scores, risk hotspots, where to add tests, coverage analysis, coverage report. KULLANMA: hedefli tek metod CRAP analizi (crap-score kullan), test yazma, kapsam olmadan test çalıştırma veya test yürütmede sorun giderme (run-tests kullan)."
+description: ".NET projeleri için kod kapsam ve CRAP skoru analizi; yüksek karmaşıklıklı düşük kapsamlı risk hotspot metodlarını belirler."
 license: MIT
 ---
 

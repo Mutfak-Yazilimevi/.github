@@ -1,6 +1,6 @@
 ---
 name: "pricing-strategy"
-description: "SaaS fiyatlandırmasını tasarla, optimize et ve ilet — kademe yapısı, değer metrikleri, fiyatlandırma sayfaları ve fiyat artışı stratejisi. Sıfırdan bir fiyatlandırma modeli oluştururken, mevcut fiyatlandırmayı yeniden tasarlarken, bir fiyat artışı planlarken veya bir fiyatlandırma sayfasını iyileştirirken kullan. Tetikleyici anahtar kelimeler: fiyatlandırma kademeleri, fiyatlandırma sayfası, fiyat artışı, paketleme, değer metriği, kullanıcı başına fiyatlandırma, kullanım tabanlı fiyatlandırma, freemium, iyi-daha iyi-en iyi, fiyatlandırma stratejisi, para kazanma, fiyatlandırma sayfası dönüşümü, Van Westendorp. Daha geniş ürün stratejisi için KULLANMA — bunun için product-strategist kullan. Müşteri başarısı veya yenilemeler için KULLANMA — genişleme geliri için customer-success-manager kullan."
+description: "SaaS fiyatlandırması tasarla veya optimize et: kademe yapısı, değer metrikleri, fiyatlandırma sayfası ve fiyat artışı stratejisi."
 license: MIT
 metadata:
   version: 1.0.0

@@ -1,6 +1,6 @@
 ---
 name: image
-description: "Kullanıcı pazarlama için görsel oluşturmak, üretmek, düzenlemek veya optimize etmek istediğinde kullan — blog görselleri, sosyal medya grafikleri, ürün mockup'ları, profil banner'ları, listeleme görselleri veya marka varlıkları. Ayrıca kullanıcı 'AI görsel oluşturma', 'görsel oluştur', 'grafik oluştur', 'ürün mockup', 'hero görsel', 'sosyal medya grafiği', 'banner görsel', 'kapak fotoğrafı', 'profil banner', 'listeleme ekran görüntüsü', 'Flux', 'Flux Kontext', 'Midjourney', 'DALL-E', 'GPT Image', 'ChatGPT Images', 'Ideogram', 'Gemini image', 'Nano Banana', 'Recraft', 'Stable Diffusion', 'Canva', 'Figma', 'görsel optimizasyonu', 'görselleri sıkıştır', 'WebP' veya 'OG görsel' dediğinde kullan. Genel amaçlı pazarlama görsel oluşturma ve optimizasyonu için kullan. Ücretli reklam görsel içeriği ve platforma özgü reklam özellikleri için ad-creative'e, video üretimi için video'ya bakın"
+description: "Blog, sosyal medya, ürün mockup ve marka varlıkları için pazarlama görseli oluşturmak veya optimize etmek için kullan. Flux, Midjourney, DALL-E, Canva destekler."
 metadata:
   version: 2.0.1
 ---

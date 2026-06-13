@@ -1,6 +1,6 @@
 ---
 name: "founder-coach"
-description: "Kurucular ve ilk kez CEO olanlar için kişisel liderlik gelişimi. Kurucu arketip belirleme, delegasyon çerçeveleri, enerji yönetimi, CEO takvim denetimleri, liderlik tarzı evrimi, kör nokta belirleme, sahtekâr sendromu, kurucu zihinsel sağlığı ve halef planlamasını kapsar. Bir kurucu darboğaz gibi hissediyorsa, delege etmekte zorlanıyorsa, tükenmişlik yaşıyorsa, IC'den yönetici konumuna geçiyorsa, yönetim kurulunu yönetiyorsa veya kullanıcı kurucu modu, CEO büyümesi, liderlik gelişimi, delegasyon, tükenmişlik veya sahtekâr sendromunu söylediğinde kullan."
+description: "Kurucular ve ilk kez CEO olanlar için delegasyon çerçeveleri, enerji yönetimi, takvim denetimi ve liderlik tarzı gelişimi sağlar."
 license: MIT
 metadata:
   version: 1.0.0

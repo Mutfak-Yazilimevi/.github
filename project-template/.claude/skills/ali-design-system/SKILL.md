@@ -1,6 +1,6 @@
 ---
 name: design-system
-description: "Kullanıcının marka kimliğini 10 soruluk bir ekleme sihirbazıyla bir kez yakalar (birincil/vurgu HEX + başlık + gövde Google Fonts + tasarım stili editorial/technical/minimal/playful + varsayılan çıktı dizini + sözdizim teması + TOC davranışı + isteğe bağlı logo/şirket), gövde metni ve bağlantı kontrastını WCAG 2.2 AA'ya göre doğrular, HSL uzayında 12 CSS özel özelliği türetir ve sonucu her markdown-html dönüştürücüsünün kullanması için saklar. Herhangi bir markdown-html dönüşümünden önce kullan."
+description: "Marka kimliğini 10 soruluk sihirbazla yakala, WCAG 2.2 AA kontrast doğrula, 12 CSS token türet; markdown-html dönüşümlerinden önce kullan."
 version: 2.10.0
 author: Alireza Rezvani
 license: MIT

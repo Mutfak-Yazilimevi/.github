@@ -1,6 +1,6 @@
 ---
 name: "form-cro"
-description: "Kullanıcı kayıt/üyelik formu OLMAYAN herhangi bir formu optimize etmek istediğinde kullan — potansiyel müşteri yakalama formları, iletişim formları, demo talep formları, başvuru formları, anket formları veya ödeme formları dahil. Ayrıca kullanıcı 'form optimizasyonu', 'potansiyel müşteri formu dönüşümleri', 'form sürtünmesi', 'form alanları', 'form tamamlama oranı' veya 'iletişim formu' dediğinde kullan. Kayıt/üyelik formları için signup-flow-cro'ya, form içeren popup'lar için popup-cro'ya bakın"
+description: "Potansiyel müşteri yakalama, iletişim, demo talep ve ödeme formlarını optimize etmek için kullan; kayıt formları için signup-flow-cro'ya bak."
 license: MIT
 metadata:
   version: 1.0.0

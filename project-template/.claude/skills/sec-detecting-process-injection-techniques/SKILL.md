@@ -1,6 +1,6 @@
 ---
 name: detecting-process-injection-techniques
-description: "Klasik DLL injection, process hollowing, APC injection, thread hijacking ve reflective loading dahil olmak üzere kötü amaçlı yazılımların kullandığı süreç enjeksiyon tekniklerini tespit edip analiz eder. Enjeksiyon artifaktlarını belirlemek için bellek adli bilişimi, API izleme ve davranışsal analiz kullanır. Süreç enjeksiyonu tespiti, kod enjeksiyonu analizi, boşaltılmış süreç soruşturması veya bellek içi tehdit tespiti içeren isteklerde etkinleşir."
+description: "DLL injection, process hollowing, APC injection ve reflective loading dahil süreç enjeksiyon tekniklerini bellek adli bilişim ve API izleme ile tespit eder."
 domain: cybersecurity
 subdomain: malware-analysis
 tags:

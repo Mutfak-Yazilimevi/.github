@@ -1,6 +1,6 @@
 ---
 name: implementing-api-key-security-controls
-description: "API kimlik doğrulama kimlik bilgilerini sızıntı, brute force ve kötüye kullanımdan korumak amacıyla güvenli API anahtarı oluşturma, depolama, döndürme ve iptal etme kontrolleri uygular. Mühendis; yeterli entropi ile API anahtarı biçimleri tasarlar, güvenli depolama için karma uygular, anahtar başına kapsam ve hız sınırlaması uygular, genel depolarda sızan anahtarları izler ve anahtar döndürme iş akışları oluşturur. API anahtarı yönetimi, API anahtarı güvenliği, anahtar döndürme politikası veya API kimlik bilgisi koruması içeren isteklerde etkinleşir."
+description: "API anahtarı oluşturma, karma depolama, kapsam sınırlama, döndürme ve sızıntı izleme kontrolleri uygula."
 domain: cybersecurity
 subdomain: api-security
 tags:

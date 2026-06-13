@@ -1,6 +1,6 @@
 ---
 name: directory-submissions
-description: "Kullanıcı ürününü geri bağlantılar, alan adı derecelendirmesi ve keşfedilirlik için girişim, SaaS, AI, ajan, MCP, kodsuz veya inceleme dizinlerine göndermek istediğinde kullan. Ayrıca kullanıcı \"dizin gönderimleri,\" \"dizinlere gönder,\" \"dizinlerden geri bağlantılar,\" \"ürünümü listele,\" \"Product Hunt'a gönder,\" \"BetaList,\" \"TAAFT,\" \"Futurepedia,\" \"G2 listesi,\" \"Capterra listesi,\" \"AlternativeTo,\" \"SaaSHub,\" \"AI dizinleri,\" \"MCP registry,\" \"ajan dizini,\" \"dofollow geri bağlantılar,\" \"lansman dizinleri\" veya \"dizin takipçisi\" gibi terimler belirttiğinde kullan. Birisi bir ürün lansmanının dizin katmanını veya devam eden geri bağlantı kampanyasını planlıyor olduğunda kullan. Daha geniş lansman anı için bkz. launch. Bu geri bağlantıların arkasında bulunması gereken programatik SEO sayfaları için bkz. programmatic-seo. AI alıntı optimizasyonu için bkz. ai-seo."
+description: "Ürünü backlink ve keşfedilirlik için SaaS, AI, MCP, inceleme dizinlerine göndermek; Product Hunt ve G2 listelemeleri için kullan."
 metadata:
   version: 2.0.0
 ---

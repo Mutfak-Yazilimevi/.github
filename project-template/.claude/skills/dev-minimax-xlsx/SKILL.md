@@ -1,6 +1,6 @@
 ---
 name: minimax-xlsx
-description: "Excel/elektronik tablo dosyalarını (.xlsx, .xlsm, .csv, .tsv) açar, oluşturur, okur, analiz eder, düzenler veya doğrular. Kullanıcı herhangi bir Excel tablosu, finansal model, pivot table veya tablo verisi dosyası oluşturmak, inşa etmek, değiştirmek, analiz etmek, okumak, doğrulamak ya da biçimlendirmek istediğinde kullan. Kapsam: sıfırdan yeni xlsx oluşturma, mevcut dosyaları okuyup analiz etme, format kaybı olmadan xlsx düzenleme, formül yeniden hesaplama ve doğrulama, profesyonel finansal biçimlendirme standartları uygulama. 'spreadsheet', 'Excel', '.xlsx', '.csv', 'pivot table', 'financial model', 'formula' sözcükleri veya Excel formatında tablo verisi üretme talebiyle tetiklenir."
+description: "Excel/.xlsx/.csv dosyaları oluşturur, okur, analiz eder ve düzenler; finansal model, pivot table, formül doğrulama ve profesyonel biçimlendirme dahil."
 license: MIT
 metadata:
   version: "1.0"

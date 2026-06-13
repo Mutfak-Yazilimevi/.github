@@ -1,6 +1,6 @@
 ---
 name: scanning-containers-with-trivy-in-cicd
-description: "Bu skill, kapsamlı container görüntüsü güvenlik açığı tespiti için Aqua Security'nin Trivy tarayıcısını CI/CD iş hatlarına entegre etmeyi kapsar. İşletim sistemi paketi ve uygulama bağımlılığı CVE'leri için Docker görüntülerini taramayı, Dockerfile'lardaki yanlış yapılandırmaları tespit etmeyi, dosya sistemi ve git depolarını taramayı ve savunmasız görüntülerin dağıtımını engelleyen önem tabanlı kalite kapıları oluşturmayı ele alır."
+description: "Aqua Security Trivy'yi CI/CD'ye entegre et: OS paketi, uygulama bağımlılığı CVE'leri ve IaC güvenlik açıklarını tarar."
 domain: cybersecurity
 subdomain: devsecops
 tags:

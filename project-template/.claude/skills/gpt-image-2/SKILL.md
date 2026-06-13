@@ -1,6 +1,6 @@
 ---
 name: gpt-image-2
-description: "GPT Image 2 için görüntü oluşturma/düzenleme skill'i. 3 ortamda kullanılabilir: (A) Garden yerel mod, OpenAI uyumlu arayüz aracılığıyla doğrudan görüntü oluştur ve kaydet; (B) Host-Native modu, bu Skill'i prompt mühendisliği rehberi olarak kullan ve işlenmiş prompt'u ana Agent'ın yerleşik görüntü aracına ver; (C) Advisor modu, ana Agent'ta görüntü aracı yokken yüksek kaliteli prompt danışmanına dönüş. 18 büyük kategori, 80+ yapılandırılmış şablon kapsar."
+description: "GPT Image 2 ile görüntü oluşturma/düzenleme; Garden yerel mod, Host-Native veya Advisor modunda çalışır, 80+ şablon kapsar."
 ---
 
 # GPT Image 2

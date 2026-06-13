@@ -1,6 +1,6 @@
 ---
 name: premium-ui-builder-skill
-description: "Kullanıcı bir web sitesi, uygulama, SaaS, dashboard, yapay zeka aracı, açılış sayfası, portföy, yönetim paneli, mobil ekran veya Vibe Coding projesinin UI'sini tasarlamak, planlamak, yeniden tasarlamak, yükseltmek veya geliştirmek istediğinde; özellikle kullanıcı daha premium, cilalı, gerçek ürün benzeri, modern, üst düzey, estetik, az jenerik, az yapay zeka görünümlü veya uygulamaya hazır bir UI yönü talep ettiğinde kullan."
+description: "Web sitesi, SaaS, dashboard, açılış sayfası veya mobil ekran için premium, cilalı, modern ve az yapay zeka görünümlü UI tasarımı."
 version: 1.0.0
 author: ziguishian
 license: MIT

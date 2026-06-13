@@ -1,6 +1,6 @@
 ---
 name: auditing-tls-certificate-transparency-logs
-description: "Sahip olunan alanlar için yetkisiz sertifika düzenlemesini tespit etmek, CT verileri aracılığıyla alt alan adlarını keşfetmek ve şüpheli sertifika etkinliği hakkında uyarı vermek amacıyla Certificate Transparency (CT) loglarını izler. Sahte sertifikaları yakalamak, CA davranışını izlemek ve harici saldırı yüzeyini haritalamak için sürekli izleme pipeline'ları oluşturmaya yönelik RFC 6962 tabanlı crt.sh API'sini ve doğrudan CT log sorgusunu kullanır. Sertifika şeffaflığı izleme, CT log denetimi, sertifikalar aracılığıyla alt alan adı keşfi veya sertifika düzenleme uyarılarına yönelik isteklerde etkinleşir."
+description: "CT loglarını (crt.sh/RFC 6962) izleyerek yetkisiz sertifika düzenlemesi, alt alan keşfi ve sahte sertifika uyarısı için kullan."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

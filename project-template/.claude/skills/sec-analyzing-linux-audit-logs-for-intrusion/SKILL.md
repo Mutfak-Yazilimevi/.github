@@ -1,6 +1,6 @@
 ---
 name: analyzing-linux-audit-logs-for-intrusion
-description: "İzinsiz giriş girişimlerini, yetkisiz erişimi, ayrıcalık yükseltmeyi ve şüpheli sistem etkinliğini tespit etmek için ausearch ve aureport yardımcı programlarıyla Linux Denetim çerçevesini (auditd) kullanır. Denetim kuralı yapılandırması, günlük sorgulama, zaman çizelgesi yeniden yapılandırması ve SIEM platformlarıyla entegrasyonu kapsar. Auditd analizi, Linux denetim günlüğü araştırması, ausearch sorguları, aureport özetleri veya Linux'ta ana bilgisayar tabanlı izinsiz giriş tespitini içeren istekler için etkinleşir."
+description: "auditd/ausearch/aureport ile Linux denetim günlüklerinden izinsiz giriş, ayrıcalık yükseltme ve şüpheli etkinlik tespiti için kullan."
 domain: cybersecurity
 subdomain: incident-response
 tags:

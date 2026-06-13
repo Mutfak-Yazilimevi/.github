@@ -1,6 +1,6 @@
 ---
 name: building-detection-rules-with-sigma
-description: "Splunk, Elastic ve Microsoft Sentinel dahil olmak üzere SIEM platformlarında tehdit tespiti için Sigma kural formatını kullanarak satıcıdan bağımsız tespit kuralları oluşturur. Tehdit istihbaratından taşınabilir tespit mantığı oluştururken, kuralları MITRE ATT&CK tekniklerine eşlerken veya topluluk Sigma kurallarını sigmac ya da pySigma backend'leri kullanarak platforma özgü sorgulara dönüştürürken kullan."
+description: "Splunk, Elastic, Microsoft Sentinel için Sigma formatında satıcıdan bağımsız tespit kuralları oluşturur; MITRE ATT&CK eşleme ve pySigma dönüşümü dahil."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

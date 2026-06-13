@@ -1,6 +1,6 @@
 ---
 name: co-marketing
-description: "Kullanıcı ortak pazarlama partnerleri bulmak, ortak kampanyalar planlamak veya ortaklık fırsatlarını beyin fırtınası yapmak istediğinde kullan. Kullanıcı 'ortak pazarlama', 'partner pazarlama', 'ortak kampanya', 'kiminle partner olmalıyız', 'entegrasyon pazarlaması', 'çapraz tanıtım', 'başka bir şirketle iş birliği yap', 'ortaklık fikirleri' veya 'co-brand' ifadelerinden bahsettiğinde kullan. Müşteri referans programları için referrals'e bak. Lansmanla ilgili ortaklıklar için launch'a bak."
+description: "Ortak pazarlama partnerleri bulmak, ortak kampanyalar planlamak veya ortaklık fırsatlarını değerlendirmek için kullan."
 metadata:
   version: 2.0.0
 ---

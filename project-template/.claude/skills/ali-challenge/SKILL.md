@@ -1,6 +1,6 @@
 ---
 name: "challenge"
-description: "Ön-post-mortem plan analizi. Planın 12 ay sonra başarısız olduğunu hayal edin ve zayıflıkları bulmak için geriye doğru çalışın. Önemli kaynakları taahhüt etmeden önce varsayımları, bağımlılıkları ve uygulama risklerini ortaya çıkarır. Önemli kaynak taahhüdünden önce, yönetim kuruluna veya yatırımcılara sunum yapmadan önce, geri bildirim tek taraflı olumlu olduğunda veya hızlı hareket etmek ve sonra çözmek için baskı varken kullan."
+description: "Plan için ön-post-mortem: 12 ay sonra başarısız senaryosundan geriye çalışarak varsayım ve uygulama risklerini ortaya çıkarır."
 ---
 
 # /em:challenge — Pre-Mortem Plan Analysis

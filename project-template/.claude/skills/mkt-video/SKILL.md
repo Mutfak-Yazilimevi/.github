@@ -1,6 +1,6 @@
 ---
 name: video
-description: "Kullanıcı AI araçları veya programatik çerçeveler kullanarak video içeriği oluşturmak, üretmek veya geliştirmek istediğinde kullan. Ayrıca 'video production', 'AI video', 'Remotion', 'Hyperframes', 'HeyGen', 'Synthesia', 'Veo', 'Sora', 'Runway', 'Kling', 'Seedance', 'Hailuo', 'MiniMax', 'Pika', 'Hunyuan', 'Wan', 'video generation', 'AI avatar', 'talking head video', 'programmatic video', 'video template', 'explainer video', 'product demo video', 'video pipeline' veya 'make me a video' ifadelerini kullandığında da kullan. Video oluşturma, üretme ve prodüksiyon iş akışları için kullan. Video içerik stratejisi ve ne paylaşılacağı için social, ücretli video reklam kreatifi için ad-creative skill'ini kullan."
+description: "AI araçları (Remotion, HeyGen, Sora, Runway, Kling vb.) veya programatik çerçevelerle video içeriği üretmek/geliştirmek için kullan."
 metadata:
   version: 2.0.1
 ---

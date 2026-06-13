@@ -1,6 +1,6 @@
 ---
 name: cold-outbound-optimizer
-description: "Instantly için soğuk outbound e-posta kampanyaları tasarla, analiz et ve optimize et. Uçtan uca ICP tanımı, uzman panel puanlaması (90+'a özyinelemeli), dizi metin yazımı, altyapı denetimi, kapasite planlaması ve uygulama dokümanlarını kapsar. Soğuk outbound dizileri oluştururken, soğuk e-postayı optimize ederken, outbound kampanyaları analiz ederken, satış dizileri oluştururken, Instantly dizileri oluştururken, soğuk outbound stratejileri yaratırken veya e-posta kampanyaları tasarlarken kullan. Hem \"sıfırdan başla\" hem de \"mevcutu optimize et\" modlarını destekler."
+description: "Instantly için soğuk outbound e-posta kampanyaları tasarla: ICP tanımı, dizi metin yazımı, altyapı denetimi ve kapasite planlaması."
 ---
 
 

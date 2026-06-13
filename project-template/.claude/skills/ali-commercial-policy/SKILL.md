@@ -1,6 +1,6 @@
 ---
 name: commercial-policy
-description: "Bir şirketin ticari politikasını tasarlarken veya revize ederken kullan — liste fiyatından indirimleri, onaylayıcı eşiklerini, istisna akışlarını ve Deal Desk ile AE'lerin çalıştığı anlaşma çerçevesini yöneten kurallar. İndirim matrisi tasarımı (ARR bandı x dönem uzunluğu x ödeme koşulları x stratejik değer), ticari politika tasarımı, istisna politikası, indirim yönetişimi, onay eşikleri, anlaşma çerçeve yapısı ve politika denetimi (çelişkiler, boşluklar, uçurum kenarları, oyun yüzeyleri) kapsar. Politika tasarımı anında Ticari Yöneticiler, Deal Desk Müdürleri, Satış VP'leri veya RevOps için — anlaşma başına uygulama (deal-desk) ve fiyatlandırma modeli seçimi (pricing-strategist) KAPSAMINDA DEĞİL."
+description: "İndirim matrisi (ARR x dönem x ödeme x stratejik değer), onay eşikleri, istisna akışları ve Deal Desk anlaşma çerçevesi tasarımı; RevOps/Satış VP'leri için."
 version: 2.8.0
 author: claude-code-skills
 license: MIT

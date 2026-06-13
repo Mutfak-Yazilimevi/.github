@@ -1,6 +1,6 @@
 ---
 name: lead-magnets
-description: "Kullanıcı e-posta yakalama veya potansiyel müşteri oluşturma için bir lead magnet oluşturmak, planlamak veya optimize etmek istediğinde kullan. Ayrıca kullanıcı \"lead magnet,\" \"kapılı içerik,\" \"içerik yükseltme,\" \"indirilebilir,\" \"e-kitap,\" \"hile sayfası,\" \"kontrol listesi,\" \"şablon indirme,\" \"opt-in,\" \"ücretsiz hediye,\" \"PDF indirme,\" \"kaynak kütüphanesi,\" \"içerik teklifi,\" \"e-posta yakalama içeriği,\" \"Notion şablonu,\" \"elektronik tablo şablonu\" veya \"e-postalar için ne vermem gerekir\" gibi terimler belirttiğinde kullan. Neyin oluşturulacağını ve nasıl dağıtılacağını planlamak için kullan. Etkileşimli araçlar olarak lead magnet için bkz. free-tools. Gerçek içeriği yazmak için bkz. copywriting. Yakalama sonrası e-posta dizisi için bkz. emails."
+description: "E-posta yakalama için lead magnet (e-kitap, hile sayfası, şablon, kontrol listesi) oluşturmak veya optimize etmek istediğinde kullan."
 metadata:
   version: 2.0.0
 ---

@@ -1,6 +1,6 @@
 ---
 name: conducting-cloud-penetration-testing
-description: "Bu skill, AWS, Azure ve GCP bulut ortamlarına karşı yetkili penetrasyon testleri gerçekleştirme metodolojilerini özetler. Test kapsamı için paylaşılan sorumluluk modelini anlamayı, Pacu ve ScoutSuite gibi buluta özgü saldırı araçlarından yararlanmayı, IAM yanlış yapılandırmalarını sömürmeyi, bulut meta veri servislerine yönelik SSRF'i test etmeyi ve bulguları MITRE ATT&CK Cloud matrisine uyumlu biçimde raporlamayı kapsar."
+description: "AWS, Azure ve GCP'ye yetkili pentest; IAM yanlış yapılandırma, SSRF, Pacu/ScoutSuite araçları ve MITRE ATT&CK Cloud matrisi raporlaması için kullan."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

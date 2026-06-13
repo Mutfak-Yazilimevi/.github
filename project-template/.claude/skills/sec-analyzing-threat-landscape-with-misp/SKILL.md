@@ -1,6 +1,6 @@
 ---
 name: analyzing-threat-landscape-with-misp
-description: "Etkinlik istatistiklerini, özellik dağılımlarını, tehdit aktörü galaksi kümelerini ve zaman içindeki etiket eğilimlerini sorgulayarak MISP (Malware Information Sharing Platform) kullanarak tehdit ortamını analiz et. Olay verilerini çekmek, IOC türü dağılımlarını hesaplamak, en iyi tehdit aktörlerini ve zararlı yazılım ailelerini belirlemek ve zamansal eğilimlerle tehdit ortamı raporları oluşturmak için PyMISP kullanır."
+description: "MISP'te PyMISP ile tehdit aktörü kümeleri, IOC dağılımı ve zaman eğilimlerini sorgulayarak tehdit ortamı raporu oluşturur."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

@@ -1,6 +1,6 @@
 ---
 name: sms
-description: "Kullanıcı SMS veya MMS pazarlaması planlamak, oluşturmak veya optimize etmek istediğinde kullan — karşılama akışları, terk edilmiş sepet mesajları, satın alma sonrası, geri kazanım, promosyon gönderimleri veya işlemsel/kimlik doğrulama SMS dahil. Kullanıcı \"SMS marketing\", \"text message campaigns\", \"SMS sequence\", \"SMS automation\", \"abandoned cart text\", \"post-purchase SMS\", \"Klaviyo SMS\", \"Postscript\", \"Attentive\", \"Twilio\", \"A2P 10DLC\", \"TCPA\", \"SMS compliance\", \"short code\", \"toll-free SMS\", \"MMS campaign\", \"should I do SMS\" veya \"SMS vs email\" ifadelerinden bahsettiğinde de kullan. E-posta dizileri için emails becerisine, SMS metin çerçevelemesi için copywriting becerisine, telefon numarası toplayan katılım açılır pencerleri için popups becerisine bak."
+description: "SMS/MMS pazarlama akışları (karşılama, sepet, geri kazanım) planlamak veya optimize etmek için kullan. Klaviyo SMS, Postscript, Attentive, Twilio, TCPA, A2P 10DLC destekler."
 metadata:
   version: 1.0.0
 ---

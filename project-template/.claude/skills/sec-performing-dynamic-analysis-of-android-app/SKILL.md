@@ -1,6 +1,6 @@
 ---
 name: performing-dynamic-analysis-of-android-app
-description: "Uygulama davranışını yürütme sırasında gözlemlemek, fonksiyon çağrılarını yakalamak, çalışma zamanı değerlerini değiştirmek ve statik analizin kaçırdığı güvenlik açıklarını tespit etmek için Frida, Objection ve Android Debug Bridge kullanarak Android uygulamalarının çalışma zamanı dinamik analizini gerçekleştirir. Android uygulamalarını çalışma zamanı güvenlik açıkları açısından test ederken, hassas yöntemleri kancalarken, istemci tarafı korumalarını atlatırken veya gizlenmiş uygulamaları analiz ederken kullan. Android dinamik analizi, çalışma zamanı kancalama, Frida Android enstrümantasyonu veya canlı uygulama davranışı analizi içeren isteklerde etkinleşir."
+description: "Frida, Objection ve ADB ile Android uygulamalarının çalışma zamanı davranışını analiz eder; istemci tarafı korumaları atlar ve gizlenmiş uygulamaları inceler."
 domain: cybersecurity
 subdomain: mobile-security
 author: mahipal

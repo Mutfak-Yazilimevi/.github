@@ -1,6 +1,6 @@
 ---
 name: managing-intelligence-lifecycle
-description: "İstihbarat ürünlerinin paydaş gereksinimlerini karşılamasını ve sürekli iyileşmesini sağlamak için planlama ve yönlendirmeden toplama, işleme, analiz, yayma ve geri bildirime kadar uçtan uca siber tehdit istihbaratı yaşam döngüsünü yönetir. CTI programı kurarken veya olgunlaştırırken, iş paydaşlarıyla istihbarat gereksinimleri tanımlarken veya istihbarat tüketicileri ile üreticileri arasında geri bildirim döngüleri oluştururken kullan. CTI program olgunluğu, istihbarat gereksinimleri, PIR'lar veya istihbarat yaşam döngüsü yönetimi içeren isteklerde etkinleşir."
+description: "Planlama ve yönlendirmeden yayma ve geri bildirime kadar CTI yaşam döngüsünü yönetir; CTI programı kurarken veya PIR'lar tanımlarken kullan."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

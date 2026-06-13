@@ -1,6 +1,6 @@
 ---
 name: figma-generate-library
-description: "Bir kod tabanından Figma'da profesyonel kalitede tasarım sistemi oluşturur veya günceller. Kullanıcı değişkenler/token'lar oluşturmak, bileşen kütüphaneleri kurmak, tema oluşturmak (açık/koyu modlar), temelleri belgelemek veya kod ile Figma arasındaki boşlukları gidermek istediğinde kullan. Bu skill NE inşa edileceğini ve HANGİ SIRAYLA inşa edileceğini öğretir — Plugin API'sinin NASIL çağrılacağını öğreten `figma-use` skill'ini tamamlar. Her iki skill birlikte yüklenmelidir."
+description: "Kod tabanından Figma'da değişkenler/token'lar, bileşen kütüphaneleri ve açık/koyu tema oluştur; figma-use ile birlikte kullan."
 ---
 
 # Design System Builder — Figma MCP Skill

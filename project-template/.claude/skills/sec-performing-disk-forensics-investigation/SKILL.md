@@ -1,6 +1,6 @@
 ---
 name: performing-disk-forensics-investigation
-description: "Olay müdahale davalarını desteklemek için adli görüntüleme, dosya sistemi analizi, artifact kurtarma ve zaman çizelgesi yeniden yapılandırması kullanarak disk adli soruşturmaları yürütür. Kanıt edinimi, silinen dosya kurtarma ve artifact incelemesi için FTK Imager, Autopsy ve The Sleuth Kit gibi araçları kullanır. Disk adli bilimi, sabit disk analizi, adli görüntüleme, dosya kurtarma, kanıt edinimi veya dijital adli soruşturma içeren isteklerde etkinleşir."
+description: "FTK Imager, Autopsy, Sleuth Kit ile disk adli görüntüleme, dosya sistemi analizi, artifact kurtarma ve zaman çizelgesi yeniden yapılandırması."
 domain: cybersecurity
 subdomain: incident-response
 tags:

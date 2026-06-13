@@ -1,6 +1,6 @@
 ---
 name: testing-websocket-api-security
-description: "WebSocket yükseltmesinde eksik kimlik doğrulama, Cross-Site WebSocket Hijacking (CSWSH), WebSocket mesajları aracılığıyla enjeksiyon saldırıları, yetersiz girdi doğrulama, mesaj taşması yoluyla hizmet reddi ve WebSocket çerçevelerinden bilgi sızıntısı dahil olmak üzere WebSocket API uygulamalarını güvenlik açıkları açısından test eder. Test uzmanı, Burp Suite kullanarak WebSocket el sıkışmalarını ve mesajlarını keser, kötü amaçlı yükler oluşturur ve WebSocket kanallarında yetkilendirme atlamasını test eder. WebSocket güvenlik testi, WS sızma testi, CSWSH saldırısı veya gerçek zamanlı API güvenliği değerlendirmesi içeren istekler için kullan."
+description: "WebSocket API'lerinde eksik kimlik doğrulama, CSWSH, enjeksiyon, yetkilendirme atlama ve mesaj taşması güvenlik açıklarını Burp Suite ile test et."
 domain: cybersecurity
 subdomain: api-security
 tags:

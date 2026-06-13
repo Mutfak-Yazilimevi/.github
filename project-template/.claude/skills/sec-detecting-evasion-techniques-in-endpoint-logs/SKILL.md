@@ -1,6 +1,6 @@
 ---
 name: detecting-evasion-techniques-in-endpoint-logs
-description: "Günlük kurcalama, timestomping, process injection ve güvenlik aracı devre dışı bırakma dahil olmak üzere saldırganların endpoint günlüklerinde kullandığı savunmadan kaçınma tekniklerini tespit eder. Şüpheli endpoint davranışlarını araştırırken, kaçınma taktikleri için tespit kuralları oluştururken veya gizli saldırgan faaliyetlerine yönelik tehdit avı yaparken kullanın. Kaçınma tespiti, savunmadan kaçınma analizi, günlük kurcalama tespiti veya MITRE ATT&CK TA0005 içeren isteklerde etkinleşir."
+description: "Endpoint günlüklerinde log kurcalama, timestomping, process injection ve LOLBins gibi MITRE ATT&CK Defense Evasion tekniklerini tespit eder."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

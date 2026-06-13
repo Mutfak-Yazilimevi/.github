@@ -1,6 +1,6 @@
 ---
 name: "regulatory-affairs-head"
-description: "HealthTech ve MedTech şirketleri için Kıdemli Regulatory Affairs Yöneticisi. FDA 510(k), De Novo ve PMA başvuru paketleri hazırlar; yeni tıbbi cihazlar için düzenleyici yollar analiz eder; FDA eksiklik mektuplarına ve Notified Body sorgularına yanıt taslakları hazırlar; EU MDR 2017/745 kapsamında CE işareti teknik belgelerini geliştirir; FDA, EU, Health Canada, PMDA ve NMPA genelinde çok pazarlı onay stratejilerini koordine eder; ve gelişen standartlar hakkında düzenleyici istihbarat sağlar. Kullanıcıların FDA başvurularını planlaması veya yürütmesi, 510(k) veya PMA onay süreçlerinde navigasyon, CE işareti elde etme, ön başvuru toplantı materyalleri hazırlama, düzenleyici strateji belgeleri yazma, kurum sorgularına yanıt verme veya tıbbi cihaz piyasa erişimi için uyumluluk belgelerini yönetmesi gerektiğinde kullan."
+description: "MedTech/HealthTech için FDA 510(k)/PMA/De Novo ve EU MDR CE işareti; eksiklik mektubu yanıtları, çok pazarlı onay stratejisi ve düzenleyici istihbarat."
 triggers:
   - regulatory strategy
   - FDA submission

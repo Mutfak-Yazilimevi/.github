@@ -1,6 +1,6 @@
 ---
 name: sales-enablement
-description: "Kullanıcı satış materyalleri, sunum destesi, tek sayfalıklar, itiraz yönetimi dokümanları veya demo komut dosyaları oluşturmak istediğinde kullan. Ayrıca 'sales deck', 'pitch deck', 'one-pager', 'leave-behind', 'objection handling', 'deal-specific ROI analysis', 'demo script', 'talk track', 'sales playbook', 'proposal template', 'buyer persona card', 'help my sales team', 'sales materials' veya 'what should I give my sales reps' ifadelerini kullandığında da kullan. Bir satış ekibinin anlaşma kapatmasına yardımcı olan herhangi bir doküman veya materyal için kullan. Rakip karşılaştırma sayfaları ve savaş kartları için competitors, pazarlama sitesi metni için copywriting, soğuk giden e-postalar için cold-email skill'ini kullan."
+description: "Satış destesi, tek sayfalık, itiraz yönetimi dokümanı veya demo senaryosu gibi satış materyalleri oluşturmak için kullan."
 metadata:
   version: 2.0.0
 ---

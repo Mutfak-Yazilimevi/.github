@@ -1,6 +1,6 @@
 ---
 name: analyzing-memory-dumps-with-volatility
-description: "Kötü amaçlı süreçleri, enjekte edilmiş kodu, ağ bağlantılarını, yüklenen modülleri ve çıkarılan kimlik bilgilerini belirlemek için Volatility çerçevesini kullanarak güvenliği ihlal edilmiş sistemlerin RAM bellek dökümlerini analiz eder. Windows, Linux ve macOS bellek adli bilişimini destekler. Bellek adli bilişimi, RAM analizi, uçucu veri incelemesi, süreç enjeksiyonu tespiti veya bellekte yerleşik zararlı yazılım araştırmasını içeren istekler için etkinleşir."
+description: "Volatility çerçevesiyle RAM görüntüsü analiz ederek kötü amaçlı süreçleri, enjekte kodu ve çıkarılan kimlik bilgilerini tespit eder."
 domain: cybersecurity
 subdomain: malware-analysis
 tags:

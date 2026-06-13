@@ -1,6 +1,6 @@
 ---
 name: c-level-advisor-vpe-advisor
-description: "Girişimler için VP of Engineering danışmanlığı: teslimat verimi (DORA 4 metrikleri + darboğaz tespiti), mühendislik işe alım hunisi (kaynak → tarama → yerinde → teklif dönüşümü + doldurma süresi + hattı boşluğu), mühendislik ekip yapısı (squad/tribe/chapter tasarımı + teknoloji lider yönetici tetikleme eşikleri) ve üretim disiplini (nöbet, dağıtım kadansı, post-mortem kültürü). Sprint hızı düştüğünde, mühendislik işe alımı bozulduğunda, ekip yapısı belirsiz olduğunda veya teknoloji lider yöneticisi ne zaman ekleneceğine karar verildiğinde kullan. CTO becerisi değil (mimari ona aittir) — VPE teslimat operasyonlarına ve ekibin nasıl ürettiğine sahiptir."
+description: "VPE danışmanlığı: DORA metrikleri, mühendislik işe alım hunisi, squad/tribe ekip yapısı ve üretim disiplini (nöbet, dağıtım kadansı, post-mortem) için kullan."
 license: MIT
 metadata:
   version: 1.0.0

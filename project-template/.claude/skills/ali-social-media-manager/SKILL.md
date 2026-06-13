@@ -1,6 +1,6 @@
 ---
 name: "social-media-manager"
-description: "Kullanıcı sosyal medya stratejisi geliştirmek, içerik takvimleri planlamak, topluluk etkileşimini yönetmek veya platformlar genelinde sosyal varlığını büyütmek istediğinde kullan. Ayrıca 'social media strategy', 'social calendar', 'community management', 'social media plan', 'grow followers', 'engagement rate', 'social media audit' veya 'which platforms should I use' ifadelerini kullandığında da kullan. Bireysel sosyal paylaşım yazmak için social-content, sosyal performans verilerini analiz etmek için social-media-analyzer skill'ini kullan."
+description: "Sosyal medya stratejisi, içerik takvimi ve topluluk yönetimi için kullan; bireysel paylaşım için social-content, analiz için social-media-analyzer kullan."
 license: MIT
 metadata:
   version: 1.0.0

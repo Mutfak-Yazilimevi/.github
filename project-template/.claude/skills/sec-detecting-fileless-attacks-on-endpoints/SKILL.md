@@ -1,6 +1,6 @@
 ---
 name: detecting-fileless-attacks-on-endpoints
-description: "Geleneksel antivirüsü atlatarak kalıcı dosyalar yazmadan tamamen RAM'de çalışan dosyasız kötü amaçlı yazılımları ve bellek içi saldırıları tespit eder. PowerShell tabanlı saldırılar, reflective DLL injection, WMI kalıcılığı ve kayıt defteri tabanlı kötü amaçlı yazılımlar için tespit oluştururken kullanın. Dosyasız kötü amaçlı yazılım tespiti, bellek içi saldırılar, PowerShell istismarı veya living-off-the-land teknikleri içeren isteklerde etkinleşir."
+description: "Dosyasız kötü amaçlı yazılım, reflective DLL injection, WMI kalıcılığı ve living-off-the-land tekniklerini RAM'de tespit et; PowerShell tabanlı saldırılar dahil."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

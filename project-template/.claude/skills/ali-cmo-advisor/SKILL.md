@@ -1,6 +1,6 @@
 ---
 name: "cmo-advisor"
-description: "Büyüyen şirketler için pazarlama liderliği. Marka konumlandırma, büyüme modeli tasarımı, pazarlama bütçesi tahsisi ve pazarlama organizasyonu tasarımı. Marka stratejisi tasarlarken, büyüme modelleri (PLG vs satış odaklı vs topluluk odaklı) seçerken, pazarlama bütçeleri tahsis ederken, pazarlama ekipleri kurarken veya kullanıcı CMO, marka stratejisi, büyüme modeli, CAC, LTV, kanal karması ya da pazarlama ROI'sinden bahsettiğinde kullan."
+description: "Marka konumlandırma, büyüme modeli (PLG/satış/topluluk odaklı), pazarlama bütçesi, CAC/LTV ve pazarlama ekibi kurma için CMO danışmanlığı."
 license: MIT
 metadata:
   version: 1.0.0

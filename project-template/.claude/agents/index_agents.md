@@ -156,7 +156,7 @@
 
 ## Güvenlik
 
-> Plugin: `mutfak-security` · Uygulama güvenliği denetimi, sızma testi, güvenli kod incelemesi. **(1 agent)**
+> Plugin: `mutfak-security-grc` · Uygulama güvenliği denetimi, sızma testi, güvenli kod incelemesi. **(1 agent)**
 
 | Agent | Model | Amaç |
 | :--- | :--- | :--- |

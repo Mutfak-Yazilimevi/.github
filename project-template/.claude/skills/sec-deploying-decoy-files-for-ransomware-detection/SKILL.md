@@ -1,6 +1,6 @@
 ---
 name: deploying-decoy-files-for-ransomware-detection
-description: "Fidye yazılımı şifreleme etkinliğini gerçek zamanlı olarak tespit etmek için dosya sistemleri genelinde canary dosyaları (honeytoken) dağıtır. Fidye yazılımı bunları değiştirdiğinde veya şifrelediğinde uyarı tetiklemek için dosya bütünlüğü izleme veya işletim sistemi düzeyinde izleme araçlarıyla izlenen, stratejik olarak yerleştirilmiş sahte belgeler kullanır. Fidye yazılımı canary dağıtımı, honeyfile kurulumu, yanıltma tabanlı fidye yazılımı tespiti veya şifreleme için dosya bütünlüğü izlemeye yönelik isteklerde etkinleşir."
+description: "Dosya sistemleri genelinde canary/honeyfile dağıtır ve bütünlük izleme ile fidye yazılımı şifreleme etkinliğini gerçek zamanlı tespit eder."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

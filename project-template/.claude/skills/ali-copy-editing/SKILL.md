@@ -1,6 +1,6 @@
 ---
 name: "copy-editing"
-description: "Kullanıcı mevcut pazarlama metnini düzenlemek, incelemek veya geliştirmek istediğinde kullan. Ayrıca kullanıcı 'bu metni düzenle', 'metnimi incele', 'metin geri bildirimi', 'düzeltme oku', 'bunu parlatla', 'bunu daha iyi yap' veya 'metin taraması' ifadelerinden birini kullandığında da kullan. Bu skill, pazarlama metnini birden fazla odaklanmış geçişle düzenlemek için sistematik bir yaklaşım sağlar."
+description: "Mevcut pazarlama metnini sistematik çok geçişli yaklaşımla düzenle, incele ve geliştir; \"bu metni düzenle\", \"metnimi parlatla\" ifadelerinde tetikle."
 license: MIT
 metadata:
   version: 1.0.0

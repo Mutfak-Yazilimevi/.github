@@ -1,6 +1,6 @@
 ---
 name: performing-privacy-impact-assessment
-description: "Veri akışı haritalama, gizlilik riski puanlama matrisleri, GDPR Madde 35 DPIA ve CCPA/CPRA uyum kontrolleri, veri envanteri kataloglama ve iyileştirme takibi dahil olmak üzere Gizlilik Etki Değerlendirmesi (PIA) iş akışını otomatikleştirir. İşleme faaliyetleri genelinde gizlilik risklerini sistematik olarak tanımlamak ve azaltmak için NIST Privacy Framework PRAM metodolojisini ve ICO DPIA kılavuzunu uygular. Yeni sistemler için gizlilik değerlendirmeleri yaparken, yasal uyum duruşunu değerlendirirken veya otomatik gizlilik yönetişim programları oluştururken kullan."
+description: "GDPR Art.35 DPIA, CCPA/CPRA, NIST PRAM ve ICO metodolojisiyle PIA/DPIA iş akışını otomatikleştirir; veri akışı haritalama ve risk puanlama dahil."
 domain: cybersecurity
 subdomain: privacy-compliance
 tags:

@@ -1,6 +1,6 @@
 ---
 name: "ad-creative"
-description: "Kullanıcı ücretli reklamcılık için reklam kreatifi oluşturması, yinelemesi veya ölçeklendirmesi gerektiğinde kullan. 'write ad copy', 'generate headlines', 'create ad variations', 'bulk creative', 'iterate on ads', 'ad copy validation', 'RSA headlines', 'Meta ad copy', 'LinkedIn ad' veya 'creative testing' dediklerinde kullan. Bu tamamen kreatif üretimdir — paid-ads'tan (kampanya stratejisi) ayrıdır. Metne ihtiyaç duyduğunuzda ad-creative'i kullanın, kampanya planına değil."
+description: "Ücretli reklamlarda Meta, LinkedIn, Google RSA gibi platformlar için reklam kreatifi ve başlık varyasyonları üretir; kampanya stratejisi için değil."
 license: MIT
 metadata:
   version: 1.0.0

@@ -1,6 +1,6 @@
 ---
 name: setup-matt-pocock-skills
-description: "AGENTS.md/CLAUDE.md'ye `## Agent skills` bloğu ve `docs/agents/` dizini ekler, böylece mühendislik skill'leri bu repo'nun issue tracker'ını (GitHub veya yerel markdown), triage etiket kelime dağarcığını ve alan belgesi düzenini bilir. `to-issues`, `to-prd`, `triage`, `diagnose`, `tdd`, `improve-codebase-architecture` veya `zoom-out` skill'lerini ilk kullanmadan önce — veya bu skill'ler issue tracker, triage etiketleri veya alan belgeleri hakkında bağlamı eksik görünüyorsa çalıştır."
+description: "AGENTS.md/CLAUDE.md'ye `## Agent skills` bloğu ve `docs/agents/` dizini ekler; to-issues, triage, tdd gibi skill'leri ilk kez kullanmadan önce çalıştır."
 disable-model-invocation: true
 ---
 

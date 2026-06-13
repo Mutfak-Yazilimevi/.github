@@ -1,6 +1,6 @@
 ---
 name: "free-tool-strategy"
-description: "Kullanıcı pazarlama amaçlı ücretsiz bir araç oluşturmak istediğinde kullan — potansiyel müşteri oluşturma, SEO değeri veya marka bilinirliği. 'Engineering as marketing,' 'ücretsiz araç,' 'hesap makinesi,' 'üretici,' 'denetleyici,' 'derecelendirici,' 'pazarlama aracı,' 'potansiyel müşteri oluşturma aracı,' 'trafik için bir şey yap,' 'etkileşimli araç' veya 'ücretsiz kaynak' gibi terimler belirttiğinde kullan. Fikir değerlendirme, araç tasarımı ve lansman stratejisini kapsar. Saf SEO içerik stratejisi için (araç yok) seo-audit veya content-strategy kullan."
+description: "Potansiyel müşteri oluşturma, SEO veya marka bilinirliği için pazarlama amaçlı ücretsiz araç (hesap makinesi, şablon) oluşturmak için kullan."
 license: MIT
 metadata:
   version: 1.0.0

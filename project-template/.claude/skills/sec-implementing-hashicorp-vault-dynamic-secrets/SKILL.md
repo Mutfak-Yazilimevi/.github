@@ -1,6 +1,6 @@
 ---
 name: implementing-hashicorp-vault-dynamic-secrets
-description: "Uygulama yapılandırmalarındaki statik sırları ortadan kaldırmak için otomatik oluşturma, kiralama yönetimi ve kimlik bilgisi rotasyonu ile veritabanı kimlik bilgileri, AWS IAM anahtarları ve PKI sertifikaları için HashiCorp Vault dinamik sırlar motorları uygular. Vault sırlar motoru yapılandırması, dinamik veritabanı kimlik bilgileri, kısa ömürlü bulut kimlik bilgileri veya otomatik sır rotasyonu içeren istekler için etkinleşir."
+description: "HashiCorp Vault ile veritabanı kimlik bilgileri, AWS IAM anahtarları ve PKI sertifikaları için dinamik sırlar ve kimlik bilgisi rotasyonu uygular."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

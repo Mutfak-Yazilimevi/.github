@@ -1,6 +1,6 @@
 ---
 name: implementing-privileged-session-monitoring
-description: "Privileged Access Management (PAM) çözümleri kullanarak ayrıcalıklı oturum izleme ve kaydı uygular; CyberArk Privileged Session Manager (PSM) ve açık kaynak alternatiflere odaklanır. Oturum kaydı yapılandırmasını, tuş vuruşu günlüklemeyi, gerçek zamanlı izlemeyi, risk tabanlı oturum analizini ve uyumluluk denetim izi oluşturmayı kapsar. Ayrıcalıklı oturum kaydı, PAM oturum izleme, CyberArk PSM yapılandırma, yönetici etkinlik izleme veya uyumluluk oturum denetimi içeren istekler için etkinleşir."
+description: "CyberArk PSM ve açık kaynak PAM ile ayrıcalıklı oturum kaydı, tuş vuruşu günlükleme ve uyumluluk denetim izi uygular."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

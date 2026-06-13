@@ -1,6 +1,6 @@
 ---
 name: product-research
-description: "Ürün/kullanıcı araştırmasını yöntem ve havuz disiplini olarak planlarken ve sentezlerken kullan — hedefe uygun doğru yöntemi seçmek (üretici görüşmeler vs kullanılabilirlik testi vs konsept testi vs doğrulama), açık güven düzeyi ile yöntem tabanlı doygunluk/örneklem büyüklüğü hesaplamak veya tek kaynaklı anekdotları işaretlerken gözlemleri içgörülere kodlamak. Kullanıcı içgörüsü uydurmaz; bir içgörü, bağımsız katılımcılar arasında tekrarlama gerektirir."
+description: "Kullanıcı araştırma yöntemi seçimi (görüşme/kullanılabilirlik/konsept testi), örneklem büyüklüğü hesaplama ve gözlemleri içgörülere kodlama için kullan."
 version: 2.9.0
 author: claude-code-skills
 license: MIT

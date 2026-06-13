@@ -1,6 +1,6 @@
 ---
 name: grants
-description: "Klinisyen araştırmacılar için NIH hibe araştırma skill'i. Finansman stratejisini herhangi bir aramadan önce kilitleyen Grill-me alımı (araştırma fikri + kariyer aşaması + ön veriler + ortam + başvuru duruşu + bilinen enstitü hedefleri). 5 yönlü Consensus konumlandırma analizi (taslak Significance/Innovation diliyle birlikte) çalıştırır, araştırmayı RePORTER aracılığıyla doğru NIH enstitüleri ve çalışma bölümlerine eşler, NOSI'leri ve finanse edilmiş örtüşmeleri bulur ve bütçe/kapsam farkındalıklı mekanizma önerileri, başvuru zaman çizelgeleri ve zorunlu program yetkilisi tavsiyesiyle düzenlenebilir bir Word belgesi (.docx) üretir. Tetikleyiciler: '[konu] için hibeler', 'araştırma fikirlerim için hibe bul', 'araştırmama uyan hibeler neler', 'NIH finansmanı bulmama yardım et', '[konu] için hibe fırsatları' veya hibe ile ilgili herhangi bir talep. Yalnızca NIH kapsamı — NIH dışı finansörler (PCORI, DOD CDMRP, VA, vakıflar) kapsam dışıdır ve alımda işaretlenir."
+description: "NIH hibe araştırma; RePORTER ile enstitü/çalışma bölümü eşleme, NOSI bulma, Significance/Innovation konumlandırma ve bütçe/kapsam farkındalıklı mekanizma önerileri."
 license: MIT
 metadata:
   source_spec: "megaprompts/08-grants-megaprompt.md"

@@ -1,6 +1,6 @@
 ---
 name: analytics
-description: "Kullanıcı analitik izleme ve ölçüm kurmak, iyileştirmek veya denetlemek istediğinde kullan. Kullanıcı \"set up tracking\", \"GA4\", \"Google Analytics\", \"conversion tracking\", \"event tracking\", \"UTM parameters\", \"tag manager\", \"GTM\", \"analytics implementation\", \"tracking plan\", \"how do I measure this\", \"track conversions\", \"attribution\", \"Mixpanel\", \"Segment\", \"are my events firing\" veya \"analytics isn't working\" ifadelerinden bahsettiğinde de kullan. Birinin bir şeyin işe yarayıp yaramadığını öğrenmek istediği veya pazarlama sonuçlarını ölçmek istediği her durumda kullan. A/B test ölçümü için ab-testing becerisine bak."
+description: "GA4, GTM, Mixpanel, Segment gibi araçlarla analitik izleme kurmak, denetlemek veya iyileştirmek için kullan. Dönüşüm takibi, event tracking ve attribution destekler."
 metadata:
   version: 2.0.0
 ---

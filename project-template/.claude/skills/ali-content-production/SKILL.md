@@ -1,6 +1,6 @@
 ---
 name: "content-production"
-description: "Tam içerik üretim hattı — bir konuyu boş sayfadan yayına hazır parçaya götürür. İçerik yürütmek gerektiğinde kullan: bir blog yazısı, makale veya kılavuz baştan sona yaz. Tetikleyiciler: 'write a post about', 'draft an article', 'create content for', 'help me write', 'I need a blog post'. İçerik stratejisi veya takvim planlaması için content-strategy'yi kullan. Mevcut içeriği yeniden kullanmak için content-repurposing'i kullan. Yalnızca sosyal medya açıklamaları için değil."
+description: "Boş sayfadan yayına hazır blog yazısı, makale veya kılavuz üretmek için kullan; \"write a post about\", \"draft an article\" ifadelerinde tetikle."
 license: MIT
 metadata:
   version: 1.0.0

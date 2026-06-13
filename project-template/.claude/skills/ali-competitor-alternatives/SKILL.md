@@ -1,6 +1,6 @@
 ---
 name: "competitor-alternatives"
-description: "Kullanıcı SEO ve satış etkinleştirme için rakip karşılaştırma veya alternatif sayfaları oluşturmak istediğinde kullan. Ayrıca kullanıcı 'alternative page', 'vs page', 'competitor comparison', 'comparison page', '[Ürün] vs [Ürün]', '[Ürün] alternative', 'competitive landing pages', 'switch from competitor' veya 'comparison content' dediğinde kullan. Dört biçimi kapsar: tekil alternatif, çoğul alternatifler, sen vs rakip ve rakip vs rakip. Özellik tablolarının ötesinde derin araştırma, modüler içerik mimarisi ve çeşitlendirilmiş bölüm türlerini vurgular."
+description: "SEO ve satış için rakip karşılaştırma veya alternatif sayfaları oluşturmak istediğinde kullan; tekil/çoğul alternatif, vs ve rakip-vs-rakip biçimlerini kapsar."
 license: MIT
 metadata:
   version: 1.0.0

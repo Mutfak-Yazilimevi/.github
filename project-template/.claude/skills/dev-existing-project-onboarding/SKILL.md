@@ -1,6 +1,6 @@
 ---
 name: existing-project-onboarding
-description: "Mevcut bir proje için salt okunur ön kapı. Kullanıcıya sormak yerine yanıtları kod tabanında bul — projenin ne olduğunu anla, neyin yapıldığını ve nelerin eksik olduğunu çıkar (boşluklar), fikirleri ve fırsatları bir backlog'a kaydet, bir plan açıkla ve açık bir yönerge gelene kadar PRD üretmekten KAÇIN. Kaynak veya yapılandırma değişikliği YAPMAZ; yazdığı tek dosyalar backlog ve analiz raporudur. Tanıdık olmayan bir repo'ya katılmak veya herhangi bir çalışma planlanmadan önce mevcut bir projeyi değerlendirmek için kullan."
+description: "Tanıdık olmayan bir repo'yu keşfederek ne yapıldığını ve nelerin eksik olduğunu çıkarır; backlog ve analiz raporu yazar, değişiklik yapmaz."
 ---
 
 # Existing Project Onboarding (read-only front door)

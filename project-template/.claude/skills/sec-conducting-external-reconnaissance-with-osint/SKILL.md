@@ -1,6 +1,6 @@
 ---
 name: conducting-external-reconnaissance-with-osint
-description: "Hedef sistemlerle doğrudan etkileşime girmeden kuruluşun harici saldırı yüzeyini haritalamak için Açık Kaynak İstihbaratı (OSINT) tekniklerini kullanarak harici keşif gerçekleştirir. Test uzmanı, kapsamlı bir hedef profili oluşturmak için DNS kayıtları, sertifika şeffaflığı logları, arama motorları, sosyal medya, kod depoları ve veri ihlali veritabanları dahil olmak üzere kamuya açık kaynaklardan bilgi toplar. OSINT keşfi, harici ayak izi belirleme, saldırı yüzeyi haritalama veya pasif bilgi toplama isteklerinde etkinleşir."
+description: "OSINT teknikleriyle harici keşif yapar: DNS, sertifika şeffaflığı, sosyal medya, kod depoları ve ihlal veritabanlarından saldırı yüzeyi haritalama."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

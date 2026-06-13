@@ -1,6 +1,6 @@
 ---
 name: meeting-analyzer
-description: "Toplantı transkriptlerini ve kayıtlarını analiz ederek davranışsal kalıpları, iletişim anti-pattern'lerini ve uygulanabilir koçluk geri bildirimlerini ortaya çıkarır. Kullanıcı toplantı transkriptleri yüklediğinde veya işaret ettiğinde (.txt, .md, .vtt, .srt, .docx), iletişim alışkanlıklarını sorduğunda, toplantı yönetimi hakkında geri bildirim istediğinde, konuşma oranı analizi talep ettiğinde, dolgu sözcüklerinden veya çatışmadan kaçınmadan bahsettiğinde ya da zaman içinde iletişimini karşılaştırmak istediğinde bu skill'i kullan. Kullanıcı Granola, Otter, Fireflies veya Zoom transkriptlerinden bahsettiğinde de tetikle. \"Toplantılarıma bak\" veya \"toplantılarda nasıl görünüyorum\" gibi ifadelerde de kullan."
+description: "Toplantı transkriptlerini (.txt, .md, .vtt, .srt, Granola/Otter/Zoom) analiz ederek iletişim anti-pattern'lerini, konuşma oranlarını ve koçluk geri bildirimlerini çıkarır."
 ---
 
 # Meeting Insights Analyzer

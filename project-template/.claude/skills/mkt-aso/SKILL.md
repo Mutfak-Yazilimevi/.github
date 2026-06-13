@@ -1,6 +1,6 @@
 ---
 name: aso
-description: "Kullanıcı bir App Store veya Google Play listesini denetlemek veya optimize etmek istediğinde kullan. Ayrıca kullanıcı 'ASO denetimi', 'uygulama mağazası optimizasyonu', 'uygulama listemizi optimize et', 'uygulama görünürlüğünü artır', 'uygulama mağazası sıralaması', 'listemi denetle', 'insanlar neden uygulamayı indirmiyor', 'uygulama dönüşümümü iyileştir', 'uygulama için anahtar kelime optimizasyonu' veya 'rakiplerle uygulamamı karşılaştır' ifadelerinden bahsettiğinde de kullan. Kullanıcı bir App Store veya Google Play URL'si paylaşıp iyileştirmek istediğinde kullan."
+description: "App Store veya Google Play listesini denetlemek veya optimize etmek; ASO, anahtar kelime araştırması ve uygulama derecelendirmeleri için kullan."
 metadata:
   version: 2.0.0
 ---

@@ -1,6 +1,6 @@
 ---
 name: assertion-quality
-description: "Herhangi bir dildeki test kümelerinde assertion çeşitliliğini ve derinliğini analiz eder. Kullanıcı assertion kalitesini değerlendirmeyi, sığ testleri bulmayı, assertion'sız testleri belirlemeyi (assertion yok veya yalnızca Assert.IsNotNull / expect(x).toBeTruthy() / assert x is not None gibi önemsiz olanlar), öz referanslı veya totolojik assertion'ları işaretlemeyi (kimlik/gidiş-dönüş işlemlerinde çıktının girdiye eşit olması), assertion kapsam çeşitliliğini ölçmeyi veya testlerin doğruluğun farklı yönlerini doğrulayıp doğrulamadığını denetlemeyi istediğinde kullan. Metrik ve eyleme geçirilebilir öneriler üretir. Çok dilli: .NET (MSTest/xUnit/NUnit/TUnit), Python (pytest/unittest), TS/JS (Jest/Vitest/Mocha/Jasmine/node:test), Java (JUnit/TestNG), Go, Ruby (RSpec/Minitest), Rust, Swift (XCTest/Swift Testing), Kotlin (JUnit/Kotest), PowerShell (Pester), C++ (GoogleTest/Catch2/doctest). KULLANMA: yeni test yazma (code-testing-agent veya MSTest için writing-mstest-tests kullan), kararsızlık veya tekrarlama gibi anti-pattern'ler (test-anti-patterns kullan), assertion düzeltme."
+description: "Test kümelerinde assertion çeşitliliğini ve derinliğini analiz eder; sığ testleri ve assertion'sız testleri belirler."
 license: MIT
 ---
 

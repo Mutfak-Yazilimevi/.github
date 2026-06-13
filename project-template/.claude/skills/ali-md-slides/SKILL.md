@@ -1,6 +1,6 @@
 ---
 name: md-slides
-description: "Bir markdown sunumunu (slaytlar `---` HR sınırları veya `# ` H1 başlıklarıyla ayrılmış, isteğe bağlı `<!-- notes: ... -->` sunum notu bloklarıyla) ok tuşu / boşluk / PgDn / PgUp / Home / End / P / Esc klavye navigasyonu, sunum modu (mevcut slayt + konuşmacı notları + saat + bir sonraki slayt önizlemesi ile bölünmüş görünüm), URL-hash derin bağlantı ve `@media print` PDF dışa aktarımı için sayfa başına slayt özelliklerine sahip tek dosyalı bir HTML sunumuna dönüştürür. markdown-html-orchestrator bir girişi SLIDES olarak sınıflandırdığında veya /cs:md-slides aracılığıyla doğrudan çağrıldığında tetiklenir. Slayt gövdesi oluşturma için md-document'ın markdown ayrıştırıcısını yeniden kullanır ve config_loader.py aracılığıyla design-system tokenlarını okur. Girişin net slayt sınırları yoksa, 1 slaytlık bir sunum üretilirse veya `--strict-notes` açıkken notların kapsamı %50'nin altındaysa reddeder. Orkestratör yönlendirmesinden sonra kullan."
+description: "Markdown sunumunu (`---` veya `# ` sınırlı) klavye navigasyonu, sunum modu, URL-hash ve PDF dışa aktarımlı tek dosya HTML'e dönüştürür; md-slides orkestratör yönlendirmesi sonrası kullan."
 version: 2.10.3
 author: Alireza Rezvani
 license: MIT

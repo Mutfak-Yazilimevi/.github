@@ -1,6 +1,6 @@
 ---
 name: "paywall-upgrade-cro"
-description: "Kullanıcı uygulama içi ödeme duvarları, yükseltme ekranları, upsell modalları veya özellik kapıları oluşturmak ya da optimize etmek istediğinde kullan. Ayrıca kullanıcı \"paywall\", \"upgrade screen\", \"upgrade modal\", \"upsell\", \"feature gate\", \"convert free to paid\", \"freemium conversion\", \"trial expiration screen\", \"limit reached screen\", \"plan upgrade prompt\" veya \"in-app pricing\" dediğinde kullan. Genel fiyatlandırma sayfalarından (page-cro'ya bak) farklıdır — bu beceri kullanıcının zaten değer deneyimlediği ürün içi yükseltme anlarına odaklanır."
+description: "Uygulama içi ödeme duvarları, yükseltme ekranları ve upsell modalları oluşturmak veya optimize etmek için kullan; genel fiyatlandırma sayfaları için page-cro'ya bak."
 license: MIT
 metadata:
   version: 1.0.0

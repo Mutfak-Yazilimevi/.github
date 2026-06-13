@@ -1,6 +1,6 @@
 ---
 name: seo-audit
-description: "Kullanıcı sitesindeki SEO sorunlarını denetlemek, incelemek veya teşhis etmek istediğinde kullan. Ayrıca \"SEO audit\", \"technical SEO\", \"why am I not ranking\", \"SEO issues\", \"on-page SEO\", \"meta tags review\", \"SEO health check\", \"my traffic dropped\", \"lost rankings\", \"not showing up in Google\", \"site isn't ranking\", \"Google update hit me\", \"page speed\", \"core web vitals\", \"crawl errors\" veya \"indexing issues\" gibi ifadelerde de kullan. Kullanıcı \"my SEO is bad\" veya \"help with SEO\" gibi belirsiz bir şey söylese bile — denetiminle başla. Anahtar kelimeleri hedeflemek için ölçekli sayfa oluşturmak için bkz. programmatic-seo. Yapılandırılmış veri eklemek için bkz. schema. AI arama optimizasyonu için bkz. ai-seo."
+description: "Site SEO sorunlarını denetlemek/teşhis etmek istediğinde kullan; teknik SEO, meta etiket, Core Web Vitals, tarama/indeksleme sorunları dahil."
 metadata:
   version: 2.0.0
 ---

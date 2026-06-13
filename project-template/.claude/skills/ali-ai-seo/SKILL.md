@@ -1,6 +1,6 @@
 ---
 name: "ai-seo"
-description: "İçeriği AI arama motorlarında alıntılanmak için optimize eder — ChatGPT, Perplexity, Google AI Overviews, Claude, Gemini, Copilot. İçeriğinin yalnızca mavi bağlantılarda sıralanmak yerine AI tarafından oluşturulan yanıtlarda görünmesini istediğinde kullan. Tetikleyiciler: 'optimize for AI search', 'get cited by ChatGPT', 'AI Overviews', 'Perplexity citations', 'AI SEO', 'generative search', 'LLM visibility', 'GEO' (generative engine optimization). Geleneksel SEO sıralaması için DEĞİL (seo-audit kullan). İçerik üretimi için DEĞİL (content-production kullan)."
+description: "İçeriği ChatGPT, Perplexity, Google AI Overviews, Copilot gibi AI arama motorlarında alıntılanmak için optimize eder (GEO); geleneksel SEO için seo-audit kullan."
 license: MIT
 metadata:
   version: 1.0.0

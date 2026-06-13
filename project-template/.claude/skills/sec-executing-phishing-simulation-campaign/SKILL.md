@@ -1,6 +1,6 @@
 ---
 name: executing-phishing-simulation-campaign
-description: "Bir kuruluşun e-posta tabanlı sosyal mühendislik saldırılarına duyarlılığını değerlendirmek amacıyla yetkili kimlik avı simülasyon kampanyaları yürütür. Test uzmanı gerçekçi kimlik avı senaryoları tasarlar, kimlik bilgisi toplama altyapısı kurar, hedefli kimlik avı e-postaları gönderir ve insan güvenlik farkındalığını ölçmek için açılma oranlarını, tıklama oranlarını ve kimlik bilgisi gönderme oranlarını takip eder. Kimlik avı simülasyonu, sosyal mühendislik değerlendirmesi, e-posta güvenliği testi veya güvenlik farkındalığı ölçümü içeren isteklerde etkinleşir."
+description: "Yetkili kimlik avı simülasyon kampanyası yürütür: senaryo tasarımı, kimlik bilgisi toplama altyapısı, açılma/tıklama/gönderme oranlarını izler."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

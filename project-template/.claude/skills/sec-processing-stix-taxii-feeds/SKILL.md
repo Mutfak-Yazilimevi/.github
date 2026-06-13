@@ -1,6 +1,6 @@
 ---
 name: processing-stix-taxii-feeds
-description: "TAXII 2.1 sunucuları aracılığıyla iletilen STIX 2.1 tehdit istihbaratı paketlerini işler, nesneleri platforma özgü şemalara normalleştirir ve uygun tüketen sistemlere yönlendirir. Yeni TAXII koleksiyon uç noktaları eklerken, ISAC'larla çift yönlü istihbarat paylaşımını otomatikleştirirken veya hatalı biçimlendirilmiş STIX paketleri için iş hattı doğrulaması oluştururken kullan. OASIS STIX, TAXII sunucu yapılandırması, MISP TAXII veya Cortex XSOAR besleme entegrasyonları içeren istekler için kullan."
+description: "TAXII 2.1 üzerinden STIX 2.1 tehdit istihbaratı işle, ISAC çift yönlü paylaşımı otomatikleştir; MISP TAXII ve Cortex XSOAR entegrasyonları dahil."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

@@ -1,6 +1,6 @@
 ---
 name: "paid-ads"
-description: "Kullanıcı Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X veya diğer reklam platformlarında ücretli reklam kampanyaları konusunda yardım istediğinde kullan. Ayrıca kullanıcı \"PPC\", \"paid media\", \"ad copy\", \"ad creative\", \"ROAS\", \"CPA\", \"ad campaign\", \"retargeting\" veya \"audience targeting\" ifadelerinden bahsettiğinde kullan. Bu beceri kampanya stratejisi, reklam oluşturma, hedef kitle belirleme ve optimizasyonu kapsar."
+description: "Google Ads, Meta, LinkedIn, Twitter/X'te ücretli reklam kampanyaları (PPC, paid media, paid acquisition) için kullan."
 license: MIT
 metadata:
   version: 1.0.0

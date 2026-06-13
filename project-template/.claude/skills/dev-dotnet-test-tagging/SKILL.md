@@ -1,6 +1,6 @@
 ---
 name: test-tagging
-description: "Herhangi bir dildeki test süitlerini analiz eder ve her testi standart bir özellik kümesiyle etiketler (positive, negative, critical-path, boundary, smoke, regression, integration, performance, security). Kullanıcı testleri kategorize etmek, denetlemek veya özelliklerle etiketlemek istediğinde kullan. .NET (MSTest TestCategory / xUnit Trait / NUnit Category / TUnit Property), Python (pytest işaretçileri), TypeScript/JavaScript (Jest/Vitest), Java (JUnit 5 @Tag / TestNG), Go, Ruby (RSpec meta verileri), Rust, Swift (XCTest / Swift Testing @Tag), Kotlin (JUnit @Tag / Kotest), PowerShell (Pester -Tag), C++ (GoogleTest / Catch2 / doctest) ile çalışır. Yeni test yazma, test çalıştırma veya framework geçişi için kullanma."
+description: "Test süitlerini positive/negative/critical-path/boundary/smoke/regression vb. özellik etiketleriyle kategorize et; .NET, Python, TS/JS, Java, Go, Ruby, Rust, Swift, Kotlin, C++ destekler."
 license: MIT
 ---
 

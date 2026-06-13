@@ -1,6 +1,6 @@
 ---
 name: "social-content"
-description: "Kullanıcı LinkedIn, Twitter/X, Instagram, TikTok, Facebook veya diğer platformlar için sosyal medya içeriği oluşturma, zamanlama ya da optimize etme konusunda yardım istediğinde kullan. Ayrıca 'LinkedIn post', 'Twitter thread', 'social media', 'content calendar', 'social scheduling', 'engagement' veya 'viral content' gibi ifadeler geçtiğinde de kullan. Bu skill; içerik üretimi, yeniden amaçlandırma ve platforma özgü stratejileri kapsar."
+description: "LinkedIn, Twitter/X, Instagram, TikTok için sosyal medya içeriği oluşturma, zamanlama ve platforma özgü optimizasyon için kullan."
 license: MIT
 metadata:
   version: 1.0.0

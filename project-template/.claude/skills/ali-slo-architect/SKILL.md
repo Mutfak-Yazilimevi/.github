@@ -1,6 +1,6 @@
 ---
 name: slo-architect
-description: "SLO/SLI/hata bütçesi tanımlarken, gözden geçirirken veya işletirken kullan. \"SLO tanımla\", \"SLO'muz ne olmalı\", \"error budget\", \"burn rate\", \"SLI\", \"service level objective\", \"Google SRE workbook\", \"multi-window burn-rate alert\" veya herhangi bir güvenilirlik hedefi sorusunda tetikle. SLO tasarımcısı, multi-window burn-rate eşikli hata bütçesi hesaplayıcısı ve yaygın hataları (çok agresif hedef, çok kısa pencere, çakışan SLO'lar, SLI tanımı eksik) yakalayan SLO gözden geçiricisi içerir. SLO prensipleri, SLI tasarımı, hata bütçesi matematiği ve feature-flags-architect/chaos-engineering/kubernetes-operator ile kompozisyon üzerine 4 referans. Genel bir gözlemlenebilirlik skill'i değil — özellikle SLO disiplini."
+description: "SLO/SLI tanımlarken, multi-window burn-rate uyarısı kurarken veya hata bütçesi hesaplarken kullan; Google SRE workbook prensipleri dahil."
 context: fork
 version: 2.9.0
 author: claude-code-skills

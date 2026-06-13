@@ -1,6 +1,6 @@
 ---
 name: analyzing-windows-event-logs-in-splunk
-description: "MITRE ATT&CK tekniklerine eşlenmiş SPL sorguları kullanarak kimlik doğrulama saldırılarını, ayrıcalık yükseltmeyi, kalıcılık mekanizmalarını ve yanal hareketi tespit etmek için Splunk'ta Windows Security, System ve Sysmon olay günlüklerini analiz eder. SOC analistlerinin Windows tabanlı tehditleri araştırması, tespit sorguları oluşturması veya Windows uç noktaları ve etki alanı denetleyicilerinin adli zaman çizelgesi analizini gerçekleştirmesi gerektiğinde kullan."
+description: "Splunk'ta MITRE ATT&CK eşlenmiş SPL sorguları ile Windows Security Event Log'larından kimlik doğrulama saldırıları ve yanal hareket tespiti."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

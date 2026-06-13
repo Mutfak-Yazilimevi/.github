@@ -1,6 +1,6 @@
 ---
 name: implementing-attack-surface-management
-description: "Shodan, Censys ve ProjectDiscovery araçlarını (subfinder, httpx, nuclei) kullanarak varlık keşfi, alt alan adı tespiti, servis parmak izi çıkarma ve maruz kalma puanlaması için harici saldırı yüzeyi yönetimini (EASM) uygular. OWASP saldırı yüzeyi analizi metodolojisine ve Göreli Saldırı Yüzeyi Katsayısı'na (RSQ) dayalı ağırlıklı risk puanlama algoritması içerir. Sürekli ASM programları oluştururken veya güvenlik değerlendirmeleri için harici keşif yaparken kullan."
+description: "Shodan, Censys ve ProjectDiscovery araçlarıyla harici saldırı yüzeyi yönetimi (EASM): varlık keşfi, alt alan adı tespiti ve risk puanlaması için kullan."
 domain: cybersecurity
 subdomain: offensive-security
 tags:

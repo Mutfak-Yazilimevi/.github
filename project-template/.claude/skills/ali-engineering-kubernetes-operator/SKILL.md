@@ -1,6 +1,6 @@
 ---
 name: engineering-kubernetes-operator
-description: "Kubernetes Operator oluştururken kullan — CRD durumunu uzlaştıran özel kontrolörler. \"build an operator\", \"CRD design\", \"reconcile loop\", \"controller-runtime\", \"kubebuilder\", \"operator-sdk\", \"metacontroller\", \"KOPF\", \"operator capability levels\" veya \"custom resource\" ifadelerinde tetiklenir. CRD doğrulayıcı, uzlaştırma döngüsü linter ve OperatorHub yetenek denetçisi (tümü stdlib Python) içerir; operatör deseni + CRD tasarımı + uzlaştırma desenleri + araç ekosistemi hakkında 4 referans ve /operator-audit slash komutu sunar. Genel bir k8s becerisi değildir — özellikle Operator deseni için."
+description: "Kubernetes Operator geliştirmek için kullan — CRD tasarımı, reconcile döngüsü. kubebuilder, operator-sdk, controller-runtime, KOPF, metacontroller destekler."
 context: fork
 version: 2.9.0
 author: claude-code-skills

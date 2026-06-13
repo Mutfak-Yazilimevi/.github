@@ -1,6 +1,6 @@
 ---
 name: "form-cro"
-description: "Kullanıcı kayıt/giriş formu OLMAYAN herhangi bir formu optimize etmek istediğinde kullan — potansiyel müşteri yakalama formları, iletişim formları, demo talep formları, başvuru formları, anket formları veya ödeme formları dahil. Kullanıcı \"form optimization\", \"lead form conversions\", \"form friction\", \"form fields\", \"form completion rate\" veya \"contact form\" ifadelerinden bahsettiğinde de kullan. Kayıt/giriş formları için signup-flow-cro, form içeren açılır pencereler için popup-cro becerisine bak."
+description: "Potansiyel müşteri yakalama, iletişim, demo talep ve ödeme formlarını optimize etmek için kullan; kayıt/giriş formları için signup-flow-cro'ya bak."
 license: MIT
 metadata:
   version: 1.0.0

@@ -1,6 +1,6 @@
 ---
 name: dump-collect
-description: "Modern .NET uygulamaları için kilitlenme dökümlerini yapılandırır ve toplar. ŞU DURUMLARDA KULLAN: CoreCLR veya NativeAOT için otomatik kilitlenme dökümleri etkinleştirme, çalışan .NET süreçlerinden döküm alma, Docker veya Kubernetes'te döküm toplama kurulumu, dotnet-dump collect veya createdump kullanımı. ŞU DURUMLARDA KULLANMA: döküm analizi veya hata ayıklama, lldb/windbg/dotnet-dump analyze ile post-mortem araştırma, profil oluşturma veya izleme, .NET Framework süreçleri."
+description: ".NET uygulamalarında kilitlenme dökümü toplamak için kullan: CoreCLR/NativeAOT dump yapılandırma, Docker/Kubernetes ortamında dotnet-dump veya createdump kullanımı."
 license: MIT
 ---
 

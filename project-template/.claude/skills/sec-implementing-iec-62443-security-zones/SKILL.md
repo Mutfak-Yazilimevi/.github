@@ -1,6 +1,6 @@
 ---
 name: implementing-iec-62443-security-zones
-description: "Bu skill, IEC 62443-3-2 kapsamında endüstriyel otomasyon ve kontrol sistemleri (IACS) için güvenlik bölgeleri ve kanalları tasarlamayı ve uygulamayı kapsar. Risk değerlendirmesine dayalı bölge bölümleme, Güvenlik Seviyesi hedefleri (SL-T) atama, kanal güvenlik denetimleri tasarlama, endüstriyel güvenlik duvarlarıyla mikrosegmentasyon uygulama ve Purdue Referans Modeline karşı trafik analizi ve sızma testi yoluyla bölge mimarisini doğrulamayı ele alır."
+description: "IEC 62443-3-2 kapsamında IACS için güvenlik bölgeleri ve kanalları tasarlar; risk tabanlı bölge bölümleme, SL-T ataması ve Purdue Modeli'ne karşı doğrulama yapar."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

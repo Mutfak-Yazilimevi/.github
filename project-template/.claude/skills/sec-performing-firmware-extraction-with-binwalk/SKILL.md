@@ -1,6 +1,6 @@
 ---
 name: performing-firmware-extraction-with-binwalk
-description: "Gömülü dosya sistemlerini, sıkıştırılmış arşivleri, önyükleyicileri, çekirdek görüntülerini ve kriptografik materyalleri belirlemek için binwalk kullanarak firmware görüntü çıkarma ve analiz işlemi gerçekleştirir. Şifreli veya sıkıştırılmış bölgeleri tespit etmek için entropi analizi, iç içe geçmiş arşivlerin özyinelemeli çıkarımı, SquashFS/CramFS/JFFS2 dosya sistemi montajı ve kimlik bilgisi ile yapılandırma keşfi için dize analizini kapsar. Firmware tersine mühendisliği, IoT cihaz analizi, gömülü sistem güvenlik değerlendirmesi veya router/kamera firmware çıkarımı içeren isteklerde etkinleşir."
+description: "binwalk ile firmware görüntüsünden dosya sistemleri, önyükleyiciler ve kriptografik materyal çıkarır; IoT ve gömülü sistem güvenlik değerlendirmesi için kullan."
 domain: cybersecurity
 subdomain: firmware-analysis
 tags:

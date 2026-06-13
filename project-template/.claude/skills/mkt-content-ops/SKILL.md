@@ -1,6 +1,6 @@
 ---
 name: expert-panel
-description: "Otomatik olarak derlenen alan uzmanları paneli kullanarak herhangi bir içeriği veya stratejiyi puanla, değerlendir ve yinelemeli olarak iyileştir. Metin, diziler, açılış sayfaları, strateji belgeleri, başlıklar, grafikler, işe alım değerlendirmeleri veya kalite kapısı gerektiren her şeyi yönetir. Tüm puanlar 90'ın üzerine çıkana kadar yinelemeli olarak tekrar eder (en fazla 3 tur). \"expert panel this\", \"score this\", \"rate these variants\", \"quality check this\", \"panel review\", \"which version is better\", \"expert score\", \"evaluate this copy/strategy/page\" istendiğinde veya başka bir beceri çıktısında kalite kapısına ihtiyaç duyduğunda kullan."
+description: "Uzman paneli ile metin, strateji, açılış sayfası veya başlıkları puanlar ve tüm skorlar 90'ı geçene kadar en fazla 3 turda iyileştirir; kalite kapısı gerektiğinde kullan."
 ---
 
 

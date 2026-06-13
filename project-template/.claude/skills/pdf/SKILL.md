@@ -1,6 +1,6 @@
 ---
 name: pdf
-description: "Kullanıcı PDF dosyalarıyla ilgili herhangi bir işlem yapmak istediğinde bu skill'i kullan. PDF'lerden metin/tablo okuma veya çıkarma, birden fazla PDF'yi birleştirme, PDF'leri bölme, sayfaları döndürme, filigran ekleme, yeni PDF oluşturma, PDF form doldurma, PDF şifreleme/şifre çözme, resim çıkarma ve taranmış PDF'lere OCR uygulama gibi işlemleri kapsar. Kullanıcı .pdf dosyasından bahsederse veya PDF üretmesini isterse bu skill'i kullan."
+description: "PDF okuma/çıkarma, birleştirme, bölme, form doldurma, şifreleme, OCR gibi PDF işlemleri için kullan; .pdf dosyası adı geçen her istekte tetikle."
 license: Proprietary. LICENSE.txt has complete terms
 ---
 

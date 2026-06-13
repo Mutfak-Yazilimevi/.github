@@ -1,6 +1,6 @@
 ---
 name: performing-privilege-escalation-assessment
-description: "Düşük ayrıcalıklı erişimden root veya SYSTEM düzeyinde kontrole giden yolları belirlemek amacıyla ele geçirilmiş Linux ve Windows sistemlerinde ayrıcalık yükseltme değerlendirmeleri gerçekleştirir. Test uzmanı, ilk ele geçirmenin tam etkisini göstermek için yanlış yapılandırmaları, savunmasız servisleri, kernel açıklarını, SUID ikili dosyalarını, tırnaksız servis yollarını ve kimlik bilgisi depolarını numaralandırır. Ayrıcalık yükseltme testi, yerel istismar, ele geçirme sonrası yükseltme veya işletim sistemi düzeyinde güvenlik değerlendirmesi içeren istekler için kullan."
+description: "Linux ve Windows'ta yanlış yapılandırma, kernel açıkları, SUID ikili dosyaları ve tırnaksız servis yolları üzerinden root/SYSTEM düzeyi ayrıcalık yükseltme yollarını tespit eder."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

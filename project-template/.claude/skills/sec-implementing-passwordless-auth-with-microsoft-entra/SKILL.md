@@ -1,6 +1,6 @@
 ---
 name: implementing-passwordless-auth-with-microsoft-entra
-description: "Parola tabanlı saldırıları ortadan kaldırmak için FIDO2 güvenlik anahtarları, Windows Hello for Business, Microsoft Authenticator passkey'leri ve sertifika tabanlı kimlik doğrulama ile Microsoft Entra ID kullanarak parolasız kimlik doğrulama uygular. Parolasız dağıtım, FIDO2 passkey yapılandırma, kimlik avına dayanıklı MFA veya Microsoft Entra kimlik doğrulama yöntemi ilkeleri içeren istekler için etkinleşir."
+description: "Microsoft Entra ID ile FIDO2, Windows Hello for Business, Authenticator passkey ve sertifika tabanlı parolasız kimlik doğrulama uygula."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

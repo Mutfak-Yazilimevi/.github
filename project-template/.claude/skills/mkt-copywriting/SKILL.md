@@ -1,6 +1,6 @@
 ---
 name: copywriting
-description: "Kullanıcı herhangi bir sayfa için pazarlama metni yazmak, yeniden yazmak veya geliştirmek istediğinde kullan — ana sayfa, açılış sayfaları, fiyatlandırma sayfaları, özellik sayfaları, hakkında sayfaları veya ürün sayfaları dahil. Kullanıcı \"write copy for\", \"improve this copy\", \"rewrite this page\", \"marketing copy\", \"headline help\", \"CTA copy\", \"value proposition\", \"tagline\", \"subheadline\", \"hero section copy\", \"above the fold\", \"this copy is weak\", \"make this more compelling\" veya \"help me describe my product\" ifadelerini kullandığında da kullan. Birinin ikna edici veya dönüştürücü web sitesi metni üzerinde çalıştığı her durumda kullan. E-posta metni için emails, açılır pencere metni için popups, mevcut metni düzenlemek için copy-editing becerisine bak."
+description: "Ana sayfa, açılış sayfası, fiyatlandırma ve özellik sayfaları için pazarlama metni yazmak, yeniden yazmak veya geliştirmek için kullan."
 metadata:
   version: 2.0.0
 ---

@@ -1,6 +1,6 @@
 ---
 name: "security-ownership-map"
-description: "Git depolarını analiz ederek güvenlik sahiplik topolojisi (kişi-dosya) oluşturmak, bus faktörü ve hassas kod sahipliğini hesaplamak ve grafik veritabanları ile görselleştirme için CSV/JSON dışa aktarmak için kullan. Yalnızca kullanıcı git geçmişine dayalı güvenlik odaklı sahiplik veya bus faktörü analizi açıkça istediğinde tetikle (örneğin: sahipsiz hassas kod, güvenlik bakımcıları, risk için CODEOWNERS gerçeklik kontrolleri, hassas sıcak noktalar veya sahiplik kümeleri). Genel bakımcı listeleri veya güvenlik dışı sahiplik soruları için tetikleme."
+description: "Git geçmişinden güvenlik sahiplik topolojisi, bus faktörü ve hassas kod sahipliği; CSV/JSON dışa aktarım; yalnızca güvenlik odaklı sahiplik analizinde tetikle."
 ---
 
 # Security Ownership Map

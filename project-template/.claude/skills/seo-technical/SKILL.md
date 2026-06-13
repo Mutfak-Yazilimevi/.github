@@ -1,6 +1,6 @@
 ---
 name: amazing-seo-skill
-description: "Her web sitesi türü için (SaaS, e-ticaret, yerel, yayıncı, ajans) SEO + AEO + GEO analizi. Tam site denetimleri, tek sayfa derinlemesine inceleme, teknik SEO (tarama, dizin, INP dahil CWV, JS render), Schema.org tespiti/doğrulaması/oluşturması, E-E-A-T içerik kalitesi, görüntü optimizasyonu, site haritası, hreflang, programatik SEO, rakip sayfalar ve Üretken/Yanıt Motoru Optimizasyonu (AI Overviews, ChatGPT, Perplexity, Claude, Gemini alıntıları). Tetikleyiciler: \"SEO\", \"audit\", \"schema\", \"Core Web Vitals\", \"INP\", \"sitemap\", \"E-E-A-T\", \"AI Overviews\", \"GEO\", \"AEO\", \"technical SEO\", \"hreflang\", \"programmatic SEO\", \"competitor pages\"."
+description: "SaaS/e-ticaret/yerel site için teknik SEO, Schema.org, CWV/INP, E-E-A-T, hreflang, programatik SEO ve GEO/AEO (AI Overviews, Perplexity, ChatGPT alıntıları) analizi."
 allowed-tools:
   - Read
   - Grep

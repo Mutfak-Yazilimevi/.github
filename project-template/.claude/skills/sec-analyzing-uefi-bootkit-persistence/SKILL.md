@@ -1,6 +1,6 @@
 ---
 name: analyzing-uefi-bootkit-persistence
-description: "SPI flash'taki firmware implantları, EFI System Partition (ESP) değişiklikleri, Secure Boot atlama teknikleri ve UEFI değişken manipülasyonu dahil olmak üzere UEFI bootkit kalıcılık mekanizmalarını analiz eder. Bilinen bootkit ailelerinin (BlackLotus, LoJax, MosaicRegressor, MoonBounce, CosmicStrand) tespitini, ESP bölüm adli incelemesini, chipsec tabanlı firmware bütünlüğü doğrulamasını ve Secure Boot yapılandırma denetimini kapsar. UEFI kötü amaçlı yazılım analizi, firmware kalıcılık araştırması, önyükleme zinciri bütünlüğü doğrulaması veya Secure Boot atlama tespitine yönelik isteklerde etkinleşir."
+description: "BlackLotus, LoJax, MoonBounce dahil UEFI bootkit kalıcılık mekanizmalarını (SPI flash implant, ESP değişikliği, Secure Boot atlama) analiz eder; chipsec ile firmware doğrulama dahil."
 domain: cybersecurity
 subdomain: firmware-security
 tags:

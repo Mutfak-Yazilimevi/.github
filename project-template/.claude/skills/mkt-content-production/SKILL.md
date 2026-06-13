@@ -1,6 +1,6 @@
 ---
 name: "content-production"
-description: "Tam içerik üretim hattı — bir konuyu boş sayfadan yayına hazır parçaya dönüştürür. İçerik üretmek gerektiğinde kullan: blog yazısı, makale veya rehber uçtan uca yaz. Tetikleyiciler: 'hakkında yazı yaz', 'makale taslağı çıkar', 'için içerik oluştur', 'yazmama yardım et', 'blog yazısına ihtiyacım var'. İçerik stratejisi veya takvim planlaması için değil (content-strategy'yi kullan). Mevcut içeriği yeniden amaçlandırmak için değil (content-repurposing'i kullan). Yalnızca sosyal medya başlıkları için değil"
+description: "Blog yazısı, makale veya rehberi boş sayfadan yayına hazır hale getirir; uçtan uca içerik üretim hattı için kullan."
 license: MIT
 metadata:
   version: 1.0.0

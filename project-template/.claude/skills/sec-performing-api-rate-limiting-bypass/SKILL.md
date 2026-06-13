@@ -1,6 +1,6 @@
 ---
 name: performing-api-rate-limiting-bypass
-description: "İstek kısıtlama denetimlerini aşmak için istek başlıklarını, IP adreslerini, HTTP yöntemlerini, API sürümlerini ve kodlama şemalarını manipüle ederek API hız sınırlama uygulamalarını atlatma güvenlik açıkları açısından test eder. Test uzmanı hız sınırı başlıklarını belirler, uygulama mekanizmalarını saptar ve X-Forwarded-For sahteciliği, parametre kirliliği, büyük/küçük harf varyasyonu ve uç nokta yolu manipülasyonu dahil atlatma girişimlerinde bulunur. OWASP API4:2023 Sınırsız Kaynak Tüketimi ile eşleşir. Hız sınırı atlatma, API kısıtlama kaçınma, kaba kuvvet koruma testi veya API kötüye kullanım önleme değerlendirmesi içeren isteklerde etkinleşir."
+description: "API güvenlik testinde başlık, IP, HTTP yöntemi ve kodlama manipülasyonuyla hız sınırlama denetimlerini atlama testi gerçekleştirir."
 domain: cybersecurity
 subdomain: api-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: "senior-ml-engineer"
-description: "Modelleri üretime almak, MLOps pipeline'ları oluşturmak ve LLM'leri entegre etmek için ML mühendisliği skill'i. Model dağıtımı, özellik depoları, drift izleme, RAG sistemleri ve maliyet optimizasyonunu kapsar. Kullanıcı ML modellerini üretime dağıtmak, MLOps altyapısı kurmak (MLflow, Kubeflow, Kubernetes, Docker), model performansını veya drift'i izlemek, RAG pipeline'ları oluşturmak veya yeniden deneme mantığı ve maliyet kontrolleriyle LLM API'lerini entegre etmek istediğinde kullan. Model araştırması veya ilk eğitim yerine üretim ve operasyonel kaygılara odaklanır."
+description: "MLOps; MLflow/Kubeflow/Kubernetes ile model dağıtımı, drift izleme, RAG pipeline ve LLM API entegrasyonu; araştırma değil üretim odaklı."
 triggers:
   - MLOps pipeline
   - model deployment

@@ -1,6 +1,6 @@
 ---
 name: agents-sdk
-description: "Cloudflare Workers üzerinde Agents SDK kullanarak AI ajanları oluşturur. Durum bilgili ajanlar, dayanıklı iş akışları, gerçek zamanlı WebSocket uygulamaları, zamanlanmış görevler, MCP sunucuları, sohbet uygulamaları, ses ajanları veya tarayıcı otomasyonu oluştururken yükle. Agent sınıfı, durum yönetimi, çağrılabilir RPC, Workflows, dayanıklı yürütme, kuyruqlar, yeniden denemeler, gözlemlenebilirlik ve React hook'larını kapsar. Önceden eğitilmiş bilgi yerine Cloudflare dokümanlarından alım yapmaya yönelir"
+description: "Cloudflare Workers üzerinde Agents SDK ile AI ajan geliştirme: durum bilgili ajanlar, WebSocket, Workflows, MCP sunucusu ve tarayıcı otomasyonu için kullan."
 ---
 
 # Cloudflare Agents SDK

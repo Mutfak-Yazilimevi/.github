@@ -1,6 +1,6 @@
 ---
 name: free-tools
-description: "Kullanıcı pazarlama amaçlı ücretsiz bir araç planlamak, değerlendirmek veya oluşturmak istediğinde kullanılır — potansiyel müşteri oluşturma, SEO değeri veya marka farkındalığı. Ayrıca kullanıcı \"pazarlama aracı olarak mühendislik\", \"ücretsiz araç\", \"pazarlama aracı\", \"hesap makinesi\", \"oluşturucu\", \"etkileşimli araç\", \"potansiyel müşteri oluşturma aracı\", \"ücretsiz kaynak\", \"ROI hesap makinesi\", \"değerlendirme aracı\", \"denetim aracı\", \"ücretsiz araç oluşturmalı mıyım\" veya \"potansiyel müşteriler için araçlar\" söylediğinde de kullanılır. Birinin faydalı bir şey oluşturup ücretsiz vererek potansiyel müşteri çekmek veya bağlantı kazanmak istediği her durumda kullanılır. İndirilebilir içerik potansiyel müşteri mıknatısları (e-kitaplar, kontrol listeleri, şablonlar) için bkz. lead-magnets."
+description: "Lead üretimi veya SEO için ücretsiz pazarlama aracı (hesap makinesi, değerlendirme aracı, ROI hesap makinesi) planlamak veya oluşturmak istediğinde kullan."
 metadata:
   version: 2.0.0
 ---

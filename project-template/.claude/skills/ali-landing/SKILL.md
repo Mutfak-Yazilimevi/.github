@@ -1,6 +1,6 @@
 ---
 name: landing
-description: "3D CSS animasyonları, GSAP kaydırma efektleri ve fare parallax derinliğiyle premium tek sayfalık HTML açılış sayfası oluşturur. Zorunlu alım (ürün + asansör konuşması, hedef kitle kaydı, marka geçersiz kılmaları, ton) konumlandırmayı herhangi bir kopya veya işaretleme yazılmadan önce sabitler, böylece sayfa genel şablon yerine gerçek ürünü yansıtır. Kullanıcı 'X için landing', 'açılış sayfası oluştur', 'açılış sayfası yap', 'X için açılış sayfası yap', 'Y için web sayfası istiyorum' dediğinde ya da ürün/hizmet detayları sunup cilalı bir web sitesi istediğinde tetikler. Ayrıca 'promosyon sayfası', 'ürün sayfası', 'tek sayfa', 'web varlığı', 'satış sayfası' ile de tetiklenir. Tek bağımsız HTML dosyası çıktısı verir (Claude Code) veya HTML artifact (Claude.ai). CSS özel özellik geçersiz kılmaları aracılığıyla yapılandırılabilir marka renkleri destekler"
+description: "3D CSS animasyonu, GSAP kaydırma ve fare parallax ile premium tek sayfalık HTML açılış sayfası oluşturur; marka rengi ve ton konfigürasyonu destekler."
 license: MIT
 metadata:
   source_spec: "megaprompts/04-landing-megaprompt.md"

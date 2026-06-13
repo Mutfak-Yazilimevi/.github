@@ -1,6 +1,6 @@
 ---
 name: investigating-insider-threat-indicators
-description: "SIEM analitiği, DLP uyarıları ve İK veri korelasyonu kullanarak veri sızdırma girişimleri, yetkisiz erişim kalıpları, politika ihlalleri ve ayrılma öncesi davranışlar dahil iç tehdit göstergelerini araştırır. SOC ekipleri İK'dan iç tehdit yönlendirmeleri aldığında, çalışanlar tarafından anormal veri hareketi tespit edildiğinde veya potansiyel iç tehditler için soruşturma zaman çizelgeleri oluşturmaya ihtiyaç duyulduğunda kullan."
+description: "SIEM analitiği, DLP uyarıları ve İK verisi korelasyonuyla veri sızdırma, yetkisiz erişim ve ayrılma öncesi iç tehdit göstergelerini araştırır."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

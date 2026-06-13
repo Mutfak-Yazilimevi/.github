@@ -1,6 +1,6 @@
 ---
 name: testing-mobile-api-authentication
-description: "Mobil uygulama API arka uçlarına karşı API güvenlik değerlendirmeleri yaparken, JWT uygulamalarını test ederken, OAuth akışlarını değerlendirirken veya oturum yönetimini değerlendirirken bozuk kimlik doğrulama, güvensiz token yönetimi, oturum sabitleme, ayrıcalık yükseltme ve IDOR güvenlik açıklarını tespit etmek için mobil uygulama API'lerindeki kimlik doğrulama ve yetkilendirme mekanizmalarını test eder. Mobil API kimlik doğrulama testi, token güvenliği değerlendirmesi, OAuth mobil akış testi veya API yetkilendirme atlaması içeren istekler için kullan."
+description: "Mobil API arka uçlarında bozuk kimlik doğrulama, güvensiz JWT/token yönetimi, IDOR ve OAuth akış güvenlik açıklarını test et."
 domain: cybersecurity
 subdomain: mobile-security
 author: mahipal

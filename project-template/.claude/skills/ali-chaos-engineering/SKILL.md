@@ -1,6 +1,6 @@
 ---
 name: chaos-engineering
-description: "Kaos mühendisliği deneyleri planlarken, yürütürken veya bunlardan öğrenirken kullan. \"Kaos deneyi\", \"hata enjeksiyonu\", \"gameday\", \"dayanıklılık testi\", \"patlama yarıçapı\", \"sabit durum\", \"iptal kriterleri\", \"Chaos Toolkit\", \"Chaos Mesh\", \"Litmus\", \"Gremlin\", \"AWS FIS\" veya herhangi bir kasıtlı hata enjeksiyonu sorusunda tetikle. Deney tasarımcısı, patlama yarıçapı hesaplayıcısı ve olay sonrası rapor oluşturucu (tümü stdlib Python), kaos prensipleri + deney tasarımı + saldırı taksonomisi + araç ortamı hakkında 4 referans ve /chaos-experiment slash komutu sunar. feature-flags-architect (iptal tetikleyicisi olarak kill switch'ler) ve kubernetes-operator (yaygın kaos hedefleri) skill'leriyle birleşir."
+description: "Kaos mühendisliği deneyleri, hata enjeksiyonu, gameday veya dayanıklılık testi için kullan. Chaos Toolkit, Chaos Mesh, Litmus, Gremlin, AWS FIS destekler."
 context: fork
 version: 2.9.0
 author: claude-code-skills

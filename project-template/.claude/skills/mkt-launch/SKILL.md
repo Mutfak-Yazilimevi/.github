@@ -1,6 +1,6 @@
 ---
 name: launch
-description: "Kullanıcı bir ürün lansmanı, özellik duyurusu veya sürüm stratejisi planlamak istediğinde kullan. Ayrıca kullanıcı 'lansman,' 'Product Hunt,' 'özellik sürümü,' 'duyuru,' 'go-to-market,' 'beta lansmanı,' 'erken erişim,' 'bekleme listesi,' 'ürün güncellemesi,' 'bunu nasıl lansmanlarım,' 'lansman kontrol listesi,' 'GTM planı' veya 'göndermek üzereyiz' gibi terimler belirttiğinde kullan. Birisi bir şeyi kamuya açık olarak yayınlamaya hazırlanıyorsa kullan. Lansman sonrası devam eden pazarlama için bkz. marketing-ideas."
+description: "Ürün lansmanı, özellik duyurusu veya GTM stratejisi planlamak; Product Hunt, beta lansmanı için kullan."
 metadata:
   version: 2.0.0
 ---

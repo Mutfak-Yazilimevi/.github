@@ -1,6 +1,6 @@
 ---
 name: ui-ux-design-consultant
-description: "Mevcut web sitelerini ve frontend kod tabanlarını analiz ederek UI/UX tasarım sorunlarını tespit eder ve profesyonel kalitede yeniden tasarımlar gerçekleştirir. Kullanıcı mevcut bir web sitesi, web uygulaması, açılış sayfası, gösterge paneli veya kullanıcı arayüzünün görsel kalitesini iyileştirmesini, denetlemesini, incelemesini, yeniden tasarlamasını, parlatmasını veya yükseltmesini istediğinde bu beceriyi kullan. Ayrıca kullanıcı \"bunu profesyonel göster\", \"bu çirkin görünüyor\", \"tasarımı iyileştir\", \"frontend'i yeniden tasarla\", \"UI denetimi\", \"UX incelemesi\", \"bunu dünya standartlarında yap\", \"UI'yı parlatla\" gibi şeyler söylediğinde veya mevcut bir kod tabanının görsel kalitesini, düzenini, boşluğunu, tipografisini, renklerini veya genel estetiğini değerlendirme ve iyileştirme isteği geldiğinde tetikle. Sıfırdan oluşturma için KULLANMA — bunun yerine frontend-design becerisini kullan."
+description: "Mevcut web sitesi veya frontend'in UI/UX sorunlarını tespit eder ve profesyonel kalitede yeniden tasarım yapar; sıfırdan oluşturma için frontend-design'ı kullan."
 ---
 
 # UI/UX Design Consultant

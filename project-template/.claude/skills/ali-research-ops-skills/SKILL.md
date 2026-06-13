@@ -1,6 +1,6 @@
 ---
 name: research-ops-skills
-description: "İş akışları genelinde kurumsal araştırma planlarken, fonlarken, kapsarken veya sentezlerken kullan — klinik çalışma tasarımı, Ar-Ge program finansmanı, pazar büyüklüğü/anketler veya ürün/kullanıcı araştırması. \"Bu klinik çalışmayı tasarla\", \"örnek boyutu ne olmalı\", \"Ar-Ge bütçesi\", \"burn rate\", \"aktifleştir veya giderleştir\", \"TAM SAM SOM\", \"pazar büyüklüğü\", \"anket tasarımı\", \"pazarı segmentlere ayır\", \"kullanıcı görüşmeleri planla\", \"kullanılabilirlik testi\", \"araştırma içgörülerini sentezle\" tetiklemelerinde devreye girer. Dört Araştırma-Operasyon alt becerisinden birine (clinical-research, research-finance, market-research, product-research) yönlendirir ve özet döndürür."
+description: "Klinik çalışma tasarımı, Ar-Ge finansmanı, TAM/SAM/SOM boyutlandırma, anket tasarımı ve kullanıcı araştırması için kurumsal araştırma planlama ve sentezi."
 context: fork
 version: 2.9.0
 author: claude-code-skills

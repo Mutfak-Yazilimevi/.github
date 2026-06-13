@@ -1,6 +1,6 @@
 ---
 name: "cto-advisor"
-description: "Mühendislik ekipleri, mimari kararlar ve teknoloji stratejisi için teknik liderlik rehberliği. Teknik borcu değerlendirirken, mühendislik ekiplerini ölçeklendirirken, teknolojileri değerlendirirken, mimari kararlar alırken, mühendislik metrikleri oluştururken veya kullanıcı CTO, tech debt, technical debt, team scaling, architecture decisions, technology evaluation, engineering metrics, DORA metrics ya da technology strategy ifadelerinden bahsettiğinde kullan."
+description: "CTO danışmanlığı: teknik borç değerlendirmesi, mimari kararlar, mühendislik ekibi ölçeklendirme, teknoloji seçimi ve DORA metrikleri için kullan."
 license: MIT
 metadata:
   version: 2.0.0

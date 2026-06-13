@@ -1,6 +1,6 @@
 ---
 name: revops
-description: "Kullanıcı gelir operasyonları, lead yaşam döngüsü yönetimi veya pazarlamadan satışa devir süreçleriyle ilgili yardım istediğinde kullan. Ayrıca 'RevOps', 'revenue operations', 'lead scoring', 'lead routing', 'MQL', 'SQL', 'pipeline stages', 'deal desk', 'CRM automation', 'marketing-to-sales handoff', 'data hygiene', 'leads aren't getting to sales', 'pipeline management', 'lead qualification' veya 'when should marketing hand off to sales' gibi ifadelerde de kullan. Pazarlamayı gelire bağlayan sistem ve süreçleri kapsayan her şey için kullan. Soğuk giden e-postalar için bkz. cold-email. E-posta damla kampanyaları için bkz. emails. Fiyatlandırma kararları için bkz. pricing."
+description: "Gelir operasyonları, lead skorlama/yönlendirme, MQL/SQL devri, CRM otomasyonu ve pazarlama-satış entegrasyonu için kullan."
 metadata:
   version: 2.0.0
 ---

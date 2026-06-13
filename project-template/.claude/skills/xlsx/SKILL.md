@@ -1,6 +1,6 @@
 ---
 name: xlsx
-description: "Bir elektronik tablo dosyasının birincil girdi veya çıktı olduğu her durumda bu skill'i kullan. Bu; mevcut bir .xlsx, .xlsm, .csv veya .tsv dosyasını açmak, okumak, düzenlemek ya da düzeltmek (ör. sütun ekleme, formül hesaplama, biçimlendirme, grafik oluşturma, dağınık verileri temizleme), sıfırdan ya da başka veri kaynaklarından yeni bir elektronik tablo oluşturmak veya tablo dosya formatları arasında dönüştürme yapmak istediği durumları kapsar. Kullanıcı bir elektronik tabloyu adıyla ya da yoluyla belirttiğinde — hatta \"downloads'taki xlsx\" gibi gayri resmi biçimde de olsa — ve dosya üzerinde bir işlem yapmak ya da dosya üretmek istediğinde mutlaka tetikle. Bozuk satırlar, yanlış yerleştirilmiş başlıklar veya gereksiz veriler içeren dağınık tablo dosyalarını düzgün elektronik tablolara dönüştürmek için de tetikle. Sonuç bir elektronik tablo dosyası olmalıdır. Birincil çıktı Word belgesi, HTML raporu, bağımsız Python betiği, veritabanı hattı veya Google Sheets API entegrasyonu olduğunda — tablolu veri söz konusu olsa bile — tetikleme."
+description: ".xlsx/.xlsm/.csv/.tsv dosyası açma, okuma, düzenleme, oluşturma veya dönüştürme gereken her durumda kullan; birincil çıktı elektronik tablo olmalı."
 license: Proprietary. LICENSE.txt has complete terms
 ---
 

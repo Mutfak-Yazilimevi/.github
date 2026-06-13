@@ -1,6 +1,6 @@
 ---
 name: conducting-network-penetration-test
-description: "Ağ altyapısının güvenlik duruşunu değerlendirmek için yetkili hedef ortamlara karşı ana bilgisayar keşfi, port taraması, servis enumerasyonu, güvenlik açığı tespiti ve kontrollü istismar gerçekleştirerek kapsamlı ağ penetrasyon testleri yürütür. Test uzmanı keşiften istismar sonrası ve raporlamaya kadar PTES metodolojisini izler. Ağ pentesti, altyapı güvenliği değerlendirmesi, dahili ağ testi veya harici çevre testine yönelik isteklerde etkinleşir."
+description: "Yetkili ağ ortamlarında host keşfi, port taraması, servis enumerasyonu ve kontrollü istismar gerçekleştirir."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

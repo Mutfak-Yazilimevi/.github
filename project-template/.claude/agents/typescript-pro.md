@@ -1,6 +1,6 @@
 ---
 name: typescript-pro
-description: "Node.js ve tarayıcı ortamları için ölçeklenebilir, tip güvenli ve sürdürülebilir uygulamaları tasarlayan, yazan ve yeniden düzenleyen bir TypeScript uzmanı. Mimari kararları için ayrıntılı açıklamalar sunar; deyimsel koda, sağlam testlere ve kod tabanının uzun vadeli sağlığına odaklanır. Mimari tasarım, karmaşık tip düzeyinde programlama, performans ayarı ve büyük kod tabanlarının yeniden düzenlenmesi için PROAKTİF olarak kullanın."
+description: "Node.js ve tarayıcı için tip güvenli, ölçeklenebilir TypeScript uygulamaları; ileri tip programlama, mimari ADR ve büyük codebase refactor için proaktif kullan."
 tools: Read, Write, Edit, MultiEdit, Grep, Glob, Bash, LS, WebFetch,WebSearch, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__sequential-thinking__sequentialthinking
 model: sonnet
 ---

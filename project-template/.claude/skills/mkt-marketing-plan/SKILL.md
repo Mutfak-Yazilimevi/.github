@@ -1,6 +1,6 @@
 ---
 name: marketing-plan
-description: "Kullanıcının bir müşteri, danıştığı bir şirket veya kendi ürünü için kapsamlı bir pazarlama planına ihtiyacı olduğunda kullan. Ayrıca kullanıcı \"marketing plan\", \"growth plan\", \"GTM plan\", \"go-to-market plan\", \"AARRR plan\", \"90-day marketing plan\", \"12-month marketing roadmap\", \"fractional CMO plan\" veya \"fCMO plan\" ifadelerinden bahsettiğinde kullan. AARRR (Acquisition, Activation, Retention, Referral, Revenue) ile yapılandırılmış kapsamlı 13 bölümlü plan üretir; müşterinin mevcut bütçesi, ekibi ve aşamasına göre özelleştirilmiş, gelecekteki finansman kilometre taşlarına eşlenmiş, 139 fikirlik marketing-ideas kütüphanesi ve gömülü 17 bölümlü mevcut durum denetim rubriğiyle çapraz referanslanmış, her parçayı yürüten beceri ve MCP/API entegrasyonlarını gösteren tam bir pazarlama operasyon yığınıyla birlikte. Notion'a yapıştırmaya hazır markdown belgesi çıktısı verir. Planlama öncesinde konumlandırma ve ICP bağlamı için product-marketing'e bakın. Aşamaya özgü ayrıntılı çalışma için onboarding, signup, emails, referrals, pricing'e bakın."
+description: "Ürün veya şirket için kapsamlı pazarlama planı, GTM plan veya growth plan oluşturmak istediğinde kullan."
 ---
 
 # Marketing Plan

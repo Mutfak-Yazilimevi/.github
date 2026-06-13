@@ -1,6 +1,6 @@
 ---
 name: "board-meeting"
-description: "Stratejik kararlar için çok ajanlı yönetim kurulu toplantısı protokolü. 6 aşamalı yapılandırılmış bir müzakere yürütür: bağlam yükleme, bağımsız C-suite katkıları (izole, çapraz etkileşimsiz), eleştiri analizi, sentez, kurucu incelemesi ve karar çıkarımı. Kullanıcı /cs:board çağırdığında, yönetim kurulu toplantısı istediğinde veya stratejik bir soru üzerinde yapılandırılmış çok perspektifli yönetici müzakeresi istediğinde kullan"
+description: "6 aşamalı çok ajanlı yönetim kurulu toplantısı protokolü: C-suite katkıları, eleştiri analizi, sentez ve kurucu incelemesi ile stratejik karar üretir."
 license: MIT
 metadata:
   version: 1.0.0

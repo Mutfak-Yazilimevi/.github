@@ -1,6 +1,6 @@
 ---
 name: securing-serverless-functions
-description: "Bu skill, AWS Lambda, Azure Functions ve Google Cloud Functions dahil olmak üzere sunucusuz hesaplama platformları için güvenlik sertleştirmeyi kapsar. Enjeksiyon saldırılarına, kimlik bilgisi hırsızlığına ve tedarik zinciri saldırılarına karşı korumak için en az ayrıcalıklı IAM rollerini, bağımlılık güvenlik açığı taramasını, sır yönetimi entegrasyonunu, girdi doğrulamayı, fonksiyon URL kimlik doğrulamasını ve çalışma zamanı izlemeyi ele alır."
+description: "AWS Lambda, Azure Functions ve Google Cloud Functions için enjeksiyon, kimlik bilgisi hırsızlığı ve aşırı izinlere karşı güvenlik sertleştirme."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

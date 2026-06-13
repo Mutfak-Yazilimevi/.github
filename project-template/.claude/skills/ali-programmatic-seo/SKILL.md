@@ -1,6 +1,6 @@
 ---
 name: "programmatic-seo"
-description: "Kullanıcı şablonlar ve veriler kullanarak ölçekli SEO odaklı sayfalar oluşturmak istediğinde kullanılır. Ayrıca kullanıcı \"programatik SEO\", \"şablon sayfalar\", \"ölçekli sayfalar\", \"dizin sayfaları\", \"konum sayfaları\", \"[anahtar kelime] + [şehir] sayfaları\", \"karşılaştırma sayfaları\", \"entegrasyon sayfaları\" veya \"SEO için çok sayıda sayfa oluşturma\" söylediğinde de kullanılır. Mevcut SEO sorunlarını denetlemek için bkz. seo-audit."
+description: "Şablonlar ve verilerle ölçekli SEO odaklı sayfalar (konum, karşılaştırma, entegrasyon) oluşturmak için kullan; mevcut SEO sorunları için seo-audit'e bak."
 license: MIT
 metadata:
   version: 1.0.0

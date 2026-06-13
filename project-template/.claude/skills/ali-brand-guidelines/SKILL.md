@@ -1,6 +1,6 @@
 ---
 name: "brand-guidelines"
-description: "Kullanıcı herhangi bir ürün veya şirket için marka yönergelerini uygulamak, belgelemek veya uygulatmak istediğinde kullan. Ayrıca kullanıcı 'marka yönergeleri', 'marka renkleri', 'tipografi', 'logo kullanımı', 'marka sesi', 'görsel kimlik', 'ton', 'marka standartları', 'stil rehberi', 'marka tutarlılığı' veya 'şirket tasarım standartları' dediğinde kullan. Herhangi bir marka için — Anthropic'in resmi kimliği dahil — renk sistemlerini, tipografiyi, logo kurallarını, görsel yönergeleri ve ton matrisini kapsar."
+description: "Renk sistemi, tipografi, logo, görsel kimlik ve ton matrisini kapsayan marka yönergeleri oluşturmak veya uygulamak için kullan."
 license: MIT
 metadata:
   version: 1.0.0

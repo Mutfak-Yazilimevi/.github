@@ -1,6 +1,6 @@
 ---
 name: review
-description: "Değişiklikleri sabit bir noktadan (commit, dal, etiket veya merge-base) iki eksen üzerinde incele — Standartlar (kod bu deponun belgelenmiş kodlama standartlarını izliyor mu?) ve Spesifikasyon (kod, kaynak issue/PRD'nin ne sorduğuyla eşleşiyor mu?). Her iki incelemeyi paralel alt ajanlarda çalıştırır ve yan yana raporlar. Kullanıcı bir dalı, PR'yi, devam eden değişiklikleri incelemek veya \"X'ten beri incele\" istediğinde kullan."
+description: "Değişiklikleri Standartlar ve Spesifikasyon ekseninde inceler: commit, dal veya merge-base'den PR/değişiklik incelemesi için paralel alt ajan çalıştırır."
 ---
 
 # Review

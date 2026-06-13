@@ -6,7 +6,7 @@ Dependencies: none
 Author: Alireza Rezvani
 Version: 2.1.2
 name: code-to-prd
-description: "Herhangi bir kod tabanını eksiksiz bir Ürün Gereksinimleri Belgesine (PRD) tersine mühendislikle çevir. Mühendislerin veya yapay zeka ajanlarının her sayfayı ve uç noktayı tam olarak yeniden oluşturabileceği kadar ayrıntılı, iş odaklı belgeler üretmek için rotaları, bileşenleri, durum yönetimini, API entegrasyonlarını ve kullanıcı etkileşimlerini analiz eder. Frontend çerçeveleriyle (React, Vue, Angular, Svelte, Next.js, Nuxt), backend çerçeveleriyle (NestJS, Django, Express, FastAPI) ve fullstack uygulamalarla çalışır."
+description: "Kod tabanını tersine mühendislikle PRD'ye dönüştürür; rota, bileşen, API ve kullanıcı etkileşimi analizinden iş odaklı gereksinim belgesi üretir."
 license: MIT
 metadata:
   updated: 2026-03-17

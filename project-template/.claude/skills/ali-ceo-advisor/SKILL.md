@@ -1,6 +1,6 @@
 ---
 name: "ceo-advisor"
-description: "Stratejik karar verme, organizasyonel gelişim ve paydaş yönetimi için yönetici liderlik rehberliği. Strateji planlarken, yönetim kurulu sunumları hazırlarken, yatırımcıları yönetirken, organizasyon kültürü geliştirirken, yönetici kararları alırken, fon toplarken veya kullanıcı CEO, stratejik planlama, yönetim kurulu toplantıları, yatırımcı güncellemeleri, organizasyonel liderlik ya da yönetici stratejisinden bahsettiğinde kullan."
+description: "CEO için stratejik karar verme, yönetim kurulu sunumları, yatırımcı yönetimi, organizasyon kültürü geliştirme ve yönetici liderliği rehberliği."
 license: MIT
 metadata:
   version: 2.0.0

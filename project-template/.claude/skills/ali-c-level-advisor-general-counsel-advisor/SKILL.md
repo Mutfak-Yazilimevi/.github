@@ -1,6 +1,6 @@
 ---
 name: c-level-advisor-general-counsel-advisor
-description: "Startuplar için Genel Hukuk Müşaviri danışmanlığı: sözleşme incelemesi (MSA, SaaS, NDA, DPA, istihdam), IP stratejisi, term sheet çözümleme ve düzenleyici ortam haritalaması. Herhangi bir sözleşme veya term sheet incelerken, dış hukuk müşaviri ne zaman devreye alınacağına karar verirken, IP stratejisi tanımlarken, düzenleyici riske (HIPAA, GDPR, FDA, fintech) değerlendirirken ya da kullanıcı genel müşavir, GC, hukuki inceleme, sözleşme riski, term sheet, IP devri veya düzenleyici risk ifadelerini kullandığında kullan. Lisanslı hukuk müşavirinin yerini TUTMAZ — nitelikli avukatlara yönlendirilecek soruları ortaya çıkarır."
+description: "Startup için GC danışmanlığı: MSA/SaaS/NDA/DPA sözleşme incelemesi, IP stratejisi, term sheet ve HIPAA/GDPR/FDA düzenleyici risk değerlendirmesi."
 license: MIT
 metadata:
   version: 1.0.0

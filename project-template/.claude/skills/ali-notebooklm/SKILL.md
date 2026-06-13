@@ -1,6 +1,6 @@
 ---
 name: notebooklm
-description: "Google'ın NotebookLM'ini kontrol etmek için tarayıcı otomasyon skill'i. Not defterlerini okuma ve sorgulama, kaynak ekleme (URL'ler, metin, dosyalar, YouTube bağlantıları, sentezlenmiş içerik), Studio çıktıları oluşturma (Ses Özeti, infografik, slayt destesi, çalışma rehberi, brifing dokümanı, zihin haritası, zaman çizelgesi, SSS) ve yeni not defterleri oluşturmayı işler. NotebookLM içeren herhangi bir ifadede tetikle. Tarayıcı otomasyon ortamı gerektirir."
+description: "Google NotebookLM'i tarayıcı otomasyonla yönet; not defteri sorgula, kaynak ekle, Ses Özeti/infografik/slayt gibi Studio çıktıları oluştur."
 license: MIT
 metadata:
   source_spec: "megaprompts/03-notebooklm-megaprompt.md"

@@ -1,6 +1,6 @@
 ---
 name: conducting-phishing-incident-response
-description: "Raporlanan e-postaları analiz ederek, göstergeleri çıkararak, kimlik bilgisi ihlalini değerlendirerek, kötü amaçlı iletileri kuruluş genelinde karantinaya alarak ve etkilenen hesapları düzelterek kimlik avı olaylarına yanıt verir. E-posta başlık analizini, URL/ek sandbox'lamasını ve posta kutusu genelinde temizleme işlemlerini kapsar. Kimlik avı müdahalesi, e-posta olayı, kimlik bilgisi kimlik avı, spear phishing soruşturması veya kimlik avı düzeltmesine yönelik isteklerde etkinleşir."
+description: "Kimlik avı olaylarına müdahale eder: e-posta başlık analizi, URL/ek sandbox'lama, kuruluş genelinde karantina ve hesap düzeltmesi yapar."
 domain: cybersecurity
 subdomain: incident-response
 tags:

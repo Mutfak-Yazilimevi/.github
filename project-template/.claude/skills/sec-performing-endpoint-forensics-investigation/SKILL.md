@@ -1,6 +1,6 @@
 ---
 name: performing-endpoint-forensics-investigation
-description: "Güvenliği ihlal edilmiş uç noktalarda bellek edinimi, disk görüntüleme, artifact analizi ve zaman çizelgesi yeniden yapılandırması dahil dijital adli soruşturma gerçekleştirir. Güvenlik olaylarını araştırırken, hukuki süreçler için kanıt toplarken veya uç nokta uzlaşma kapsamını analiz ederken kullan. Uç nokta adli bilimi, bellek analizi, disk adli bilimi veya olay soruşturması içeren isteklerde etkinleşir."
+description: "Güvenliği ihlal edilmiş uç noktalarda bellek edinimi, disk görüntüleme ve artifact analizi ile dijital adli soruşturma yürüt."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

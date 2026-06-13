@@ -1,6 +1,6 @@
 ---
 name: deal-desk
-description: "Kapanıştan önce belirli bir gelen anlaşmayı incelerken kullan — satış ekibi AE yetkisini aşan indirim talep ettiğinde, müşteri MSA'yı değiştirdiğinde, anlaşmaya özel ekonomi (indirim sonrası marj, çok yıllı ödeme şekli, tazminat riski) sayısallaştırılması gerektiğinde veya indirim onayının adlandırılmış bir insan onaylayıcıya (Satış Direktörü, VP Sales, CFO, CRO, Genel Müdür) yönlendirilmesi gerektiğinde. Anlaşma incelemesi, indirim onayı yönlendirmesi, anlaşmaya özel marj puanlaması, anlaşma istisna yönetimi, MSA değişiklik triyajı, sözleşme mayın tespiti (sınırsız tazminat, MFN, kalıcı lisans geri alımı, eksik DPA) ve adlandırılmış onaylayıcı zinciri oluşturmayı kapsar. HİÇBİR ZAMAN otomatik onay yapmaz — her çıktı sayısal bir puan kartı artı adlandırılmış bir insana yönlendirme önerisinden oluşur."
+description: "Anlaşma incelemesi: AE yetkisini aşan indirim onayı, MSA değişiklik triyajı, marj puanlaması ve adlandırılmış onaylayıcıya (VP Sales, CFO, CRO) yönlendirme yapar."
 version: 2.8.0
 author: claude-code-skills
 license: MIT

@@ -1,6 +1,6 @@
 ---
 name: reverse-engineering-ios-app-with-frida
-description: "Kaynak koda erişim olmadan iç mantığı anlamak, şifreleme anahtarlarını çıkarmak, güvenlik kontrollerini atlatmak ve gizli işlevselliği keşfetmek için Frida dinamik enstrümantasyonu kullanarak iOS uygulamalarını tersine mühendislik ile analiz eder. Yetkili iOS sızma testi yaparken, tescilli protokolleri analiz ederken, gizlenmiş mantığı anlarken veya iOS ikili dosyalarından çalışma zamanı sırlarını çıkarırken kullan. iOS tersine mühendislik, Frida iOS hooking, Objective-C/Swift metod izleme veya iOS ikili analizi içeren istekler için kullan."
+description: "Frida ile iOS uygulama tersine mühendisliği; şifreleme anahtarı çıkarma, güvenlik kontrolü atlama ve Obj-C/Swift metod izleme — yetkili pentest için."
 domain: cybersecurity
 subdomain: mobile-security
 author: mahipal

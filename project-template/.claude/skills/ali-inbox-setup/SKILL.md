@@ -1,6 +1,6 @@
 ---
 name: inbox-setup
-description: "Etkileşimli röportaj aracılığıyla kişiselleştirilmiş gelen kutusu triyaj bilgi tabanı oluşturan tek seferlik kurulum becerisi. Kullanıcıyı e-posta desenleri, iş bağlamı, yanıt stili ve öncelikler hakkında grill-me disipliniyle (bir seferde bir soru, mümkünse zorlama biçimi, bağımlılık sıralı, her soru neden sorduğumu açıklar) röportaj yapar, ardından \"inbox-triage\" tamamlayıcı becerisini destekleyen bilgi tabanı dosyalarını oluşturur. inbox-triage'ı ilk kez kullanmadan önce bir kez çalıştır. İş, fiyatlandırma veya öncelikler önemli ölçüde değiştiğinde yeniden çalıştır. Tetikleyiciler: 'set up my inbox', 'configure inbox triage', 'set up my email system', 'configure email triage', 'build my email knowledge base', 'initialize email management', 'set up inbox triage', 'onboard email triage' veya birinin e-posta triyaj sistemini ilk kez kurmak istediği herhangi bir varyasyon."
+description: "E-posta triyaj sistemini ilk kez kurmak için kullan: grill-me röportajı yaparak inbox-triage becerisini destekleyen kişiselleştirilmiş bilgi tabanı dosyaları oluşturur."
 license: MIT
 metadata:
   source_spec: "megaprompts/06-inbox-setup-megaprompt.md"

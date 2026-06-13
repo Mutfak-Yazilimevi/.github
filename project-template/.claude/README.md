@@ -38,7 +38,7 @@ Claude Code oturumu içinde:
 ```text
 /plugin marketplace add mutfak-yazilimevi/claude-config
 /plugin install mutfak-dotnet@mutfak
-/plugin install mutfak-security@mutfak
+/plugin install mutfak-security-defense@mutfak
 ```
 
 …veya projeye kalıcı yazmak için `.claude/settings.json`:
@@ -48,7 +48,7 @@ Claude Code oturumu içinde:
   "extraKnownMarketplaces": {
     "mutfak": { "source": { "source": "github", "repo": "mutfak-yazilimevi/claude-config" } }
   },
-  "enabledPlugins": { "mutfak-dotnet@mutfak": true, "mutfak-security@mutfak": true }
+  "enabledPlugins": { "mutfak-dotnet@mutfak": true, "mutfak-security-defense@mutfak": true }
 }
 ```
 
@@ -57,7 +57,7 @@ Claude Code oturumu içinde:
 > `claude-config/scripts/integrate-into-project.sh --target . --profile dotnet-api`.
 >
 > Yalnız **gerekli** plugin'leri aç (minimum token). Proje tipine göre hazır profiller için
-> marketplace reposundaki `templates/PROFILES.md`'ye bak. 12 plugin ve içerikleri:
+> marketplace reposundaki `templates/PROFILES.md`'ye bak. 17 plugin ve içerikleri:
 > [`claude-config/README.md` → Plugin'ler](../../claude-config/README.md#pluginler).
 
 > ⚠️ **Marketplace ne taşır?** Plugin'ler **skill + agent + slash komutlarını** (`/mutfak-onboard`,

@@ -1,6 +1,6 @@
 ---
 name: hunting-for-anomalous-powershell-execution
-description: "Script Block Logging (Event 4104), Module Logging (Event 4103) ve süreç oluşturma olaylarını analiz ederek kötü amaçlı PowerShell faaliyetini avlar. Analist, gizlenmiş komutları, AMSI atlama girişimlerini, kodlanmış yükleri, kimlik bilgisi dökümü anahtar kelimelerini ve şüpheli indirme sarmalayıcılarını tespit etmek için Windows Event Log EVTX dosyalarını ayrıştırır. PowerShell tehdit avı, script block analizi, kodlanmış komut tespiti veya AMSI atlama tanımlama içeren isteklerde etkinleşir."
+description: "Windows Event Log EVTX'te Script Block Logging (4104), Module Logging (4103) analiz ederek gizlenmiş komut, AMSI atlama, kodlanmış yük ve kimlik bilgisi dökümü tespiti için kullan."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

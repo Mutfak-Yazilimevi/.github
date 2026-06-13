@@ -1,6 +1,6 @@
 ---
 name: strategy-red-team
-description: "Gerçeklik etmeden önce bir PRD, yol haritası veya stratejinin yük taşıyan varsayımlarına saldır. Her iddiayı güçlendirir sonra saldırır, başarısızlık modlarını etki × olasılık × test edilme maliyeti sırasına göre sıralar ve her biri için en ucuz testi ve öldürme kriterini döndürür. Bir planı stres testinden geçirirken, bir strateji üzerinde baskı testine girerken, varsayımları sorgularken veya yönetici incelemesi için bir belge hazırlarken kullan."
+description: "PRD, yol haritası veya stratejinin varsayımlarına saldırır; başarısızlık modlarını etki × olasılık sırasına koyar ve en ucuz test ile öldürme kriterini döndürür."
 ---
 
 # Strategy Red-Team: Attack the Assumptions Before Reality Does

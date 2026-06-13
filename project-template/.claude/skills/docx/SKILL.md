@@ -1,6 +1,6 @@
 ---
 name: docx
-description: "Kullanıcı Word belgesi (.docx dosyaları) oluşturmak, okumak, düzenlemek veya değiştirmek istediğinde bu skill'i kullan. Tetikleyiciler: 'Word doc', 'word belgesi', '.docx' gibi ifadeler veya içindekiler tablosu, başlıklar, sayfa numaraları ya da antet gibi biçimlendirmeli profesyonel belgeler üretme istekleri. Ayrıca .docx dosyalarından içerik çıkarma veya yeniden düzenleme, belgelere resim ekleme veya değiştirme, Word dosyalarında bul-değiştir, izlenen değişiklikler veya yorumlarla çalışma ya da içeriği cilalı Word belgesine dönüştürme işlemlerinde de kullan. Kullanıcı Word veya .docx dosyası olarak 'rapor', 'not', 'mektup', 'şablon' veya benzeri bir çıktı isterse bu skill'i kullan. PDF'ler, tablolar, Google Docs veya belge oluşturmayla ilgisi olmayan genel kodlama görevleri için kullanma"
+description: "Word belgesi (.docx) oluşturmak, okumak, düzenlemek veya içerik çıkarmak için kullan; başlıklar, içindekiler tablosu ve biçimlendirmeli profesyonel belgeler destekler."
 license: Proprietary. LICENSE.txt has complete terms
 ---
 

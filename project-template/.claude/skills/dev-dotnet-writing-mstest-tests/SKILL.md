@@ -1,6 +1,6 @@
 ---
 name: writing-mstest-tests
-description: "MSTest 3.x/4.x modern API'leri ve en iyi uygulamalarla yeni MSTest birim testleri yaz ve mevcut MSTest kodunu düzelt. KULLANIM ALANLARI: MSTest birim testleri yaz veya oluştur, MSTest assertion'larını düzelt veya modernleştir, daha iyi MSTest assertion'ları (Assert.IsTrue yerine), sabit cast'i MSTest tip assertion'ıyla değiştir, MSTest assertion API'leri (IsInstanceOfType, Contains, ContainsSingle, HasCount, IsEmpty, IsNotEmpty, DoesNotContain, StartsWith, EndsWith, MatchesRegex, IsGreaterThan, IsInRange, IsNull), yer değiştirmiş Assert.AreEqual argümanlarını düzelt, ExpectedException'ı Assert.Throws ile değiştir, veri güdümlü testler (DataRow, DynamicData, ValueTuples), test yaşam döngüsü (sealed sınıflar, TestInitialize, TestCleanup), async testler ve iptal token'ları, test paralelleştirme (Parallelize / DoNotParallelize), MSTest.Sdk proje kurulumu. KULLANMA: genel test kalite denetimleri (test-anti-patterns kullan), testleri çalıştırma (run-tests kullan), MSTest sürüm geçişi (migrate-mstest-v1v2-to-v3 veya migrate-mstest-v3-to-v4 kullan), xUnit/NUnit/TUnit veya .NET dışı diller."
+description: "MSTest 3.x/4.x modern API'leriyle yeni birim testleri yaz, assertion'ları iyileştir veya mevcut MSTest kodunu düzelt."
 license: MIT
 ---
 

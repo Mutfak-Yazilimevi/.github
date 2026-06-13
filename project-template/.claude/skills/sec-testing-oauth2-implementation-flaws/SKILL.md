@@ -1,6 +1,6 @@
 ---
 name: testing-oauth2-implementation-flaws
-description: "Hesap ele geçirme veya yetkisiz erişime olanak tanıyan yaygın yanlış yapılandırmaları tespit etmek amacıyla yetkilendirme sunucusunu, istemci uygulamasını ve token işlemeyi değerlendirerek yetkilendirme kodu ele geçirme, yönlendirme URI manipülasyonu, OAuth akışlarında CSRF, token sızıntısı, kapsam yükseltme ve PKCE atlaması dahil olmak üzere OAuth 2.0 ve OpenID Connect uygulamalarındaki güvenlik açıklarını test eder. OAuth güvenlik testi, OIDC güvenlik açığı değerlendirmesi, OAuth2 yönlendirme atlaması veya yetkilendirme kodu akışı testi içeren istekler için kullan."
+description: "OAuth 2.0 ve OIDC güvenlik açıklarını test eder: yetkilendirme kodu ele geçirme, yönlendirme URI manipülasyonu, CSRF, token sızıntısı ve PKCE atlama."
 domain: cybersecurity
 subdomain: api-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: litreview
-description: "Consensus aracılığıyla makale arayan, PICO (varsayılan) veya SPIDER / Decomposition / hybrid gibi yedek yöntemler kullanarak stratejik arama planı oluşturan ve bulguları profesyonelce biçimlendirilmiş Word belgesi (.docx) araştırma kılavuzuna sentezleyen akademik literatür yönlendirme skill'i. Keşif aramasından önce Grill-me alımı (araştırma sorusu özgüllüğü + çerçeve ipucu + geçici derinlik); 2. Aşamadan sonra ikinci bir zorlama kontrol noktası çerçeve + alt alanlar + derinliği aramalar bütçeyi tüketmeden önce onaylar. Yapılandırılabilir derinlik (5/10/20 sorgu) kapsam ile hız arasında denge kurar. Çıktı, araştırmacının güvenle dalış yapmasına olanak tanıyan bir 'çıkış noktası' — tamamlanmış bir inceleme değil. Tetikleyiciler: '[konu] üzerine litreview', '[konu] üzerine literatür incelemesi', 'X üzerine literatür incelemesi yapıyorum', 'X üzerine makale yazıyorum', 'X araştırmama yardım et', 'X üzerine araştırma yapıyorum', 'X araştırmama yardımcı olabilir misin'. Kullanıcının yalnızca hızlı bir liste istediği tek seferlik makale aramalarında TETİKLEME — bu düz bir Consensus aramasıdır."
+description: "Consensus aracılığıyla PICO/SPIDER yöntemiyle akademik literatür taraması, yapılandırılmış arama planı ve Word belgesi araştırma kılavuzu sentezi."
 license: MIT
 metadata:
   source_spec: "megaprompts/09-litreview-megaprompt.md"

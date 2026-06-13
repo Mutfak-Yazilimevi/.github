@@ -1,6 +1,6 @@
 ---
 name: commercial-forecaster
-description: "Üç aylık rezervasyon tahmini, ARR projeksiyonu, pipeline tahmini, NRR projeksiyonu veya commit/best-case/pipe-only yönetim kurulu numarası oluştururken kullan — özellikle CRO'nun funnel matematiği + kohort ARR + aşama başına dönüşüm varsayımlarıyla savunmasız tek bir sayı tiyatrosu olmadan yönetim kurulundan geçirmesi gerektiğinde. Pipeline'ı commit, best-case ve pipe-only katmanlarına ayırır; kohort düzeyinde NRR/GRR projekte ederek birleştirilmiş sayıda görünmeden önce sızdıran kohortları ortaya çıkarır; soft-floor aşamalarının yüksek güven aşamalarından farklı şekilde ele alınması için aşama başına funnel güvenini puanlar. Her çıktı, kullanılan dönüşüm oranını, veri penceresini ve ağırlık seçimini açıkça belirtir. Üç aylık tahmin veya yönetim kurulu hazırlığında Ticaret Başkanı, RevOps, Satış VP ve CRO için. Finansal kapanış değil (bkz. finance/financial-analysis). Stratejik CRO işe alımı/bölgesi değil (bkz. c-level-advisor/cro-advisor). Fiyatlandırma değil (bkz. kardeş pricing-strategist)."
+description: "Çeyreklik ARR/rezervasyon tahmini, NRR projeksiyonu ve commit/best-case/pipe-only pipeline katmanlama; CRO, RevOps ve yönetim kurulu hazırlığı için."
 version: 2.8.0
 author: claude-code-skills
 license: MIT

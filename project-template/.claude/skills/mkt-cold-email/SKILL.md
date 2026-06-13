@@ -1,6 +1,6 @@
 ---
 name: cold-email
-description: "Yanıt alan B2B soğuk e-postalar ve takip dizileri yaz. Kullanıcı soğuk giden e-postalar, aday bulma e-postaları, soğuk e-posta kampanyaları, satış geliştirme e-postaları veya SDR e-postaları yazmak istediğinde kullan. Ayrıca kullanıcı \"soğuk giden iletişim\", \"aday bulma e-postası\", \"giden e-posta\", \"adaylara e-posta\", \"potansiyel müşterilere ulaş\", \"satış e-postası\", \"takip e-posta dizisi\", \"kimse e-postalarıma yanıt vermiyor\" veya \"soğuk e-posta nasıl yazılır\" ifadelerinden bahsettiğinde de kullan. Konu satırlarını, açılış satırlarını, gövde kopyasını, CTA'ları, kişiselleştirmeyi ve çok dokunuşlu takip dizilerini kapsar. Sıcak/yaşam döngüsü e-posta dizileri için emails'e bak. E-postaların ötesinde satış materyalleri için sales-enablement'a bak."
+description: "Yanıt alan B2B soğuk e-postalar ve takip dizileri yazmak için kullan; SDR ve satış geliştirme e-postalarını kapsar."
 metadata:
   version: 2.0.0
 ---

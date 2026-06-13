@@ -1,6 +1,6 @@
 ---
 name: "senior-pm"
-description: "Kurumsal yazılım, SaaS ve dijital dönüşüm projeleri için Kıdemli Proje Yöneticisi. Portföy yönetimi, nicel risk analizi, kaynak optimizasyonu, paydaş uyumu ve yönetici raporlamasında uzmanlaşmıştır. EMV analizi, Monte Carlo simülasyonu, WSJF önceliklendirmesi ve çok boyutlu sağlık puanlaması dahil gelişmiş metodolojiler kullanır. Kullanıcının proje planları, proje durum raporları, risk değerlendirmeleri, kaynak tahsisi, proje yol haritaları, kilometre taşı takibi, ekip kapasite planlama, portföy sağlık incelemeleri, program yönetimi veya yönetici düzeyinde proje raporlamasında yardıma ihtiyacı olduğunda kullan — özellikle birden fazla iş akışı, karmaşık bağımlılıklar veya çok milyon dolarlık bütçelere sahip kurumsal ölçekli girişimler için."
+description: "Kurumsal yazılım ve SaaS projeleri için kıdemli PM: EMV analizi, Monte Carlo simülasyonu, WSJF önceliklendirmesi ve çok boyutlu sağlık puanlaması yapar."
 ---
 
 # Senior Project Management Expert

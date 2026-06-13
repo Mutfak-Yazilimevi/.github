@@ -1,6 +1,6 @@
 ---
 name: popups
-description: "Kullanıcı dönüşüm amaçlı açılır pencereler, modaller, katmanlar, kaydırma girişleri veya banner'lar oluşturmak veya optimize etmek istediğinde kullan. Kullanıcı \"exit intent\", \"popup conversions\", \"modal optimization\", \"lead capture popup\", \"email popup\", \"announcement banner\", \"overlay\", \"collect emails with a popup\", \"exit popup\", \"scroll trigger\", \"sticky bar\" veya \"notification bar\" ifadelerinden bahsettiğinde de kullan. Herhangi bir katman veya kesinti tarzı dönüşüm öğesi için kullan. Açılır pencere dışındaki formlar için cro, genel sayfa dönüşüm optimizasyonu için cro becerisine bak."
+description: "Açılır pencere, modal, katman ve banner oluşturmak veya optimize etmek için kullan; exit intent, scroll trigger, sticky bar ve e-posta yakalama senaryolarını kapsar."
 metadata:
   version: 2.0.0
 ---

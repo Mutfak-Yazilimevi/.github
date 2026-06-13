@@ -1,6 +1,6 @@
 ---
 name: development-lifecycle
-description: "Hem klasik SDLC (Planlama → Gereksinimler → Tasarım → Uygulama → Test → Dağıtım → Bakım → Değerlendirme) hem de Ajansal Geliştirme Yaşam Döngüsü / ADLC (Hedef → PRD → Beceri Yaz → Ajanları Orkestre Et → Özerk Kodlama → Özerk Test → Eval & Gözlemlenebilirlik → Dağıtım → İzleme) genelinde uçtan uca geliştirme sürecini yönet. Doğru aşamayı, o aşama için doğru beceri/ajan/komutu seçmek ve belirli bir görev için SDLC ile ADLC arasında karar vermek için kullan."
+description: "Klasik SDLC ve Ajansal Geliştirme Yaşam Döngüsü (ADLC) için rehber: planlama, tasarım, uygulama, test ve dağıtım aşamalarını kapsar."
 ---
 
 # Development Lifecycle (SDLC ↔ ADLC)

@@ -1,6 +1,6 @@
 ---
 name: md-review
-description: "Markdown PR yazısını veya kod incelemesini (```diff çitle çevrilmiş bloklar ve önem etiketli > [!BLOCKER]/[!MAJOR]/[!MINOR]/[!NIT] belirtim notları olan) tek dosya 2 sütunlu HTML incelemesine dönüştürür — solda unified-diff, sağda önem etiketli ek kart, en üstte her bulguyu listeleyen atlama navigasyonu, zorunlu adlandırılmış hakem altbilgisi. markdown-html-orchestrator girişi REVIEW olarak sınıflandırdığında veya /cs:md-review aracılığıyla doğrudan çağrıldığında tetiklenir."
+description: "Markdown PR/kod incelemesini unified-diff + önem etiketli ([!BLOCKER]/[!MAJOR]/[!MINOR]/[!NIT]) 2 sütunlu HTML inceleme belgesine dönüştürür."
 version: 2.10.2
 author: Alireza Rezvani
 license: MIT

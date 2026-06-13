@@ -1,6 +1,6 @@
 ---
 name: detecting-attacks-on-scada-systems
-description: "Bu skill, endüstriyel protokollere yönelik ortadaki adam saldırıları, PLC'lere yetkisiz komut enjeksiyonu, HMI güvenlik ihlali, tarihçi veri manipülasyonu ve kontrol sistemi iletişimine yönelik hizmet reddi dahil olmak üzere Supervisory Control and Data Acquisition (SCADA) sistemlerini hedef alan siber saldırıları tespit etmeyi kapsar. Geleneksel BT güvenlik araçlarının kaçırdığı saldırıları tespit etmek için OT'ye özgü saldırı tespit sistemlerini, endüstriyel protokol anomali tespitini ve süreç veri analitiğini kullanır."
+description: "SCADA sistemlerini hedef alan ortadaki adam saldırıları, PLC komut enjeksiyonu ve HMI ihlali dahil OT saldırılarını endüstriyel protokol anomali tespiti ile yakalar."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

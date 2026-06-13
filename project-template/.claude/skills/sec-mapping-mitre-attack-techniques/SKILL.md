@@ -1,6 +1,6 @@
 ---
 name: mapping-mitre-attack-techniques
-description: "Tespit kapsamını nicelendirmek ve kontrol önceliklendirmesine rehberlik etmek için gözlemlenen düşman davranışlarını, güvenlik uyarılarını ve tespit kurallarını MITRE ATT&CK teknikleri ve alt tekniklerine eşler. ATT&CK tabanlı kapsam ısı haritası oluştururken, SIEM uyarılarını teknik kimlik numaralarıyla etiketlerken, güvenlik kontrollerini düşman oyun kitaplarıyla hizalarken veya tehdit maruziyetini yöneticilere raporlarken kullan. ATT&CK Navigator, Sigma kuralları, MITRE D3FEND veya kapsam boşluğu analizi içeren isteklerde etkinleşir."
+description: "Gözlemlenen düşman davranışlarını MITRE ATT&CK tekniklerine eşler; ATT&CK Navigator, Sigma kuralları veya kapsam boşluğu analizi içeren isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

@@ -1,6 +1,6 @@
 ---
 name: "competitive-teardown"
-description: "Fiyatlandırma sayfaları, uygulama mağazası yorumları, iş ilanları, SEO sinyalleri ve sosyal medyadan gelen verileri sentezleyerek rakip ürün ve şirketleri analiz eder; yapılandırılmış rekabet istihbaratı üretir. 12 boyutta puanlanan özellik karşılaştırma matrisleri, SWOT analizleri, konumlandırma haritaları, UX denetimleri, fiyatlandırma modeli dökümleri, eylem planı yol haritaları ve paydaş sunum şablonları üretir. Rakip analizi yaparken, ürünleri rakiplerle karşılaştırırken, rekabetçi ortamı araştırırken, satış için savaş kartları oluştururken, ürün strateji veya roadmap oturumu hazırlarken, rakibin yeni özelliğine veya fiyatlandırma değişikliğine yanıt verirken ya da üç aylık rekabet incelemesi yaparken kullan"
+description: "Rakip ürün ve şirket analizi: 12 boyutlu özellik karşılaştırma matrisi, SWOT, konumlandırma haritası, UX denetimi ve fiyatlandırma dökümü üretir."
 ---
 
 # Competitive Teardown

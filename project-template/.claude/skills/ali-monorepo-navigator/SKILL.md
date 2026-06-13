@@ -1,6 +1,6 @@
 ---
 name: "monorepo-navigator"
-description: "Monorepo'ları gezin, yönet ve optimize et. Turborepo, Nx, pnpm workspaces ve Lerna'yı kapsar. Paketler arası etki analizi, etkilenen paketlerde seçici derleme/test, uzak önbellekleme, bağımlılık grafiği görselleştirme ve yapılandırılmış çok repolu monorepo'ya geçişler. Yeni bir monorepo kurarken, büyük bir çalışma alanı için CI optimize ederken, paketler arası bağımlılık sorunlarını hata ayıklarken veya çok repolu birleştirme planlarken kullan."
+description: "Turborepo, Nx, pnpm workspaces ve Lerna ile monorepo yönet: etki analizi, seçici derleme/test ve uzak önbellekleme."
 ---
 
 # Monorepo Navigator

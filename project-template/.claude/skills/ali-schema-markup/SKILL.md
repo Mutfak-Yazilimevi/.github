@@ -1,6 +1,6 @@
 ---
 name: "schema-markup"
-description: "Kullanıcı web sitesinde yapılandırılmış veri (şema işaretlemesi) uygulamak, denetlemek veya doğrulamak istediğinde kullan. Kullanıcı 'structured data', 'schema.org', 'JSON-LD', 'rich results', 'rich snippets', 'schema markup', 'FAQ schema', 'Product schema', 'HowTo schema' veya 'Search Console'da yapılandırılmış veri hataları' dediğinde kullan. Ayrıca içeriğin neden zengin sonuç göstermediğini soran veya yapay zeka arama görünürlüğünü artırmak isteyen biri için kullan. Genel SEO denetimleri için seo-audit, teknik SEO tarama sorunları için site-architecture kullan."
+description: "Web sitesine JSON-LD, schema.org, rich results veya FAQ/Product/HowTo şeması uygulamak için kullan; genel SEO için seo-audit'e bak."
 license: MIT
 metadata:
   version: 1.0.0

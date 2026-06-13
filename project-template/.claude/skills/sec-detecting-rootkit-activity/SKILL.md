@@ -1,6 +1,6 @@
 ---
 name: detecting-rootkit-activity
-description: "Bellek adli bilişimi, çapraz görünüm tespiti ve bütünlük kontrolü teknikleri kullanarak gizli süreçleri, kancalanmış sistem çağrılarını, değiştirilmiş çekirdek yapılarını, gizli dosyaları ve gizli ağ bağlantılarını belirleyerek ele geçirilmiş sistemlerdeki rootkit varlığını tespit eder. Rootkit tespiti, gizli süreç keşfi, çekirdek bütünlüğü kontrolü veya sistem çağrısı kanca analizi içeren isteklerde etkinleşir."
+description: "Bellek adli bilişimi ve çapraz görünüm tespiti ile gizli süreçleri, kancalı sistem çağrılarını ve değiştirilmiş çekirdek yapılarını tespit eder; rootkit analizi yapar."
 domain: cybersecurity
 subdomain: malware-analysis
 tags:

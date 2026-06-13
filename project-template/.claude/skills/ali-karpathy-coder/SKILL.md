@@ -1,6 +1,6 @@
 ---
 name: karpathy-coder
-description: "Karpathy'nin 4 kodlama ilkesini uygulamak için kod yazarken, incelerken veya commit yaparken kullan — kodlamadan önce varsayımları yüzeye çıkar, basit tut, cerrahi değişiklikler yap, doğrulanabilir hedefler tanımla. \"review my diff\", \"check complexity\", \"am I overcomplicating this\", \"karpathy check\", \"before I commit\" veya LLM'nin aşırı kodlama yapabileceği herhangi bir kod kalitesi endişesinde tetiklenir."
+description: "Karpathy'nin 4 kodlama ilkesini uygular: varsayım yüzeyleme, basitlik, cerrahi değişiklik ve doğrulanabilir hedef. Commit öncesi kod kalite kontrolü için kullan."
 context: fork
 version: 2.9.0
 author: claude-code-skills

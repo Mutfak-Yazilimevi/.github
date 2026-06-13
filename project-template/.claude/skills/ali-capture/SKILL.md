@@ -1,6 +1,6 @@
 ---
 name: capture
-description: "Kaotik beyin boşaltmalarını sıfır bilgi kaybıyla yapılandırılmış, eyleme geçirilebilir bir sisteme dönüştürür ve organize eder. Kullanıcı 'bunu yakala', 'beyin boşaltma', 'birkaç fikir boşaltayım', 'aklımda bir sürü düşünce var', 'aklımdaki her şey burada', 'fikir boşaltma', 'bunu kafamdan çıkarmam gerekiyor', 'düşüncelerimi organize etmem gerekiyor', 'işte düşündüklerim' dediğinde veya birinin karmaşık fikir, görev, düşünce ve planlar akışını tutarlı bir şeye dönüştürmek istediği her durumda bu skill'i tetikle. Ayrıca kullanıcı tam ifadeyi kullanmasa bile uzun, yapılandırılmamış bir karışık fikirler bloğu yapıştırdığında veya dikte ettiğinde tetikle — niyet aynıdır. Tasarım gereği hızlı eyleme geçirir: ön alım yok. Çıktı dört bölümdür (Projeler/Fikirler, Görevler, Bağlantılar, Nasıl Yardımcı Olabilirim) ve yönlendirici bir soruyla biter. Tek bir öğenin görev ile proje arasında gerçekten belirsiz olduğu durumlarda en fazla bir açıklayıcı soru sorar."
+description: "Kaotik beyin boşaltmalarını sıfır bilgi kaybıyla yapılandırılmış, eyleme geçirilebilir sisteme dönüştürür ve organize eder."
 license: MIT
 metadata:
   source_spec: "megaprompts/05-capture-megaprompt.md"

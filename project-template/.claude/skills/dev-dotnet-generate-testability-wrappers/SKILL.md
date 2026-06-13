@@ -1,6 +1,6 @@
 ---
 name: generate-testability-wrappers
-description: "C#'ta test etmesi zor statik bağımlılıklar için wrapper arayüzleri ve DI kaydı oluştur. IFileSystem, IEnvironmentProvider, IConsole, IProcessRunner wrapper'ları üretir veya TimeProvider ve IHttpClientFactory benimsenmesine rehberlik eder. ŞUNLAR İÇİN KULLAN: statik için wrapper oluştur, IFileSystem wrapper'ı oluştur, DateTime.Now'u sar, statik olanı test edilebilir yap, sınıfı test edilebilir yap, File.* için soyutlama oluştur, DI kaydı oluştur, TimeProvider benimsemesi, IHttpClientFactory kurulumu, test edilebilirlik wrapper'ı, mock dostu arayüz, testlerde zamanı mock'la, doğru soyutlamayı mock için oluştur, DateTime'ı nasıl mock'layacağım, File.ReadAllText kullanan kodu test et, Environment için hangi soyutlama, statikleri enjekte edilebilir yapma, System.IO.Abstractions benimseme, dosya çağrılarını test edilebilir yapma. ŞUNLAR İÇİN KULLANMA: statikleri tespit etme (detect-static-dependencies kullan), çağrı sitelerini taşıma (migrate-static-to-wrapper kullan), test edilebilirlikle ilgili olmayan genel arayüz tasarımı."
+description: "C#'ta statik bağımlılıklar için IFileSystem, IEnvironmentProvider gibi wrapper arayüzleri ve DI kaydı oluştur."
 license: MIT
 ---
 

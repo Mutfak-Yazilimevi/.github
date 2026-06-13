@@ -1,6 +1,6 @@
 ---
 name: "product-strategist"
-description: "Head of Product için OKR kademeli oluşturma, üç aylık planlama, rekabetçi peyzaj analizi, ürün vizyon belgeleri ve ekip ölçeklendirme önerileri kapsayan stratejik ürün liderliği araç seti. Üç aylık OKR belgeleri oluştururken, ürün hedefleri veya KPI'lar tanımlarken, ürün roadmap'leri oluştururken, rekabetçi analiz yaparken, ekip yapısı veya işe alım planları hazırlarken, ürün stratejisini mühendislik ve tasarım arasında hizalarken veya şirket düzeyinden ekip düzeyine kademeli hedef hiyerarşileri oluştururken kullan."
+description: "Head of Product için OKR kademeleme, üç aylık planlama, rekabetçi analiz, ürün vizyonu ve ekip ölçeklendirme araç seti."
 ---
 
 # Product Strategist

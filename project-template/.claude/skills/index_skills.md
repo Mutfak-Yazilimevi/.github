@@ -6,193 +6,17 @@
 > Bu dosya `scripts/build-skill-index.py` ile üretilir — elle düzenlemeyin, yeniden çalıştırın.
 > **Toplam:** 1613 skill · **Son tarama:** 2026-06-13
 
-> **Plugin'ler:** [mutfak-security (754)](#mutfak-security) · [mutfak-consulting (347)](#mutfak-consulting) · [mutfak-dev (150)](#mutfak-dev) · [mutfak-marketing (104)](#mutfak-marketing) · [mutfak-pm (78)](#mutfak-pm) · [mutfak-design (99)](#mutfak-design) · [mutfak-dotnet (38)](#mutfak-dotnet) · [mutfak-diagrams (15)](#mutfak-diagrams) · [mutfak-frontend (8)](#mutfak-frontend) · [mutfak-research (4)](#mutfak-research) · [mutfak-core (16)](#mutfak-core)
+> **Plugin'ler:** [mutfak-security-defense (232)](#mutfak-security-defense) · [mutfak-security-detection (160)](#mutfak-security-detection) · [mutfak-security-offensive (127)](#mutfak-security-offensive) · [mutfak-security-forensics (94)](#mutfak-security-forensics) · [mutfak-security-grc (92)](#mutfak-security-grc) · [mutfak-security-intel (49)](#mutfak-security-intel) · [mutfak-consulting (347)](#mutfak-consulting) · [mutfak-dev (150)](#mutfak-dev) · [mutfak-marketing (104)](#mutfak-marketing) · [mutfak-pm (78)](#mutfak-pm) · [mutfak-design (99)](#mutfak-design) · [mutfak-dotnet (38)](#mutfak-dotnet) · [mutfak-diagrams (15)](#mutfak-diagrams) · [mutfak-frontend (8)](#mutfak-frontend) · [mutfak-research (4)](#mutfak-research) · [mutfak-core (16)](#mutfak-core)
 
 ---
 
-## mutfak-security
+## mutfak-security-defense
 
-> Savunma/blue-team güvenlik (forensics, detection, hunting, hardening, pentest) · **754 skill**
+> Güvenlik savunma/hardening: kontroller, zero-trust, kimlik · **232 skill**
 
-### Performing (172)
-
-- `sec-performing-access-recertification-with-saviynt`
-- `sec-performing-access-review-and-certification`
-- `sec-performing-active-directory-bloodhound-analysis`
-- `sec-performing-active-directory-compromise-investigation`
-- `sec-performing-active-directory-forest-trust-attack`
-- `sec-performing-active-directory-penetration-test`
-- `sec-performing-active-directory-vulnerability-assessment`
-- `sec-performing-adversary-in-the-middle-phishing-detection`
-- `sec-performing-agentless-vulnerability-scanning`
-- `sec-performing-ai-driven-osint-correlation`
-- `sec-performing-alert-triage-with-elastic-siem`
-- `sec-performing-android-app-static-analysis-with-mobsf`
-- `sec-performing-api-fuzzing-with-restler`
-- `sec-performing-api-inventory-and-discovery`
-- `sec-performing-api-rate-limiting-bypass`
-- `sec-performing-api-security-testing-with-postman`
-- `sec-performing-arp-spoofing-attack-simulation`
-- `sec-performing-asset-criticality-scoring-for-vulns`
-- `sec-performing-authenticated-scan-with-openvas`
-- `sec-performing-authenticated-vulnerability-scan`
-- `sec-performing-automated-malware-analysis-with-cape`
-- `sec-performing-aws-account-enumeration-with-scout-suite`
-- `sec-performing-aws-privilege-escalation-assessment`
-- `sec-performing-bandwidth-throttling-attack-simulation`
-- `sec-performing-binary-exploitation-analysis`
-- `sec-performing-blind-ssrf-exploitation`
-- `sec-performing-bluetooth-security-assessment`
-- `sec-performing-brand-monitoring-for-impersonation`
-- `sec-performing-clickjacking-attack-test`
-- `sec-performing-cloud-asset-inventory-with-cartography`
-- `sec-performing-cloud-forensics-investigation`
-- `sec-performing-cloud-forensics-with-aws-cloudtrail`
-- `sec-performing-cloud-incident-containment-procedures`
-- `sec-performing-cloud-log-forensics-with-athena`
-- `sec-performing-cloud-native-forensics-with-falco`
-- `sec-performing-cloud-native-threat-hunting-with-aws-detective`
-- `sec-performing-cloud-penetration-testing-with-pacu`
-- `sec-performing-cloud-storage-forensic-acquisition`
-- `sec-performing-container-escape-detection`
-- `sec-performing-container-image-hardening`
-- `sec-performing-container-security-scanning-with-trivy`
-- `sec-performing-content-security-policy-bypass`
-- `sec-performing-credential-access-with-lazagne`
-- `sec-performing-cryptographic-audit-of-application`
-- `sec-performing-csrf-attack-simulation`
-- `sec-performing-cve-prioritization-with-kev-catalog`
-- `sec-performing-dark-web-monitoring-for-threats`
-- `sec-performing-deception-technology-deployment`
-- `sec-performing-directory-traversal-testing`
-- `sec-performing-disk-forensics-investigation`
-- `sec-performing-dmarc-policy-enforcement-rollout`
-- `sec-performing-dns-enumeration-and-zone-transfer`
-- `sec-performing-dns-tunneling-detection`
-- `sec-performing-docker-bench-security-assessment`
-- `sec-performing-dynamic-analysis-of-android-app`
-- `sec-performing-dynamic-analysis-with-any-run`
-- `sec-performing-endpoint-forensics-investigation`
-- `sec-performing-endpoint-vulnerability-remediation`
-- `sec-performing-entitlement-review-with-sailpoint-iiq`
-- `sec-performing-external-network-penetration-test`
-- `sec-performing-false-positive-reduction-in-siem`
-- `sec-performing-file-carving-with-foremost`
-- `sec-performing-firmware-extraction-with-binwalk`
-- `sec-performing-firmware-malware-analysis`
-- `sec-performing-fuzzing-with-aflplusplus`
-- `sec-performing-gcp-penetration-testing-with-gcpbucketbrute`
-- `sec-performing-gcp-security-assessment-with-forseti`
-- `sec-performing-graphql-depth-limit-attack`
-- `sec-performing-graphql-introspection-attack`
-- `sec-performing-graphql-security-assessment`
-- `sec-performing-hardware-security-module-integration`
-- `sec-performing-hash-cracking-with-hashcat`
-- `sec-performing-http-parameter-pollution-attack`
-- `sec-performing-ics-asset-discovery-with-claroty`
-- `sec-performing-indicator-lifecycle-management`
-- `sec-performing-initial-access-with-evilginx3`
-- `sec-performing-insider-threat-investigation`
-- `sec-performing-ioc-enrichment-automation`
-- `sec-performing-ios-app-security-assessment`
-- `sec-performing-iot-security-assessment`
-- `sec-performing-ip-reputation-analysis-with-shodan`
-- `sec-performing-jwt-none-algorithm-attack`
-- `sec-performing-kerberoasting-attack`
-- `sec-performing-kubernetes-cis-benchmark-with-kube-bench`
-- `sec-performing-kubernetes-etcd-security-assessment`
-- `sec-performing-kubernetes-penetration-testing`
-- `sec-performing-lateral-movement-detection`
-- `sec-performing-lateral-movement-with-wmiexec`
-- `sec-performing-linux-log-forensics-investigation`
-- `sec-performing-log-analysis-for-forensic-investigation`
-- `sec-performing-log-source-onboarding-in-siem`
-- `sec-performing-malware-hash-enrichment-with-virustotal`
-- `sec-performing-malware-ioc-extraction`
-- `sec-performing-malware-persistence-investigation`
-- `sec-performing-malware-triage-with-yara`
-- `sec-performing-memory-forensics-with-volatility3`
-- `sec-performing-memory-forensics-with-volatility3-plugins`
-- `sec-performing-mobile-app-certificate-pinning-bypass`
-- `sec-performing-mobile-device-forensics-with-cellebrite`
-- `sec-performing-network-forensics-with-wireshark`
-- `sec-performing-network-packet-capture-analysis`
-- `sec-performing-network-traffic-analysis-with-tshark`
-- `sec-performing-network-traffic-analysis-with-zeek`
-- `sec-performing-nist-csf-maturity-assessment`
-- `sec-performing-oauth-scope-minimization-review`
-- `sec-performing-oil-gas-cybersecurity-assessment`
-- `sec-performing-open-source-intelligence-gathering`
-- `sec-performing-osint-with-spiderfoot`
-- `sec-performing-ot-network-security-assessment`
-- `sec-performing-ot-vulnerability-assessment-with-claroty`
-- `sec-performing-ot-vulnerability-scanning-safely`
-- `sec-performing-packet-injection-attack`
-- `sec-performing-paste-site-monitoring-for-credentials`
-- `sec-performing-phishing-simulation-with-gophish`
-- `sec-performing-physical-intrusion-assessment`
-- `sec-performing-plc-firmware-security-analysis`
-- `sec-performing-post-quantum-cryptography-migration`
-- `sec-performing-power-grid-cybersecurity-assessment`
-- `sec-performing-privacy-impact-assessment`
-- `sec-performing-privilege-escalation-assessment`
-- `sec-performing-privilege-escalation-on-linux`
-- `sec-performing-privileged-account-access-review`
-- `sec-performing-privileged-account-discovery`
-- `sec-performing-purple-team-atomic-testing`
-- `sec-performing-purple-team-exercise`
-- `sec-performing-ransomware-response`
-- `sec-performing-ransomware-tabletop-exercise`
-- `sec-performing-red-team-phishing-with-gophish`
-- `sec-performing-red-team-with-covenant`
-- `sec-performing-s7comm-protocol-security-analysis`
-- `sec-performing-sca-dependency-scanning-with-snyk`
-- `sec-performing-scada-hmi-security-assessment`
-- `sec-performing-second-order-sql-injection`
-- `sec-performing-security-headers-audit`
-- `sec-performing-serverless-function-security-review`
-- `sec-performing-service-account-audit`
-- `sec-performing-service-account-credential-rotation`
-- `sec-performing-soap-web-service-security-testing`
-- `sec-performing-soc-tabletop-exercise`
-- `sec-performing-soc2-type2-audit-preparation`
-- `sec-performing-sqlite-database-forensics`
-- `sec-performing-ssl-certificate-lifecycle-management`
-- `sec-performing-ssl-stripping-attack`
-- `sec-performing-ssl-tls-inspection-configuration`
-- `sec-performing-ssl-tls-security-assessment`
-- `sec-performing-ssrf-vulnerability-exploitation`
-- `sec-performing-static-malware-analysis-with-pe-studio`
-- `sec-performing-steganography-detection`
-- `sec-performing-subdomain-enumeration-with-subfinder`
-- `sec-performing-supply-chain-attack-simulation`
-- `sec-performing-thick-client-application-penetration-test`
-- `sec-performing-threat-emulation-with-atomic-red-team`
-- `sec-performing-threat-hunting-with-elastic-siem`
-- `sec-performing-threat-hunting-with-yara-rules`
-- `sec-performing-threat-intelligence-sharing-with-misp`
-- `sec-performing-threat-landscape-assessment-for-sector`
-- `sec-performing-threat-modeling-with-owasp-threat-dragon`
-- `sec-performing-timeline-reconstruction-with-plaso`
-- `sec-performing-user-behavior-analytics`
-- `sec-performing-vlan-hopping-attack`
-- `sec-performing-vulnerability-scanning-with-nessus`
-- `sec-performing-web-application-firewall-bypass`
-- `sec-performing-web-application-penetration-test`
-- `sec-performing-web-application-scanning-with-nikto`
-- `sec-performing-web-application-vulnerability-triage`
-- `sec-performing-web-cache-deception-attack`
-- `sec-performing-web-cache-poisoning-attack`
-- `sec-performing-wifi-password-cracking-with-aircrack`
-- `sec-performing-windows-artifact-analysis-with-eric-zimmerman-tools`
-- `sec-performing-wireless-network-penetration-test`
-- `sec-performing-wireless-security-assessment-with-kismet`
-- `sec-performing-yara-rule-development-for-detection`
-
-### Implementing (167)
+### Implementing (129)
 
 - `sec-implementing-aes-encryption-for-data-at-rest`
-- `sec-implementing-alert-fatigue-reduction`
 - `sec-implementing-anti-phishing-training-program`
 - `sec-implementing-anti-ransomware-group-policy`
 - `sec-implementing-api-abuse-detection-with-rate-limiting`
@@ -204,15 +28,10 @@
 - `sec-implementing-api-security-testing-with-42crunch`
 - `sec-implementing-api-threat-protection-with-apigee`
 - `sec-implementing-application-whitelisting-with-applocker`
-- `sec-implementing-aqua-security-for-container-scanning`
-- `sec-implementing-attack-path-analysis-with-xm-cyber`
-- `sec-implementing-attack-surface-management`
-- `sec-implementing-aws-config-rules-for-compliance`
 - `sec-implementing-aws-iam-permission-boundaries`
 - `sec-implementing-aws-macie-for-data-classification`
 - `sec-implementing-aws-nitro-enclave-security`
 - `sec-implementing-aws-security-hub`
-- `sec-implementing-aws-security-hub-compliance`
 - `sec-implementing-azure-ad-privileged-identity-management`
 - `sec-implementing-azure-defender-for-cloud`
 - `sec-implementing-beyondcorp-zero-trust-access-model`
@@ -223,7 +42,6 @@
 - `sec-implementing-cloud-dlp-for-data-protection`
 - `sec-implementing-cloud-security-posture-management`
 - `sec-implementing-cloud-trail-log-analysis`
-- `sec-implementing-cloud-vulnerability-posture-management`
 - `sec-implementing-cloud-waf-rules`
 - `sec-implementing-cloud-workload-protection`
 - `sec-implementing-code-signing-for-artifacts`
@@ -236,9 +54,6 @@
 - `sec-implementing-ddos-mitigation-with-cloudflare`
 - `sec-implementing-deception-based-detection-with-canarytoken`
 - `sec-implementing-delinea-secret-server-for-pam`
-- `sec-implementing-device-posture-assessment-in-zero-trust`
-- `sec-implementing-devsecops-security-scanning`
-- `sec-implementing-diamond-model-analysis`
 - `sec-implementing-digital-signatures-with-ed25519`
 - `sec-implementing-disk-encryption-with-bitlocker`
 - `sec-implementing-dmarc-dkim-spf-email-security`
@@ -249,15 +64,11 @@
 - `sec-implementing-endpoint-detection-with-wazuh`
 - `sec-implementing-endpoint-dlp-controls`
 - `sec-implementing-envelope-encryption-with-aws-kms`
-- `sec-implementing-epss-score-for-vulnerability-prioritization`
 - `sec-implementing-file-integrity-monitoring-with-aide`
 - `sec-implementing-fuzz-testing-in-cicd-with-aflplusplus`
 - `sec-implementing-gcp-binary-authorization`
 - `sec-implementing-gcp-organization-policy-constraints`
 - `sec-implementing-gcp-vpc-firewall-rules`
-- `sec-implementing-gdpr-data-protection-controls`
-- `sec-implementing-gdpr-data-subject-access-request`
-- `sec-implementing-github-advanced-security-for-code-scanning`
 - `sec-implementing-google-workspace-admin-security`
 - `sec-implementing-google-workspace-phishing-protection`
 - `sec-implementing-google-workspace-sso-configuration`
@@ -266,13 +77,9 @@
 - `sec-implementing-honeypot-for-ransomware-detection`
 - `sec-implementing-honeytokens-for-breach-detection`
 - `sec-implementing-ics-firewall-with-tofino`
-- `sec-implementing-identity-governance-with-sailpoint`
 - `sec-implementing-identity-verification-for-zero-trust`
-- `sec-implementing-iec-62443-security-zones`
 - `sec-implementing-image-provenance-verification-with-cosign`
 - `sec-implementing-immutable-backup-with-restic`
-- `sec-implementing-infrastructure-as-code-security-scanning`
-- `sec-implementing-iso-27001-information-security-management`
 - `sec-implementing-just-in-time-access-provisioning`
 - `sec-implementing-jwt-signing-and-verification`
 - `sec-implementing-kubernetes-network-policy-with-calico`
@@ -286,7 +93,6 @@
 - `sec-implementing-mitre-attack-coverage-mapping`
 - `sec-implementing-mobile-application-management`
 - `sec-implementing-mtls-for-zero-trust-services`
-- `sec-implementing-nerc-cip-compliance-controls`
 - `sec-implementing-network-access-control`
 - `sec-implementing-network-access-control-with-cisco-ise`
 - `sec-implementing-network-deception-with-honeypots`
@@ -298,14 +104,10 @@
 - `sec-implementing-network-traffic-baselining`
 - `sec-implementing-next-generation-firewall-with-palo-alto`
 - `sec-implementing-opa-gatekeeper-for-policy-enforcement`
-- `sec-implementing-ot-incident-response-playbook`
 - `sec-implementing-ot-network-traffic-analysis-with-nozomi`
 - `sec-implementing-pam-for-database-access`
 - `sec-implementing-passwordless-auth-with-microsoft-entra`
 - `sec-implementing-passwordless-authentication-with-fido2`
-- `sec-implementing-patch-management-for-ot-systems`
-- `sec-implementing-patch-management-workflow`
-- `sec-implementing-pci-dss-compliance-controls`
 - `sec-implementing-pod-security-admission-controller`
 - `sec-implementing-policy-as-code-with-open-policy-agent`
 - `sec-implementing-privileged-access-management-with-cyberark`
@@ -315,39 +117,24 @@
 - `sec-implementing-purdue-model-network-segmentation`
 - `sec-implementing-ransomware-backup-strategy`
 - `sec-implementing-ransomware-kill-switch-detection`
-- `sec-implementing-rapid7-insightvm-for-scanning`
 - `sec-implementing-rbac-hardening-for-kubernetes`
 - `sec-implementing-rsa-key-pair-management`
 - `sec-implementing-runtime-application-self-protection`
 - `sec-implementing-runtime-security-with-tetragon`
 - `sec-implementing-saml-sso-with-okta`
 - `sec-implementing-scim-provisioning-with-okta`
-- `sec-implementing-secret-scanning-with-gitleaks`
 - `sec-implementing-secrets-management-with-vault`
-- `sec-implementing-secrets-scanning-in-ci-cd`
 - `sec-implementing-security-chaos-engineering`
-- `sec-implementing-security-information-sharing-with-stix2`
 - `sec-implementing-security-monitoring-with-datadog`
 - `sec-implementing-semgrep-for-custom-sast-rules`
-- `sec-implementing-siem-correlation-rules-for-apt`
-- `sec-implementing-siem-use-case-tuning`
-- `sec-implementing-siem-use-cases-for-detection`
 - `sec-implementing-sigstore-for-software-signing`
 - `sec-implementing-soar-automation-with-phantom`
-- `sec-implementing-soar-playbook-for-phishing`
-- `sec-implementing-soar-playbook-with-palo-alto-xsoar`
-- `sec-implementing-stix-taxii-feed-integration`
 - `sec-implementing-supply-chain-security-with-in-toto`
 - `sec-implementing-syslog-centralization-with-rsyslog`
-- `sec-implementing-taxii-server-with-opentaxii`
-- `sec-implementing-threat-intelligence-lifecycle-management`
 - `sec-implementing-threat-modeling-with-mitre-attack`
 - `sec-implementing-ticketing-system-for-incidents`
 - `sec-implementing-usb-device-control-policy`
 - `sec-implementing-velociraptor-for-ir-collection`
-- `sec-implementing-vulnerability-management-with-greenbone`
-- `sec-implementing-vulnerability-remediation-sla`
-- `sec-implementing-vulnerability-sla-breach-alerting`
 - `sec-implementing-web-application-logging-with-modsecurity`
 - `sec-implementing-zero-knowledge-proof-for-authentication`
 - `sec-implementing-zero-standing-privilege-with-cyberark`
@@ -358,6 +145,136 @@
 - `sec-implementing-zero-trust-network-access-with-zscaler`
 - `sec-implementing-zero-trust-with-beyondcorp`
 - `sec-implementing-zero-trust-with-hashicorp-boundary`
+
+### Performing (39)
+
+- `sec-performing-active-directory-bloodhound-analysis`
+- `sec-performing-active-directory-compromise-investigation`
+- `sec-performing-adversary-in-the-middle-phishing-detection`
+- `sec-performing-android-app-static-analysis-with-mobsf`
+- `sec-performing-api-inventory-and-discovery`
+- `sec-performing-api-rate-limiting-bypass`
+- `sec-performing-api-security-testing-with-postman`
+- `sec-performing-aws-account-enumeration-with-scout-suite`
+- `sec-performing-cloud-asset-inventory-with-cartography`
+- `sec-performing-cloud-incident-containment-procedures`
+- `sec-performing-cloud-native-threat-hunting-with-aws-detective`
+- `sec-performing-container-escape-detection`
+- `sec-performing-container-image-hardening`
+- `sec-performing-deception-technology-deployment`
+- `sec-performing-directory-traversal-testing`
+- `sec-performing-dmarc-policy-enforcement-rollout`
+- `sec-performing-dns-enumeration-and-zone-transfer`
+- `sec-performing-dns-tunneling-detection`
+- `sec-performing-dynamic-analysis-of-android-app`
+- `sec-performing-dynamic-analysis-with-any-run`
+- `sec-performing-hardware-security-module-integration`
+- `sec-performing-insider-threat-investigation`
+- `sec-performing-lateral-movement-detection`
+- `sec-performing-network-packet-capture-analysis`
+- `sec-performing-network-traffic-analysis-with-tshark`
+- `sec-performing-oauth-scope-minimization-review`
+- `sec-performing-plc-firmware-security-analysis`
+- `sec-performing-post-quantum-cryptography-migration`
+- `sec-performing-s7comm-protocol-security-analysis`
+- `sec-performing-serverless-function-security-review`
+- `sec-performing-service-account-credential-rotation`
+- `sec-performing-soap-web-service-security-testing`
+- `sec-performing-ssl-certificate-lifecycle-management`
+- `sec-performing-ssl-tls-inspection-configuration`
+- `sec-performing-subdomain-enumeration-with-subfinder`
+- `sec-performing-threat-hunting-with-yara-rules`
+- `sec-performing-threat-modeling-with-owasp-threat-dragon`
+- `sec-performing-windows-artifact-analysis-with-eric-zimmerman-tools`
+- `sec-performing-yara-rule-development-for-detection`
+
+### Configuring (18)
+
+- `sec-configuring-active-directory-tiered-model`
+- `sec-configuring-aws-verified-access-for-ztna`
+- `sec-configuring-certificate-authority-with-openssl`
+- `sec-configuring-host-based-intrusion-detection`
+- `sec-configuring-hsm-for-key-storage`
+- `sec-configuring-identity-aware-proxy-with-google-iap`
+- `sec-configuring-ldap-security-hardening`
+- `sec-configuring-microsegmentation-for-zero-trust`
+- `sec-configuring-multi-factor-authentication-with-duo`
+- `sec-configuring-network-segmentation-with-vlans`
+- `sec-configuring-oauth2-authorization-flow`
+- `sec-configuring-pfsense-firewall-rules`
+- `sec-configuring-snort-ids-for-intrusion-detection`
+- `sec-configuring-suricata-for-network-monitoring`
+- `sec-configuring-tls-1-3-for-secure-communications`
+- `sec-configuring-windows-defender-advanced-settings`
+- `sec-configuring-windows-event-logging-for-detection`
+- `sec-configuring-zscaler-private-access-for-ztna`
+
+### Securing (12)
+
+- `sec-securing-api-gateway-with-aws-waf`
+- `sec-securing-aws-iam-permissions`
+- `sec-securing-aws-lambda-execution-roles`
+- `sec-securing-azure-with-microsoft-defender`
+- `sec-securing-container-registry-images`
+- `sec-securing-container-registry-with-harbor`
+- `sec-securing-github-actions-workflows`
+- `sec-securing-helm-chart-deployments`
+- `sec-securing-historian-server-in-ot-environment`
+- `sec-securing-kubernetes-on-cloud`
+- `sec-securing-remote-access-to-ot-environment`
+- `sec-securing-serverless-functions`
+
+### Analyzing (11)
+
+- `sec-analyzing-active-directory-acl-abuse`
+- `sec-analyzing-cloud-storage-access-patterns`
+- `sec-analyzing-command-and-control-communication`
+- `sec-analyzing-cyber-kill-chain`
+- `sec-analyzing-email-headers-for-phishing-investigation`
+- `sec-analyzing-ethereum-smart-contract-vulnerabilities`
+- `sec-analyzing-network-packets-with-scapy`
+- `sec-analyzing-network-traffic-with-wireshark`
+- `sec-analyzing-persistence-mechanisms-in-linux`
+- `sec-analyzing-ransomware-leak-site-intelligence`
+- `sec-analyzing-sbom-for-supply-chain-vulnerabilities`
+
+### Deploying (9)
+
+- `sec-deploying-active-directory-honeytokens`
+- `sec-deploying-cloudflare-access-for-zero-trust`
+- `sec-deploying-decoy-files-for-ransomware-detection`
+- `sec-deploying-edr-agent-with-crowdstrike`
+- `sec-deploying-osquery-for-endpoint-monitoring`
+- `sec-deploying-palo-alto-prisma-access-zero-trust`
+- `sec-deploying-ransomware-canary-files`
+- `sec-deploying-software-defined-perimeter`
+- `sec-deploying-tailscale-for-zero-trust-vpn`
+
+### Building (5)
+
+- `sec-building-devsecops-pipeline-with-gitlab-ci`
+- `sec-building-identity-federation-with-saml-azure-ad`
+- `sec-building-patch-tuesday-response-process`
+- `sec-building-phishing-reporting-button-workflow`
+- `sec-building-role-mining-for-rbac-optimization`
+
+### Diğer (9)
+
+- `sec-hardening-docker-containers-for-production`
+- `sec-hardening-docker-daemon-configuration`
+- `sec-integrating-dast-with-owasp-zap-in-pipeline`
+- `sec-integrating-sast-into-github-actions-pipeline`
+- `sec-managing-cloud-identity-with-okta`
+- `sec-remediating-s3-bucket-misconfiguration`
+- `sec-testing-android-intents-for-vulnerabilities`
+- `sec-testing-ransomware-recovery-procedures`
+- `sec-validating-backup-integrity-for-recovery`
+
+---
+
+## mutfak-security-detection
+
+> Güvenlik tespit/avlama: detection, hunting, SIEM, SOC · **160 skill**
 
 ### Detecting (87)
 
@@ -449,122 +366,6 @@
 - `sec-detecting-typosquatting-packages-in-npm-pypi`
 - `sec-detecting-wmi-persistence`
 
-### Analyzing (76)
-
-- `sec-analyzing-active-directory-acl-abuse`
-- `sec-analyzing-android-malware-with-apktool`
-- `sec-analyzing-api-gateway-access-logs`
-- `sec-analyzing-apt-group-with-mitre-navigator`
-- `sec-analyzing-azure-activity-logs-for-threats`
-- `sec-analyzing-bootkit-and-rootkit-samples`
-- `sec-analyzing-browser-forensics-with-hindsight`
-- `sec-analyzing-campaign-attribution-evidence`
-- `sec-analyzing-certificate-transparency-for-phishing`
-- `sec-analyzing-cloud-storage-access-patterns`
-- `sec-analyzing-cobalt-strike-beacon-configuration`
-- `sec-analyzing-cobaltstrike-malleable-c2-profiles`
-- `sec-analyzing-command-and-control-communication`
-- `sec-analyzing-cyber-kill-chain`
-- `sec-analyzing-disk-image-with-autopsy`
-- `sec-analyzing-dns-logs-for-exfiltration`
-- `sec-analyzing-docker-container-forensics`
-- `sec-analyzing-email-headers-for-phishing-investigation`
-- `sec-analyzing-ethereum-smart-contract-vulnerabilities`
-- `sec-analyzing-golang-malware-with-ghidra`
-- `sec-analyzing-heap-spray-exploitation`
-- `sec-analyzing-indicators-of-compromise`
-- `sec-analyzing-ios-app-security-with-objection`
-- `sec-analyzing-kubernetes-audit-logs`
-- `sec-analyzing-linux-audit-logs-for-intrusion`
-- `sec-analyzing-linux-elf-malware`
-- `sec-analyzing-linux-kernel-rootkits`
-- `sec-analyzing-linux-system-artifacts`
-- `sec-analyzing-lnk-file-and-jump-list-artifacts`
-- `sec-analyzing-macro-malware-in-office-documents`
-- `sec-analyzing-malicious-pdf-with-peepdf`
-- `sec-analyzing-malicious-url-with-urlscan`
-- `sec-analyzing-malware-behavior-with-cuckoo-sandbox`
-- `sec-analyzing-malware-family-relationships-with-malpedia`
-- `sec-analyzing-malware-persistence-with-autoruns`
-- `sec-analyzing-malware-sandbox-evasion-techniques`
-- `sec-analyzing-memory-dumps-with-volatility`
-- `sec-analyzing-memory-forensics-with-lime-and-volatility`
-- `sec-analyzing-mft-for-deleted-file-recovery`
-- `sec-analyzing-network-covert-channels-in-malware`
-- `sec-analyzing-network-flow-data-with-netflow`
-- `sec-analyzing-network-packets-with-scapy`
-- `sec-analyzing-network-traffic-for-incidents`
-- `sec-analyzing-network-traffic-of-malware`
-- `sec-analyzing-network-traffic-with-wireshark`
-- `sec-analyzing-office365-audit-logs-for-compromise`
-- `sec-analyzing-outlook-pst-for-email-forensics`
-- `sec-analyzing-packed-malware-with-upx-unpacker`
-- `sec-analyzing-pdf-malware-with-pdfid`
-- `sec-analyzing-persistence-mechanisms-in-linux`
-- `sec-analyzing-powershell-empire-artifacts`
-- `sec-analyzing-powershell-script-block-logging`
-- `sec-analyzing-prefetch-files-for-execution-history`
-- `sec-analyzing-ransomware-encryption-mechanisms`
-- `sec-analyzing-ransomware-leak-site-intelligence`
-- `sec-analyzing-ransomware-network-indicators`
-- `sec-analyzing-ransomware-payment-wallets`
-- `sec-analyzing-sbom-for-supply-chain-vulnerabilities`
-- `sec-analyzing-security-logs-with-splunk`
-- `sec-analyzing-slack-space-and-file-system-artifacts`
-- `sec-analyzing-supply-chain-malware-artifacts`
-- `sec-analyzing-threat-actor-ttps-with-mitre-attack`
-- `sec-analyzing-threat-actor-ttps-with-mitre-navigator`
-- `sec-analyzing-threat-intelligence-feeds`
-- `sec-analyzing-threat-landscape-with-misp`
-- `sec-analyzing-tls-certificate-transparency-logs`
-- `sec-analyzing-typosquatting-domains-with-dnstwist`
-- `sec-analyzing-uefi-bootkit-persistence`
-- `sec-analyzing-usb-device-connection-history`
-- `sec-analyzing-web-server-logs-for-intrusion`
-- `sec-analyzing-windows-amcache-artifacts`
-- `sec-analyzing-windows-event-logs-in-splunk`
-- `sec-analyzing-windows-lnk-files-for-artifacts`
-- `sec-analyzing-windows-prefetch-with-python`
-- `sec-analyzing-windows-registry-for-artifacts`
-- `sec-analyzing-windows-shellbag-artifacts`
-
-### Building (34)
-
-- `sec-building-adversary-infrastructure-tracking-system`
-- `sec-building-attack-pattern-library-from-cti-reports`
-- `sec-building-automated-malware-submission-pipeline`
-- `sec-building-c2-infrastructure-with-sliver-framework`
-- `sec-building-cloud-siem-with-sentinel`
-- `sec-building-detection-rule-with-splunk-spl`
-- `sec-building-detection-rules-with-sigma`
-- `sec-building-devsecops-pipeline-with-gitlab-ci`
-- `sec-building-identity-federation-with-saml-azure-ad`
-- `sec-building-identity-governance-lifecycle-process`
-- `sec-building-incident-response-dashboard`
-- `sec-building-incident-response-playbook`
-- `sec-building-incident-timeline-with-timesketch`
-- `sec-building-ioc-defanging-and-sharing-pipeline`
-- `sec-building-ioc-enrichment-pipeline-with-opencti`
-- `sec-building-malware-incident-communication-template`
-- `sec-building-patch-tuesday-response-process`
-- `sec-building-phishing-reporting-button-workflow`
-- `sec-building-ransomware-playbook-with-cisa-framework`
-- `sec-building-red-team-c2-infrastructure-with-havoc`
-- `sec-building-role-mining-for-rbac-optimization`
-- `sec-building-soc-escalation-matrix`
-- `sec-building-soc-metrics-and-kpi-tracking`
-- `sec-building-soc-playbook-for-ransomware`
-- `sec-building-threat-actor-profile-from-osint`
-- `sec-building-threat-feed-aggregation-with-misp`
-- `sec-building-threat-hunt-hypothesis-framework`
-- `sec-building-threat-intelligence-enrichment-in-splunk`
-- `sec-building-threat-intelligence-feed-integration`
-- `sec-building-threat-intelligence-platform`
-- `sec-building-vulnerability-aging-and-sla-tracking`
-- `sec-building-vulnerability-dashboard-with-defectdojo`
-- `sec-building-vulnerability-exception-tracking-system`
-- `sec-building-vulnerability-scanning-workflow`
-
 ### Hunting (34)
 
 - `sec-hunting-advanced-persistent-threats`
@@ -602,6 +403,123 @@
 - `sec-hunting-for-unusual-service-installations`
 - `sec-hunting-for-webshell-activity`
 
+### Analyzing (12)
+
+- `sec-analyzing-api-gateway-access-logs`
+- `sec-analyzing-azure-activity-logs-for-threats`
+- `sec-analyzing-dns-logs-for-exfiltration`
+- `sec-analyzing-kubernetes-audit-logs`
+- `sec-analyzing-linux-audit-logs-for-intrusion`
+- `sec-analyzing-network-flow-data-with-netflow`
+- `sec-analyzing-network-traffic-for-incidents`
+- `sec-analyzing-office365-audit-logs-for-compromise`
+- `sec-analyzing-powershell-script-block-logging`
+- `sec-analyzing-security-logs-with-splunk`
+- `sec-analyzing-web-server-logs-for-intrusion`
+- `sec-analyzing-windows-event-logs-in-splunk`
+
+### Performing (8)
+
+- `sec-performing-alert-triage-with-elastic-siem`
+- `sec-performing-false-positive-reduction-in-siem`
+- `sec-performing-log-source-onboarding-in-siem`
+- `sec-performing-network-traffic-analysis-with-zeek`
+- `sec-performing-soc-tabletop-exercise`
+- `sec-performing-soc2-type2-audit-preparation`
+- `sec-performing-threat-hunting-with-elastic-siem`
+- `sec-performing-user-behavior-analytics`
+
+### Building (6)
+
+- `sec-building-cloud-siem-with-sentinel`
+- `sec-building-detection-rule-with-splunk-spl`
+- `sec-building-detection-rules-with-sigma`
+- `sec-building-soc-escalation-matrix`
+- `sec-building-soc-metrics-and-kpi-tracking`
+- `sec-building-soc-playbook-for-ransomware`
+
+### Implementing (4)
+
+- `sec-implementing-alert-fatigue-reduction`
+- `sec-implementing-siem-correlation-rules-for-apt`
+- `sec-implementing-siem-use-case-tuning`
+- `sec-implementing-siem-use-cases-for-detection`
+
+### Triaging (4)
+
+- `sec-triaging-security-alerts-in-splunk`
+- `sec-triaging-security-incident`
+- `sec-triaging-security-incident-with-ir-playbook`
+- `sec-triaging-vulnerabilities-with-ssvc-framework`
+
+### Diğer (5)
+
+- `sec-conducting-social-engineering-penetration-test`
+- `sec-conducting-social-engineering-pretext-call`
+- `sec-correlating-security-events-in-qradar`
+- `sec-correlating-threat-campaigns`
+- `sec-monitoring-scada-modbus-traffic-anomalies`
+
+---
+
+## mutfak-security-offensive
+
+> Saldırgan güvenlik: pentest, red-team, exploit, attack · **127 skill**
+
+### Performing (51)
+
+- `sec-performing-active-directory-forest-trust-attack`
+- `sec-performing-active-directory-penetration-test`
+- `sec-performing-api-fuzzing-with-restler`
+- `sec-performing-arp-spoofing-attack-simulation`
+- `sec-performing-aws-privilege-escalation-assessment`
+- `sec-performing-bandwidth-throttling-attack-simulation`
+- `sec-performing-binary-exploitation-analysis`
+- `sec-performing-blind-ssrf-exploitation`
+- `sec-performing-bluetooth-security-assessment`
+- `sec-performing-clickjacking-attack-test`
+- `sec-performing-cloud-penetration-testing-with-pacu`
+- `sec-performing-content-security-policy-bypass`
+- `sec-performing-credential-access-with-lazagne`
+- `sec-performing-csrf-attack-simulation`
+- `sec-performing-external-network-penetration-test`
+- `sec-performing-fuzzing-with-aflplusplus`
+- `sec-performing-gcp-penetration-testing-with-gcpbucketbrute`
+- `sec-performing-graphql-depth-limit-attack`
+- `sec-performing-graphql-introspection-attack`
+- `sec-performing-hash-cracking-with-hashcat`
+- `sec-performing-http-parameter-pollution-attack`
+- `sec-performing-initial-access-with-evilginx3`
+- `sec-performing-iot-security-assessment`
+- `sec-performing-jwt-none-algorithm-attack`
+- `sec-performing-kerberoasting-attack`
+- `sec-performing-kubernetes-penetration-testing`
+- `sec-performing-lateral-movement-with-wmiexec`
+- `sec-performing-mobile-app-certificate-pinning-bypass`
+- `sec-performing-packet-injection-attack`
+- `sec-performing-phishing-simulation-with-gophish`
+- `sec-performing-physical-intrusion-assessment`
+- `sec-performing-privilege-escalation-assessment`
+- `sec-performing-privilege-escalation-on-linux`
+- `sec-performing-purple-team-atomic-testing`
+- `sec-performing-purple-team-exercise`
+- `sec-performing-red-team-phishing-with-gophish`
+- `sec-performing-red-team-with-covenant`
+- `sec-performing-second-order-sql-injection`
+- `sec-performing-ssl-stripping-attack`
+- `sec-performing-ssrf-vulnerability-exploitation`
+- `sec-performing-supply-chain-attack-simulation`
+- `sec-performing-thick-client-application-penetration-test`
+- `sec-performing-threat-emulation-with-atomic-red-team`
+- `sec-performing-vlan-hopping-attack`
+- `sec-performing-web-application-firewall-bypass`
+- `sec-performing-web-application-penetration-test`
+- `sec-performing-web-cache-deception-attack`
+- `sec-performing-web-cache-poisoning-attack`
+- `sec-performing-wifi-password-cracking-with-aircrack`
+- `sec-performing-wireless-network-penetration-test`
+- `sec-performing-wireless-security-assessment-with-kismet`
+
 ### Exploiting (32)
 
 - `sec-exploiting-active-directory-certificate-services-esc1`
@@ -637,9 +555,8 @@
 - `sec-exploiting-websocket-vulnerabilities`
 - `sec-exploiting-zerologon-vulnerability-cve-2020-1472`
 
-### Testing (22)
+### Testing (20)
 
-- `sec-testing-android-intents-for-vulnerabilities`
 - `sec-testing-api-authentication-weaknesses`
 - `sec-testing-api-for-broken-object-level-authorization`
 - `sec-testing-api-for-mass-assignment-vulnerability`
@@ -659,89 +576,119 @@
 - `sec-testing-jwt-token-security`
 - `sec-testing-mobile-api-authentication`
 - `sec-testing-oauth2-implementation-flaws`
-- `sec-testing-ransomware-recovery-procedures`
 - `sec-testing-websocket-api-security`
 
-### Conducting (20)
+### Conducting (15)
 
 - `sec-conducting-api-security-testing`
 - `sec-conducting-cloud-incident-response`
 - `sec-conducting-cloud-penetration-testing`
 - `sec-conducting-domain-persistence-with-dcsync`
-- `sec-conducting-external-reconnaissance-with-osint`
 - `sec-conducting-full-scope-red-team-engagement`
 - `sec-conducting-internal-network-penetration-test`
 - `sec-conducting-internal-reconnaissance-with-bloodhound-ce`
-- `sec-conducting-malware-incident-response`
 - `sec-conducting-man-in-the-middle-attack-simulation`
-- `sec-conducting-memory-forensics-with-volatility`
 - `sec-conducting-mobile-app-penetration-test`
 - `sec-conducting-network-penetration-test`
 - `sec-conducting-pass-the-ticket-attack`
 - `sec-conducting-phishing-incident-response`
 - `sec-conducting-post-incident-lessons-learned`
-- `sec-conducting-social-engineering-penetration-test`
-- `sec-conducting-social-engineering-pretext-call`
 - `sec-conducting-spearphishing-simulation-campaign`
 - `sec-conducting-wireless-network-penetration-test`
 
-### Configuring (18)
+### Executing (4)
 
-- `sec-configuring-active-directory-tiered-model`
-- `sec-configuring-aws-verified-access-for-ztna`
-- `sec-configuring-certificate-authority-with-openssl`
-- `sec-configuring-host-based-intrusion-detection`
-- `sec-configuring-hsm-for-key-storage`
-- `sec-configuring-identity-aware-proxy-with-google-iap`
-- `sec-configuring-ldap-security-hardening`
-- `sec-configuring-microsegmentation-for-zero-trust`
-- `sec-configuring-multi-factor-authentication-with-duo`
-- `sec-configuring-network-segmentation-with-vlans`
-- `sec-configuring-oauth2-authorization-flow`
-- `sec-configuring-pfsense-firewall-rules`
-- `sec-configuring-snort-ids-for-intrusion-detection`
-- `sec-configuring-suricata-for-network-monitoring`
-- `sec-configuring-tls-1-3-for-secure-communications`
-- `sec-configuring-windows-defender-advanced-settings`
-- `sec-configuring-windows-event-logging-for-detection`
-- `sec-configuring-zscaler-private-access-for-ztna`
+- `sec-executing-active-directory-attack-simulation`
+- `sec-executing-phishing-simulation-campaign`
+- `sec-executing-red-team-engagement-planning`
+- `sec-executing-red-team-exercise`
 
-### Securing (12)
+### Diğer (5)
 
-- `sec-securing-api-gateway-with-aws-waf`
-- `sec-securing-aws-iam-permissions`
-- `sec-securing-aws-lambda-execution-roles`
-- `sec-securing-azure-with-microsoft-defender`
-- `sec-securing-container-registry-images`
-- `sec-securing-container-registry-with-harbor`
-- `sec-securing-github-actions-workflows`
-- `sec-securing-helm-chart-deployments`
-- `sec-securing-historian-server-in-ot-environment`
-- `sec-securing-kubernetes-on-cloud`
-- `sec-securing-remote-access-to-ot-environment`
-- `sec-securing-serverless-functions`
+- `sec-analyzing-heap-spray-exploitation`
+- `sec-building-c2-infrastructure-with-sliver-framework`
+- `sec-building-red-team-c2-infrastructure-with-havoc`
+- `sec-bypassing-authentication-with-forced-browsing`
+- `sec-intercepting-mobile-traffic-with-burpsuite`
 
-### Deploying (9)
+---
 
-- `sec-deploying-active-directory-honeytokens`
-- `sec-deploying-cloudflare-access-for-zero-trust`
-- `sec-deploying-decoy-files-for-ransomware-detection`
-- `sec-deploying-edr-agent-with-crowdstrike`
-- `sec-deploying-osquery-for-endpoint-monitoring`
-- `sec-deploying-palo-alto-prisma-access-zero-trust`
-- `sec-deploying-ransomware-canary-files`
-- `sec-deploying-software-defined-perimeter`
-- `sec-deploying-tailscale-for-zero-trust-vpn`
+## mutfak-security-forensics
 
-### Auditing (7)
+> Adli bilişim/DFIR: malware RE, memory/disk forensics, IOC · **94 skill**
 
-- `sec-auditing-aws-s3-bucket-permissions`
-- `sec-auditing-azure-active-directory-configuration`
-- `sec-auditing-cloud-with-cis-benchmarks`
-- `sec-auditing-gcp-iam-permissions`
-- `sec-auditing-kubernetes-cluster-rbac`
-- `sec-auditing-terraform-infrastructure-for-security`
-- `sec-auditing-tls-certificate-transparency-logs`
+### Analyzing (42)
+
+- `sec-analyzing-android-malware-with-apktool`
+- `sec-analyzing-bootkit-and-rootkit-samples`
+- `sec-analyzing-browser-forensics-with-hindsight`
+- `sec-analyzing-cobalt-strike-beacon-configuration`
+- `sec-analyzing-cobaltstrike-malleable-c2-profiles`
+- `sec-analyzing-disk-image-with-autopsy`
+- `sec-analyzing-docker-container-forensics`
+- `sec-analyzing-golang-malware-with-ghidra`
+- `sec-analyzing-ios-app-security-with-objection`
+- `sec-analyzing-linux-elf-malware`
+- `sec-analyzing-linux-kernel-rootkits`
+- `sec-analyzing-linux-system-artifacts`
+- `sec-analyzing-lnk-file-and-jump-list-artifacts`
+- `sec-analyzing-macro-malware-in-office-documents`
+- `sec-analyzing-malicious-pdf-with-peepdf`
+- `sec-analyzing-malicious-url-with-urlscan`
+- `sec-analyzing-malware-behavior-with-cuckoo-sandbox`
+- `sec-analyzing-malware-family-relationships-with-malpedia`
+- `sec-analyzing-malware-persistence-with-autoruns`
+- `sec-analyzing-malware-sandbox-evasion-techniques`
+- `sec-analyzing-memory-dumps-with-volatility`
+- `sec-analyzing-memory-forensics-with-lime-and-volatility`
+- `sec-analyzing-mft-for-deleted-file-recovery`
+- `sec-analyzing-network-covert-channels-in-malware`
+- `sec-analyzing-network-traffic-of-malware`
+- `sec-analyzing-outlook-pst-for-email-forensics`
+- `sec-analyzing-packed-malware-with-upx-unpacker`
+- `sec-analyzing-pdf-malware-with-pdfid`
+- `sec-analyzing-powershell-empire-artifacts`
+- `sec-analyzing-prefetch-files-for-execution-history`
+- `sec-analyzing-ransomware-encryption-mechanisms`
+- `sec-analyzing-ransomware-network-indicators`
+- `sec-analyzing-ransomware-payment-wallets`
+- `sec-analyzing-slack-space-and-file-system-artifacts`
+- `sec-analyzing-supply-chain-malware-artifacts`
+- `sec-analyzing-uefi-bootkit-persistence`
+- `sec-analyzing-usb-device-connection-history`
+- `sec-analyzing-windows-amcache-artifacts`
+- `sec-analyzing-windows-lnk-files-for-artifacts`
+- `sec-analyzing-windows-prefetch-with-python`
+- `sec-analyzing-windows-registry-for-artifacts`
+- `sec-analyzing-windows-shellbag-artifacts`
+
+### Performing (25)
+
+- `sec-performing-automated-malware-analysis-with-cape`
+- `sec-performing-cloud-forensics-investigation`
+- `sec-performing-cloud-forensics-with-aws-cloudtrail`
+- `sec-performing-cloud-log-forensics-with-athena`
+- `sec-performing-cloud-native-forensics-with-falco`
+- `sec-performing-cloud-storage-forensic-acquisition`
+- `sec-performing-disk-forensics-investigation`
+- `sec-performing-endpoint-forensics-investigation`
+- `sec-performing-file-carving-with-foremost`
+- `sec-performing-firmware-extraction-with-binwalk`
+- `sec-performing-firmware-malware-analysis`
+- `sec-performing-linux-log-forensics-investigation`
+- `sec-performing-log-analysis-for-forensic-investigation`
+- `sec-performing-malware-hash-enrichment-with-virustotal`
+- `sec-performing-malware-ioc-extraction`
+- `sec-performing-malware-persistence-investigation`
+- `sec-performing-malware-triage-with-yara`
+- `sec-performing-memory-forensics-with-volatility3`
+- `sec-performing-memory-forensics-with-volatility3-plugins`
+- `sec-performing-mobile-device-forensics-with-cellebrite`
+- `sec-performing-network-forensics-with-wireshark`
+- `sec-performing-sqlite-database-forensics`
+- `sec-performing-static-malware-analysis-with-pe-studio`
+- `sec-performing-steganography-detection`
+- `sec-performing-timeline-reconstruction-with-plaso`
 
 ### Extracting (6)
 
@@ -761,6 +708,130 @@
 - `sec-reverse-engineering-ransomware-encryption-routine`
 - `sec-reverse-engineering-rust-malware`
 
+### Building (3)
+
+- `sec-building-automated-malware-submission-pipeline`
+- `sec-building-incident-timeline-with-timesketch`
+- `sec-building-malware-incident-communication-template`
+
+### Investigating (3)
+
+- `sec-investigating-insider-threat-indicators`
+- `sec-investigating-phishing-email-incident`
+- `sec-investigating-ransomware-attack-artifacts`
+
+### Diğer (9)
+
+- `sec-acquiring-disk-image-with-dd-and-dcfldd`
+- `sec-collecting-volatile-evidence-from-compromised-host`
+- `sec-conducting-malware-incident-response`
+- `sec-conducting-memory-forensics-with-volatility`
+- `sec-deobfuscating-javascript-malware`
+- `sec-deobfuscating-powershell-obfuscated-malware`
+- `sec-eradicating-malware-from-infected-systems`
+- `sec-recovering-deleted-files-with-photorec`
+- `sec-recovering-from-ransomware-attack`
+
+---
+
+## mutfak-security-grc
+
+> GRC: audit, vuln-mgmt, compliance, incident-response · **92 skill**
+
+### Performing (38)
+
+- `sec-performing-access-recertification-with-saviynt`
+- `sec-performing-access-review-and-certification`
+- `sec-performing-active-directory-vulnerability-assessment`
+- `sec-performing-agentless-vulnerability-scanning`
+- `sec-performing-asset-criticality-scoring-for-vulns`
+- `sec-performing-authenticated-scan-with-openvas`
+- `sec-performing-authenticated-vulnerability-scan`
+- `sec-performing-container-security-scanning-with-trivy`
+- `sec-performing-cryptographic-audit-of-application`
+- `sec-performing-cve-prioritization-with-kev-catalog`
+- `sec-performing-docker-bench-security-assessment`
+- `sec-performing-endpoint-vulnerability-remediation`
+- `sec-performing-entitlement-review-with-sailpoint-iiq`
+- `sec-performing-gcp-security-assessment-with-forseti`
+- `sec-performing-graphql-security-assessment`
+- `sec-performing-ics-asset-discovery-with-claroty`
+- `sec-performing-ios-app-security-assessment`
+- `sec-performing-kubernetes-cis-benchmark-with-kube-bench`
+- `sec-performing-kubernetes-etcd-security-assessment`
+- `sec-performing-nist-csf-maturity-assessment`
+- `sec-performing-oil-gas-cybersecurity-assessment`
+- `sec-performing-ot-network-security-assessment`
+- `sec-performing-ot-vulnerability-assessment-with-claroty`
+- `sec-performing-ot-vulnerability-scanning-safely`
+- `sec-performing-power-grid-cybersecurity-assessment`
+- `sec-performing-privacy-impact-assessment`
+- `sec-performing-privileged-account-access-review`
+- `sec-performing-privileged-account-discovery`
+- `sec-performing-ransomware-response`
+- `sec-performing-ransomware-tabletop-exercise`
+- `sec-performing-sca-dependency-scanning-with-snyk`
+- `sec-performing-scada-hmi-security-assessment`
+- `sec-performing-security-headers-audit`
+- `sec-performing-service-account-audit`
+- `sec-performing-ssl-tls-security-assessment`
+- `sec-performing-vulnerability-scanning-with-nessus`
+- `sec-performing-web-application-scanning-with-nikto`
+- `sec-performing-web-application-vulnerability-triage`
+
+### Implementing (29)
+
+- `sec-implementing-aqua-security-for-container-scanning`
+- `sec-implementing-attack-path-analysis-with-xm-cyber`
+- `sec-implementing-attack-surface-management`
+- `sec-implementing-aws-config-rules-for-compliance`
+- `sec-implementing-aws-security-hub-compliance`
+- `sec-implementing-cloud-vulnerability-posture-management`
+- `sec-implementing-device-posture-assessment-in-zero-trust`
+- `sec-implementing-devsecops-security-scanning`
+- `sec-implementing-epss-score-for-vulnerability-prioritization`
+- `sec-implementing-gdpr-data-protection-controls`
+- `sec-implementing-gdpr-data-subject-access-request`
+- `sec-implementing-github-advanced-security-for-code-scanning`
+- `sec-implementing-identity-governance-with-sailpoint`
+- `sec-implementing-iec-62443-security-zones`
+- `sec-implementing-infrastructure-as-code-security-scanning`
+- `sec-implementing-iso-27001-information-security-management`
+- `sec-implementing-nerc-cip-compliance-controls`
+- `sec-implementing-ot-incident-response-playbook`
+- `sec-implementing-patch-management-for-ot-systems`
+- `sec-implementing-patch-management-workflow`
+- `sec-implementing-pci-dss-compliance-controls`
+- `sec-implementing-rapid7-insightvm-for-scanning`
+- `sec-implementing-secret-scanning-with-gitleaks`
+- `sec-implementing-secrets-scanning-in-ci-cd`
+- `sec-implementing-soar-playbook-for-phishing`
+- `sec-implementing-soar-playbook-with-palo-alto-xsoar`
+- `sec-implementing-vulnerability-management-with-greenbone`
+- `sec-implementing-vulnerability-remediation-sla`
+- `sec-implementing-vulnerability-sla-breach-alerting`
+
+### Building (8)
+
+- `sec-building-identity-governance-lifecycle-process`
+- `sec-building-incident-response-dashboard`
+- `sec-building-incident-response-playbook`
+- `sec-building-ransomware-playbook-with-cisa-framework`
+- `sec-building-vulnerability-aging-and-sla-tracking`
+- `sec-building-vulnerability-dashboard-with-defectdojo`
+- `sec-building-vulnerability-exception-tracking-system`
+- `sec-building-vulnerability-scanning-workflow`
+
+### Auditing (7)
+
+- `sec-auditing-aws-s3-bucket-permissions`
+- `sec-auditing-azure-active-directory-configuration`
+- `sec-auditing-cloud-with-cis-benchmarks`
+- `sec-auditing-gcp-iam-permissions`
+- `sec-auditing-kubernetes-cluster-rbac`
+- `sec-auditing-terraform-infrastructure-for-security`
+- `sec-auditing-tls-certificate-transparency-logs`
+
 ### Scanning (6)
 
 - `sec-scanning-container-images-with-grype`
@@ -770,69 +841,85 @@
 - `sec-scanning-kubernetes-manifests-with-kubesec`
 - `sec-scanning-network-with-nmap-advanced`
 
-### Collecting (4)
+### Diğer (4)
+
+- `sec-containing-active-breach`
+- `sec-hardening-linux-endpoint-with-cis-benchmark`
+- `sec-hardening-windows-endpoint-with-cis-benchmark`
+- `sec-prioritizing-vulnerabilities-with-cvss-scoring`
+
+---
+
+## mutfak-security-intel
+
+> Tehdit istihbaratı (CTI): threat intel, OSINT, STIX/TAXII · **49 skill**
+
+### Performing (11)
+
+- `sec-performing-ai-driven-osint-correlation`
+- `sec-performing-brand-monitoring-for-impersonation`
+- `sec-performing-dark-web-monitoring-for-threats`
+- `sec-performing-indicator-lifecycle-management`
+- `sec-performing-ioc-enrichment-automation`
+- `sec-performing-ip-reputation-analysis-with-shodan`
+- `sec-performing-open-source-intelligence-gathering`
+- `sec-performing-osint-with-spiderfoot`
+- `sec-performing-paste-site-monitoring-for-credentials`
+- `sec-performing-threat-intelligence-sharing-with-misp`
+- `sec-performing-threat-landscape-assessment-for-sector`
+
+### Analyzing (10)
+
+- `sec-analyzing-apt-group-with-mitre-navigator`
+- `sec-analyzing-campaign-attribution-evidence`
+- `sec-analyzing-certificate-transparency-for-phishing`
+- `sec-analyzing-indicators-of-compromise`
+- `sec-analyzing-threat-actor-ttps-with-mitre-attack`
+- `sec-analyzing-threat-actor-ttps-with-mitre-navigator`
+- `sec-analyzing-threat-intelligence-feeds`
+- `sec-analyzing-threat-landscape-with-misp`
+- `sec-analyzing-tls-certificate-transparency-logs`
+- `sec-analyzing-typosquatting-domains-with-dnstwist`
+
+### Building (10)
+
+- `sec-building-adversary-infrastructure-tracking-system`
+- `sec-building-attack-pattern-library-from-cti-reports`
+- `sec-building-ioc-defanging-and-sharing-pipeline`
+- `sec-building-ioc-enrichment-pipeline-with-opencti`
+- `sec-building-threat-actor-profile-from-osint`
+- `sec-building-threat-feed-aggregation-with-misp`
+- `sec-building-threat-hunt-hypothesis-framework`
+- `sec-building-threat-intelligence-enrichment-in-splunk`
+- `sec-building-threat-intelligence-feed-integration`
+- `sec-building-threat-intelligence-platform`
+
+### Implementing (5)
+
+- `sec-implementing-diamond-model-analysis`
+- `sec-implementing-security-information-sharing-with-stix2`
+- `sec-implementing-stix-taxii-feed-integration`
+- `sec-implementing-taxii-server-with-opentaxii`
+- `sec-implementing-threat-intelligence-lifecycle-management`
+
+### Collecting (3)
 
 - `sec-collecting-indicators-of-compromise`
 - `sec-collecting-open-source-intelligence`
 - `sec-collecting-threat-intelligence-with-misp`
-- `sec-collecting-volatile-evidence-from-compromised-host`
 
-### Executing (4)
+### Diğer (10)
 
-- `sec-executing-active-directory-attack-simulation`
-- `sec-executing-phishing-simulation-campaign`
-- `sec-executing-red-team-engagement-planning`
-- `sec-executing-red-team-exercise`
-
-### Hardening (4)
-
-- `sec-hardening-docker-containers-for-production`
-- `sec-hardening-docker-daemon-configuration`
-- `sec-hardening-linux-endpoint-with-cis-benchmark`
-- `sec-hardening-windows-endpoint-with-cis-benchmark`
-
-### Triaging (4)
-
-- `sec-triaging-security-alerts-in-splunk`
-- `sec-triaging-security-incident`
-- `sec-triaging-security-incident-with-ir-playbook`
-- `sec-triaging-vulnerabilities-with-ssvc-framework`
-
-### Investigating (3)
-
-- `sec-investigating-insider-threat-indicators`
-- `sec-investigating-phishing-email-incident`
-- `sec-investigating-ransomware-attack-artifacts`
-
-### Diğer (27)
-
-- `sec-acquiring-disk-image-with-dd-and-dcfldd`
 - `sec-automating-ioc-enrichment`
-- `sec-bypassing-authentication-with-forced-browsing`
-- `sec-containing-active-breach`
-- `sec-correlating-security-events-in-qradar`
-- `sec-correlating-threat-campaigns`
-- `sec-deobfuscating-javascript-malware`
-- `sec-deobfuscating-powershell-obfuscated-malware`
-- `sec-eradicating-malware-from-infected-systems`
+- `sec-conducting-external-reconnaissance-with-osint`
 - `sec-evaluating-threat-intelligence-platforms`
 - `sec-generating-threat-intelligence-reports`
-- `sec-integrating-dast-with-owasp-zap-in-pipeline`
-- `sec-integrating-sast-into-github-actions-pipeline`
-- `sec-intercepting-mobile-traffic-with-burpsuite`
-- `sec-managing-cloud-identity-with-okta`
 - `sec-managing-intelligence-lifecycle`
 - `sec-mapping-mitre-attack-techniques`
 - `sec-monitoring-darkweb-sources`
-- `sec-monitoring-scada-modbus-traffic-anomalies`
-- `sec-prioritizing-vulnerabilities-with-cvss-scoring`
 - `sec-processing-stix-taxii-feeds`
 - `sec-profiling-threat-actor-groups`
-- `sec-recovering-deleted-files-with-photorec`
-- `sec-recovering-from-ransomware-attack`
-- `sec-remediating-s3-bucket-misconfiguration`
 - `sec-tracking-threat-actor-infrastructure`
-- `sec-validating-backup-integrity-for-recovery`
 
 ---
 

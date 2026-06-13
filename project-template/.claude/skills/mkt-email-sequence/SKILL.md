@@ -1,6 +1,6 @@
 ---
 name: "email-sequence"
-description: "Kullanıcı bir e-posta dizisi, damla kampanyası, otomatik e-posta akışı veya yaşam döngüsü e-posta programı oluşturmak veya optimize etmek istediğinde kullan. Ayrıca kullanıcı \"email sequence\", \"drip campaign\", \"nurture sequence\", \"onboarding emails\", \"welcome sequence\", \"re-engagement emails\", \"email automation\" veya \"lifecycle emails\" dediğinde de kullan. Uygulama içi ekleme için onboarding-cro'ya bakın."
+description: "E-posta dizisi, drip kampanyası, karşılama/yeniden etkileşim/yaşam döngüsü e-posta akışları oluştur veya optimize et."
 license: MIT
 metadata:
   version: 1.0.0

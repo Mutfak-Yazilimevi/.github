@@ -1,6 +1,6 @@
 ---
 name: analyzing-security-logs-with-splunk
-description: "Günlük ilişkilendirmesi, zaman çizelgesi yeniden yapılandırması ve anomali tespiti aracılığıyla güvenlik olaylarını araştırmak için Splunk Enterprise Security ve SPL'yi (Search Processing Language) kullanır. Windows olay günlükleri, güvenlik duvarı günlükleri, proxy günlükleri ve kimlik doğrulama verisi analizini kapsar. Splunk araştırması, SPL sorguları, SIEM günlük analizi, güvenlik olayı korelasyonu veya günlük tabanlı olay araştırmasını içeren istekler için etkinleşir."
+description: "Splunk Enterprise Security ve SPL ile Windows, güvenlik duvarı, proxy ve kimlik doğrulama günlüklerini ilişkilendirerek güvenlik olaylarını araştırır. SIEM log analizi veya SPL sorguları için kullan."
 domain: cybersecurity
 subdomain: incident-response
 tags:

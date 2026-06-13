@@ -1,6 +1,6 @@
 ---
 name: detecting-typosquatting-packages-in-npm-pypi
-description: "npm ve PyPI paket kayıt defterlerindeki typosquatting saldırılarını; Levenshtein mesafesi ve diğer dizi metriklerini kullanarak paket adı benzerliğini analiz ederek, köklü paketleri taklit eden yakın zamanda oluşturulmuş paketleri belirlemek için yayın tarihi buluşsal yöntemlerini inceleyerek ve şüpheli paketlerin meşru hedeflerine kıyasla orantısız düşük kullanıma sahip olduğu indirme sayısı anomalilerini işaretleyerek tespit eder. Analist; otomatik karşılaştırma için paket meta verilerini toplamak amacıyla PyPI JSON API'sini ve npm kayıt defteri API'sini sorgular. Paket typosquatting tespiti, bağımlılık karışıklığı analizi, kötü amaçlı paket tanımlama veya paket kayıt defterlerinde yazılım tedarik zinciri tehdit avı içeren isteklerde etkinleşir."
+description: "npm ve PyPI'de Levenshtein mesafesi ve indirme anomalileri ile typosquatting paketlerini tespit eder; yazılım tedarik zinciri tehdit avı için kullan."
 domain: cybersecurity
 subdomain: supply-chain-security
 tags:

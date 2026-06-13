@@ -1,6 +1,6 @@
 ---
 name: building-soc-metrics-and-kpi-tracking
-description: "SIEM verilerini kullanarak Ortalama Tespit Süresi (MTTD), Ortalama Yanıt Süresi (MTTR), uyarı kalite oranları, analist üretkenliği ve tespit kapsamını ölçen SOC performans metrikleri ve KPI izleme gösterge panelleri oluşturur. SOC liderliğinin operasyonel görünürlüğe, sürekli iyileştirme takibine veya güvenlik operasyonlarının etkinliğine ilişkin yönetici düzeyinde raporlamaya ihtiyaç duyduğunda kullan."
+description: "SOC performans metrikleri (MTTD, MTTR, uyarı kalitesi, analist üretkenliği) ve KPI izleme panoları oluşturur; yönetici düzeyinde raporlama sağlar."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

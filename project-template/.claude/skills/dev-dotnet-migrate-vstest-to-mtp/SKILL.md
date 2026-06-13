@@ -1,6 +1,6 @@
 ---
 name: migrate-vstest-to-mtp
-description: ".NET test projelerini VSTest'ten Microsoft.Testing.Platform'a (MTP) geçirir. Kullanıcı \"MTP'ye geçir\", \"VSTest'ten geç\", \"Microsoft.Testing.Platform etkinleştir\", \"MTP runner kullan\" dediğinde ya da EnableMSTestRunner, EnableNUnitRunner veya UseMicrosoftTestingPlatformRunner'dan bahsettiğinde kullan. KULLANIM: MTP ile VSTest arasındaki davranışsal farklar (çıkış kodu 8, sıfır test bulundu, --ignore-exit-code, TESTINGPLATFORM_EXITCODE_IGNORE), Directory.Build.props'ta MTP özelliklerini merkezileştirirken test projelerine OutputType=Exe koşullaması. MSTest, NUnit, xUnit.net v2 (YTest.MTP.XUnit2 aracılığıyla) ve xUnit.net v3'ü (native MTP) destekler. Runner etkinleştirme, CLI argüman çevirisi, xUnit.net v3 filtre geçişi (--filter-class, --filter-trait, --filter-query), Directory.Build.props ve global.json yapılandırması, CI/CD pipeline güncellemeleri ve MTP uzantı paketlerini kapsar. KULLANMA: test framework'leri arasında geçiş (MSTest/xUnit/NUnit), xUnit.net v2'den v3'e API geçişi, MSTest sürüm yükseltmeleri, TFM yükseltmeleri veya UWP/WinUI test projeleri."
+description: ".NET test projelerini VSTest'ten Microsoft.Testing.Platform (MTP) geçişi yapar; MSTest, NUnit, xUnit.net v2/v3 destekler, CI/CD ve Directory.Build.props yapılandırması dahil."
 license: MIT
 ---
 

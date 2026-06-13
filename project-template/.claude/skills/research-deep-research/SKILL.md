@@ -1,6 +1,6 @@
 ---
 name: deep-research
-description: "Evrensel derin araştırma ajan ekibi. Her konuda titiz akademik araştırma için 13 ajanlı hat. 7 mod: tam araştırma, hızlı özet, makale incelemesi, literatür incelemesi, doğrulama, Sokratik kılavuzlu araştırma diyalogu ve isteğe bağlı meta-analizle sistematik inceleme. Araştırma sorusu formülasyonu, Sokratik mentorluk, metodoloji tasarımı, sistematik literatür araması, kaynak doğrulama, çapraz kaynak sentezi, yanlılık riski değerlendirmesi, meta-analiz, APA 7.0 rapor derleme, editoryal inceleme, şeytanın avukatı zorlukları, etik inceleme ve araştırma sonrası literatür izlemeyi kapsar."
+description: "13 ajanlı derin araştırma hattı; tam araştırma, literatür incelemesi, meta-analiz, Sokratik diyalog ve APA 7.0 raporu dahil 7 mod."
 metadata:
   version: "2.9.4"
   last_updated: "2026-05-18"

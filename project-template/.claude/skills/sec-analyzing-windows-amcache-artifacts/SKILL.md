@@ -1,6 +1,6 @@
 ---
 name: analyzing-windows-amcache-artifacts
-description: "Dijital adli soruşturmalar için program yürütme, uygulama kurulumu ve sürücü yükleme kanıtlarını çıkarmak amacıyla Windows Amcache.hve kayıt defteri kovanını ayrıştırır ve analiz eder. Artefakt çıkarımı için Eric Zimmerman'ın AmcacheParser ve Timeline Explorer araçlarını, tehdit istihbaratıyla SHA-1 hash korelasyonunu ve zaman çizelgesi yeniden yapılandırmasını kullanır. Amcache adli bilişimi, program yürütme kanıtı, Windows artefakt analizi veya uygulama uyumluluk önbelleği soruşturmasına yönelik isteklerde etkinleşir."
+description: "Adli soruşturma için Windows Amcache.hve kayıt defteri kovanını ayrıştırarak program yürütme ve kurulum kanıtlarını çıkarır."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

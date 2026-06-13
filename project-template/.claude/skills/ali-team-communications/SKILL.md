@@ -1,6 +1,6 @@
 ---
 name: team-communications
-description: "Dahili şirket iletişimleri yaz — 3P güncellemeleri (İlerleme/Planlar/Sorunlar), şirket geneli bültenler, SSS özetleri, olay raporları, liderlik güncellemeleri, durum raporları, proje güncellemeleri ve genel iç iletişimler. Kullanıcı dahili kitlelere yönelik bir şey taslak oluşturmasını, düzenlemesini veya biçimlendirmesini istediğinde bu beceriyi kullan. \"3P\", \"haftalık güncelleme\", \"bülten\", \"SSS\", \"dahili iletişim\", \"durum raporu\", \"şirket güncellemesi\", \"ekip güncellemesi\", \"olay raporu\" gibi anahtar kelimelerde veya liderliğe, ekip arkadaşlarına ya da şirkete yönelik çalışma özetleme isteklerinde tetikle."
+description: "Dahili şirket iletişimleri yazar: 3P güncellemeleri, bültenler, olay raporları, liderlik güncellemeleri ve durum raporları."
 ---
 
 # Internal Comms

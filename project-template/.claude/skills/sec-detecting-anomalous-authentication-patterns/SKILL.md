@@ -1,6 +1,6 @@
 ---
 name: detecting-anomalous-authentication-patterns
-description: "İmkânsız seyahat, kimlik bilgisi doldurma, kaba kuvvet, parola püskürtme ve ele geçirilmiş hesap davranışlarını kimlik doğrulama günlükleri genelinde belirlemek için UEBA analitiği, istatistiksel temel çizgiler ve makine öğrenmesi modelleri kullanarak anormal kimlik doğrulama modellerini tespit eder. Kimlik doğrulama anomalisi tespiti, oturum açma davranışı analizi, UEBA uygulaması veya şüpheli oturum açma soruşturmasına yönelik isteklerde etkinleşir."
+description: "UEBA ve istatistiksel analiz ile imkânsız seyahat, credential stuffing, brute force ve parola püskürtme gibi kimlik doğrulama anomalilerini tespit eder."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

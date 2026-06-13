@@ -1,6 +1,6 @@
 ---
 name: implementing-network-segmentation-for-ot
-description: "Bu skill, VLAN'lar, endüstriyel güvenlik duvarları, veri diyotları ve yazılım tanımlı ağ kullanarak Operasyonel Teknoloji ortamlarında ağ segmentasyonu uygulamayı kapsar. Purdue Model tabanlı segmentasyon stratejisini, düz ağ mimarisinden operasyonları aksatmadan segmentli mimarilere geçişi, endüstriyel protokol derin paket inceleme özellikli OT bilinçli güvenlik duvarlarını yapılandırmayı ve trafik analizi yoluyla segmentasyon etkinliğini doğrulamayı ele alır."
+description: "OT ortamlarında VLAN, endüstriyel güvenlik duvarı, veri diyotları ve Purdue Model tabanlı ağ segmentasyonu uygula; OT bilinçli DPI konfigürasyonu dahil."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

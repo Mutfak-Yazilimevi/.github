@@ -1,6 +1,6 @@
 ---
 name: "seo-audit"
-description: "Kullanıcı sitesindeki SEO sorunlarını denetlemek, incelemek veya teşhis etmek istediğinde kullan. Ayrıca kullanıcı \"SEO audit\", \"technical SEO\", \"neden sıralama alamıyorum\", \"SEO sorunları\", \"on-page SEO\", \"meta tag incelemesi\" veya \"SEO sağlık kontrolü\" dediğinde de kullan. Anahtar kelime hedeflemek için ölçekte sayfa oluşturma amacıyla programmatic-seo'ya, yapılandırılmış veri eklemek için schema-markup'a bakın."
+description: "Sitedeki SEO sorunlarını denetle, incele ve teşhis et; \"SEO audit\", \"technical SEO\", \"on-page SEO\", \"meta tag incelemesi\" ifadelerinde tetikle."
 license: MIT
 metadata:
   version: 1.0.0

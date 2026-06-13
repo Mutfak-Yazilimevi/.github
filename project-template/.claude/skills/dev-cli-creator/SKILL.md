@@ -1,6 +1,6 @@
 ---
 name: cli-creator
-description: "API belgeleri, bir OpenAPI spesifikasyonu, mevcut curl örnekleri, bir SDK, bir web uygulaması, bir yönetici aracı veya yerel bir script'ten Codex için birleştirilebilir bir CLI oluştur. Kullanıcının Codex'in herhangi bir depodan çalıştırılabilen, birleştirilebilir okuma/yazma komutlarını ortaya çıkaran, kararlı JSON döndüren, kimlik doğrulamayı yöneten ve bir eşlik eden beceriyle eşleşen bir komut satırı aracı oluşturmasını istediğinde kullan."
+description: "API belgeleri, OpenAPI spec veya SDK'dan Codex için birleştirilebilir CLI oluştur."
 ---
 
 # CLI Creator

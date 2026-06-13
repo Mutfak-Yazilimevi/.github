@@ -1,6 +1,6 @@
 ---
 name: define-goal
-description: "Çalışmaya başlamadan önce kullanıcının somut, ölçülebilir bir hedef tanımlamasına yardımcı olur; özellikle goal aracını kullanmak, hedef oluşturmak, bir amaç belirlemek, başarı kriterlerini netleştirmek veya belirsiz bir niyeti sayısal bir çıktıya dönüştürmek istediklerinde kullan. Bu skill yalnızca hedef oluşturma ve hedef iyileştirme içindir; kalıcı anlık görüntüleri, karar günlüklerini veya uzun süreli yürütme eserlerini yönetmez."
+description: "Çalışmaya başlamadan önce somut, ölçülebilir hedef tanımlamak için kullan; belirsiz niyeti sayısal çıktıya dönüştürür, sadece hedef oluşturma içindir."
 ---
 
 # Define Goal

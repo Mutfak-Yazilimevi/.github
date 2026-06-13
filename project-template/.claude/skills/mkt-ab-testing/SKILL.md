@@ -1,6 +1,6 @@
 ---
 name: ab-testing
-description: "Kullanıcı bir A/B testi veya deney planlamak, tasarlamak veya uygulamak ya da bir büyüme deney programı oluşturmak istediğinde kullan. Ayrıca kullanıcı \"A/B testi,\" \"bölünmüş test,\" \"deney,\" \"bu değişikliği test et,\" \"varyant metin,\" \"çok değişkenli test,\" \"hipotez,\" \"bunu test etmeli miyim,\" \"hangi sürüm daha iyi,\" \"iki sürümü karşılaştır,\" \"istatistiksel anlamlılık,\" \"bu testi ne kadar çalıştırmalıyım,\" \"büyüme deneyleri,\" \"deney hızı,\" \"deney birikimi,\" \"ICE puanı,\" \"deney programı\" veya \"deney oyun kitabı\" gibi terimler belirttiğinde kullan. Birisi iki yaklaşımı karşılaştırıp hangisinin daha iyi performans gösterdiğini ölçmek istediğinde ya da sistematik bir deney pratiği oluşturmak istediğinde kullan. Takip implementasyonu için bkz. analytics. Sayfa düzeyinde dönüşüm optimizasyonu için bkz. cro."
+description: "A/B testi, çok değişkenli test veya büyüme deney programı planlamak/tasarlamak için kullan; istatistiksel anlamlılık ve ICE puanlama dahil."
 metadata:
   version: 2.0.0
 ---

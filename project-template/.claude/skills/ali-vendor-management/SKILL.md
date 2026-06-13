@@ -1,6 +1,6 @@
 ---
 name: vendor-management
-description: "Üçüncü taraf SaaS / satıcı ilişkilerini inceleme, puanlama veya denetleme — satıcı puan kartı çalıştırma, SLA uyumunu izleme, üçüncü taraf riskini sınıflandırma, birinci kademe satıcı incelemesi hazırlama veya SaaS portföyünü denetleme — amacıyla kullan. \"vendor SLA\", \"vendor scorecard\", \"third-party risk\", \"TPRM\", \"vendor review\", \"SaaS audit\", \"supplier performance\", \"vendor health check\", \"renewal review\" tetiklemelerinde devreye girer."
+description: "Üçüncü taraf SaaS/satıcı puan kartı, SLA uyumluluk izleme, TPRM risk sınıflandırma ve SaaS portföy denetimi için kullan."
 context: fork
 version: 2.8.0
 author: claude-code-skills

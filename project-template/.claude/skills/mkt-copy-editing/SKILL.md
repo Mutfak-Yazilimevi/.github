@@ -1,6 +1,6 @@
 ---
 name: copy-editing
-description: "Kullanıcı mevcut pazarlama metnini düzenlemek, gözden geçirmek veya iyileştirmek ya da eski içeriği yenilemek istediğinde kullan. Ayrıca kullanıcı 'metni düzenle', 'kopyamı gözden geçir', 'kopya geri bildirimi', 'yazım denetimi', 'cilala', 'bunu daha iyi yap', 'kopya taraması', 'sıkılaştır', 'bu garip okunuyor', 'bu metni temizle', 'fazla uzun', 'mesajı keskinleştir', 'bu içeriği yenile', 'bu sayfayı güncelle', 'bu içerik eski' veya 'içerik denetimi' dediğinde kullan. Kullanıcının elinde metin varsa ve sıfırdan yeniden yazmak yerine iyileştirmek ya da yenilemek istiyorsa kullan. Yeni metin yazmak için copywriting'e bak."
+description: "Mevcut pazarlama metnini düzenlemek, iyileştirmek veya yenilemek istediğinde kullan; sıfırdan yazma için copywriting'e bak."
 metadata:
   version: 2.0.0
 ---

@@ -1,6 +1,6 @@
 ---
 name: implementing-ebpf-security-monitoring
-description: "Gerçek zamanlı işlem yürütme takibi, ağ bağlantısı gözlemlenebilirliği, dosya erişim denetimi ve çalışma zamanı zorunluluğu için Cilium Tetragon kullanarak eBPF tabanlı güvenlik izlemesi uygular. kprobe/tracepoint kancalarıyla TracingPolicy CRD oluşturmayı, matchArgs/matchBinaries seçicileriyle çekirdek içi filtrelemeyi, JSON olay dışa aktarımını ve SIEM ardışık düzenleriyle entegrasyonu kapsar. Linux ana bilgisayarları veya Kubernetes kümeleri için çekirdek düzeyinde çalışma zamanı güvenlik gözlemlenebilirliği oluştururken kullan."
+description: "Cilium Tetragon ile eBPF tabanlı güvenlik izlemesi kurar: kprobe/tracepoint, TracingPolicy CRD, JSON olay dışa aktarımı ve SIEM entegrasyonu yapar."
 domain: cybersecurity
 subdomain: security-operations
 tags:

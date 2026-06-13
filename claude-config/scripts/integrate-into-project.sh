@@ -35,19 +35,21 @@ DRY_RUN=0
 profile_plugins() {
   case "$1" in
     minimal)       echo "core dev" ;;
-    dotnet-api)    echo "core dev dotnet security" ;;
+    dotnet-api)    echo "core dev dotnet security-defense" ;;
     web-frontend)  echo "core dev frontend design" ;;
-    fullstack)     echo "core dev dotnet frontend design security" ;;
+    fullstack)     echo "core dev dotnet frontend design security-defense" ;;
     mobile)        echo "core dev frontend" ;;
     marketing)     echo "core marketing pm design" ;;
     product)       echo "core pm consulting" ;;
-    security)      echo "core dev security" ;;
+    blueteam)      echo "core security-detection security-forensics security-intel security-grc" ;;
+    redteam)       echo "core dev security-offensive" ;;
+    seceng)        echo "core dev security-defense security-grc" ;;
     research)      echo "core research diagrams" ;;
     spec)          echo "core dev spec-workflow" ;;
     *) return 1 ;;
   esac
 }
-PROFILES="minimal dotnet-api web-frontend fullstack mobile marketing product security research spec"
+PROFILES="minimal dotnet-api web-frontend fullstack mobile marketing product blueteam redteam seceng research spec"
 
 usage() { sed -n '2,30p' "$0"; echo; echo "Profiller: $PROFILES"; }
 

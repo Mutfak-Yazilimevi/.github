@@ -1,9 +1,0 @@
-{
-  "name": "mutfak-security",
-  "version": "1.1.0",
-  "description": "Savunma/blue-team güvenlik skill'leri (forensics, detection, hardening) + security-auditor.",
-  "author": {
-    "name": "Mutfak Yazılımevi",
-    "url": "https://www.mutfakyazilimevi.com"
-  }
-}

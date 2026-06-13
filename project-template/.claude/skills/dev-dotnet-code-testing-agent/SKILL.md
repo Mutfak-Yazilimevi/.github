@@ -1,6 +1,6 @@
 ---
 name: code-testing-agent
-description: "Herhangi bir programlama dili için yeni birim testleri üretir ve yazar — .NET test projeleri, pytest süitleri, Vitest/Jest süitleri, Go test dosyaları ve JUnit süitleri oluşturur; test oluşturmanın bir parçası olarak kapsam araçlarını (coverlet, pytest-cov, @vitest/coverage-v8) yapılandırır. Test oluştur, pytest testleri üret, Vitest testleri üret, birim testleri yaz, test ekle, kapsamı artır, kapsamlı testler oluştur veya uygulama, servis, kütüphane, REST API, blueprint ya da paket için yeni test projesi veya süiti oluştur — servisler, repository'ler, rotalar ve modüller genelinde proje çapında, çok dosyalı test oluşturma dahil — istendiğinde kullanılır. C#/.NET, Python (pytest, Flask/Django), TypeScript/JavaScript (Vitest, Jest, Mocha), Go, Rust, Java (JUnit) destekler. Testlerin derlenmesini ve geçmesini sağlamak için araştırma, planlama ve uygulama pipeline'ı çalıştırır. BUNUN İÇİN KULLANMA: mevcut testleri çalıştırma (run-tests kullan); mevcut kapsam raporlarını analiz etme (coverage-analysis veya crap-score kullan); MSTest modernizasyonu (writing-mstest-tests kullan)."
+description: ".NET, Python (pytest), TypeScript (Vitest/Jest), Go ve Java (JUnit) için yeni birim testleri üretir; kapsam araçlarını yapılandırır ve testlerin derlenmesini sağlar."
 license: MIT
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: ship-gate
-description: "Bir kod tabanını güvenlik, veritabanı, dağıtım, kod kalitesi, AI/LLM, bağımlılık, frontend ve gözlemlenebilirlik sorunları için tarama yapan üretime geçiş öncesi denetim. Dağıtım komutlarını yakalar ve kritik öğeler geçene kadar engeller. Stack'ten bağımsız. \"run ship gate\", \"am I ready to ship\", \"pre-launch audit\", \"can I deploy\", \"push to production\", \"go live checklist\", \"preflight check\" için kullan. CI/CD kurulumu veya altyapı sağlama için değil."
+description: "Üretime geçiş öncesi denetim: güvenlik, veritabanı, bağımlılık, AI/LLM, frontend ve gözlemlenebilirlik sorunlarını tarar; kritik öğeler geçene kadar dağıtımı engeller."
 license: MIT
 metadata:
   author: Rajaraman Arumugam

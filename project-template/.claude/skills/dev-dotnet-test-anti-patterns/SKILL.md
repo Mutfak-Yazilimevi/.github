@@ -1,6 +1,6 @@
 ---
 name: test-anti-patterns
-description: "Herhangi bir dildeki mevcut test kodunu anti-pattern'lar ve kalite sorunları için denetler — somut kod düzeyinde düzeltmelerle önem sıralamalı rapor üretir (Kritik / Uyarı / Bilgi). Çok dilli: .NET (MSTest/xUnit/NUnit/TUnit), Python (pytest/unittest), TS/JS (Jest/Vitest/Mocha/node:test), Java (JUnit/TestNG), Go, Ruby (RSpec/Minitest), Rust, Swift, Kotlin (JUnit/Kotest), PowerShell (Pester), C++ (GoogleTest/Catch2). Mevcut testlerde sorun bulmak, denetlemek veya sıralamak istendiğinde kullan. KULLANMA: yeni test yazma; test çalıştırma; framework geçişi."
+description: "Mevcut test kodunu anti-pattern ve kalite sorunları için denetle; .NET, Python, TS/JS, Java, Go, Ruby, Rust, Swift, Kotlin, PowerShell, C++ destekler."
 license: MIT
 ---
 

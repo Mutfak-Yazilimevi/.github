@@ -1,6 +1,6 @@
 ---
 name: mcp-csharp-create
-description: "C# SDK ve .NET proje şablonlarını kullanarak MCP sunucuları oluştur. İskelet kurma, araç/prompt/kaynak implementasyonu ve stdio ile HTTP için taşıma yapılandırmasını kapsar. KULLANIM ALANLARI: yeni MCP sunucu projeleri oluşturma, dotnet new mcpserver ile iskelet kurma, MCP araçları/promptları/kaynakları ekleme, stdio ile HTTP taşıma seçimi, Program.cs'te MCP hosting yapılandırma, MapMcp ile ASP.NET Core MCP endpoint'leri kurma. KULLANMA: mevcut sunucuları hata ayıklama veya çalıştırma (mcp-csharp-debug kullan), test yazma (mcp-csharp-test kullan), yayımlama veya dağıtma (mcp-csharp-publish kullan), MCP istemcileri oluşturma, .NET dışı MCP sunucuları."
+description: "C# SDK ile MCP sunucusu oluştur: iskelet kurma, araç/prompt/kaynak implementasyonu ve stdio/HTTP taşıma yapılandırması."
 license: MIT
 ---
 

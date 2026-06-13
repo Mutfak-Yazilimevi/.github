@@ -1,6 +1,6 @@
 ---
 name: business-investment-advisor
-description: "İş yatırım analizi ve sermaye tahsis danışmanı. Ekipman, gayrimenkul, yeni bir iş, işe alım, teknoloji veya herhangi bir sermaye harcamasına yatırım yapılıp yapılmayacağını değerlendirirken kullan. Ayrıca ROI hesaplamaları, IRR, NPV, geri ödeme süresi, yapma-satın alma kararları, kiralama-satın alma analizi, tedarikçi değerlendirmesi veya maksimum getiri için sınırlı bütçeyi nereye tahsis edeceğine karar verme için de kullan."
+description: "Ekipman/gayrimenkul/işe alım/teknoloji yatırım kararları için ROI, IRR, NPV, geri ödeme süresi, kiralama-satın alma ve bütçe tahsis analizi."
 ---
 
 # Business Investment Advisor

@@ -1,6 +1,6 @@
 ---
 name: "culture-architect"
-description: "Şirket kültürünü duvar posterleri değil operasyonel davranış olarak inşa eder, ölçer ve geliştirir. Misyon/vizyon/değerler çalıştayları, değerlerden davranışlara çeviri, kültür kodu oluşturma, kültür sağlığı değerlendirmesi ve aşamaya göre kültürel ritüelleri kapsar. Şirket değerleri oluştururken, kültür sağlığını değerlendirirken, kültürel ritüeller tasarlarken, kültür kodları oluştururken, kültür çatışmalarını yönetirken veya kullanıcı culture, values, culture debt, founder culture ya da culture code ifadelerinden bahsettiğinde kullan."
+description: "Şirket kültürü inşa etmek için kullan: misyon/vizyon/değerler çalıştayı, kültür kodu, kültür sağlığı değerlendirmesi ve kültürel ritüel tasarımı yapar."
 license: MIT
 metadata:
   version: 1.0.0

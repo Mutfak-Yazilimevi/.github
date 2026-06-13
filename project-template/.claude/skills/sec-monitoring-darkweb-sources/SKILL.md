@@ -1,6 +1,6 @@
 ---
 name: monitoring-darkweb-sources
-description: "Kurumsal varlıkların sızdırılmış kimlik bilgilerinin, tehdit edilen saldırıların ve tehdit aktörü iletişimlerinin söz konusu olduğuna dair erken uyarı istihbaratı sağlamak için dark web forumlarını, pazaryerlerini, paste sitelerini ve fidye yazılımı sızıntı sitelerini izler. Dark web izleme kapsamı oluştururken, belirli veri ihlali iddialarını araştırırken veya olay soruşturmalarını dark web bağlamıyla zenginleştirirken kullan. Dark web OSINT, sızıntı sitesi izleme, kimlik bilgisi ifşası, Recorded Future dark web veya Tor gizli servis istihbaratı içeren isteklerde etkinleşir."
+description: "Sızdırılmış kimlik bilgileri ve tehdit aktörü iletişimleri için dark web forum, pazar ve Telegram kanallarını izler."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

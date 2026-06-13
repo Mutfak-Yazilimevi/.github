@@ -1,6 +1,6 @@
 ---
 name: analyzing-network-traffic-for-incidents
-description: "Komuta ve kontrol iletişimleri, yanal hareket, veri sızdırma ve istismar girişimleri dahil güvenlik olayları sırasında düşman etkinliğini belirlemek için ağ trafiği yakalamalarını ve akış verilerini analiz eder. Wireshark, Zeek ve NetFlow analiz tekniklerini kullanır. Ağ trafiği analizi, paket yakalama araştırması, PCAP analizi, ağ adli bilişimi, C2 trafik tespiti veya sızdırma tespitini içeren istekler için etkinleşir."
+description: "Güvenlik olaylarında Wireshark/Zeek/NetFlow ile PCAP analizi; C2 iletişimi, lateral movement, veri sızdırma ve istismar girişimi tespiti için kullan."
 domain: cybersecurity
 subdomain: incident-response
 tags:

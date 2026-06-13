@@ -1,6 +1,6 @@
 ---
 name: hardening-linux-endpoint-with-cis-benchmark
-description: "Saldırı yüzeyini azaltmak, güvenlik taban çizgilerini uygulamak ve uyumluluk gereksinimlerini karşılamak amacıyla Ubuntu, RHEL ve CentOS için CIS Benchmark önerilerini kullanarak Linux endpoint'leri güçlendirir. Yeni Linux sunucuları dağıtırken, denetim bulgularını gidererken veya Linux altyapısı için güvenlik taban çizgileri oluştururken kullanın. Linux güçlendirme, Linux için CIS benchmark'ları, sunucu güvenlik taban çizgileri veya Linux yapılandırma uyumluluğu içeren isteklerde etkinleşir."
+description: "Ubuntu, RHEL ve CentOS için CIS Benchmark Level 1/2 kontrolleriyle Linux endpoint'leri güçlendir ve uyumluluk taban çizgisini doğrula."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: implementing-infrastructure-as-code-security-scanning
-description: "Bu skill, Checkov, tfsec ve KICS gibi araçlar kullanarak Infrastructure as Code (IaC) şablonları için otomatik güvenlik taraması uygulamayı kapsar. Dağıtım öncesinde Terraform, CloudFormation, Kubernetes manifest ve Helm chart'larındaki yanlış yapılandırmaları tespit etmeyi, ilke tabanlı yönetişim oluşturmayı ve güvensiz bulut kaynağı sağlamayı önlemek için IaC taramasını CI/CD ardışık düzenlerine entegre etmeyi ele alır."
+description: "Checkov, tfsec, KICS ile Terraform, CloudFormation ve Kubernetes manifest'lerini tarayarak IaC güvenlik açıklarını CI/CD pipeline'ına entegre eder."
 domain: cybersecurity
 subdomain: devsecops
 tags:

@@ -1,6 +1,6 @@
 ---
 name: conducting-wireless-network-penetration-test
-description: "Zayıf şifreleme protokollerini, esir portal atlamalarını, evil twin saldırılarını, WPA2/WPA3 el sıkışma yakalamayı, sahte erişim noktası tespitini ve istemci taraflı saldırıları test ederek WiFi altyapısının güvenliğini değerlendirmek için yetkili kablosuz ağ penetrasyon testleri gerçekleştirir. Test uzmanı kablosuz kimlik doğrulamayı, ağ segmentasyonunu ve kablosuz saldırı tespit sistemlerinin etkinliğini değerlendirir. Kablosuz pentest, WiFi güvenliği değerlendirmesi, WPA2/WPA3 testi veya sahte erişim noktası tespitine yönelik isteklerde etkinleşir."
+description: "WPA2/WPA3 el sıkışma, evil twin, sahte AP ve esir portal atlamaları dahil yetkili kablosuz ağ penetrasyon testi gerçekleştir."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

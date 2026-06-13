@@ -1,6 +1,6 @@
 ---
 name: "sales-engineer"
-description: "RFP/RFI yanıtlarını kapsam boşlukları için analiz eder, rekabetçi özellik karşılaştırma matrisleri oluşturur ve satış öncesi mühendislik için kavram kanıtı (POC) katılımları planlar. RFP, teklif veya öneri isteklerine yanıt verirken; ürün özelliklerini rakiplerle karşılaştırırken; müşteri POC veya satış demosunu planlayarken veya puanlarken; teknik teklif hazırlarken ya da kazanma/kaybetme rakip analizi yaparken kullan."
+description: "RFP/RFI boşluk analizi, rekabetçi özellik matrisi, POC planlama, teknik teklif hazırlama ve kazanma/kaybetme rakip analizi için kullan."
 ---
 
 # Sales Engineer Skill

@@ -1,6 +1,6 @@
 ---
 name: performing-iot-security-assessment
-description: "Donanım arayüzleri, firmware, ağ iletişimleri, bulut API'leri ve eşlik eden mobil uygulamaları test ederek IoT cihazlarının ve ekosistemlerinin kapsamlı güvenlik değerlendirmelerini gerçekleştirir. Test uzmanı, IoT yığınının tüm katmanlarındaki güvenlik açıklarını belirlemek için firmware çıkarma ve analizi, UART ve JTAG aracılığıyla donanım hata ayıklama, ağ protokol analizi ve çalışma zamanı istismarı kullanır. IoT güvenlik testi, gömülü cihaz değerlendirmesi, firmware güvenlik analizi veya akıllı cihaz sızma testi içeren isteklerde etkinleşir."
+description: "IoT cihazlarında firmware çıkarma, UART/JTAG hata ayıklama, ağ protokol analizi ve bulut API/mobil uygulama güvenlik değerlendirmesi yap."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

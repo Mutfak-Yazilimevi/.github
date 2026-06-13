@@ -1,6 +1,6 @@
 ---
 name: configuring-windows-event-logging-for-detection
-description: "Tehdit tespiti ve adli soruşturma için yüksek doğruluklu güvenlik olayları oluşturmak amacıyla gelişmiş denetim politikalarıyla Windows Olay Günlüklemeyi yapılandırır. Oturum açma olayları, süreç oluşturma, ayrıcalık kullanımı ve nesne erişimi için denetim politikalarını SIEM tespit kurallarına beslemek amacıyla etkinleştirirken kullan. Windows denetim politikası, olay günlüğü yapılandırması, güvenlik günlükleme veya tespit odaklı günlüklemeye yönelik isteklerde etkinleşir."
+description: "Tehdit tespiti için gelişmiş denetim politikalarıyla Windows Event Log yapılandırır: oturum açma, süreç oluşturma, PowerShell ve Sysmon."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: "financial-analyst"
-description: "Stratejik karar alma için finansal oran analizi, DCF değerleme, bütçe sapma analizi ve yuvarlanan tahmin oluşturur. Finansal tabloları analiz ederken, değerleme modelleri inşa ederken, bütçe sapmalarını değerlendirirken veya finansal projeksiyonlar ve tahminler oluştururken kullan. Kullanıcılar finansal modelleme, nakit akışı analizi, şirket değerlemesi, finansal projeksiyonlar veya elektronik tablo analizi gibi konulardan bahsettiğinde de uygulanabilir."
+description: "Finansal oran analizi, DCF değerleme, bütçe sapma analizi ve yuvarlanan tahmin oluşturma; finansal modelleme ve nakit akışı analizi için kullan."
 ---
 
 # Financial Analyst Skill

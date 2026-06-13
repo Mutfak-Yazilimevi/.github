@@ -1,6 +1,6 @@
 ---
 name: technology-selection
-description: "ML.NET, Microsoft.Extensions.AI (MEAI), Microsoft Agent Framework (MAF), GitHub Copilot SDK, ONNX Runtime ve OllamaSharp kullanarak .NET 8+ uygulamalarında yapay zeka ve ML özelliklerinin teknoloji seçimi ve uygulanmasına rehberlik eder. Klasik ML'den modern LLM orkestrasına ve yerel çıkarıma kadar geniş bir yelpazeyı kapsar. .NET projesine sınıflandırma, regresyon, kümeleme, anomali tespiti, öneri, LLM entegrasyonu (metin üretimi, özetleme, akıl yürütme), vektör arama ile RAG hattı, araç çağrısıyla agentic iş akışları, Copilot uzantıları veya ONNX Runtime aracılığıyla özel model çıkarımı eklerken kullan. .NET Framework hedefleyen projelerde (.NET 8+ gerektirir), görev tamamen ML/AI bileşeni olmayan veri mühendisliği veya ETL ise ya da proje özel derin öğrenme eğitim döngüsüne ihtiyaç duyuyorsa KULLANMA (bunun için Python ve PyTorch/TensorFlow kullan, ardından .NET çıkarımı için ONNX'e dışa aktar)."
+description: ".NET 8+ projesine ML.NET, MEAI, MAF, GitHub Copilot SDK, ONNX Runtime veya OllamaSharp ile yapay zeka/ML özelliği eklerken teknoloji seçimi yapar."
 license: MIT
 ---
 

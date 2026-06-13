@@ -1,6 +1,6 @@
 ---
 name: site-architecture
-description: "Kullanıcı web sitesinin sayfa hiyerarşisini, navigasyonunu, URL yapısını veya iç bağlantısını planlamak, haritalamak veya yeniden yapılandırmak istediğinde kullan. Ayrıca kullanıcı \"site haritası,\" \"görsel site haritası,\" \"site yapısı,\" \"sayfa hiyerarşisi,\" \"bilgi mimarisi,\" \"IA,\" \"navigasyon tasarımı,\" \"URL yapısı,\" \"ekmek kırıntıları,\" \"iç bağlantı stratejisi,\" \"web sitesi planlaması,\" \"hangi sayfaları oluşturmalıyım,\" \"siteyi nasıl organize etmeliyim\" veya \"site navigasyonu\" gibi terimler belirttiğinde kullan. Birisi bir web sitesinin hangi sayfalara sahip olması gerektiğini ve bunların nasıl bağlandığını planlıyorken kullan. XML site haritaları için değil (bu teknik SEO — bkz. seo-audit). SEO denetimleri için bkz. seo-audit. Yapılandırılmış veri için bkz. schema."
+description: "Web sitesi sayfa hiyerarşisi, navigasyon, URL yapısı veya bilgi mimarisi (IA) planlamak/yeniden yapılandırmak istediğinde kullan; XML site haritaları için değil."
 metadata:
   version: 2.0.0
 ---
