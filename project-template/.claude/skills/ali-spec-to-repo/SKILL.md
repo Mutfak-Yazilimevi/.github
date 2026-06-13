@@ -1,6 +1,6 @@
 ---
 name: spec-to-repo
-description: "Kullanıcı 'bana bir uygulama yap', 'bu spesifikasyondan proje oluştur', 'yeni bir repo iskelet yap', 'başlangıç noktası oluştur', 'bu fikri koda çevir', 'proje bootstrap et', 'gereksinimlerim var ve bir kod tabanına ihtiyacım var' dediğinde ya da doğal dil proje spesifikasyonu sunup çalışır bir depo beklediğinde kullan. Yığından bağımsız: Next.js, FastAPI, Rails, Go, Rust, Flutter ve daha fazlası"
+description: "Doğal dil proje spesifikasyonundan çalışır repo oluşturur; Next.js, FastAPI, Rails, Go, Flutter vb. destekler; \"proje yap/bootstrap/fikri koda çevir\" denildiğinde kullan."
 ---
 
 # Spec to Repo

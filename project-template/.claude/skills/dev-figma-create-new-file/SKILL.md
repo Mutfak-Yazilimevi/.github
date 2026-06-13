@@ -1,6 +1,6 @@
 ---
 name: figma-create-new-file
-description: "Yeni bir boş Figma dosyası oluşturur. Kullanıcı yeni bir Figma tasarımı veya FigJam dosyası oluşturmak istediğinde ya da use_figma çağrılmadan önce yeni bir dosyaya ihtiyaç duyulduğunda kullan. Gerekirse whoami ile plan çözümlemesini yapar. Kullanım — /figma-create-new-file [editorType] [fileName] (örn. /figma-create-new-file figjam My Whiteboard)"
+description: "Yeni boş Figma veya FigJam dosyası oluşturur. Kullanım: /figma-create-new-file [editorType] [fileName]."
 ---
 
 # create_new_file — Create a New Figma File

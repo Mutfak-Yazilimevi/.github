@@ -1,6 +1,6 @@
 ---
 name: performing-ai-driven-osint-correlation
-description: "Kullanıcı adı numaralandırma, e-posta aramaları, sosyal medya profilleri, alan kayıtları, ihlal veritabanları ve dark-web söylemlerini kapsayan birden fazla OSINT kaynağındaki bulguları güven puanlaması ve bağlantı analiziyle birleşik istihbarat profillerine dönüştürmek için yapay zeka ve LLM tabanlı akıl yürütme kullanır."
+description: "Kullanıcı adı, e-posta, sosyal medya, alan kayıtları, ihlal DB ve dark-web verilerini LLM tabanlı güven puanlamasıyla birleşik istihbarat profillerine dönüştürür."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

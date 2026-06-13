@@ -1,6 +1,6 @@
 ---
 name: "board-deck-builder"
-description: "Tüm C-suite rollerinden perspektifler çekerek kapsamlı yönetim kurulu ve yatırımcı güncelleme sunumları hazırlar. Yönetim kurulu toplantıları, yatırımcı güncellemeleri, üç aylık iş değerlendirmeleri veya fon toplamaları için anlatılar hazırlarken kullan. Yapı, anlatı çerçevesi, kötü haber iletimi ve yaygın hatalar konularını kapsar."
+description: "Yönetim kurulu toplantıları, yatırımcı güncellemeleri, QBR veya fon toplamaları için C-suite perspektifli kapsamlı sunum hazırlar."
 license: MIT
 metadata:
   version: 1.0.0

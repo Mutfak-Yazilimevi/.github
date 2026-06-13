@@ -1,6 +1,6 @@
 ---
 name: "code-tour"
-description: "Kullanıcı CodeTour .tour dosyası oluşturmak istediğinde kullan — gerçek dosyalara ve satır numaralarına bağlanan persona hedefli, adım adım kılavuzlar. Şunlar için tetikle: tur oluştur, oryantasyon turu, mimari turu, PR inceleme turu, X'in nasıl çalıştığını açıkla, vibe check, RCA turu, katkıda bulunan rehberi veya herhangi bir yapılandırılmış kod gezintisi isteği."
+description: "Gerçek dosya ve satır numaralarına bağlanan CodeTour .tour dosyaları oluşturur. Mimari tur, PR inceleme, oryantasyon veya yapılandırılmış kod gezintisi için tetikle."
 ---
 
 # Code Tour

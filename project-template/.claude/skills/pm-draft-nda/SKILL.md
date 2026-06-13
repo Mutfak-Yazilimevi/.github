@@ -1,6 +1,6 @@
 ---
 name: draft-nda
-description: "İki taraf arasında bilgi türlerini, yargı yetkisini ve hukuki inceleme gerektiren maddeleri kapsayan ayrıntılı bir Gizlilik Sözleşmesi taslağı hazırlar. Gizlilik anlaşmaları oluştururken veya bir ortaklık için NDA hazırlarken kullan."
+description: "İki taraf arasında bilgi türleri, yargı yetkisi ve hukuki inceleme maddeleri kapsayan NDA taslağı hazırlar; gizlilik anlaşması oluştururken kullan."
 ---
 # NDA (Non-Disclosure Agreement) Drafting
 

@@ -1,6 +1,6 @@
 ---
 name: "aws-solution-architect"
-description: "Sunucusuz desenler ve IaC şablonları kullanarak startuplar için AWS mimarileri tasarla. Sunucusuz mimari tasarlamak, CloudFormation şablonları oluşturmak, AWS maliyetlerini optimize etmek, CI/CD pipeline kurmak veya AWS'ye geçiş yapmak için istendiğinde kullan. Lambda, API Gateway, DynamoDB, ECS, Aurora ve maliyet optimizasyonunu kapsar."
+description: "Sunucusuz desenler ve CloudFormation/IaC ile AWS mimarileri tasarlar. Lambda, API Gateway, DynamoDB, ECS, Aurora ve maliyet optimizasyonu için kullan."
 ---
 
 # AWS Solution Architect

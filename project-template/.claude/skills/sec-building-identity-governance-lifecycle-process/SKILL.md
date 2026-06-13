@@ -1,6 +1,6 @@
 ---
 name: building-identity-governance-lifecycle-process
-description: "IGA platformlarını kullanarak katılımcı-geçiş-ayrılma otomasyonu, rol madenciliği, erişim talep iş akışları, periyodik yeniden sertifikasyon ve yetim hesap düzeltmesini kapsayan kapsamlı kimlik yönetişimi ve yaşam döngüsü yönetim süreçleri oluşturur. Kimlik yaşam döngüsü yönetimi, JML süreçleri, rol tabanlı erişim sağlama veya kimlik yönetişimi programı tasarımına yönelik isteklerde etkinleşir."
+description: "IGA platformlarıyla JML otomasyonu, rol madenciliği, yeniden sertifikasyon ve yetim hesap düzeltmesini kapsayan kimlik yaşam döngüsü yönetimi oluşturur."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

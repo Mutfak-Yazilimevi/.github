@@ -1,6 +1,6 @@
 ---
 name: analyzing-ios-app-security-with-objection
-description: "Objection (Frida) ile iOS uygulamalarının çalışma zamanı güvenlik testi: yetkilendirilmiş mobil değerlendirmelerde anahtar zinciri ve dosya sistemi verilerini incele, uygulama iç yapısını çalışma zamanında keşfet ve istemci tarafı korumalarını doğrula/atla."
+description: "Objection (Frida) ile iOS uygulamalarında çalışma zamanı güvenlik testi: anahtar zinciri, dosya sistemi incelemesi ve istemci tarafı korumalarını doğrulama/atlama."
 domain: cybersecurity
 subdomain: mobile-security
 author: mahipal

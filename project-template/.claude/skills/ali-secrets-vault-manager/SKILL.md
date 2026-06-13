@@ -1,6 +1,6 @@
 ---
 name: "secrets-vault-manager"
-description: "Kullanıcı gizli yönetim altyapısı kurmak, HashiCorp Vault entegre etmek, bulut gizli depoları yapılandırmak (AWS Secrets Manager, Azure Key Vault, GCP Secret Manager), gizli rotasyon uygulamak veya gizli erişim kalıplarını denetlemek istediğinde kullan."
+description: "HashiCorp Vault, AWS Secrets Manager, Azure Key Vault, GCP Secret Manager kurulumu; gizli rotasyon ve erişim denetimi için kullan."
 ---
 
 # Secrets Vault Manager

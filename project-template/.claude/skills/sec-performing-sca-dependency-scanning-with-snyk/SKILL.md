@@ -1,6 +1,6 @@
 ---
 name: performing-sca-dependency-scanning-with-snyk
-description: "Bu skill, CI/CD iş hatlarında savunmasız açık kaynak bağımlılıklarını tespit etmek için Snyk kullanarak Yazılım Bileşim Analizi (SCA) uygulamayı kapsar. Paket manifestlerini ve kilit dosyalarını taramayı, otomatik düzeltme pull request oluşturmayı, lisans uyumluluk denetimini, dağıtılmış uygulamaların sürekli izlenmesini ve GitHub, GitLab ile Jenkins iş hatlarıyla entegrasyonu ele alır."
+description: "CI/CD'de Snyk ile SCA: açık kaynak güvenlik açıkları, otomatik düzeltme PR, lisans uyumluluk denetimi; GitHub/GitLab/Jenkins entegrasyonu."
 domain: cybersecurity
 subdomain: devsecops
 tags:

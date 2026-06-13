@@ -1,6 +1,6 @@
 ---
 name: figma-create-design-system-rules
-description: "Kullanıcının kod tabanı için özel tasarım sistemi kuralları oluşturur. Kullanıcı \"create design system rules\", \"generate rules for my project\", \"set up design rules\", \"customize design system guidelines\" dediğinde veya Figma'dan koda iş akışları için projeye özgü kurallar belirlemek istediğinde kullan. Figma MCP sunucu bağlantısı gerektirir."
+description: "Kod tabanı için özel tasarım sistemi kuralları oluşturur; \"create design system rules\", projeye özgü Figma-to-code kuralları tanımlamak için kullan. Figma MCP gerektirir."
 ---
 
 # Create Design System Rules

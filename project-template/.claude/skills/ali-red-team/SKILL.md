@@ -1,6 +1,6 @@
 ---
 name: "red-team"
-description: "Yetkili red team angajmanları, saldırı yolu analizi veya saldırgan güvenlik simülasyonları planlarken veya yürütürken kullan. MITRE ATT&CK kill-chain planlaması, teknik puanlama, tıkanma noktası tespiti, OPSEC risk değerlendirmesi ve taç mücevher hedeflemesini kapsar."
+description: "Yetkili red team angajmanları için MITRE ATT&CK kill-chain planlaması, teknik puanlama, OPSEC risk değerlendirmesi ve taç mücevher hedeflemesi yapar."
 ---
 
 # Red Team

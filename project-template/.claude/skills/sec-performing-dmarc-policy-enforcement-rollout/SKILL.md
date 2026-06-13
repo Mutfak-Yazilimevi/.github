@@ -1,6 +1,6 @@
 ---
 name: performing-dmarc-policy-enforcement-rollout
-description: "Yetkisiz gönderenleri engellemeden önce tüm meşru e-posta kaynaklarının kimliğinin doğrulandığından emin olarak p=none izleme aşamasından p=quarantine aşaması üzerinden p=reject uygulama aşamasına aşamalı DMARC dağıtımı gerçekleştirir."
+description: "p=none → p=quarantine → p=reject aşamalarıyla meşru e-posta kaynaklarını doğrulayarak aşamalı DMARC dağıtımı gerçekleştirir."
 domain: cybersecurity
 subdomain: phishing-defense
 tags:

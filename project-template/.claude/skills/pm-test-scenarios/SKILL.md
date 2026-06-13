@@ -1,6 +1,6 @@
 ---
 name: test-scenarios
-description: "Test hedefleri, başlangıç koşulları, kullanıcı rolleri, adım adım eylemler ve beklenen sonuçlarla kullanıcı hikayelerinden kapsamlı test senaryoları oluşturur. QA test senaryoları yazarken, test planları oluştururken, kabul testleri tanımlarken veya özellik doğrulamasına hazırlanırken kullan."
+description: "Kullanıcı hikayelerinden başlangıç koşulları, roller, adımlar ve beklenen sonuçlarla kapsamlı QA test senaryoları oluşturur."
 ---
 # Test Scenarios
 

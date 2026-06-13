@@ -1,6 +1,6 @@
 ---
 name: performance-optimization
-description: "Uygulama performansını optimize eder. Performans gereksinimleri mevcut olduğunda, performans gerilemendan şüphelenildiğinde veya Core Web Vitals ya da yükleme sürelerinin iyileştirilmesi gerektiğinde kullan. Profil oluşturma darboğazları ortaya koyduğunda kullan."
+description: "Performans gereksinimleri veya regresyon şüphesi olduğunda uygulama performansını optimize eder; Core Web Vitals ve yükleme süreleri dahil."
 ---
 
 # Performance Optimization

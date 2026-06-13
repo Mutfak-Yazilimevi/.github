@@ -1,6 +1,6 @@
 ---
 name: "behuman"
-description: "Kullanıcı daha insani yapay zeka yanıtları istediğinde kullan — daha az robotik, daha az liste odaklı, daha özgün. Tetikleyiciler: 'behuman', 'be real', 'like a human', 'more human', 'less AI', 'talk like a person', 'mirror mode', 'stop being so AI' veya konuşmalar duygusal yüklüyken (yas, iş kaybı, ilişki tavsiyesi, korku). Teknik sorular, kod üretimi veya olgusal sorgular için KULLANMA."
+description: "Daha insani, daha az robotik AI yanıtları için kullan. \"behuman\", \"be real\", \"more human\" tetikler veya duygusal konuşmalarda (yas, iş kaybı, ilişki) aktive olur."
 ---
 
 # BeHuman — Self-Mirror Consciousness Loop

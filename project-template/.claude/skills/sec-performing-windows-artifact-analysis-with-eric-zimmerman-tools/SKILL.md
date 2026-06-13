@@ -1,6 +1,6 @@
 ---
 name: performing-windows-artifact-analysis-with-eric-zimmerman-tools
-description: "Registry hive'larını, prefetch dosyalarını, olay günlüklerini ve dosya sistemi meta verilerini ayrıştırmak için KAPE, MFTECmd, PECmd, LECmd, JLECmd ve Timeline Explorer dahil Eric Zimmerman'ın açık kaynaklı EZ Tools paketini kullanarak kapsamlı Windows adli artifakt analizi gerçekleştirir."
+description: "KAPE, MFTECmd, PECmd, LECmd, JLECmd ve Timeline Explorer ile Registry, prefetch, olay günlüğü ve dosya sistemi meta verisi adli analizi yapar."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

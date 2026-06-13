@@ -1,6 +1,6 @@
 ---
 name: "board-prep"
-description: "Dostane değil, düşmanca senaryo için yönetim kurulu toplantısı hazırlığı. Sayılarda soğuk ustalık zorlar, zor soruları öngörür, zayıflığı kabul ederken odayı kaybetmeyen bir anlatı oluşturur. Yönetim kurulu toplantısına, yatırımcı güncellemesine, fon toplama sunumuna veya her sayının slayttaki değil kafanda yaşaması gereken yüksek riskli düşmanca bir incelemeye hazırlanırken kullan."
+description: "Düşmanca yönetim kurulu/yatırımcı/fon toplama toplantıları için sayısal ustalık, zor soru öngörüsü ve anlatı hazırlığı yapar."
 ---
 
 # /em:board-prep — Board Meeting Preparation

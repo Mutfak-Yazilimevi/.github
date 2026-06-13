@@ -1,6 +1,6 @@
 ---
 name: git-guardrails-claude-code
-description: "Tehlikeli git komutlarını (push, reset --hard, clean, branch -D, vb.) yürütülmeden önce engellemek için Claude Code hook'ları kurar. Kullanıcı yıkıcı git işlemlerini önlemek, git güvenlik hook'ları eklemek veya Claude Code'da git push/reset'i engellemek istediğinde kullan"
+description: "Claude Code hook'larıyla push, reset --hard, clean, branch -D gibi tehlikeli git komutlarını yürütülmeden engeller; git güvenlik korumaları eklemek için kullan."
 ---
 
 # Setup Git Guardrails

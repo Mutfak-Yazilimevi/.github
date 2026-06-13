@@ -1,6 +1,6 @@
 ---
 name: conducting-internal-reconnaissance-with-bloodhound-ce
-description: "Alan adı ortamlarındaki saldırı yollarını haritalamak, ayrıcalık yükseltme zincirlerini belirlemek ve yanlış yapılandırmaları keşfetmek için BloodHound Community Edition kullanarak dahili Active Directory keşfi gerçekleştirir."
+description: "BloodHound CE ile Active Directory dahili keşfi; saldırı yolları, ayrıcalık yükseltme zincirleri ve yanlış yapılandırma tespiti için kullan."
 domain: cybersecurity
 subdomain: red-teaming
 tags:

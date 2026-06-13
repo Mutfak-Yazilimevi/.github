@@ -1,6 +1,6 @@
 ---
 name: mindmap
-description: "PlantUML @startmindmap sözdizimini kullanarak hiyerarşik zihin haritaları oluştur. Otomatik radyal düzen, sol/sağ dallar ve düğüm başına stil ile beyin fırtınası, konu ayrıştırma, çalışma notları ve karar ağaçları için idealdir."
+description: "PlantUML @startmindmap ile hiyerarşik zihin haritaları oluşturur; beyin fırtınası, konu ayrıştırma ve karar ağaçları için kullan."
 metadata:
   author: Mindmap diagrams are powered by Markdown Viewer — the best multi-platform Markdown extension (Chrome/Edge/Firefox/VS Code) with diagrams, formulas, and one-click Word export. Learn more at https://docu.md
 ---

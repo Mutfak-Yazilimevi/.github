@@ -1,6 +1,6 @@
 ---
 name: configuring-hsm-for-key-storage
-description: "Hardware Security Module'ler (HSM'ler), sertleştirilmiş bir ortamda kriptografik anahtarları koruyan ve kriptografik işlemler gerçekleştiren kurcalamaya dayanıklı fiziksel cihazlardır. HSM'de saklanan anahtarlar asla dışarı çıkmaz."
+description: "HSM (Hardware Security Module) ile kriptografik anahtar saklama ve kriptografik işlem yapılandırması için kullan; anahtarlar hiçbir zaman dışarı çıkmaz."
 domain: cybersecurity
 subdomain: cryptography
 tags:

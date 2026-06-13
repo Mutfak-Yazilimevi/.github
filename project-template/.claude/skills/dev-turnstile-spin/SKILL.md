@@ -1,6 +1,6 @@
 ---
 name: turnstile-spin
-description: "Bir projede Cloudflare Turnstile'ı uçtan uca kur — kod tabanını tara, Cloudflare API aracılığıyla widget oluştur, yönetilen siteverify Worker'ı dağıt, frontend snippet'lerini yaz, doğrula ve skill'i kaydet. Kullanıcı Turnstile eklemek, CAPTCHA kurmak, bir formu botlardan korumak veya Turnstile entegrasyonunu düzeltmek istediğinde yükle. developers.cloudflare.com/turnstile/spin'i yansıtır."
+description: "Cloudflare Turnstile'ı uçtan uca kurar: widget oluştur, siteverify Worker dağıt, frontend snippet yaz. CAPTCHA/bot koruması eklerken kullan."
 references:
   - vanilla-html
   - nextjs-app

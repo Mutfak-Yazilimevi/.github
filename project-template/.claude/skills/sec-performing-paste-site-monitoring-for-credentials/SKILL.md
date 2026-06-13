@@ -1,6 +1,6 @@
 ---
 name: performing-paste-site-monitoring-for-credentials
-description: "İhlalleri erken tespit etmek için otomatik web kazıma ve anahtar kelime eşleştirme kullanarak Pastebin ve GitHub Gists gibi yapıştırma sitelerini sızdırılmış kimlik bilgileri, API anahtarları ve hassas veri dökümleri açısından izler."
+description: "Web kazıma ve anahtar kelime eşleştirmeyle Pastebin ve GitHub Gists gibi siteleri sızdırılmış kimlik bilgileri ve API anahtarları için izler."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

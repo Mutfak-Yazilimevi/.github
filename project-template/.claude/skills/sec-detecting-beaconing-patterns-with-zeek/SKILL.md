@@ -1,6 +1,6 @@
 ---
 name: detecting-beaconing-patterns-with-zeek
-description: "C2 beaconing modellerini tespit etmek için Zeek conn.log bağlantı aralıklarının istatistiksel analizini gerçekleştirir. Zeek günlüklerini Pandas DataFrame'lerine yüklemek için ZAT kütüphanesini kullanır, geliş süresi arası standart sapmayı hesaplar ve düşük titreşimli periyodik bağlantıları işaretler. Ağ verilerinde komuta ve kontrol geri çağrılarını avlarken kullan."
+description: "Zeek conn.log istatistiksel analizi ve ZAT/Pandas ile C2 beaconing modellerini tespit eder; ağda C2 geri çağrı avı için kullan."
 domain: cybersecurity
 subdomain: security-operations
 tags:

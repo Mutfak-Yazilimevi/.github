@@ -1,6 +1,6 @@
 ---
 name: performing-sqlite-database-forensics
-description: "Silinen kayıtları serbest listelerden ve WAL dosyalarından kurtarmak, kodlanmış zaman damgalarını çözmek ve tarayıcı geçmişi, mesajlaşma uygulamaları ve mobil cihaz veritabanlarından kanıt çıkarmak için SQLite veritabanlarının adli analizini gerçekleştirir."
+description: "SQLite adli analizi yapar; silinen kayıt kurtarma (WAL/serbest liste), zaman damgası çözme, tarayıcı geçmişi ve mobil cihaz veritabanlarından kanıt çıkarma."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

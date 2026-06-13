@@ -1,6 +1,6 @@
 ---
 name: analyzing-office365-audit-logs-for-compromise
-description: "E-posta yönlendirme kuralı oluşturmayı, gelen kutusu yetkisini, şüpheli OAuth uygulama izinlerini ve hesap güvenliği ihlalinin diğer göstergelerini tespit etmek için Microsoft Graph API aracılığıyla Office 365 Birleşik Denetim Günlüklerini ayrıştır."
+description: "Microsoft Graph API üzerinden O365 Birleşik Denetim Günlüklerini ayrıştırır; e-posta yönlendirme kuralı, gelen kutusu yetkisi ve OAuth uygulama ihlali göstergelerini tespit eder."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

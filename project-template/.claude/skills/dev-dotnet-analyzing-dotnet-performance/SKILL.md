@@ -1,6 +1,6 @@
 ---
 name: analyzing-dotnet-performance
-description: "Katmanlı önem sınıflandırmasıyla async, bellek, string'ler, koleksiyonlar, LINQ, regex, serileştirme ve G/Ç genelinde yaklaşık 50 .NET performans karşı-kalıbı tarar. Optimizasyon fırsatları için .NET kodunu analiz ederken, kritik yolları incelerken veya bellek yoğun kalıpları denetlerken kullan."
+description: ".NET kodunda async, bellek, string, koleksiyon, LINQ, regex, serileştirme ve G/Ç dahil ~50 performans karşı-kalıbı tarar; optimizasyon ve bellek denetimi için kullan."
 license: MIT
 ---
 

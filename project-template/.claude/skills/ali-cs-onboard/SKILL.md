@@ -1,6 +1,6 @@
 ---
 name: "cs-onboard"
-description: "7 boyut genelinde şirket bağlamını yakalayan kurucu hazırlık röportajı. İlk röportaj için /cs:setup, üç aylık yenileme için /cs:update ile çağır. Tüm C-suite danışman becerileri tarafından kullanılan ~/.claude/company-context.md dosyasını oluşturur."
+description: "7 boyut genelinde şirket bağlamını yakalayan kurucu röportajı; /cs:setup (ilk) veya /cs:update (3 aylık) ile çağır, company-context.md oluşturur."
 license: MIT
 metadata:
   version: 1.0.0

@@ -1,6 +1,6 @@
 ---
 name: detecting-golden-ticket-forgery
-description: "Splunk ve Elastic SIEM'de RC4 şifreleme düşürmelerini (0x17), anormal bilet ömürlerini ve krbtgt hesap anomalilerini tespit etmek amacıyla Windows Event ID 4769'u analiz ederek Kerberos Golden Ticket sahteciliğini tespit eder."
+description: "Splunk/Elastic SIEM'de Windows Event ID 4769, RC4 düşürme (0x17) ve anormal bilet ömürlerini analiz ederek Kerberos Golden Ticket sahteciliğini tespit eder."
 domain: cybersecurity
 subdomain: threat-detection
 tags:

@@ -1,6 +1,6 @@
 ---
 name: hunting-for-dcom-lateral-movement
-description: "Sysmon Event ID 1 (süreç oluşturma) ve Event ID 3 (ağ bağlantısı) korelasyonu, WMI olay analizi, 135 numaralı bağlantı noktasındaki RPC endpoint mapper trafiği ve DCOM'a özgü ebeveyn-çocuk süreç ilişkileri aracılığıyla MMC20.Application, ShellBrowserWindow ve ShellWindows COM nesnelerinin kötüye kullanımını tespit ederek DCOM tabanlı lateral movement'ı avlar."
+description: "Sysmon Event ID 1/3 ve WMI analizi ile MMC20.Application, ShellBrowserWindow COM nesneleri kötüye kullanımı üzerinden DCOM lateral movement avı yapar."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

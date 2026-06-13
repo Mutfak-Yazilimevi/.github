@@ -1,6 +1,6 @@
 ---
 name: performing-hash-cracking-with-hashcat
-description: "Hash kırma, parola gücünü değerlendirmek için sızma testçileri ve güvenlik denetçileri için temel bir beceridir. Hashcat, 300'den fazla hash türünü destekleyen dünyanın en hızlı parola kurtarma aracıdır"
+description: "Hashcat ile 300+ hash türünü destekleyen parola gücü değerlendirmesi; sızma testi ve güvenlik denetimlerinde hash kırma için kullan."
 domain: cybersecurity
 subdomain: cryptography
 tags:

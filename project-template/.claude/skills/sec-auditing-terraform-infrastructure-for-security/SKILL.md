@@ -1,6 +1,6 @@
 ---
 name: auditing-terraform-infrastructure-for-security
-description: "Bulut dağıtımından önce aşırı izin veren IAM politikalarını, herkese açık kaynak açıklamalarını, eksik şifrelemeyi ve güvensiz varsayılan ayarları tespit etmek için Checkov, tfsec, Terrascan ve OPA/Rego politikaları kullanarak Terraform infrastructure-as-code'u güvenlik yanlış yapılandırmaları açısından denetler."
+description: "Checkov, tfsec, Terrascan ve OPA/Rego ile Terraform IaC'yi aşırı izinli IAM, açık kaynaklar ve eksik şifreleme için dağıtım öncesi denetler."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

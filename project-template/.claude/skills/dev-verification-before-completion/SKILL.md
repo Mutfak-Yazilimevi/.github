@@ -1,6 +1,6 @@
 ---
 name: verification-before-completion
-description: "İşin tamamlandığını, düzeltildiğini veya geçtiğini iddia etmek üzereyken, commit yapmadan veya PR oluşturmadan önce kullan — doğrulama komutlarını çalıştırmayı ve başarı iddiasında bulunmadan önce çıktıyı onaylamayı gerektirir; her zaman önce kanıt, sonra iddia."
+description: "Tamamlandı veya düzeltildi demeden önce doğrulama komutlarını çalıştırmayı zorunlu kılar; commit veya PR öncesi \"önce kanıt, sonra iddia\" ilkesini uygular."
 ---
 
 # Verification Before Completion

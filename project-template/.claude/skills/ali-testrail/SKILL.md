@@ -1,6 +1,6 @@
 ---
 name: "testrail"
-description: "Testleri TestRail ile senkronize et. Kullanıcı \"testrail\", \"test yönetimi\", \"test senaryoları\", \"test çalıştırması\", \"test senaryolarını senkronize et\", \"sonuçları testrail'e aktar\" veya \"testrail'den içe aktar\" ifadelerinden bahsettiğinde kullan."
+description: "TestRail ile test senaryoları senkronizasyonu, test çalıştırması ve sonuç aktarımı için kullan."
 ---
 
 # TestRail Integration

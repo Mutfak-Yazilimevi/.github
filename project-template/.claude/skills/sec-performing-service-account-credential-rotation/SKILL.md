@@ -1,6 +1,6 @@
 ---
 name: performing-service-account-credential-rotation
-description: "Eski sırları ortadan kaldırmak ve ele geçirilme riskini azaltmak için Active Directory, cloud platformları ve uygulama veritabanları genelinde servis hesapları için kimlik bilgisi rotasyonunu otomatikleştirir."
+description: "Active Directory, bulut platformları ve uygulama veritabanlarında servis hesabı kimlik bilgisi rotasyonunu otomatikleştirerek eski sırları ve ele geçirilme riskini ortadan kaldırır."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

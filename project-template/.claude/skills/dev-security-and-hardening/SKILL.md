@@ -1,6 +1,6 @@
 ---
 name: security-and-hardening
-description: "Kodu açıklara karşı güçlendirir. Kullanıcı girdisini, kimlik doğrulamayı, veri depolamayı veya harici entegrasyonları ele alırken kullan. Güvenilmeyen verileri kabul eden, kullanıcı oturumlarını yöneten veya üçüncü taraf hizmetlerle etkileşime giren herhangi bir özellik oluştururken kullan."
+description: "Kullanıcı girdisi, kimlik doğrulama, veri depolama veya harici entegrasyon içeren kodu güvenlik açıklarına karşı güçlendirir."
 ---
 
 # Security and Hardening

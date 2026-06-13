@@ -1,6 +1,6 @@
 ---
 name: performing-web-cache-deception-attack
-description: "Hassas kimliği doğrulanmış içeriği önbelleğe almak ve geri almak için CDN önbellek katmanları ile kaynak sunucular arasındaki yol normalleştirme tutarsızlıklarını istismar ederek web önbellek yanıltma saldırıları gerçekleştirir."
+description: "CDN ve kaynak sunucu arasındaki yol normalleştirme tutarsızlıklarını istismar ederek web önbellek yanıltma saldırısı gerçekleştirir; hassas içerik önbelleğe alma testi için kullan."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

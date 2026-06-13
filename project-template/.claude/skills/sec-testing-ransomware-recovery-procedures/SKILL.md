@@ -1,6 +1,6 @@
 ---
 name: testing-ransomware-recovery-procedures
-description: "Kuruluşun yıkıcı fidye yazılımı saldırılarına karşı dayanıklılığını sağlamak için yedek geri yükleme işlemleri, RTO/RPO hedef doğrulama, kurtarma sıralama ve temiz geri yükleme doğrulaması dahil olmak üzere fidye yazılımı kurtarma prosedürlerini test eder ve doğrular."
+description: "Yedek geri yükleme, RTO/RPO doğrulama ve kurtarma sıralaması dahil fidye yazılımı kurtarma prosedürlerini test eder ve doğrular."
 domain: cybersecurity
 subdomain: incident-response
 tags:

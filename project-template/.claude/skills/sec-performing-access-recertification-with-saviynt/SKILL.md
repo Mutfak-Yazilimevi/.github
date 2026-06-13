@@ -1,6 +1,6 @@
 ---
 name: performing-access-recertification-with-saviynt
-description: "Kullanıcı yetkilerini doğrulamak, aşırı erişimi iptal etmek ve SOX, SOC2 ile HIPAA uyumluluğunu sürdürmek için Saviynt Enterprise Identity Cloud'da erişim yeniden sertifikasyon kampanyaları yapılandırır ve yürütür."
+description: "Saviynt Enterprise Identity Cloud'da erişim yeniden sertifikasyon kampanyaları; kullanıcı yetkisi doğrulama, aşırı erişim iptali ve SOX/SOC2/HIPAA uyumluluğu için kullan."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

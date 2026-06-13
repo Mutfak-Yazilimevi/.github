@@ -1,6 +1,6 @@
 ---
 name: performing-aws-account-enumeration-with-scout-suite
-description: "Kaynakları numaralandırmak, yanlış yapılandırmaları belirlemek ve eyleme geçirilebilir güvenlik raporları oluşturmak için ScoutSuite kullanarak AWS hesaplarının kapsamlı güvenlik durumu değerlendirmesini gerçekleştirir."
+description: "ScoutSuite ile AWS hesabı güvenlik durumu değerlendirmesi; kaynak numaralandırma, yanlış yapılandırma tespiti ve güvenlik raporu oluşturma için kullan."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

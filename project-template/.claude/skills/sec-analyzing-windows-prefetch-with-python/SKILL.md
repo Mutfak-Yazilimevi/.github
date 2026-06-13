@@ -1,6 +1,6 @@
 ---
 name: analyzing-windows-prefetch-with-python
-description: "Uygulama yürütme geçmişini yeniden oluşturmak, yeniden adlandırılmış veya kimliğini gizleyen ikili dosyaları tespit etmek ve şüpheli program yürütme modellerini belirlemek için windowsprefetch Python kütüphanesini kullanarak Windows Prefetch dosyalarını ayrıştırır."
+description: "windowsprefetch Python kütüphanesi ile Windows Prefetch dosyalarını ayrıştırır; uygulama yürütme geçmişini yeniden oluşturur ve şüpheli ikili dosyaları tespit eder."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

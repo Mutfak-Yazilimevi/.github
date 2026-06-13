@@ -1,6 +1,6 @@
 ---
 name: setup-pre-commit
-description: "Mevcut repo'da lint-staged (Prettier), tür denetimi ve testler içeren Husky pre-commit hook'larını kur. Kullanıcı pre-commit hook eklemek, Husky kurmak, lint-staged yapılandırmak veya commit zamanında biçimlendirme/tip kontrolü/test eklemek istediğinde kullan."
+description: "Mevcut repo'da Husky, lint-staged (Prettier), tür denetimi ve testler içeren pre-commit hook'ları kurar."
 ---
 
 # Setup Pre-Commit Hooks

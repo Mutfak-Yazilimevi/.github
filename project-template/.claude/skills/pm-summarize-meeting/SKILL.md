@@ -1,6 +1,6 @@
 ---
 name: summarize-meeting
-description: "Toplantı dökümünü tarih, katılımcılar, konu, kilit kararlar, özet noktalar ve eylem öğeleriyle yapılandırılmış notlara özetler. Toplantı kayıtlarını işlerken, toplantı notları oluştururken, toplantı tutanakları yazarken veya tartışmaları özetlerken kullan"
+description: "Toplantı dökümünü tarih, katılımcılar, kararlar ve eylem öğeleriyle yapılandırılmış notlara özetler; toplantı tutanakları veya notlar için kullan."
 ---
 
 # Summarize Meeting

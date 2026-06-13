@@ -1,6 +1,6 @@
 ---
 name: performing-initial-access-with-evilginx3
-description: "Kırmızı takım tatbikatları sırasında oturum belirteçlerini yakalamak ve çok faktörlü kimlik doğrulamayı atlatmak için EvilGinx3 düşman-ortadaki-adam kimlik avı çerçevesini kullanarak yetkili ilk erişim gerçekleştirir."
+description: "Kırmızı takım tatbikatlarında EvilGinx3 AiTM çerçevesiyle oturum tokenlarını yakalar ve MFA'yı atlayarak yetkili ilk erişim sağlar."
 domain: cybersecurity
 subdomain: red-teaming
 tags:

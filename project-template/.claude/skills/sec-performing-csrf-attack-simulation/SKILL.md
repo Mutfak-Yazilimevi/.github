@@ -1,6 +1,6 @@
 ---
 name: performing-csrf-attack-simulation
-description: "Yetkili güvenlik değerlendirmeleri sırasında kimliği doğrulanmış kullanıcı oturumlarını istismar eden sahte istekler oluşturarak web uygulamalarını Cross-Site Request Forgery güvenlik açıkları açısından test eder."
+description: "Yetkili güvenlik değerlendirmelerinde kimliği doğrulanmış kullanıcı oturumlarını istismar eden CSRF saldırıları simüle ederek web uygulamalarını test eder."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

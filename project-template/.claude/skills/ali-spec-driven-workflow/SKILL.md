@@ -1,6 +1,6 @@
 ---
 name: "spec-driven-workflow"
-description: "Kullanıcı koddan önce spesifikasyon yazmak, kabul kriterleri tanımlamak, uygulamadan önce özellikleri planlamak, spesifikasyonlardan test üretmek veya spec-first geliştirme uygulamalarını takip etmek istediğinde kullan."
+description: "Koddan önce spesifikasyon yazmak, kabul kriterleri tanımlamak, spec-first geliştirme veya spesifikasyonlardan test üretmek için kullan."
 ---
 
 # Spec-Driven Workflow — POWERFUL

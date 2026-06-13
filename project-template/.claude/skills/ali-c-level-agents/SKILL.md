@@ -1,6 +1,6 @@
 ---
 name: "c-level-agents"
-description: "Kurucu modu yönetici ekibi. 8 adet cs-* C-suite ajan (CFO, CMO, CRO, CPO, COO, CHRO, CISO, Personel Başkanı) ve zorlu soru ofis saatleri, çok rollü yönetim kurulu müzakeresi, stratejik sprint hattı ve meta yönlendirme için 17 adet /cs:* slash komutu. Kurucu sanal bir yönetici ekibine ihtiyaç duyduğunda, /cs:* komutlarını çalıştırırken veya çok rollü kararları orkestre ederken kullan."
+description: "8 C-suite ajan (CFO, CMO, CRO, CPO, COO, CHRO, CISO, Personel Başkanı) ve 17 /cs:* slash komutuyla sanal yönetici ekibi ve çok rollü karar orkestrasyonu sağlar."
 license: MIT
 metadata:
   version: 1.0.0

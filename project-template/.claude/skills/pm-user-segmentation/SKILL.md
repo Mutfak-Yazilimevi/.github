@@ -1,6 +1,6 @@
 ---
 name: user-segmentation
-description: "Geri bildirim verilerinden davranış, JTBD ve ihtiyaçlara göre kullanıcıları segmentlere ayır. En az 3 farklı kullanıcı segmenti tanımlar. Kullanıcı tabanını segmentlere ayırırken, farklı kullanıcı geri bildirimlerini analiz ederken veya bir segmentasyon modeli oluştururken kullan."
+description: "Geri bildirim verilerinden davranış, JTBD ve ihtiyaca göre en az 3 kullanıcı segmenti tanımlar; segmentasyon modeli oluştururken kullan."
 ---
 
 # User Segmentation

@@ -1,6 +1,6 @@
 ---
 name: performing-active-directory-compromise-investigation
-description: "Saldırgan kalıcılığını ve yanal hareket yollarını belirlemek için kimlik doğrulama günlüklerini, replikasyon meta verilerini, Group Policy değişikliklerini ve Kerberos bilet anormalliklerini analiz ederek Active Directory uzlaşmasını araştırır."
+description: "Kimlik doğrulama günlükleri, replikasyon meta verisi, Group Policy değişiklikleri ve Kerberos bilet anormalliklerini analiz ederek Active Directory uzlaşmasını araştırır."
 domain: cybersecurity
 subdomain: incident-response
 tags:

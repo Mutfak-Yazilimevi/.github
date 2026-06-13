@@ -1,6 +1,6 @@
 ---
 name: analyzing-windows-shellbag-artifacts
-description: "SBECmd ve ShellBags Explorer kullanarak klasör gezinme etkinliğini yeniden oluşturmak, çıkarılabilir medyaya ve ağ paylaşımlarına erişimi tespit etmek ve silinmeden sonra bile dizinlerle kullanıcı etkileşimini ortaya koymak için Windows Shellbag kayıt defteri artefaktlarını analiz eder."
+description: "SBECmd ve ShellBags Explorer ile Windows Shellbag kayıt defteri artefaktlarını analiz eder; klasör gezinme, çıkarılabilir medya ve silinen dizin erişimini yeniden oluşturur."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

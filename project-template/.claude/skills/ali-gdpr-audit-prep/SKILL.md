@@ -1,6 +1,6 @@
 ---
 name: "gdpr-audit-prep"
-description: "/cs:gdpr-audit-prep <kapsam> — GDPR denetimi için Madde atıflı 6 soruluk zorunlu sorgulama. Yıllık iç GDPR incelemesinden, ihlal sonrası iç denetimden, DPA soruşturma hazırlığından veya satın alma durum tespitinden önce kullan"
+description: "GDPR denetimi için Madde atıflı 6 soruluk zorunlu sorgulama yapar; yıllık GDPR incelemesi, ihlal sonrası denetim veya DPA soruşturma hazırlığından önce kullan."
 ---
 
 # /cs:gdpr-audit-prep — GDPR DPO Forcing Questions

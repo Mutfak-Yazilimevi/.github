@@ -1,6 +1,6 @@
 ---
 name: performing-thick-client-application-penetration-test
-description: "dnSpy, Procmon ve Burp Suite kullanarak masaüstü uygulamalarında güvensiz yerel depolama, sabit kodlanmış kimlik bilgileri, DLL hijacking, bellek manipülasyonu ve güvensiz API iletişimini tespit etmek için thick client uygulama sızma testi yürütür."
+description: "dnSpy, Procmon ve Burp Suite ile masaüstü uygulamalarda güvensiz depolama, hardcode kimlik bilgisi, DLL hijacking ve bellek manipülasyonu testi yapar."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

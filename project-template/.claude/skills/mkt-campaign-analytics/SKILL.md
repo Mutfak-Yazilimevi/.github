@@ -1,6 +1,6 @@
 ---
 name: "campaign-analytics"
-description: "Pazarlama optimizasyonu için çok dokunuşlu atıf, huni dönüşüm analizi ve ROI hesaplamasıyla kampanya performansını analiz eder. Pazarlama kampanyalarını, reklam performansını, atıf modellerini, dönüşüm oranlarını analiz ederken veya kanallar genelinde pazarlama ROI, ROAS, CPA ve kampanya metriklerini hesaplarken kullan."
+description: "Çok dokunuşlu atıf, huni dönüşüm ve ROI hesaplamasıyla kampanya performansı analiz eder; ROAS, CPA ve pazarlama ROI hesaplaması için kullan."
 license: MIT
 metadata:
   version: 1.0.0

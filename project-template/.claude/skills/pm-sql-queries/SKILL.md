@@ -1,6 +1,6 @@
 ---
 name: sql-queries
-description: "Doğal dil açıklamalarından SQL sorguları oluştur. BigQuery, PostgreSQL, MySQL ve diğer diyalektleri destekler. Yüklenen diyagramlardan veya belgelerden veritabanı şemalarını okur. SQL yazarken, veri raporları oluştururken, veritabanlarını araştırırken veya iş sorularını sorgulara çevirirken kullan."
+description: "Doğal dilden SQL sorgusu üretir; BigQuery, PostgreSQL, MySQL destekler. Veri raporları, veritabanı araştırması veya iş sorularını sorguya çevirirken kullan."
 ---
 
 # SQL Query Generator

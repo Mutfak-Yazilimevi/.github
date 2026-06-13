@@ -1,6 +1,6 @@
 ---
 name: git-workflow-and-versioning
-description: "Git iş akışı uygulamalarını yapılandırır. Herhangi bir kod değişikliği yaparken kullan. Commit atarken, dallanırken, çakışmaları çözerken veya birden fazla paralel akışta işi düzenlemeniz gerektiğinde kullan."
+description: "Git iş akışı yapılandırır: commit, dallanma, çakışma çözme ve paralel iş akışları düzenleme dahil her kod değişikliğinde kullan."
 ---
 
 # Git Workflow and Versioning

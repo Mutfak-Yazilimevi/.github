@@ -1,6 +1,6 @@
 ---
 name: "marketing-ops"
-description: "Pazarlama beceri ekosistemi için merkezi yönlendirici. Hangi pazarlama becerisini kullanacağından emin olmadığında, çok becerili bir kampanya düzenlerken veya içerik, SEO, CRO, kanallar ve analitik genelinde koordinasyon sağlarken kullan. Ayrıca kullanıcı 'marketing help', 'campaign plan', 'what should I do next', 'marketing priorities' veya 'coordinate marketing' dediğinde de kullan."
+description: "Pazarlama skill ekosistemi için merkezi yönlendirici; içerik, SEO, CRO, kanallar ve analitik koordinasyonu veya \"marketing help\", \"campaign plan\" sorgularında kullan."
 license: MIT
 metadata:
   version: 1.0.0

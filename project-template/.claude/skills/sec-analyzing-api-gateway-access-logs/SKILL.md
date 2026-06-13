@@ -1,6 +1,6 @@
 ---
 name: analyzing-api-gateway-access-logs
-description: "BOLA/IDOR saldırılarını, oran sınırı atlamasını, kimlik bilgisi taramasını ve enjeksiyon girişimlerini tespit etmek için API Gateway erişim günlüklerini (AWS API Gateway, Kong, Nginx) ayrıştırır. İstek kalıplarının istatistiksel analizi ve anomali tespiti için pandas kullanır. API kötüye kullanımını araştırırken veya API'ye özgü tehdit tespit kuralları oluştururken kullan."
+description: "BOLA/IDOR, oran sınırı atlama ve kimlik bilgisi taramasını tespit etmek için AWS API Gateway/Kong/Nginx loglarını pandas ile istatistiksel analiz eder."
 domain: cybersecurity
 subdomain: security-operations
 tags:

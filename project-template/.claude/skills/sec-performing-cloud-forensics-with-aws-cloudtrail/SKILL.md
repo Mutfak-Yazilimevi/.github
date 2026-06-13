@@ -1,6 +1,6 @@
 ---
 name: performing-cloud-forensics-with-aws-cloudtrail
-description: "Saldırgan etkinliğini yeniden oluşturmak, güvenliği ihlal edilmiş kimlik bilgilerini belirlemek ve API çağrı kalıplarını analiz etmek için CloudTrail günlüklerini kullanarak AWS ortamlarının adli soruşturmasını gerçekleştirir."
+description: "CloudTrail günlükleri ile AWS ortamlarını adli inceleme; saldırgan etkinliğini yeniden oluşturma, kimlik bilgisi ihlali ve API çağrı analizi için kullan."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

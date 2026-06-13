@@ -1,6 +1,6 @@
 ---
 name: analyzing-lnk-file-and-jump-list-artifacts
-description: "Shell Link Binary biçiminin LECmd, JLECmd ve manuel ikili ayrıştırması kullanarak dosya erişimi, program yürütme ve kullanıcı etkinliği kanıtı oluşturmak için Windows LNK kısayol dosyalarını ve Jump List artifaktlarını analiz et."
+description: "LECmd/JLECmd ve manuel ikili ayrıştırma ile Windows LNK kısayol ve Jump List artifact'larından dosya erişimi, program yürütme ve kullanıcı etkinliği kanıtı çıkarır."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

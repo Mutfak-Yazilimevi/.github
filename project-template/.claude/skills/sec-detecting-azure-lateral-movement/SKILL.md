@@ -1,6 +1,6 @@
 ---
 name: detecting-azure-lateral-movement
-description: "Ayrıcalık yükseltmeyi, token hırsızlığını ve çapraz kiracı pivotlamayı belirlemek için Microsoft Graph API denetim günlüklerini, Azure Sentinel KQL avlanma sorgularını ve oturum açma anomalisi korelasyonunu kullanarak Azure AD/Entra ID ortamlarında yanal hareketi tespit eder."
+description: "Microsoft Graph denetim günlükleri, Azure Sentinel KQL sorguları ve oturum açma anomalisi korelasyonuyla Azure AD/Entra ID ortamlarında yanal hareketi tespit eder."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

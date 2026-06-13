@@ -1,6 +1,6 @@
 ---
 name: performing-wireless-network-penetration-test
-description: "Aircrack-ng ve ilgili araçları kullanarak el sıkışmaları yakalayarak, WPA2/WPA3 anahtarlarını kırarak, sahte erişim noktalarını tespit ederek ve kablosuz segmentasyonu test ederek WiFi güvenliğini değerlendirmek için kablosuz ağ sızma testi yürütür."
+description: "Aircrack-ng ile el sıkışma yakalama, WPA2/WPA3 kırma, sahte AP tespiti ve kablosuz segmentasyon testi yaparak WiFi güvenlik penetrasyon testi yürütür."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

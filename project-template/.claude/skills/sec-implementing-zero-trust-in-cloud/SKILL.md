@@ -1,6 +1,6 @@
 ---
 name: implementing-zero-trust-in-cloud
-description: "Bu beceri, NIST SP 800-207 ve Google BeyondCorp ilkelerini izleyerek bulut ortamlarında sıfır güven mimarisi uygulamak için kuruluşlara rehberlik eder. Kimlik merkezli erişim denetimleri, mikro-segmentasyon, sürekli doğrulama, cihaz güveni değerlendirmesi ve AWS, Azure ile GCP ortamlarında örtülü ağ güvenini ortadan kaldırmak için Identity-Aware Proxy dağıtımını kapsar."
+description: "NIST SP 800-207 ve BeyondCorp ilkelerine göre AWS/Azure/GCP'de sıfır güven mimarisi uygular; kimlik merkezli erişim, mikro-segmentasyon ve IAP dağıtımını kapsar."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

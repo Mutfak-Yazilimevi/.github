@@ -1,6 +1,6 @@
 ---
 name: implementing-honeytokens-for-breach-detection
-description: "Saldırganlar tarafından erişildiğinde uyarı veren tuzak token'ları ve honeytoken'lar (sahte AWS kimlik bilgileri, DNS tuzakları, belge işaretçileri, veritabanı kayıtları) dağıtır. İhlal tespiti için Canarytokens API ve özel webhook entegrasyonlarını kullanır. Saldırı tespiti için aldatmaya dayalı erken uyarı sistemleri oluştururken kullan."
+description: "Sahte AWS kimlik bilgileri, DNS tuzakları ve belge işaretçileri gibi honeytoken'lar dağıtır; Canarytokens API ile ihlal tespiti için erken uyarı sistemi kurar."
 domain: cybersecurity
 subdomain: security-operations
 tags:

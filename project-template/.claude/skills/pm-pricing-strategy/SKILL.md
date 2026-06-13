@@ -1,6 +1,6 @@
 ---
 name: pricing-strategy
-description: "Fiyatlandırma modelleri, rekabetçi fiyatlandırma analizi, ödeme isteği tahmini ve fiyat elastikiyeti dahil fiyatlandırma stratejilerini analiz et ve tasarla. Fiyat belirlerken, fiyatlandırma modellerini değerlendirirken, fiyatlandırma değişikliğine hazırlanırken veya freemium vs ücretli yaklaşımları karşılaştırırken kullan."
+description: "Fiyatlandırma modelleri, rekabetçi analiz, ödeme isteği ve fiyat elastikiyeti dahil fiyatlandırma stratejisi analiz et ve tasarla; freemium vs ücretli karşılaştırması için de kullan."
 ---
 
 ## Pricing Strategy

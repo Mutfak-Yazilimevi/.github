@@ -1,6 +1,6 @@
 ---
 name: beachhead-segment
-description: "Ürün lansmanı için ilk köprübaşı pazar segmentini belirle. Segmentleri yakıcı acı, ödeme isteği, kazanılabilir pazar payı ve yönlendirme potansiyeli açısından değerlendirir. İlk pazarı seçerken, ilk müşteri segmentini hedeflerken veya pazar giriş stratejisi planlarken kullan."
+description: "Ürün lansmanı için ilk köprübaşı segmentini yakıcı acı, ödeme isteği, kazanılabilir pazar ve yönlendirme potansiyeline göre belirle."
 ---
 # Beachhead Segment
 

@@ -1,6 +1,6 @@
 ---
 name: "fda-qsr-audit-prep"
-description: "/cs:fda-qsr-audit-prep <kapsam> — FDA 21 CFR 820 (QSR / QMSR) denetimi için 6 soruluk zorlayıcı sorgu. Şubat 2026 sonrası ISO 13485 ile büyük ölçüde uyumlu hale getirilmiştir. Yıllık iç QSR denetiminden önce, FDA incelemesine hazırlık veya Form 483 yanıtı için kullan."
+description: "FDA 21 CFR 820 (QSR/QMSR) denetimi için 6 soruluk hazırlık; ISO 13485 uyumlu. İç QSR denetimi, FDA incelemesi veya Form 483 yanıtı için kullan."
 ---
 
 # /cs:fda-qsr-audit-prep — FDA QSR Forcing Questions

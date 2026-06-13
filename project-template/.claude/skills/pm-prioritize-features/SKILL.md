@@ -1,6 +1,6 @@
 ---
 name: prioritize-features
-description: "İlk 5 öneriyle etki, çaba, risk ve stratejik uyumu temel alarak bir özellik fikri birikimini önceliklendirir. Bir özellik birikimini önceliklendirirken, kapsam kararları alırken veya ürün fikirlerini sıralarken kullan."
+description: "Etki, çaba, risk ve stratejik uyuma göre özellik birikimini önceliklendirir; ilk 5 öneriyle kapsam kararları ve backlog sıralama için kullan."
 ---
 
 ## Prioritize Feature Backlog

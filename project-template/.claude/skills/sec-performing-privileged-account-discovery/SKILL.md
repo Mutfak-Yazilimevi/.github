@@ -1,6 +1,6 @@
 ---
 name: performing-privileged-account-discovery
-description: "Domain admin'ler, yerel admin'ler, servis hesapları, veritabanı admin'leri, cloud IAM rolleri ve uygulama yönetici hesapları dahil olmak üzere kurumsal altyapı genelindeki tüm ayrıcalıklı hesapları keşfeder ve envanterler."
+description: "Kurumsal altyapıdaki tüm ayrıcalıklı hesapları (domain/yerel admin, servis, DB, cloud IAM, uygulama) keşfeder ve envanterler."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

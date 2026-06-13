@@ -1,6 +1,6 @@
 ---
 name: detecting-business-email-compromise-with-ai
-description: "Geleneksel kural tabanlı filtreleri atlatmanın önüne geçmek için yazım stilini, davranışsal modelleri ve bağlamsal anormallikleri analiz ederek iş e-postası güvenlik ihlali saldırılarını tespit etmek amacıyla yapay zeka ve NLP destekli tespit sistemleri dağıtır."
+description: "Yazım stili, davranışsal modeller ve bağlamsal anormallikleri analiz eden AI/NLP tabanlı iş e-postası güvenlik ihlali (BEC) tespit sistemleri dağıtır."
 domain: cybersecurity
 subdomain: phishing-defense
 tags:

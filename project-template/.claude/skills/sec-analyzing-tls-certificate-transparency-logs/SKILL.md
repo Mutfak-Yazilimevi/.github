@@ -1,6 +1,6 @@
 ---
 name: analyzing-tls-certificate-transparency-logs
-description: "Kimlik avı alanlarını, yetkisiz sertifika düzenlemesini ve shadow IT'yi tespit etmek için crt.sh ve pycrtsh aracılığıyla Certificate Transparency loglarını sorgular. Levenshtein mesafesi kullanarak typosquatting ve marka taklidi açısından yeni düzenlenen sertifikaları izler. Proaktif kimlik avı alan adı tespiti ve sertifika izleme için kullan."
+description: "crt.sh ile CT loglarını sorgular; kimlik avı alanı, yetkisiz sertifika ve shadow IT tespiti için Levenshtein mesafesiyle typosquatting izler."
 domain: cybersecurity
 subdomain: security-operations
 tags:

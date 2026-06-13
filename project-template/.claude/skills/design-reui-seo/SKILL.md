@@ -1,6 +1,6 @@
 ---
 name: reui-seo
-description: "ReUI pattern-category SEO (seo.json) yazar. Pattern SEO veya seo.json düzenlerken kullan; accordion, alert ve data-grid örneklerini takip et, verify:seo çalıştır ve cross-skills ile orchestration workflow'u oku"
+description: "ReUI pattern-category SEO (seo.json) yazar; pattern SEO veya seo.json düzenlerken, accordion/alert/data-grid örneklerini takip ederek verify:seo çalıştır."
 ---
 
 # ReUI SEO skill (short)

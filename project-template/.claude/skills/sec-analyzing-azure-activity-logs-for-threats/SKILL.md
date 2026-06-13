@@ -1,6 +1,6 @@
 ---
 name: analyzing-azure-activity-logs-for-threats
-description: "Şüpheli yönetim işlemlerini, imkansız seyahati, ayrıcalık yükseltmeyi ve kaynak değişikliklerini tespit etmek için azure-monitor-query aracılığıyla Azure Monitor etkinlik günlüklerini ve oturum açma günlüklerini sorgular. Azure ortamlarında tehdit avcılığı için KQL sorguları oluşturur. Şüpheli Azure kiracı etkinliğini araştırırken veya bulut SIEM tespitleri oluştururken kullan."
+description: "Azure Monitor/KQL ile şüpheli yönetim işlemleri, imkansız seyahat ve ayrıcalık yükseltme tespiti için Azure etkinlik ve oturum açma günlüklerini sorgular."
 domain: cybersecurity
 subdomain: security-operations
 tags:

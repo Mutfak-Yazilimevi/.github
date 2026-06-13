@@ -1,6 +1,6 @@
 ---
 name: fixing-accessibility
-description: "ARIA etiketleri, klavye navigasyonu, odak yönetimi, renk kontrastı ve form hataları dahil HTML erişilebilirlik sorunlarını denetle ve düzelt. Etkileşimli kontroller, formlar, diyaloglar eklerken veya WCAG uyumluluğunu incelerken kullan."
+description: "ARIA etiketleri, klavye navigasyonu, odak yönetimi, renk kontrastı ve form hataları dahil HTML erişilebilirlik sorunlarını denetle ve düzelt; WCAG uyumluluğu için kullan."
 ---
 
 # fixing-accessibility

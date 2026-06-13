@@ -1,6 +1,6 @@
 ---
 name: frontend-ui-engineering
-description: "Üretime hazır kalitede UI'lar oluşturur. Kullanıcıya yönelik arayüzler oluştururken veya değiştirirken kullan. Bileşenler oluştururken, düzenler uygularken, durum yönetirken veya çıktının yapay zeka tarafından üretilmiş görünmek yerine üretime hazır hissettirmesi gerektiğinde kullan."
+description: "Bileşen oluşturma, düzen, durum yönetimi dahil üretime hazır UI'lar inşa eder; yapay zeka görünümlü olmayan kaliteli çıktı gerektiğinde kullan."
 ---
 
 # Frontend UI Engineering

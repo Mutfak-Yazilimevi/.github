@@ -1,6 +1,6 @@
 ---
 name: prioritize-assumptions
-description: "Etki × Risk matrisini kullanarak varsayımları önceliklendirir ve her biri için deneyler önerir. Varsayım listesini sıralarken, önce neyi test edeceğine karar verirken veya varsayım önceliklendirme kanvasını uygularken kullan."
+description: "Etki × Risk matrisiyle varsayımları önceliklendirir ve her biri için deney önerir; varsayım önceliklendirme kanvası için kullan."
 ---
 
 ## Prioritize Assumptions

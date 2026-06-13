@@ -1,6 +1,6 @@
 ---
 name: cloudflare
-description: "Workers, Pages, depolama (KV, D1, R2), AI (Workers AI, Vectorize, Agents SDK), özellik bayrakları (Flagship), ağ iletişimi (Tunnel, Spectrum), güvenlik (WAF, DDoS) ve altyapı olarak kod (Terraform, Pulumi) kapsayan kapsamlı Cloudflare platform skill'i. Herhangi bir Cloudflare geliştirme görevi için kullan. Önceden eğitilmiş bilgi yerine Cloudflare belgelerinden almaya yönelir."
+description: "Workers, Pages, KV/D1/R2, Workers AI, Vectorize, Agents SDK, WAF, Tunnel ve Terraform/Pulumi dahil kapsamlı Cloudflare platform geliştirme skill'i."
 references:
   - workers
   - pages

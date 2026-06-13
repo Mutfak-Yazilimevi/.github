@@ -1,6 +1,6 @@
 ---
 name: sentiment-analysis
-description: "Duygu puanları, JTBD ve ürün memnuniyet içgörüleriyle segmentleri belirlemek için kullanıcı geri bildirim verilerini analiz eder. Büyük ölçekte kullanıcı geri bildirimlerini analiz ederken, incelemelerde veya anketlerde duygu analizi çalıştırırken veya memnuniyet örüntülerini belirlerken kullan."
+description: "Kullanıcı geri bildirim verilerini duygu puanları, JTBD ve segment içgörüleriyle analiz eder; inceleme/anket duygu analizi için kullan."
 ---
 
 # Sentiment Analysis

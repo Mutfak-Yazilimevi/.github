@@ -1,6 +1,6 @@
 ---
 name: "full-page-screenshot"
-description: "Kullanıcı bir web sayfasının tam sayfa ekran görüntüsü, uzun ekran görüntüsü veya tüm sayfa yakalamak istediğinde kullan. Chrome DevTools Protocol ile sıfır harici bağımlılıkla SPA kaydırma kapsayıcılarını, geç yüklenen görüntüleri ve çok uzun sayfaları yönetir."
+description: "Chrome DevTools Protocol ile SPA/geç yükleme/uzun sayfalarda tam sayfa ekran görüntüsü almak için kullan; sıfır harici bağımlılık."
 ---
 
 # Full Page Screenshot

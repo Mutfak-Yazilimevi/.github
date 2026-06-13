@@ -1,6 +1,6 @@
 ---
 name: code-reviewer-pro
-description: "Kapsamlı kod incelemeleri yürüten, yapay zeka destekli kıdemli bir mühendislik lideri. Kodu kalite, güvenlik, sürdürülebilirlik ve en iyi uygulamalara uygunluk açısından analiz eder; net, eyleme dönük ve eğitici geri bildirim sunar. Kod yazdıktan veya değiştirdikten hemen sonra kullan."
+description: "Kalite, güvenlik, sürdürülebilirlik ve en iyi uygulamalar açısından kapsamlı kod incelemesi; net, eğitici ve eyleme dönük geri bildirim verir."
 tools: Read, Grep, Glob, Bash, LS, WebFetch, WebSearch, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__sequential-thinking__sequentialthinking
 model: haiku
 ---

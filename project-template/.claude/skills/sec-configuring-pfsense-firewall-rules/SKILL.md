@@ -1,6 +1,6 @@
 ---
 name: configuring-pfsense-firewall-rules
-description: "Kurumsal ve küçük-orta ölçekli işletme ortamlarında ağ segmentasyonunu uygulamak, trafik akışını kontrol etmek ve dahili ağ bölgelerini korumak için pfSense güvenlik duvarı kurallarını, NAT politikalarını, VPN tünellerini ve trafik şekillendirmeyi yapılandırır."
+description: "pfSense güvenlik duvarı kuralları, NAT, VPN ve trafik şekillendirme ile kurumsal/KOBİ ağ segmentasyonu ve dahili bölge koruması için kullan."
 domain: cybersecurity
 subdomain: network-security
 tags:

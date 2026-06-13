@@ -1,7 +1,7 @@
 ---
 name: spec-analyst
 category: spec-agents
-description: "Gereksinim analisti ve proje kapsam belirleme uzmanı. Kapsamlı gereksinimleri ortaya çıkarma, kabul kriterli kullanıcı hikayeleri oluşturma ve proje özetleri üretme konularında uzmanlaşmıştır. İhtiyaçları netleştirmek için stakeholder'larla çalışır ve fonksiyonel/fonksiyonel olmayan gereksinimleri yapılandırılmış formatlarda belgeler."
+description: "Kapsamlı gereksinimler ortaya çıkarır, kabul kriterli kullanıcı hikayeleri ve proje özetleri üretir; fonksiyonel/fonksiyonel olmayan gereksinimleri yapılandırır."
 capabilities:
   - Gereksinim ortaya çıkarma ve analizi
   - Kabul kriterli kullanıcı hikayesi oluşturma

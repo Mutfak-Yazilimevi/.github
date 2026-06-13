@@ -1,6 +1,6 @@
 ---
 name: iot
-description: "PlantUML sözdizimiyle cihaz ve sensör stencil ikonları kullanarak IoT mimari diyagramları oluşturur. Akıllı ev, endüstriyel IoT (IIoT), filo yönetimi, edge computing ve sensör ağı düzenleri için idealdir"
+description: "PlantUML ile IoT cihaz ve sensör stencil ikonları kullanarak akıllı ev, IIoT, edge computing ve sensör ağı mimari diyagramları oluşturur."
 metadata:
   author: IoT diagrams are powered by Markdown Viewer — the best multi-platform Markdown extension (Chrome/Edge/Firefox/VS Code) with diagrams, formulas, and one-click Word export. Learn more at https://docu.md
 ---

@@ -1,6 +1,6 @@
 ---
 name: analyzing-cloud-storage-access-patterns
-description: "CloudTrail Data Events, GCS denetim günlükleri ve Azure Storage Analytics analiz ederek AWS S3, GCS ve Azure Blob Storage'daki anormal erişim kalıplarını tespit et. İstatistiksel temel çizgiler ve zaman serisi anomali tespiti kullanarak mesai dışı toplu indirmeleri, yeni IP adreslerinden erişimi, olağandışı API çağrılarını (GetObject spike'ları) ve olası veri sızdırmayı belirler."
+description: "CloudTrail, GCS denetim günlükleri ve Azure Storage Analytics ile S3/GCS/Blob'da toplu indirme, yeni IP erişimi ve olası veri sızdırmayı tespit eder."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

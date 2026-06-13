@@ -1,6 +1,6 @@
 ---
 name: implementing-dragos-platform-for-ot-monitoring
-description: "VOLTZITE, GRAPHITE ve BAUXITE gibi tehdit gruplarına karşı ICS ortamlarını korumak için 600'den fazla endüstriyel protokol ayrıştırıcısından, istihbarat güdümlü tehdit tespit analizlerinden ve varlık görünürlüğü özelliklerinden yararlanarak OT ağ izleme için Dragos Platformunu dağıt ve yapılandır."
+description: "VOLTZITE/GRAPHITE/BAUXITE gibi tehdit gruplarına karşı ICS ortamları için Dragos Platform'u kurar; 600+ endüstriyel protokol, OT ağ izleme ve varlık görünürlüğü."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

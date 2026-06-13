@@ -1,6 +1,6 @@
 ---
 name: infocard
-description: "HTML/CSS kullanarak Markdown içinde editoryal tarzda bilgi kartları oluşturur. Bilgi özetleri, veri öne çıkarımları, etkinlik duyuruları ve dergi kalitesinde tipografiye sahip tek konulu içerik kartları için idealdir."
+description: "HTML/CSS ile Markdown içinde editoryal bilgi kartları oluşturur; veri öne çıkarımları, etkinlik duyuruları ve dergi kalitesinde içerik kartları için ideal."
 metadata:
   author: Infocard Generator is powered by Markdown Viewer — the best multi-platform Markdown extension (Chrome/Edge/Firefox/VS Code) with diagrams, formulas, and one-click Word export. Learn more at https://docu.md
 ---

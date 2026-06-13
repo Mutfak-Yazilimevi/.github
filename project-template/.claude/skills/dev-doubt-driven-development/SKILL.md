@@ -1,6 +1,6 @@
 ---
 name: doubt-driven-development
-description: "Önemsiz olmayan her kararı onaylanmadan önce taze bağlamla eleştirel bir incelemeye tabi tutar. Doğruluğun hızdan daha önemli olduğu durumlarda, tanıdık olmayan kodla çalışırken, riskler yüksek olduğunda (üretim, güvenlik açısından hassas mantık, geri alınamaz işlemler) ya da güvenilir bir çıktıyı şimdi doğrulamanın sonradan hata ayıklamaktan daha ucuz olacağı her durumda kullan."
+description: "Önemsiz olmayan her kararı onaylanmadan önce eleştirel incelemeye tabi tutar. Doğruluğun kritik olduğu, üretim/güvenlik/geri alınamaz işlemlerde kullan."
 ---
 
 # Doubt-Driven Development

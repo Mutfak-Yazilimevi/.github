@@ -1,6 +1,6 @@
 ---
 name: grill-with-docs
-description: "Docs tabanlı sorgulama oturumu — bir planı projenin mevcut dili (CONTEXT.md) ve kayıtlı kararlar (docs/adr/) açısından zorlayan ve terminoloji ve kararlar netleştikçe bu dosyaları satır içi güncelleyen skill. Kullanıcı bir planı belgelenmiş alan dili karşısında stres testi yapmak istediğinde veya \"grill with docs\" ifadesini kullandığında kullan."
+description: "Planı CONTEXT.md ve docs/adr/ kayıtlı kararlarla sorgular; terminoloji netleştikçe bu dosyaları günceller. Belgelenmiş alan diliyle stres testi için kullan."
 license: MIT
 metadata:
   derived_from: "https://github.com/mattpocock/skills/tree/main/skills/engineering/grill-with-docs"

@@ -1,6 +1,6 @@
 ---
 name: tech-debt-tracker
-description: "Kod tabanlarını teknik borç için tarar, önem derecesini puanlar, eğilimleri takip eder ve önceliklendirilmiş iyileştirme planları üretir. Kullanıcılar teknik borç, kod kalitesi, yeniden düzenleme önceliği, borç puanlama, temizlik sprint'leri veya kod sağlığı değerlendirmesinden bahsettiğinde kullan. Ayrıca eski kod modernizasyon planlaması ve bakım maliyeti tahmini için de kullan"
+description: "Kod tabanını teknik borç için tarar, önem puanlar, eğilim takip eder ve önceliklendirilmiş iyileştirme planları üretir; kod kalitesi veya yeniden düzenleme önceliği için kullan."
 ---
 
 # Tech Debt Tracker

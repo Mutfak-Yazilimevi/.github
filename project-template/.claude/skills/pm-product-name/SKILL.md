@@ -1,6 +1,6 @@
 ---
 name: product-name
-description: "Marka değerleri ve hedef kitleyle uyumlu gerekçesiyle birlikte 5 benzersiz, akılda kalıcı ürün adı için beyin fırtınası yap. Yeni bir ürünü isimlendirirken, markayı yeniden adlandırırken veya ürün adı fikirleri keşfederken kullan."
+description: "Marka değerleri ve hedef kitleyle uyumlu gerekçesiyle 5 benzersiz ürün adı üretir. Yeni ürün isimlendirme veya markayı yeniden adlandırırken kullan."
 ---
 # Product Name
 

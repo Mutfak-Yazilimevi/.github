@@ -1,6 +1,6 @@
 ---
 name: team-ops
-description: "Pazarlama ekibi operasyonlarını — rolleri, iş akışlarını, ritüelleri ve devir teslimlerini — çalışan bir işletim sistemine koordine eder. Pazarlama ekibinin iş planlama ve teslimat sürecini kurmak veya düzenlemek için kullan"
+description: "Pazarlama ekibi rolleri, iş akışları, ritüeller ve devir teslimlerini çalışan bir işletim sistemine koordine eder; ekip iş planlama ve teslimat sürecini kurmak için kullan."
 ---
 
 # AI Team Ops

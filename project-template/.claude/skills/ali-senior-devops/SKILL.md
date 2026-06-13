@@ -1,6 +1,6 @@
 ---
 name: "senior-devops"
-description: "CI/CD, altyapı otomasyonu, konteynerleştirme ve bulut platformları (AWS, GCP, Azure) için kapsamlı DevOps becerisi. Pipeline kurulumu, altyapı kodu, dağıtım otomasyonu ve izlemeyi kapsar. Pipeline kurarken, uygulama dağıtırken, altyapı yönetirken, izleme uygularken veya dağıtım süreçlerini optimize ederken kullan."
+description: "CI/CD, altyapı otomasyonu, konteynerleştirme ve AWS/GCP/Azure için kapsamlı DevOps becerisi. Pipeline, IaC, dağıtım ve izleme görevlerinde kullan."
 ---
 
 # Senior Devops

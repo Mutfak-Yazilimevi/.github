@@ -1,6 +1,6 @@
 ---
 name: securing-api-gateway-with-aws-waf
-description: "OWASP Top 10 koruması için yönetilen kural gruplarını yapılandırarak, özel hız sınırlama kuralları oluşturarak, bot kontrolü uygulayarak, IP itibar filtrelemesi kurarak ve güvenlik etkinliği için WAF metriklerini izleyerek API Gateway uç noktalarını AWS WAF ile güvenli hale getirir."
+description: "OWASP Top 10 yönetilen kurallar, özel hız sınırlama, bot kontrolü ve IP itibar filtrelemesiyle API Gateway uç noktalarını AWS WAF ile güvenli hale getirir."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

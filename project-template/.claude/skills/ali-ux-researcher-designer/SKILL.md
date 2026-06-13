@@ -1,6 +1,6 @@
 ---
 name: "ux-researcher-designer"
-description: "Kıdemli UX Tasarımcı/Araştırmacı için veri odaklı persona oluşturma, yolculuk haritalama, kullanılabilirlik test çerçeveleri ve araştırma sentezini içeren UX araştırma ve tasarım araç seti. Kullanıcı araştırması, persona oluşturma, yolculuk haritalama ve tasarım doğrulama için kullan."
+description: "Veri odaklı persona oluşturma, yolculuk haritalama, kullanılabilirlik test çerçeveleri ve araştırma sentezi içeren UX araştırma ve tasarım araç seti."
 ---
 
 # UX Researcher & Designer

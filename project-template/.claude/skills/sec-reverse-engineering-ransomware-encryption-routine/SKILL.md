@@ -1,6 +1,6 @@
 ---
 name: reverse-engineering-ransomware-encryption-routine
-description: "Statik ve dinamik analiz kullanarak kriptografik algoritmaları, anahtar üretimi açıklarını ve olası şifre çözme fırsatlarını tespit etmek için fidye yazılımı şifreleme rutinlerini tersine mühendislik ile analiz eder."
+description: "Statik ve dinamik analiz ile fidye yazılımı şifreleme rutinlerini tersine mühendislik; kriptografik algoritma ve anahtar üretimi açığı tespiti için kullan."
 domain: cybersecurity
 subdomain: malware-analysis
 tags:

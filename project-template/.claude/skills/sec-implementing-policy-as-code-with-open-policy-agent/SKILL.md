@@ -1,6 +1,6 @@
 ---
 name: implementing-policy-as-code-with-open-policy-agent
-description: "Bu skill, Kubernetes ve CI/CD ardışık düzenlerinde politika-kod olarak zorunlu kılma için Open Policy Agent (OPA) ve Gatekeeper uygulamasını kapsar. Rego politikaları yazmayı, OPA Gatekeeper'ı Kubernetes kabul denetleyicisi olarak dağıtmayı, geliştirme ortamında politikaları test etmeyi ve dağıtım ardışık düzenlerine politika değerlendirmesini entegre etmeyi ele alır."
+description: "K8s ve CI/CD'de OPA/Gatekeeper ile Rego politikaları: kabul denetleyicisi dağıtımı, politika testi ve pipeline entegrasyonu için kullan."
 domain: cybersecurity
 subdomain: devsecops
 tags:

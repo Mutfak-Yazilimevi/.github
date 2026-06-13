@@ -1,6 +1,6 @@
 ---
 name: grill-with-docs
-description: "Planınızı mevcut alan modeli karşısında zorlayan, terminolojiyi keskinleştiren ve kararlar netleştikçe dokümantasyonu (CONTEXT.md, ADR'ler) satır içi güncelleyen sorgulama oturumu. Kullanıcı bir planı projenin dili ve belgelenmiş kararları karşısında stres testinden geçirmek istediğinde kullan."
+description: "Planı mevcut alan modeli ve CONTEXT.md/ADR'lere karşı sorgular, terminolojiyi keskinleştirir ve dokümantasyonu satır içi günceller; plan stres testi için kullan."
 ---
 
 <what-to-do>

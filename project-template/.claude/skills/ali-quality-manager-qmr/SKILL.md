@@ -1,6 +1,6 @@
 ---
 name: "quality-manager-qmr"
-description: "HealthTech ve MedTech şirketleri için Kıdemli Kalite Yöneticisi Sorumlu Kişi (QMR). ISO 13485 Madde 5.5.2 kapsamında kalite sistemi yönetişimi, yönetim inceleme liderliği, düzenleyici uyumluluk denetimi ve kalite performans izleme sağlar."
+description: "HealthTech/MedTech için ISO 13485 QMS yönetişimi, yönetim inceleme liderliği ve düzenleyici uyumluluk denetimi sağlayan Kalite Yöneticisi Sorumlu Kişi (QMR) rolü."
 triggers:
   - management review
   - quality policy

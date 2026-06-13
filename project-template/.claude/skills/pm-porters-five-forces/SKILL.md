@@ -1,6 +1,6 @@
 ---
 name: porters-five-forces
-description: "Porter'ın Beş Kuvvet analizini gerçekleştir — rekabetçi rekabet, tedarikçi gücü, alıcı gücü, ikame tehdidi ve yeni girenler tehdidi. Sektör dinamiklerini analiz ederken, rekabetçi güçleri değerlendirirken veya pazar çekiciliğini incelerken kullan."
+description: "Rekabetçi rekabet, tedarikçi/alıcı gücü, ikame ve yeni giriş tehditlerini kapsayan Porter'ın Beş Kuvvet analizi yapar. Sektör dinamikleri veya pazar çekiciliği için kullan."
 ---
 # Porter's Five Forces
 

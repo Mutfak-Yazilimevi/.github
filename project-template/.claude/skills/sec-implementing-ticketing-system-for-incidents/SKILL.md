@@ -1,6 +1,6 @@
 ---
 name: implementing-ticketing-system-for-incidents
-description: "Yapılandırılmış olay takibi, SLA yönetimi, eskalasyon iş akışları ve uyumluluk belgelendirmesi için SIEM uyarılarını ServiceNow, Jira veya TheHive'a bağlayan entegre bir olay biletleme sistemi uygular. SOC ekiplerinin otomatik bilet oluşturma, atama yönlendirme ve çözüm takibiyle resmi olay yaşam döngüsü yönetimine ihtiyaç duyduğunda kullan."
+description: "SIEM uyarılarını ServiceNow/Jira/TheHive'a bağlayan olay biletleme sistemi; otomatik bilet oluşturma, SLA yönetimi ve eskalasyon iş akışları için kullan."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

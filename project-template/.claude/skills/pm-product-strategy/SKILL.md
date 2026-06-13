@@ -1,6 +1,6 @@
 ---
 name: product-strategy
-description: "9 bölümlü Ürün Stratejisi Kanvası — vizyon, segmentler, maliyetler, değer önerileri, takas kararları, metrikler, büyüme, yetenekler ve savunulabilirlik — kullanarak kapsamlı bir ürün stratejisi oluşturur. Bir ürün stratejisi oluştururken, stratejik plan hazırlarken veya ürün yönünü tanımlarken kullanılır."
+description: "9 bölümlü Ürün Stratejisi Kanvası (vizyon, segmentler, değer önerileri, metrikler, büyüme, savunulabilirlik vb.) ile kapsamlı ürün stratejisi oluşturur."
 ---
 # Product Strategy Canvas
 

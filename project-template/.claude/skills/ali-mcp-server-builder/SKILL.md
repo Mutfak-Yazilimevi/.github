@@ -1,6 +1,6 @@
 ---
 name: "mcp-server-builder"
-description: "Elle yazılmış araç sarmalayıcıları yerine OpenAPI kontratlarından üretime hazır MCP (Model Context Protocol) sunucuları tasarla ve teslim et. Python ve TypeScript desteği, şema doğrulama, güvenli evrim. Mevcut bir API'yi MCP sunucusu olarak sunarken, Claude veya Codex veya Cursor için araç entegrasyonları oluştururken ya da sıfırdan bir MCP projesi iskelet oluştururken kullan."
+description: "OpenAPI kontratlarından üretime hazır MCP sunucusu tasarlar. Python/TypeScript, şema doğrulama, güvenli evrim. Claude/Codex/Cursor araç entegrasyonu için kullan."
 ---
 
 # MCP Server Builder

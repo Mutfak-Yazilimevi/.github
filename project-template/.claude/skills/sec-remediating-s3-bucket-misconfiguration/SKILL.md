@@ -1,6 +1,6 @@
 ---
 name: remediating-s3-bucket-misconfiguration
-description: "Bu skill, hassas verileri yetkisiz erişime açan Amazon S3 bucket yanlış yapılandırmalarını tespit etmek ve gidermek için adım adım prosedürler sunar. Hesap ve bucket düzeyinde S3 Block Public Access etkinleştirmeyi, bucket politikalarını ve ACL'leri denetlemeyi, şifrelemeyi uygulamayı, erişim günlüğünü yapılandırmayı ve AWS Config ile Lambda kullanarak otomatik iyileştirme dağıtmayı kapsar."
+description: "S3 yanlış yapılandırmalarını tespit edip giderir; Block Public Access, bucket politikaları, ACL denetimi, şifreleme ve AWS Config ile otomatik iyileştirme dahil."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

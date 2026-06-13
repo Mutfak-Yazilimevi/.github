@@ -1,6 +1,6 @@
 ---
 name: performing-dark-web-monitoring-for-threats
-description: "Dark web izleme, sızdırılmış kimlik bilgileri dahil bir kuruluşu hedefleyen tehditleri tespit etmek için Tor gizli servislerini, yeraltı forumlarını, paste sitelerini ve dark web pazaryerlerini sistematik olarak taramayı içerir"
+description: "Tor gizli servisleri, yeraltı forumları, paste siteleri ve dark web pazaryerlerini tarayarak sızdırılmış kimlik bilgileri dahil kurumsal tehditleri izler."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

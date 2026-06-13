@@ -1,6 +1,6 @@
 ---
 name: design-an-interface
-description: "Paralel alt ajanlar kullanarak bir modül için birden fazla kökten farklı arayüz tasarımı oluşturur. Kullanıcı bir API tasarlamak, arayüz seçeneklerini keşfetmek, modül biçimlerini karşılaştırmak veya \"iki kez tasarla\" ifadesini kullandığında kullan."
+description: "Paralel alt ajanlar kullanarak bir modül için birden fazla kökten farklı API/arayüz tasarımı oluşturur; \"iki kez tasarla\" veya arayüz seçenekleri keşfi için kullan."
 ---
 
 # Design an Interface

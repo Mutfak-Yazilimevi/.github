@@ -1,6 +1,6 @@
 ---
 name: infographic
-description: "Boşlukla ayrılmış anahtar-değer söz dizimi (YAML değil) kullanarak şablona dayalı infografikler oluşturur. KPI panoları, zaman çizelgeleri, yol haritaları, SWOT analizleri, huniler, karşılaştırmalar ve org şemaları için hızlı görsel etki amacıyla idealdir"
+description: "Boşlukla ayrılmış anahtar-değer söz dizimiyle KPI panoları, zaman çizelgeleri, SWOT, huniler ve org şemaları gibi şablona dayalı infografikler oluşturur."
 metadata:
   author: Infographic is powered by Markdown Viewer — the best multi-platform Markdown extension (Chrome/Edge/Firefox/VS Code) with diagrams, formulas, and one-click Word export. Learn more at https://docu.md
 ---

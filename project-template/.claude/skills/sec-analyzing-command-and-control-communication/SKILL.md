@@ -1,6 +1,6 @@
 ---
 name: analyzing-command-and-control-communication
-description: "Tespit geliştirme ve tehdit istihbaratı için işaret kalıplarını, komut yapılarını, veri kodlamasını ve altyapıyı anlamak amacıyla zararlı yazılım komuta ve kontrol (C2) iletişim protokollerini analiz eder. HTTP, HTTPS, DNS ve özel protokol C2 analizini kapsar. C2 analizi, işaret tespiti, C2 protokolü tersine mühendislik veya komuta ve kontrol altyapısı haritalama isteklerinde etkinleşir."
+description: "Zararlı yazılım C2 iletişim protokollerini (HTTP/HTTPS/DNS/özel) analiz eder; işaret kalıpları, komut yapısı ve altyapı haritalama için kullan."
 domain: cybersecurity
 subdomain: malware-analysis
 tags:

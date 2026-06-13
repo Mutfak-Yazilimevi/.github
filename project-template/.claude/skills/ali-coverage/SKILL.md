@@ -1,6 +1,6 @@
 ---
 name: "coverage"
-description: "Test kapsam boşluklarını analiz eder. Kullanıcı \"test coverage\", \"neyin test edilmediği\", \"kapsam boşlukları\", \"eksik testler\", \"kapsam raporu\" veya \"nelerin test edilmesi gerekiyor\" dediğinde kullan."
+description: "Test kapsam boşluklarını analiz eder; \"test coverage\", \"kapsam boşlukları\", \"eksik testler\" veya \"kapsam raporu\" dediğinde kullan."
 ---
 
 # Analyze Test Coverage Gaps

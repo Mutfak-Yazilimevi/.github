@@ -1,6 +1,6 @@
 ---
 name: analyzing-kubernetes-audit-logs
-description: "Pod'a exec, gizli erişim, RBAC değişiklikleri, ayrıcalıklı pod oluşturma ve anonim API erişimini tespit etmek için Kubernetes API sunucusu denetim günlüklerini (JSON satırları) ayrıştırır. Denetim olay kalıplarından tehdit tespit kuralları oluşturur. Kubernetes küme güvenliğini araştırırken veya k8s'e özgü SIEM tespit kuralları oluştururken kullan."
+description: "Kubernetes API sunucusu denetim günlüklerini ayrıştırarak pod exec, gizli erişim, RBAC değişiklikleri ve anonim API erişimini tespit eder; k8s SIEM kuralları oluştururken kullan."
 domain: cybersecurity
 subdomain: container-security
 tags:

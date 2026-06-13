@@ -1,6 +1,6 @@
 ---
 name: diagnose
-description: "Zor hatalar ve performans gerileme için disiplinli tanı döngüsü. Yeniden üret → küçült → hipotez kur → izle → düzelt → regresyon testi. Kullanıcı \"diagnose this\" / \"debug this\" dediğinde, hata raporladığında, bir şeyin bozuk/hata fırlatan/başarısız olduğunu söylediğinde veya performans gerilemesi tarif ettiğinde kullan."
+description: "Zor hatalar ve performans gerileme için disiplinli tanı döngüsü (yeniden üret→küçült→hipotez→izle→düzelt→regresyon testi); \"debug this\", \"diagnose\" veya hata raporlarında kullan."
 ---
 
 # Diagnose

@@ -1,6 +1,6 @@
 ---
 name: detecting-insider-data-exfiltration-via-dlp
-description: "Endpoint ve bulut günlüklerinde DLP politika ihlallerini, dosya erişim kalıplarını, yükleme hacmi anomalilerini ve mesai dışı faaliyetleri analiz ederek içeriden veri sızdırma girişimlerini tespit eder. Davranışsal analitik ve istatistiksel taban çizgileri için pandas kullanır. İçeriden tehdit araştırırken veya veri kaybını önleme amacıyla kullanıcı davranışı analitiği oluştururken kullanın."
+description: "DLP ihlalleri, dosya erişim kalıpları ve mesai dışı hacim anomalileri analiz ederek içeriden veri sızdırma girişimlerini tespit eder; UBA için pandas kullanır."
 domain: cybersecurity
 subdomain: security-operations
 tags:

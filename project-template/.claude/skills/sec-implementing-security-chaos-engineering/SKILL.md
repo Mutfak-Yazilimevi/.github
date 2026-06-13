@@ -1,6 +1,6 @@
 ---
 name: implementing-security-chaos-engineering
-description: "Tespit ve müdahale kapasitelerini doğrulamak için WAF bypass, güvenlik duvarı kuralı kaldırma, log ardışık düzen aksaklığı ve EDR devre dışı bırakma senaryolarını boto3 ve subprocess kullanarak test eden güvenlik kaos mühendisliği deneyleri uygular. SOC tespit kapsamını ve dayanıklılığını doğrularken kullan."
+description: "boto3/subprocess ile WAF bypass, güvenlik duvarı kaldırma, log aksaklığı ve EDR devre dışı senaryoları test eden güvenlik kaos mühendisliği deneyleri uygular; SOC tespit doğrulaması için kullan."
 domain: cybersecurity
 subdomain: security-operations
 tags:

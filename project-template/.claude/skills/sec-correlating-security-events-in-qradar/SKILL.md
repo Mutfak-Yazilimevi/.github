@@ -1,6 +1,6 @@
 ---
 name: correlating-security-events-in-qradar
-description: "Çok aşamalı saldırıları ağ, uç nokta ve uygulama log kaynaklarında tespit etmek için AQL (Ariel Query Language), özel kurallar, yapı taşları ve suç yönetimini kullanarak IBM QRadar SIEM'de güvenlik olaylarını ilişkilendirir. SOC analistlerinin QRadar suçlarını araştırması, korelasyon kuralları oluşturması veya yanlış pozitif oranları azaltmak için tespit mantığını ayarlaması gerektiğinde kullan."
+description: "IBM QRadar SIEM'de AQL ve özel kurallarla çok aşamalı saldırı korelasyonu; SOC analistleri için suç araştırması ve yanlış pozitif azaltma."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

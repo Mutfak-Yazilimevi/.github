@@ -1,6 +1,6 @@
 ---
 name: triaging-vulnerabilities-with-ssvc-framework
-description: "Eyleme dönüştürülebilir iyileştirme öncelikleri üretmek için CISA'nın Stakeholder-Specific Vulnerability Categorization (SSVC) karar ağacı çerçevesini kullanarak güvenlik açıklarını triyaj eder ve önceliklendirir."
+description: "CISA SSVC karar ağacıyla güvenlik açıklarını triyaj eder ve eyleme dönüştürülebilir iyileştirme öncelikleri üretir."
 domain: cybersecurity
 subdomain: vulnerability-management
 tags:

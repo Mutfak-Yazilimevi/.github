@@ -1,6 +1,6 @@
 ---
 name: "runbook-generator"
-description: "Bir hizmet adından operasyonel runbook'lar üret — dağıtım, olay müdahalesi, bakım ve geri alma iş akışları. Ortama göre özelleştirilebilen şablonlu yapı. Yeni bir hizmet için nöbet prosedürleri belgelenirken, ekipler arasında olay müdahalesi standartlaştırılırken veya üretime geçmeden önce runbook'lar hazırlanırken kullan."
+description: "Hizmet adından dağıtım, olay müdahalesi, bakım ve geri alma iş akışları içeren operasyonel runbook'lar üretir."
 ---
 
 # Runbook Generator

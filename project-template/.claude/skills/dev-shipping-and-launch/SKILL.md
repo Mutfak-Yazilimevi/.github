@@ -1,6 +1,6 @@
 ---
 name: shipping-and-launch
-description: "Üretim lansmanlarını hazırlar. Üretime dağıtıma hazırlanırken kullan. Lansman öncesi kontrol listesine ihtiyaç duyulduğunda, izleme kurulumu yapılırken, aşamalı dağıtım planlanırken veya geri alma stratejisine ihtiyaç duyulduğunda kullan."
+description: "Üretime dağıtım için lansman öncesi kontrol listesi, izleme kurulumu, aşamalı dağıtım ve geri alma stratejisi için kullan."
 ---
 
 # Shipping and Launch

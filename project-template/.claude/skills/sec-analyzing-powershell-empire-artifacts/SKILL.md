@@ -1,6 +1,6 @@
 ---
 name: analyzing-powershell-empire-artifacts
-description: "Script Block Logging olaylarında Base64 kodlu başlatıcı kalıplarını, varsayılan kullanıcı ajanlarını, aşamalama URL yapılarını, stager IOC'lerini ve bilinen Empire modül imzalarını belirleyerek Windows olay günlüklerinde PowerShell Empire çerçevesi artifaktlarını tespit et."
+description: "Windows olay günlüklerinde Base64 başlatıcı, varsayılan user-agent, stager IOC ve Empire modül imzalarını tespit ederek PowerShell Empire artifaktlarını analiz eder."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

@@ -1,6 +1,6 @@
 ---
 name: "senior-frontend"
-description: "React, Next.js, TypeScript ve Tailwind CSS uygulamaları için frontend geliştirme skill'i. React bileşenleri oluştururken, Next.js performansını optimize ederken, paket boyutlarını analiz ederken, frontend projeleri iskelet kurarken, erişilebilirlik uygularken veya frontend kod kalitesini incelerken kullan."
+description: "React, Next.js, TypeScript, Tailwind CSS geliştirme: bileşen oluşturma, performans optimizasyonu, paket analizi, erişilebilirlik ve kod kalitesi incelemeleri için kullan."
 ---
 
 # Senior Frontend

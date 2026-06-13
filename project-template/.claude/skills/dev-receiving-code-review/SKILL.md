@@ -1,6 +1,6 @@
 ---
 name: receiving-code-review
-description: "Kod incelemesi geri bildirimi alırken, önerileri uygulamadan önce, özellikle geri bildirim belirsiz veya teknik açıdan sorgulanabilir görünüyorsa kullan — performatif onay veya kör uygulama değil, teknik titizlik ve doğrulama gerektirir."
+description: "Kod incelemesi geri bildirimini değerlendirirken teknik titizlikle doğrulama yapar; belirsiz veya sorgulanabilir önerileri körü körüne uygulamak yerine analiz eder."
 ---
 
 # Code Review Reception

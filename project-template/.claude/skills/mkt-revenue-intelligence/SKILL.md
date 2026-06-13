@@ -1,6 +1,6 @@
 ---
 name: revenue-intelligence
-description: "Boru hattı ve gelir sinyallerini analiz ederek riskleri, tahmin doğruluğunu ve genişleme fırsatlarını ortaya çıkarır. CRM/boru hattı verilerini gelir içgörülerine ve sonraki adımlara dönüştürmek için kullan."
+description: "Pipeline ve gelir sinyallerini analiz ederek risk, tahmin doğruluğu ve genişleme fırsatlarını ortaya çıkarır; CRM verilerini gelir içgörülerine dönüştürür."
 ---
 
 # AI Revenue Intelligence

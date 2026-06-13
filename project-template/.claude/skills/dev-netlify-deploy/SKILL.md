@@ -1,6 +1,6 @@
 ---
 name: netlify-deploy
-description: "Netlify CLI (`npx netlify`) kullanarak web projelerini Netlify'a dağıtır. Kullanıcı Netlify'da site/repo dağıtmak, barındırmak, yayımlamak veya bağlamak istediğinde kullan; önizleme ve prodüksiyon dağıtımları dahil."
+description: "Netlify CLI ile web projelerini Netlify'a dağıtır; önizleme ve prodüksiyon dahil site barındırma, yayımlama veya repo bağlamak için kullan."
 ---
 
 # Netlify Deployment Skill

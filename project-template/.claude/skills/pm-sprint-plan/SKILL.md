@@ -1,6 +1,6 @@
 ---
 name: sprint-plan
-description: "Kapasite tahmini, hikaye seçimi, bağımlılık haritalama ve risk belirleme ile bir sprint planla. Sprint planlamasına hazırlanırken, ekip kapasitesini tahmin ederken, hikayeleri seçerken veya sprint kapsamını hız ile dengelerken kullan."
+description: "Kapasite tahmini, hikaye seçimi, bağımlılık haritalama ve risk belirleme ile sprint planlar. Sprint hazırlığı veya kapasite/hız dengeleme için kullan."
 ---
 
 ## Sprint Planning

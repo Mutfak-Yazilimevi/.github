@@ -1,6 +1,6 @@
 ---
 name: privacy-policy
-description: "Veri türleri, yargı yetkisi, GDPR ve uyumluluk hususlarını ve hukuki inceleme gerektiren maddeleri kapsayan ayrıntılı bir gizlilik politikası taslağı hazırlar. Gizlilik politikası oluştururken, veri koruma belgelerini güncellerken veya uyumluluk için hazırlanırken kullan."
+description: "Veri türleri, yargı yetkisi, GDPR ve uyumluluk hususlarını kapsayan gizlilik politikası taslağı hazırlar; hukuki inceleme gerektiren maddeler dahil."
 ---
 # Privacy Policy Generator
 

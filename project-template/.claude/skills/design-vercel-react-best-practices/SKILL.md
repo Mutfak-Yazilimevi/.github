@@ -1,6 +1,6 @@
 ---
 name: vercel-react-best-practices
-description: "Vercel Engineering'den React ve Next.js performans optimizasyon yönergeleri. React/Next.js kodu yazarken, incelerken veya yeniden düzenlerken optimal performans kalıplarını sağlamak için kullan. React bileşenleri, Next.js sayfaları, veri getirme, paket optimizasyonu veya performans iyileştirmeleri içeren görevlerde tetikle."
+description: "Vercel Engineering'den React ve Next.js performans optimizasyon yönergeleri; bileşen yazımı, veri getirme ve paket optimizasyonu için kullan."
 ---
 
 # Vercel React Best Practices

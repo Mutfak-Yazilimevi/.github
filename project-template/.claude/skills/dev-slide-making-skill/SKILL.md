@@ -1,6 +1,6 @@
 ---
 name: slide-making-skill
-description: "PptxGenJS ile tek slaytlık PowerPoint sayfaları uygular. Slayt JS dosyaları yazarken veya düzeltirken kullan: boyutlar, konumlandırma, metin/resim/grafik API'leri, stil kuralları ve yerel .pptx çıktısı için dışa aktarma beklentileri."
+description: "PptxGenJS ile tek slaytlık PowerPoint sayfaları uygular: boyutlar, metin/resim/grafik API, stil ve .pptx çıktısı için kullan."
 ---
 
 # PptxGenJS Slide Making Skill

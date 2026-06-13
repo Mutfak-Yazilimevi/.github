@@ -1,6 +1,6 @@
 ---
 name: "ma-playbook"
-description: "Şirket satın alma veya satın alınma için M&A stratejisi. Durum tespiti, değerleme, entegrasyon ve anlaşma yapısı. Satın almaları değerlendirirken, satın almaya hazırlanırken, M&A durum tespiti, entegrasyon planlaması veya anlaşma müzakeresi için kullan."
+description: "Şirket satın alma veya satın alınma için M&A stratejisi: durum tespiti, değerleme, entegrasyon ve anlaşma yapısı."
 license: MIT
 metadata:
   version: 1.0.0

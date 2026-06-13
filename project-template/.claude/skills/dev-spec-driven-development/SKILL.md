@@ -1,6 +1,6 @@
 ---
 name: spec-driven-development
-description: "Kodlamadan önce spec oluşturur. Yeni bir proje, özellik veya önemli değişikliğe başlarken ve henüz bir spesifikasyon yokken kullan. Gereksinimler belirsiz, muğlak veya yalnızca vague bir fikir olarak mevcutsa kullan"
+description: "Kodlamadan önce spec oluşturur; yeni proje/özellik/değişiklikte gereksinimler belirsiz veya henüz spec yokken kullan."
 ---
 
 # Spec-Driven Development

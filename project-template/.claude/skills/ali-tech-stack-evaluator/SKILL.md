@@ -1,6 +1,6 @@
 ---
 name: "tech-stack-evaluator"
-description: "TCO analizi, güvenlik değerlendirmesi ve ekosistem sağlık puanlamasıyla teknoloji yığını değerlendirmesi ve karşılaştırması yapar. Framework'leri karşılaştırırken, teknoloji yığınlarını değerlendirirken, toplam sahip olma maliyetini hesaplarken, geçiş yollarını değerlendirirken veya ekosistem yaşayabilirliğini analiz ederken kullan"
+description: "TCO analizi, güvenlik değerlendirmesi ve ekosistem sağlık puanlamasıyla teknoloji yığını karşılaştırması yapar; framework seçimi veya geçiş yolu değerlendirmesi için kullan."
 ---
 
 # Technology Stack Evaluator

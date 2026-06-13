@@ -1,6 +1,6 @@
 ---
 name: implementing-aws-security-hub-compliance
-description: "AWS hesapları genelinde güvenlik bulgularını toplamak için AWS Security Hub uygulama, CIS AWS Foundations ve PCI DSS gibi uyumluluk standartlarını etkinleştirme, EventBridge ve Lambda ile otomatik düzeltme yapılandırma ve kurumsal risk yönetimi için özel güvenlik öngörüleri oluşturma."
+description: "AWS Security Hub ile CIS/PCI DSS uyumluluğu etkinleştirme, EventBridge/Lambda otomatik düzeltme ve özel güvenlik öngörüleri oluşturma; çok hesap bulgu toplama için kullan."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

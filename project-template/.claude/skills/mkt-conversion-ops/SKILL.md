@@ -1,6 +1,6 @@
 ---
 name: conversion-ops
-description: "Huniler genelinde dönüşüm oranı optimizasyonu işlemlerini yürütmek için kullan — düşüş noktalarını teşhis et, deneyler öner, CRO düzeltmelerini önceliklendir. Kayıt, ödeme veya açılış sayfası dönüşümünü yapılandırılmış bir ops iş akışıyla iyileştirmek için kullan."
+description: "Huni dönüşüm oranı optimizasyonu için kullan — düşüş noktası teşhisi, deney önerileri, CRO düzeltme önceliklendirmesi; kayıt/ödeme/açılış sayfası iyileştirmesi."
 ---
 
 # AI Conversion Ops

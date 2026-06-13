@@ -1,6 +1,6 @@
 ---
 name: implementing-azure-defender-for-cloud
-description: "Bulut güvenlik duruşu yönetimini etkinleştirmek, VM'ler, konteynerler, veritabanları ve depolamada iş yükü koruması sağlamak, güvenlik önerilerini yapılandırmak ve otomatik düzeltmeyle uyarlanabilir güvenlik denetimleri kurmak için Microsoft Defender for Cloud uygulanıyor."
+description: "Microsoft Defender for Cloud ile CSPM etkinleştirir, VM/konteyner/veritabanı/depolama iş yükü koruması sağlar ve otomatik düzeltme kurar."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

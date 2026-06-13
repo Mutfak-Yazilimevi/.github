@@ -1,6 +1,6 @@
 ---
 name: detecting-modbus-command-injection-attacks
-description: "ICS ortamlarında Modbus TCP/RTU protokolüne yönelik komut enjeksiyon saldırılarını; ICS'e duyarlı IDS ve protokol derin paket incelemesi kullanarak yetkisiz yazma işlemlerini, anormal fonksiyon kodlarını, hatalı biçimlendirilmiş çerçeveleri ve yerleşik iletişim taban çizgilerinden sapmaları izleyerek tespit eder."
+description: "ICS ortamlarında Modbus TCP/RTU'ya yönelik yetkisiz yazma, anormal fonksiyon kodları ve hatalı çerçeveleri IDS ve derin paket inceleme ile tespit eder."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

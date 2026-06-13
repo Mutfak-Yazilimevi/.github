@@ -1,6 +1,6 @@
 ---
 name: hunting-for-command-and-control-beaconing
-description: "Saldırgan altyapısıyla iletişim kuran ele geçirilmiş endpoint'leri belirlemek amacıyla frekans analizi, jitter tespiti ve alan itibarını kullanarak ağ trafiğindeki C2 işaretleme kalıplarını tespit eder."
+description: "Frekans analizi, jitter tespiti ve alan itibarıyla ağ trafiğindeki C2 işaretleme kalıplarını tespit eder; ele geçirilmiş endpoint belirleme için kullan."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

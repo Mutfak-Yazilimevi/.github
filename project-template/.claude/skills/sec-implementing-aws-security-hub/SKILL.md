@@ -1,6 +1,6 @@
 ---
 name: implementing-aws-security-hub
-description: "Bu skill, GuardDuty, Inspector, Macie ve üçüncü taraf araçlardan gelen bulguları toplayan merkezi bir bulut güvenlik duruşu yönetim platformu olarak AWS Security Hub dağıtımını kapsar. CIS AWS Foundations Benchmark gibi güvenlik standartlarını etkinleştirmeyi, otomatik düzeltme yapılandırmayı ve çok hesaplı AWS organizasyonlarında uyumluluk takibi için yönetici panoları oluşturmayı ele alır."
+description: "AWS Security Hub ile GuardDuty/Inspector/Macie bulgularını toplar; CIS Benchmark, otomatik düzeltme ve çok hesaplı uyumluluk takibi için kullan."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: implementing-security-information-sharing-with-stix2
-description: "stix2 Python kütüphanesini kullanarak STIX 2.1 tehdit istihbaratı nesneleri oluştur, doğrula ve paylaş. Göstergeler, kötü amaçlı yazılımlar, kampanyalar, ilişkiler, paketler ve TAXII 2.1 yayımlama konularını kapsar."
+description: "stix2 Python kütüphanesiyle STIX 2.1 tehdit istihbaratı nesneleri oluşturur, doğrular ve TAXII 2.1 üzerinden paylaşır."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

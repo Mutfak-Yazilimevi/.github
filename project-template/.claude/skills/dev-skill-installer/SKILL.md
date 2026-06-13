@@ -1,6 +1,6 @@
 ---
 name: skill-installer
-description: "Seçilmiş listeden veya GitHub repo yolundan $CODEX_HOME/skills dizinine Codex skill'leri yükler. Kullanıcı kurulabilir skill'leri listelemek, seçilmiş bir skill kurmak ya da başka bir repodan (özel repolar dahil) skill kurmak istediğinde kullan."
+description: "Seçilmiş listeden veya GitHub repo yolundan $CODEX_HOME/skills dizinine Codex skill'leri yükler; özel repolar dahil skill kurulumu için kullan."
 metadata:
   short-description: Install curated skills from openai/skills or other repos
 ---

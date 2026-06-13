@@ -1,6 +1,6 @@
 ---
 name: performing-phishing-simulation-with-gophish
-description: "GoPhish, güvenlik ekiplerinin yetkili kimlik avı farkındalık kampanyaları yürütmesi için kullanılan açık kaynaklı bir kimlik avı simülasyon çerçevesidir. Kampanya yönetimi, e-posta şablonu oluşturma, açılış sayfası ve raporlama işlevleri sunar."
+description: "GoPhish ile yetkili kimlik avı farkındalık kampanyaları yürütür; kampanya yönetimi, e-posta şablonları, açılış sayfası ve raporlama içerir."
 domain: cybersecurity
 subdomain: phishing-defense
 tags:

@@ -1,6 +1,6 @@
 ---
 name: algorithmic-art
-description: "Tohumlanmış rastgelelik ve etkileşimli parametre keşfi ile p5.js kullanarak algoritmik sanat oluşturur. Kullanıcılar kod kullanarak sanat oluşturma, üretici sanat, algoritmik sanat, akış alanları veya parçacık sistemleri talep ettiğinde kullan. Telif hakkı ihlallerinden kaçınmak için mevcut sanatçıların çalışmalarını kopyalamak yerine özgün algoritmik sanat oluştur."
+description: "p5.js ile tohumlanmış rastgelelik ve etkileşimli parametrelerle özgün algoritmik sanat, akış alanları ve parçacık sistemleri oluşturur."
 license: Complete terms in LICENSE.txt
 ---
 

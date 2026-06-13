@@ -1,6 +1,6 @@
 ---
 name: "qms-audit-expert"
-description: "Tıbbi cihaz QMS için ISO 13485 iç denetim uzmanlığı. Denetim planlaması, yürütme, uygunsuzluk sınıflandırması ve CAPA doğrulamasını kapsar. İç denetim planlaması, denetim yürütme, bulgu sınıflandırması, dış denetim hazırlığı veya denetim programı yönetimi için kullan."
+description: "Tıbbi cihaz QMS için ISO 13485 iç denetim uzmanlığı; denetim planlaması, CAPA doğrulaması ve dış denetim hazırlığını kapsar."
 triggers:
   - ISO 13485 audit
   - internal audit

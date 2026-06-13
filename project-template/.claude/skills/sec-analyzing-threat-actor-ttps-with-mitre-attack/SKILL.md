@@ -1,6 +1,6 @@
 ---
 name: analyzing-threat-actor-ttps-with-mitre-attack
-description: "MITRE ATT&CK, gerçek dünya gözlemlerine dayanan, düşman taktiklerinin, tekniklerinin ve prosedürlerinin (TTP) küresel olarak erişilebilir bir bilgi tabanıdır. Bu beceri, tehdit aktörü davranışlarını sistematik olarak haritalandırmayı kapsar."
+description: "MITRE ATT&CK bilgi tabanıyla tehdit aktörü TTP'lerini (taktik, teknik, prosedür) sistematik olarak haritalandırır ve analiz eder."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

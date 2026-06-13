@@ -1,6 +1,6 @@
 ---
 name: securing-aws-lambda-execution-roles
-description: "En az ayrıcalıklı IAM politikaları uygulayarak, izin sınırları ekleyerek, kaynak tabanlı politikaları kısıtlayarak, izinleri doğrulamak için IAM Access Analyzer kullanarak ve SCP'ler aracılığıyla rol kapsamını zorunlu kılarak AWS Lambda yürütme rollerini güvenli hale getirir."
+description: "En az ayrıcalıklı IAM politikaları, izin sınırları, IAM Access Analyzer ve SCP'lerle AWS Lambda yürütme rollerini güvenli hale getirir."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

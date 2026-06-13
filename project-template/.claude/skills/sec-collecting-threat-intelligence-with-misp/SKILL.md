@@ -1,6 +1,6 @@
 ---
 name: collecting-threat-intelligence-with-misp
-description: "MISP (Malware Information Sharing Platform), hedefli saldırıların, tehdit aktörlerinin ve kötü amaçlı yazılım kampanyalarının Uzlaşma Göstergelerini (IOC) toplamak, paylaşmak, depolamak ve ilişkilendirmek için açık kaynaklı bir tehdit istihbaratı platformudur. T"
+description: "MISP açık kaynaklı tehdit istihbarat platformuyla hedefli saldırı, tehdit aktörü ve kötü amaçlı yazılım kampanyası IOC'lerini toplar, paylaşır ve ilişkilendirir."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

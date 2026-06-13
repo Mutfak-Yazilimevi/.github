@@ -1,6 +1,6 @@
 ---
 name: performing-privilege-escalation-on-linux
-description: "Linux ayrıcalık yükseltme, ele geçirilmiş bir sistemde düşük ayrıcalıklı kullanıcı hesabından root erişimine yükselmeyi içerir. Kırmızı ekipler yanlış yapılandırmaları, savunmasız servisleri, kernel açıklarını ve diğer vektörleri kullanır."
+description: "Linux'ta düşük ayrıcalıklı kullanıcıdan root'a yükselmek için yanlış yapılandırma, savunmasız servis ve kernel açıklarını istismar eden red team tekniği."
 domain: cybersecurity
 subdomain: red-teaming
 tags:

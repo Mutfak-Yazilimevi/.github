@@ -1,6 +1,6 @@
 ---
 name: implementing-supply-chain-security-with-in-toto
-description: "in-toto çerçevesini kullanarak CI/CD pipeline adımlarında kriptografik olarak imzalanmış kanıtlamalar oluşturmak suretiyle konteyner derlemeleri için yazılım tedarik zinciri bütünlük doğrulaması uygular."
+description: "in-toto ile CI/CD adımlarında kriptografik imzalı kanıtlamalar oluşturarak konteyner derlemeleri için yazılım tedarik zinciri bütünlük doğrulaması uygular."
 domain: cybersecurity
 subdomain: container-security
 tags:

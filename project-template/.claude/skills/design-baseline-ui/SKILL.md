@@ -1,6 +1,6 @@
 ---
 name: baseline-ui
-description: "Tailwind CSS projelerinde animasyon sürelerini doğrular, tipografi ölçeğini zorlar, bileşen erişilebilirliğini kontrol eder ve düzen anti-pattern'larını önler. UI bileşenleri oluştururken, CSS araçlarını incelerken, React görünümlerini şekillendirirken veya tasarım tutarlılığını zorunlu kılarken kullan"
+description: "Tailwind CSS projelerinde animasyon sürelerini doğrular, tipografi ölçeğini zorlar, erişilebilirliği denetler ve düzen anti-pattern'larını önler; UI bileşenleri oluştururken kullan."
 ---
 
 # Baseline UI

@@ -1,6 +1,6 @@
 ---
 name: writing-fragments
-description: "Kullanıcıyı fragment'lar — heterojen yazı parçacıkları (iddialar, sahneler, keskin cümleler, yarım düşünceler) — için sorgular ve bunları gelecekteki bir makalenin ham materyali olarak tek bir belgeye ekler. Kullanıcı yapı dayatmadan önce fikirlerini geliştirmek istediğinde ya da yazı için \"fragments\", \"ideate\" veya \"raw material\" ifadelerinden bahsettiğinde kullan."
+description: "Yapılandırılmamış ham yazı parçacıkları (iddialar, sahneler, keskin cümleler) toplar; \"fragments\", \"ideate\" veya \"raw material\" denildiğinde kullan."
 ---
 
 <what-to-do>

@@ -1,6 +1,6 @@
 ---
 name: "focused-fix"
-description: "Kullanıcı belirli bir özellik/modül/alanı uçtan uca çalıştırmasını, hata ayıklamasını veya düzeltmesini istediğinde kullan. Tetikleyiciler: 'X'i çalıştır', 'Y özelliğini düzelt', 'Z modülü bozuk', '[alan]a odaklan'. Hızlı tek hata düzeltmeleri için değil — bu, tüm dosyalar ve bağımlılıklar genelinde sistematik derin inceleme onarımı içindir."
+description: "Belirli bir özellik/modül/alanı uçtan uca çalıştırma, hata ayıklama veya düzeltme için tüm dosyalar ve bağımlılıklar genelinde sistematik derin inceleme onarımı yapar."
 ---
 
 # Focused Fix — Deep-Dive Feature Repair

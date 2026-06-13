@@ -1,6 +1,6 @@
 ---
 name: "social-media-analyzer"
-description: "Sosyal medya kampanyası analizi ve performans takibi. Platformlar genelinde etkileşim oranlarını, ROI'u ve kıyaslamaları hesaplar. Sosyal medya performansını analiz etmek, etkileşim oranını hesaplamak, kampanya ROI'unu ölçmek, platform metriklerini karşılaştırmak veya sektör standartlarına göre kıyaslama yapmak için kullan."
+description: "Platformlar genelinde sosyal medya etkileşim oranı, kampanya ROI ve sektör kıyaslamaları hesaplar; performans analizi ve metrik karşılaştırması için kullan."
 triggers:
   - analyze social media
   - calculate engagement rate

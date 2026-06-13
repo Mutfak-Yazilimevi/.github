@@ -1,6 +1,6 @@
 ---
 name: analyzing-persistence-mechanisms-in-linux
-description: "Auditd ve dosya bütünlüğü izleme kullanarak crontab girişleri, systemd hizmet birimleri, LD_PRELOAD ele geçirme, bashrc değişiklikleri ve authorized_keys arka kapıları dahil Linux kalıcılık mekanizmalarını tespit et ve analiz et"
+description: "Auditd ve FIM ile crontab, systemd, LD_PRELOAD, bashrc ve authorized_keys gibi Linux kalıcılık mekanizmalarını tespit et ve analiz et."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

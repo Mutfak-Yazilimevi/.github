@@ -1,6 +1,6 @@
 ---
 name: metrics-dashboard
-description: "Temel metrikler, veri kaynakları, görselleştirme türleri ve uyarı eşikleriyle bir ürün metrikleri panosu tanımla ve tasarla. Metrikler panosu oluştururken, KPI'ları tanımlarken, ürün analitiği kurarken veya veri izleme planı oluştururken kullan."
+description: "Temel metrikler, veri kaynakları, görselleştirme türleri ve uyarı eşikleriyle ürün metrikleri panosu tanımlar. KPI veya ürün analitiği kurulumu için kullan."
 ---
 
 ## Product Metrics Dashboard

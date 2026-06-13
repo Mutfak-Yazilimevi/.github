@@ -1,6 +1,6 @@
 ---
 name: north-star-metric
-description: "Bir metrik takımyıldızı oluşturan North Star Metriği ve 3-5 destekleyici girdi metrikleri tanımlar. İş oyununu (Dikkat, İşlem, Verimlilik) sınıflandırır ve etkili bir North Star için 7 kriter karşısında doğrular. North Star Metriği seçerken, metrik çerçevesi kurarken, North Star Çerçevesi öğrenirken veya neyin ölçüleceğine karar verirken kullan."
+description: "North Star Metriği ve 3-5 destekleyici girdi metriği tanımlar; iş oyununu sınıflandırır ve 7 kriter karşısında doğrular."
 ---
 # North Star Metric
 

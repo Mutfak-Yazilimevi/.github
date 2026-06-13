@@ -1,6 +1,6 @@
 ---
 name: code-refactorer-agent
-description: "Mevcut kod yapısını, okunabilirliğini veya sürdürülebilirliğini işlevselliği değiştirmeden iyileştirmeniz gerektiğinde bu ajanı kullanın. Bu, dağınık kodu temizlemeyi, tekrarı azaltmayı, isimlendirmeyi iyileştirmeyi, karmaşık mantığı sadeleştirmeyi veya daha iyi netlik için kodu yeniden düzenlemeyi içerir."
+description: "Kodu işlevselliği değiştirmeden temizler: tekrar azaltma, isimlendirme iyileştirme, karmaşık mantık sadeleştirme ve yeniden düzenleme için kullan."
 tools: Edit, MultiEdit, Write, NotebookEdit, Grep, LS, Read
 color: blue
 model: sonnet

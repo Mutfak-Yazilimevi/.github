@@ -1,6 +1,6 @@
 ---
 name: brainstorm-ideas-new
-description: "PM, Tasarımcı ve Mühendis perspektiflerinden ilk keşif aşamasındaki yeni bir ürün için özellik fikirleri üretir. Yeni bir ürün için ürün keşfine başlarken, bir startup fikri için özellik araştırması yaparken veya ilk ideasyon aşamasında kullan."
+description: "PM, Tasarımcı ve Mühendis perspektiflerinden yeni ürün için özellik fikirleri üretir; erken keşif ve startup fikri ideasyon aşamasında kullan."
 ---
 
 ## Brainstorm Product Ideas (New Product)

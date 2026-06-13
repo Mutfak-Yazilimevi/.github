@@ -1,6 +1,6 @@
 ---
 name: request-refactor-plan
-description: "Kullanıcı görüşmesi aracılığıyla küçük commit'lerle ayrıntılı bir yeniden düzenleme planı oluşturur, ardından bunu bir GitHub issue'su olarak dosyalar. Kullanıcı bir yeniden düzenleme planlamak, yeniden düzenleme RFC'si oluşturmak veya bir yeniden düzenlemeyi güvenli artımlı adımlara bölmek istediğinde kullan."
+description: "Kullanıcı görüşmesiyle küçük commit'lere bölünmüş yeniden düzenleme planı oluşturur ve GitHub issue olarak dosyalar; güvenli artımlı refactor için kullan."
 ---
 
 This skill will be invoked when the user wants to create a refactor request. You should go through the steps below. You may skip steps if you don't consider them necessary.

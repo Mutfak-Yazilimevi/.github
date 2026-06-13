@@ -1,6 +1,6 @@
 ---
 name: building-c2-infrastructure-with-sliver-framework
-description: "Yetkili kırmızı takım tatbikatları için BishopFox'un Sliver C2 framework'ünü yönlendiriciler, HTTPS dinleyicileri ve çok operatörlü destek ile kullanarak dayanıklı bir komuta ve kontrol altyapısı oluşturur ve yapılandırır."
+description: "Yetkili red team için Sliver C2 framework'ünü yönlendiriciler, HTTPS dinleyicileri ve çok operatörlü destekle kurar ve yapılandırır."
 domain: cybersecurity
 subdomain: red-teaming
 tags:

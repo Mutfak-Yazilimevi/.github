@@ -1,6 +1,6 @@
 ---
 name: retro
-description: "Yapılandırılmış bir sprint retrospektifi yönetir — iyi gidenler, gitmeyenler ve sahipleri ile son tarihli önceliklendirilmiş eylem maddeleri. Retrospektif yaparken, bir sprint üzerine düşünürken, ekip geri bildiriminden eylem maddeleri oluştururken veya etkili retrospektif nasıl yürütülür öğrenirken kullan."
+description: "İyi gidenler, gitmeyenler ve sahipli eylem maddeleriyle yapılandırılmış sprint retrospektifi yönetir; retro yürütme veya ekip geri bildirimi için kullan."
 ---
 
 ## Sprint Retrospective Facilitator

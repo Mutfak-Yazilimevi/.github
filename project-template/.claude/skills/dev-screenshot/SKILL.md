@@ -1,6 +1,6 @@
 ---
 name: "screenshot"
-description: "Kullanıcı masaüstü veya sistem ekran görüntüsü (tam ekran, belirli uygulama ya da pencere, veya piksel bölgesi) istediğinde ya da araç bazlı yakalama özellikleri mevcut olmadığında ve işletim sistemi düzeyinde yakalama gerektiğinde kullan."
+description: "İşletim sistemi düzeyinde tam ekran, belirli uygulama veya piksel bölgesi masaüstü ekran görüntüsü almak için kullan."
 ---
 
 

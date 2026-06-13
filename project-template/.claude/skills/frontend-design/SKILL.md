@@ -1,6 +1,6 @@
 ---
 name: frontend-design
-description: "Yeni UI oluştururken veya mevcut birini yeniden şekillendirirken ayırt edici, kasıtlı görsel tasarım için rehberlik. Estetik yönlendirme, tipografi ve şablon varsayılanları gibi görünmeyen seçimler yapma konusunda yardımcı olur."
+description: "Yeni UI oluştururken veya yeniden şekillendirirken kasıtlı görsel tasarım, tipografi ve estetik yönlendirme sağlar."
 license: Complete terms in LICENSE.txt
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: hunting-for-data-staging-before-exfiltration
-description: "EDR ve süreç telemetrisi aracılığıyla 7-Zip/RAR ile arşiv oluşturma, olağandışı geçici klasör erişimi, büyük dosya konsolidasyonu ve hazırlama dizini kalıplarını izleyerek sızdırma öncesi veri hazırlama faaliyetini tespit eder."
+description: "EDR ve süreç telemetrisi ile 7-Zip/RAR arşivleme, geçici klasör erişimi ve büyük dosya konsolidasyonu izleyerek sızdırma öncesi veri hazırlama faaliyetini tespit eder."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

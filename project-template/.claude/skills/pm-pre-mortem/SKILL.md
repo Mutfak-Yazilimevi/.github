@@ -1,6 +1,6 @@
 ---
 name: pre-mortem
-description: "Bir PRD veya lansman planında ön-mortem risk analizi yürüt. Riskleri Kaplanlar (gerçek sorunlar), Kağıt Kaplanlar (abartılmış endişeler) ve Filler (dile getirilmemiş endişeler) olarak kategorize eder, ardından lansman engelleyici, hızlı takip veya izle olarak sınıflandırır. Lansmana hazırlanırken, bir ürün planını stres testine tabi tutarken veya nelerin yanlış gidebileceğini belirlerken kullan."
+description: "PRD veya lansman planı için ön-mortem risk analizi; riskleri Kaplanlar, Kağıt Kaplanlar ve Filler olarak kategorize edip lansman engelleyici/hızlı takip/izle şeklinde sınıflandırır."
 ---
 
 # Pre-Mortem: Risk Analysis for Product Launch

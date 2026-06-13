@@ -1,6 +1,6 @@
 ---
 name: migrate-xunit-to-xunit-v3
-description: ".NET test projelerini xUnit.net v2'den xUnit.net v3'e geçirir. KULLANIM: xunit'i xunit.v3'e yükseltmek için. KULLANMA: test framework'leri arasında geçiş (MSTest/NUnit'ten xUnit.net'e), VSTest'ten Microsoft.Testing.Platform'a geçiş (bunun için migrate-vstest-to-mtp kullan). xUnit v3 MTP filtre sözdizimi (--filter-class, --filter-trait, --filter-query) için migrate-vstest-to-mtp skill'ini de yükle."
+description: ".NET test projelerini xUnit v2'den xUnit v3'e geçirir. MSTest/NUnit→xUnit veya VSTest→MTP geçişi için DEĞİL; bunlar için migrate-vstest-to-mtp'yi kullan."
 license: MIT
 ---
 

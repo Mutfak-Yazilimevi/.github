@@ -1,6 +1,6 @@
 ---
 name: writing-shape
-description: "Ham materyalin bulunduğu bir markdown dosyasını alarak konuşma oturumu aracılığıyla bir makaleye dönüştür — aday açılışlar taslak, paragraf paragraf büyüt, her adımda biçim (listeler, tablolar, uyarılar, alıntılar) üzerine tartış. Kullanıcının notlar, parçalar veya kaba taslak yığını olduğunda ve bunu yayımlanabilir bir şeye dönüştürmeye yardım istediğinde kullan."
+description: "Ham markdown notları konuşma oturumunda makaleye dönüştürür; açılış, paragraf büyütme ve biçim tartışmasıyla yayımlanabilir içerik üretir."
 ---
 
 <what-to-do>

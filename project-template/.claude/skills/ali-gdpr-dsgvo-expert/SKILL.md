@@ -1,6 +1,6 @@
 ---
 name: "gdpr-dsgvo-expert"
-description: "GDPR ve Almanca DSGVO uyumluluk otomasyonu. Gizlilik riskleri için kod tabanlarını tarar, DPIA belgesi oluşturur, veri sahibi hakları taleplerini izler. GDPR uyumluluk değerlendirmeleri, gizlilik denetimleri, veri koruma planlaması, DPIA üretimi ve veri sahibi hakları yönetimi için kullan."
+description: "GDPR/DSGVO uyumluluğu için kod tabanı gizlilik riski taraması, DPIA belgesi üretimi ve veri sahibi hakları yönetimi yapar."
 ---
 
 # GDPR/DSGVO Expert

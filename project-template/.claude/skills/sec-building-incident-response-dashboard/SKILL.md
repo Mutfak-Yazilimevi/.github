@@ -1,6 +1,6 @@
 ---
 name: building-incident-response-dashboard
-description: "Aktif olaylar sırasında etkilenen sistemleri, izolasyon durumunu, IOC yayılımını ve yanıt zaman çizelgesini izleyerek SOC analistlerine ve yönetime durumsal farkındalık sağlamak için Splunk, Elastic veya Grafana'da gerçek zamanlı olay müdahale gösterge panelleri oluşturur. IR ekiplerinin olay koordinasyonu ve olay sonrası raporlama sırasında birleşik görünürlüğe ihtiyaç duyduğunda kullan."
+description: "Splunk/Elastic/Grafana'da etkilenen sistemler, IOC yayılımı ve yanıt zaman çizelgesini gerçek zamanlı gösteren IR gösterge paneli oluşturur."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

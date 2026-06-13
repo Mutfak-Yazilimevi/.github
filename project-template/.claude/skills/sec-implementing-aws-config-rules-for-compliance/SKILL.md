@@ -1,6 +1,6 @@
 ---
 name: implementing-aws-config-rules-for-compliance
-description: "AWS kaynaklarının sürekli uyumluluk izlemesi için AWS Config kuralları uygulama, CIS ve PCI DSS çerçevelerine uyumlu yönetilen ve özel kurallar dağıtma, SSM Automation ile otomatik düzeltme yapılandırma ve hesaplar genelinde uyumluluk verilerini toplama."
+description: "CIS/PCI DSS uyumlu AWS Config kuralları dağıtır, SSM Automation ile otomatik düzeltme yapılandırır ve hesaplar genelinde uyumluluk izler."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

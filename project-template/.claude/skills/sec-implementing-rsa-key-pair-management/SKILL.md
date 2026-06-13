@@ -1,6 +1,6 @@
 ---
 name: implementing-rsa-key-pair-management
-description: "RSA (Rivest-Shamir-Adleman), dijital imzalar, anahtar değişimi ve şifreleme için kullanılan en yaygın asimetrik kriptografik algoritmadır. Bu skill, anahtar oluşturma, depolama, rotasyon ve daha fazlasını kapsar."
+description: "RSA asimetrik kriptografi için anahtar oluşturma, depolama, rotasyon ve yönetim süreçlerini uygular; dijital imza ve şifreleme senaryoları için kullan."
 domain: cybersecurity
 subdomain: cryptography
 tags:

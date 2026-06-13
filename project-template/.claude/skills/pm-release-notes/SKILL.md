@@ -1,6 +1,6 @@
 ---
 name: release-notes
-description: "Ticket'lardan, PRD'lerden veya changelog'lardan kullanıcıya yönelik sürüm notları üretir. Kategorilere göre (yeni özellikler, iyileştirmeler, düzeltmeler) düzenlenmiş net ve ilgi çekici özetler oluşturur. Sürüm notları yazarken, changelog oluştururken, ürün güncellemelerini duyururken veya yayımlananları özetlerken kullan."
+description: "Ticket/PRD/changelog'dan kategorilere göre (yeni özellik, iyileştirme, düzeltme) düzenlenmiş kullanıcıya yönelik sürüm notları üretir."
 ---
 
 ## Release Notes Generator

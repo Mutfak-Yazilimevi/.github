@@ -1,6 +1,6 @@
 ---
 name: summarize-interview
-description: "Müşteri görüşmesi transkriptini JTBD, memnuniyet sinyalleri ve aksiyon maddeleri içeren yapılandırılmış bir şablona özetler. Görüşme kayıtlarını veya transkriptlerini işlerken, keşif görüşmelerini sentezlerken veya görüşme özetleri oluştururken kullanılır."
+description: "Müşteri görüşmesi transkriptini JTBD, memnuniyet sinyalleri ve aksiyon maddeleri içeren yapılandırılmış şablona özetler; görüşme kayıtları ve keşif sentezi için kullan."
 ---
 
 ## Summarize Customer Interview

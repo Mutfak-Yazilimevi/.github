@@ -1,6 +1,6 @@
 ---
 name: ab-test-analysis
-description: "A/B test sonuçlarını istatistiksel anlamlılık, örnek boyutu doğrulaması, güven aralıkları ve yayına al/uzat/durdur önerileriyle analiz eder. Deney sonuçlarını değerlendirirken, bir testin anlamlılığa ulaşıp ulaşmadığını kontrol ederken, bölünmüş test verilerini yorumlarken veya bir varyantı yayına alıp almamaya karar verirken kullan."
+description: "A/B test sonuçlarını istatistiksel anlamlılık, güven aralıkları ve yayına al/uzat/durdur önerileriyle analiz eder; deney değerlendirmesi için kullan."
 ---
 
 ## A/B Test Analysis

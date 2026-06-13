@@ -1,6 +1,6 @@
 ---
 name: "observability-designer"
-description: "Metrikler, günlükler ve izleri birleştiren üretime hazır gözlemlenebilirlik stratejileri tasarlar. SLI/SLO tasarımı, altın sinyal izleme, uyarı optimizasyonu içerir. Yeni bir servise gözlemlenebilirlik eklerken, çok gürültülü uyarıları yeniden düzenlerken veya üretim yükünü ölçeklendirmeden önce bir SLO programı tasarlarken kullan."
+description: "SLI/SLO tasarımı, altın sinyal izleme ve uyarı optimizasyonu içeren üretime hazır gözlemlenebilirlik stratejisi tasarlar; yeni servis veya SLO programı için kullan."
 ---
 
 # Observability Designer (POWERFUL)

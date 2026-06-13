@@ -1,6 +1,6 @@
 ---
 name: web-artifacts-builder
-description: "Modern frontend web teknolojileri (React, Tailwind CSS, shadcn/ui) kullanarak ayrıntılı, çok bileşenli claude.ai HTML artifact'ları oluşturma araç seti. Durum yönetimi, yönlendirme veya shadcn/ui bileşenleri gerektiren karmaşık artifact'lar için kullan — basit tek dosya HTML/JSX artifact'ları için değil."
+description: "React, Tailwind CSS, shadcn/ui ile durum yönetimi ve yönlendirme gerektiren karmaşık çok bileşenli claude.ai HTML artifact'ları oluşturur."
 license: Complete terms in LICENSE.txt
 ---
 

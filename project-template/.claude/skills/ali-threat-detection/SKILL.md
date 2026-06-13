@@ -1,6 +1,6 @@
 ---
 name: "threat-detection"
-description: "Bir ortamda tehdit avı yaparken, IOC'leri analiz ederken veya telemetrideki davranışsal anomalileri tespit ederken kullan. Hipotez odaklı tehdit avı, IOC tarama üretimi, z-score anomali tespiti ve MITRE ATT&CK eşlemeli sinyal önceliklendirmesini kapsar."
+description: "Tehdit avı, IOC analizi ve telemetri anomali tespiti; hipotez odaklı avlanma, z-score anomali ve MITRE ATT&CK eşlemeli sinyal önceliklendirmesi için kullan."
 ---
 
 # Threat Detection

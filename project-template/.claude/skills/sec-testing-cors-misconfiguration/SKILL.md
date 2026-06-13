@@ -1,6 +1,6 @@
 ---
 name: testing-cors-misconfiguration
-description: "Güvenlik değerlendirmeleri sırasında yetkisiz çapraz domain veri erişimine ve kimlik bilgisi hırsızlığına olanak tanıyan Cross-Origin Resource Sharing yanlış yapılandırmalarını tespit eder ve istismar eder."
+description: "Güvenlik değerlendirmelerinde yetkisiz çapraz domain veri erişimine ve kimlik bilgisi hırsızlığına yol açan CORS yanlış yapılandırmalarını tespit eder ve istismar eder."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

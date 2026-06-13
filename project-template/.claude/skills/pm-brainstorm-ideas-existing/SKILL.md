@@ -1,6 +1,6 @@
 ---
 name: brainstorm-ideas-existing
-description: "PM, Tasarımcı ve Mühendis bakış açılarından çok perspektifli ideasyonla mevcut bir ürün için ürün fikirleri üretir. Yeni özellik fikirleri üretirken, belirlenen bir fırsat için çözümler üretirken veya ürün üçlüsüyle ideasyon yaparken kullan."
+description: "PM, Tasarımcı ve Mühendis perspektiflerinden çok açılı ideasyonla mevcut ürün için yeni özellik fikirleri üretir; backlog veya ürün üçlüsü ideasyon için kullan."
 ---
 
 ## Brainstorm Product Ideas (Existing Product)

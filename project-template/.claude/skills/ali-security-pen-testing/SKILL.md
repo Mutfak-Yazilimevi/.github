@@ -1,6 +1,6 @@
 ---
 name: "security-pen-testing"
-description: "Kullanıcı güvenlik denetimleri, sızma testi, açık tarama, OWASP Top 10 kontrolleri veya ofansif güvenlik değerlendirmeleri yapmayı istediğinde kullan. Statik analiz, bağımlılık tarama, gizli bilgi tespiti, API güvenlik testi ve sızma testi raporu üretimini kapsar."
+description: "Güvenlik denetimi, sızma testi, OWASP Top 10, statik analiz, bağımlılık tarama, gizli bilgi tespiti ve API güvenlik testi için kullan."
 ---
 
 # Security Penetration Testing

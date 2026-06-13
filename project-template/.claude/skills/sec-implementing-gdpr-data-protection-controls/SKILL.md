@@ -1,6 +1,6 @@
 ---
 name: implementing-gdpr-data-protection-controls
-description: "Genel Veri Koruma Yönetmeliği (AB) 2016/679 (GDPR), kişisel verilerin toplanması, işlenmesi, saklanması ve aktarılmasını düzenleyen AB'nin kapsamlı veri koruma yasasıdır. Bu skill ilgili kontrolleri kapsar."
+description: "GDPR (AB) 2016/679 kapsamında kişisel verilerin toplanması, işlenmesi, saklanması ve aktarılmasına ilişkin veri koruma denetimlerini uygular."
 domain: cybersecurity
 subdomain: compliance-governance
 tags:

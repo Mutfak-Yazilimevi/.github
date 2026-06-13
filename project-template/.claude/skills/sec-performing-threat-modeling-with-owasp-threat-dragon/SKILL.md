@@ -1,6 +1,6 @@
 ---
 name: performing-threat-modeling-with-owasp-threat-dragon
-description: "Güvenli tasarım incelemesi için veri akışı diyagramları oluşturmak, STRIDE ve LINDDUN metodolojilerini kullanarak tehditleri belirlemek ve tehdit modeli raporları oluşturmak amacıyla OWASP Threat Dragon'ı kullan."
+description: "OWASP Threat Dragon ile DFD oluştur, STRIDE/LINDDUN metodolojileriyle tehditleri belirle ve tehdit modeli raporu üret."
 domain: cybersecurity
 subdomain: devsecops
 tags:

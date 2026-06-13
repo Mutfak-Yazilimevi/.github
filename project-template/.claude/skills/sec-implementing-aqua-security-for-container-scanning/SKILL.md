@@ -1,6 +1,6 @@
 ---
 name: implementing-aqua-security-for-container-scanning
-description: "CI/CD pipeline'larında ve kayıt defterlerinde container görüntülerindeki güvenlik açıklarını, yanlış yapılandırmaları, sırları ve lisans sorunlarını tespit etmek için Aqua Security'nin Trivy tarayıcısını dağıtır."
+description: "CI/CD pipeline ve kayıt defterlerinde container görüntü güvenlik açıkları, yanlış yapılandırma, sır ve lisans sorunlarını tespit için Aqua/Trivy tarayıcısını dağıtır."
 domain: cybersecurity
 subdomain: devsecops
 tags:

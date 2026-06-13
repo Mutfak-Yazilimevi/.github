@@ -1,6 +1,6 @@
 ---
 name: "agent-workflow-designer"
-description: "Açık kalıp seçimi (sıralı, paralel, hiyerarşik), teslim sözleşmeleri, hata yönetimi ve maliyet/bağlam kontrolleriyle üretim kalitesinde çok ajanlı iş akışları tasarla. Çok adımlı bir ajan pipeline'ı mimarlarken, tek ajan vs çok ajan yaklaşımları arasında seçim yaparken veya bağlam şişmesi veya güvenilmez teslimlerden muzdarip bir LLM iş akışını yeniden düzenlerken kullan."
+description: "Sıralı/paralel/hiyerarşik kalıp seçimi, hata yönetimi ve maliyet kontrolüyle üretim kalitesinde çok ajanlı iş akışları tasarla; LLM pipeline mimarisi için kullan."
 ---
 
 # Agent Workflow Designer

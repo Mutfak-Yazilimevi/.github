@@ -1,6 +1,6 @@
 ---
 name: interview-script
-description: "JTBD sorgulama soruları, ısınma, temel keşif ve kapanış bölümleri içeren yapılandırılmış bir müşteri görüşme senaryosu oluştur. The Mom Test ilkelerini takip eder — yönlendirici sorular yok, sunum yok, geçmiş davranışa odaklan. Kullanıcı görüşmelerine hazırlanırken, görüşme kılavuzu oluştururken veya keşif araştırması planlarken kullan."
+description: "The Mom Test ilkeli, JTBD odaklı yapılandırılmış müşteri görüşme senaryosu oluşturur; görüşme hazırlığı ve keşif araştırması için kullan."
 ---
 
 ## Customer Interview Script

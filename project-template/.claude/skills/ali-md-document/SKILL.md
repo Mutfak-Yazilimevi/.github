@@ -1,6 +1,6 @@
 ---
 name: md-document
-description: "Uzun biçimli markdown'ı (teknik özellikler, RFC'ler, raporlar, planlar, açıklayıcılar) yapışkan TOC, scrollspy, arama filtresi, kod kopyalama düğmeleri ve tasarım sistemi marka tokenları olan tek dosya hafif interaktif HTML belgesine dönüştürür. markdown-html-orchestrator girişi DOCUMENT olarak sınıflandırdığında veya /cs:md-document aracılığıyla doğrudan çağrıldığında tetiklenir."
+description: "Uzun markdown'ı (RFC, rapor, plan) TOC, scrollspy, arama ve kod kopyalama düğmeli tek dosya interaktif HTML'ye dönüştürür; /cs:md-document ile tetiklenir."
 version: 2.10.1
 author: Alireza Rezvani
 license: MIT

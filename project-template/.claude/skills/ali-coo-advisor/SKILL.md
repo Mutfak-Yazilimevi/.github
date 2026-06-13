@@ -1,6 +1,6 @@
 ---
 name: "coo-advisor"
-description: "Büyüyen şirketler için operasyonel liderlik. Süreç tasarımı, OKR yürütme, operasyonel kadans ve ölçeklendirme kılavuzları. Operasyon tasarlarken, OKR kurarken, süreçler oluştururken, ekipleri ölçeklendirirken, darboğazları analiz ederken, operasyonel kadans planlarken veya kullanıcı COO, operasyon, süreç iyileştirme, OKR, ölçeklendirme, operasyonel verimlilik ya da yürütmeden bahsettiğinde kullan."
+description: "Süreç tasarımı, OKR yürütme, ölçeklendirme ve operasyonel kadans için COO danışmanı. Operasyon, süreç iyileştirme veya ekip ölçeklendirmesinde kullan."
 license: MIT
 metadata:
   version: 1.0.0

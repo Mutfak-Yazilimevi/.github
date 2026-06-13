@@ -1,6 +1,6 @@
 ---
 name: sales-pipeline
-description: "Yapılandırılmış bir satış hattı oluştur ve yönet — aşamalar, nitelendirme kriterleri ve fırsat ilerleme kuralları. Bir pipeline tasarlamak veya düzenlemek ve fırsatların nasıl ilerleyeceğini tanımlamak için kullan."
+description: "Aşamalar, nitelendirme kriterleri ve ilerleme kurallarıyla yapılandırılmış satış hattı oluştur ve yönet."
 ---
 
 # AI Sales Pipeline

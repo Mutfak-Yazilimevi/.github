@@ -1,6 +1,6 @@
 ---
 name: engineering-handoff
-description: "Mevcut konuşmayı başka bir ajanın devralması için devir belgesi hâline getirir. Mevcut eserlere (PRD'ler, planlar, ADR'ler, issue'lar, commit'ler, diff'ler) bunları kopyalamak yerine yol veya URL ile atıfta bulunur. Kullanıcı konuşmayı yeni bir ajana devretmek istediğinde veya önceki çalışmayı sürdürmek üzere yeni bir oturum başlattığında kullan."
+description: "Konuşmayı başka bir ajana devretmek için devir belgesi oluşturur: PRD, ADR, issue, commit, diff'e referansla; kopyalamaz, yol/URL verir."
 argument-hint: "What will the next session be used for?"
 license: MIT
 metadata:

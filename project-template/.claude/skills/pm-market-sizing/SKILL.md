@@ -1,6 +1,6 @@
 ---
 name: market-sizing
-description: "TAM, SAM ve SOM ile yukarıdan aşağıya ve aşağıdan yukarıya yaklaşımlar kullanarak pazar büyüklüğünü tahmin et. Pazar fırsatı boyutlandırırken, erişilebilir pazarı tahmin ederken, yatırımcı sunumları hazırlarken veya pazar girişini değerlendirirken kullan."
+description: "TAM/SAM/SOM ve yukarıdan-aşağı/aşağıdan-yukarı yaklaşımlarla pazar büyüklüğü tahmin et; yatırımcı sunumu ve pazar girişi değerlendirmesi için kullan."
 ---
 
 # Estimate Market Size (TAM, SAM, SOM)

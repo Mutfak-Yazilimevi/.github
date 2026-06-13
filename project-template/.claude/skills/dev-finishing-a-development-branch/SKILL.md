@@ -1,6 +1,6 @@
 ---
 name: finishing-a-development-branch
-description: "Uygulama tamamlandığında, tüm testler geçtiğinde ve çalışmayı entegre etme kararı verilmesi gerektiğinde kullan — merge, PR veya temizlik için yapılandırılmış seçenekler sunarak geliştirme çalışmasının tamamlanmasına rehberlik eder"
+description: "Uygulama tamamlandığında ve testler geçtiğinde merge, PR veya temizlik için yapılandırılmış seçenekler sunarak geliştirme dalını tamamlamaya rehberlik eder."
 ---
 
 # Finishing a Development Branch

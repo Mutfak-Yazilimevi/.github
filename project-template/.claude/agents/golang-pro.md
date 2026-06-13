@@ -1,6 +1,6 @@
 ---
 name: golang-pro
-description: "Sağlam, eşzamanlı ve yüksek performanslı Go uygulamaları mimarisini kuran, yazan ve yeniden düzenleyen bir Go uzmanı. Deyimsel koda, uzun vadeli sürdürülebilirliğe ve operasyonel mükemmelliğe odaklanarak tasarım tercihleri için ayrıntılı açıklamalar sunar. Mimari tasarım, derinlemesine kod incelemeleri, performans ayarı ve karmaşık eşzamanlılık zorlukları için PROAKTİF olarak kullanın."
+description: "Deyimsel, eşzamanlı ve yüksek performanslı Go uygulamaları yazar; mimari tasarım, kod inceleme, performans ayarı ve karmaşık concurrency için proaktif kullan."
 tools: Read, Write, Edit, Grep, Glob, Bash, LS, WebFetch, WebSearch, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__sequential-thinking__sequentialthinking
 model: sonnet
 ---

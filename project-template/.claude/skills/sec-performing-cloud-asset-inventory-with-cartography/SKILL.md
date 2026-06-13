@@ -1,6 +1,6 @@
 ---
 name: performing-cloud-asset-inventory-with-cartography
-description: "AWS, GCP ve Azure genelinde altyapı varlıklarının, IAM izinlerinin ve saldırı yollarının Neo4j güvenlik grafiğini oluşturmak için Cartography kullanarak kapsamlı bulut varlık envanteri ve ilişki haritalama işlemi gerçekleştirir."
+description: "Cartography ile AWS/GCP/Azure varlıkları, IAM izinleri ve saldırı yollarının Neo4j güvenlik grafiğini oluşturur; kapsamlı bulut varlık envanteri ve ilişki haritalama için kullan."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: performing-cloud-log-forensics-with-athena
-description: "Adli soruşturma için CloudTrail, VPC Flow Logs, S3 erişim günlükleri ve ALB günlüklerini sorgulamak amacıyla AWS Athena kullanır. Yetkisiz erişim, veri sızdırma, yanal hareket ve ayrıcalık yükseltmeyi tespit etmek için bölüm projeksiyonlu CREATE TABLE DDL ve adli SQL sorgularını kapsar. AWS güvenlik olaylarını araştırırken veya ölçeklenebilir bulut-yerel adli iş akışları oluştururken kullan."
+description: "AWS Athena ile CloudTrail, VPC Flow Logs, S3 ve ALB günlüklerini sorgulayarak yetkisiz erişim, veri sızdırma ve yanal hareket tespiti için adli soruşturma yapar."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

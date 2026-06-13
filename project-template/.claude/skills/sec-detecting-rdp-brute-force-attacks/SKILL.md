@@ -1,6 +1,6 @@
 ---
 name: detecting-rdp-brute-force-attacks
-description: "Başarısız kimlik doğrulama kalıpları (Event ID 4625), başarısızlıkların ardından başarılı oturum açmalar (Event ID 4624), NLA hataları ve kaynak IP frekans analizi için Windows Security Event Logs'u analiz ederek RDP brute force saldırılarını tespit eder."
+description: "Event ID 4625/4624 ve NLA hataları için Windows Security Event Logs'u analiz ederek kaynak IP frekansıyla RDP brute force saldırılarını tespit eder."
 domain: cybersecurity
 subdomain: threat-detection
 tags:

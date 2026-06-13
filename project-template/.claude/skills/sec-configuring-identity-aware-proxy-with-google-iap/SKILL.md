@@ -1,6 +1,6 @@
 ---
 name: configuring-identity-aware-proxy-with-google-iap
-description: "Erişim düzeyleri, bağlam bilincine sahip politikalar ve service account'larla programatik erişim kullanarak Compute Engine, App Engine, Cloud Run ve GKE servislerine istek başına kimlik doğrulaması uygulamak için Google Cloud Identity-Aware Proxy (IAP) yapılandırır."
+description: "Compute Engine, App Engine, Cloud Run ve GKE servislerine istek başına kimlik doğrulaması için Google Cloud IAP'yi erişim düzeyleri ve bağlam bilincine sahip politikalarla yapılandırır."
 domain: cybersecurity
 subdomain: zero-trust-architecture
 tags:

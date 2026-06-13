@@ -1,6 +1,6 @@
 ---
 name: implementing-endpoint-dlp-controls
-description: "E-posta, USB, bulut depolama ve yazdırma yoluyla hassas veri sızdırmasını tespit etmek ve önlemek için uç nokta Veri Kaybı Önleme (DLP) denetimleri uygular. DLP ajanları dağıtırken, içerik denetim ilkeleri oluştururken veya uç noktalardan yetkisiz veri hareketini önlerken kullan. DLP, veri sızdırma önleme, içerik denetimi veya uç noktalarda hassas veri koruması içeren istekler için etkinleşir."
+description: "E-posta, USB, bulut depolama ve yazdırma yoluyla hassas veri sızdırmasını tespit etmek ve önlemek için uç nokta DLP denetimleri uygular."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

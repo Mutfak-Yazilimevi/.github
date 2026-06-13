@@ -1,6 +1,6 @@
 ---
 name: customer-journey-map
-description: "Aşamalar, temas noktaları, duygular, sorun noktaları ve fırsatlarla uçtan uca müşteri yolculuğu haritası oluşturur. Müşteri deneyimini haritalandırırken, sürtünme noktalarını tespit ederken, oryantasyonu iyileştirirken veya kullanıcı yolculuğunu görselleştirirken kullan"
+description: "Aşamalar, temas noktaları, duygular ve fırsatlarla uçtan uca müşteri yolculuğu haritası oluşturur; müşteri deneyimi haritalama veya sürtünme tespiti için kullan."
 ---
 
 ## Customer Journey Map

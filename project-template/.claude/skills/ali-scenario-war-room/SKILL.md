@@ -1,6 +1,6 @@
 ---
 name: "scenario-war-room"
-description: "Birleşik çok değişkenli senaryolar için çapraz fonksiyonel ne-olursa-olsun modellemesi. Tek varsayım stres testinin aksine, tüm iş fonksiyonlarında bileşik olumsuzluğu aynı anda modeller. Karmaşık risk senaryolarıyla karşılaşırken, büyük olumsuz tarafı olan stratejik kararlar alırken veya kullanıcı 'X VE Y aynı anda olursa?' diye sorduğunda kullan."
+description: "Tüm iş fonksiyonlarında bileşik olumsuzluğu eş zamanlı modelleyen çapraz fonksiyonel senaryo analizi; \"X VE Y aynı anda olursa?\" tarzı stratejik risk sorularında kullan."
 license: MIT
 metadata:
   version: 1.0.0

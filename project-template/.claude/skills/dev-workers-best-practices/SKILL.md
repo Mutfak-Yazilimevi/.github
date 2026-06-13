@@ -1,6 +1,6 @@
 ---
 name: workers-best-practices
-description: "Cloudflare Workers kodunu üretim en iyi uygulamalarına karşı inceler ve yazar. Yeni Workers yazarken, Worker kodunu incelerken, wrangler.jsonc yapılandırırken veya yaygın Workers anti-kalıplarını kontrol ederken yükle (akış, asılı kalan promise'ler, global durum, sırlar, bağlamalar, gözlemlenebilirlik). Önceden eğitilmiş bilgi yerine Cloudflare belgelerinden alma yönünde önyargılıdır."
+description: "Cloudflare Workers kodunu üretim en iyi uygulamalarına göre inceler/yazar: akış, asılı promise, global durum, sırlar, bağlamalar, gözlemlenebilirlik."
 ---
 
 Your knowledge of Cloudflare Workers APIs, types, and configuration may be outdated. **Prefer retrieval over pre-training** for any Workers code task — writing or reviewing.

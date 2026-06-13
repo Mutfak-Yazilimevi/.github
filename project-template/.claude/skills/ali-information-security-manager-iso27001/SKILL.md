@@ -1,6 +1,6 @@
 ---
 name: "information-security-manager-iso27001"
-description: "HealthTech ve MedTech şirketleri için ISO 27001 ISMS implementasyonu ve siber güvenlik yönetişimi. ISMS tasarımı, güvenlik risk değerlendirmesi, kontrol uygulaması, ISO 27001 sertifikasyonu, güvenlik denetimleri, olay müdahalesi ve uyumluluk doğrulaması için kullan. ISO 27001, ISO 27002, sağlık güvenliği ve medikal cihaz siber güvenliğini kapsar."
+description: "HealthTech/MedTech için ISO 27001 ISMS tasarımı, güvenlik risk değerlendirmesi, kontrol uygulaması ve sertifikasyon denetimleri yapar."
 ---
 
 # Information Security Manager - ISO 27001

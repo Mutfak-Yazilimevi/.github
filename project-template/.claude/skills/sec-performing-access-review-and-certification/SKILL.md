@@ -1,6 +1,6 @@
 ---
 name: performing-access-review-and-certification
-description: "Kullanıcıların rollerine uygun erişim haklarına sahip olduğunu sağlamak için sistematik erişim incelemeleri ve sertifikasyonları yürütür. Bu beceri, inceleme kampanyası tasarımı, inceleyici seçimi, risk tabanlı önceliklendirme konularını kapsar"
+description: "Kullanıcıların rollerine uygun erişim haklarına sahip olduğunu doğrulamak için erişim inceleme kampanyaları, risk bazlı önceliklendirme ve sertifikasyon yürütür."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

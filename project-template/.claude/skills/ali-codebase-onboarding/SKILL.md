@@ -1,6 +1,6 @@
 ---
 name: "codebase-onboarding"
-description: "Bir kod tabanını analiz eder ve mühendisler, teknik liderler ve yükleniciler için hazırlık belgesi oluşturur. Hızlı bilgi toplama ve tekrar edilebilir hazırlık çıktıları. Yeni bir mühendis dahil ederken, yeni bir proje için mimari genel bakış belgesi yazarken veya tanıdık olmayan repo'lar için teknik lider brifingleri hazırlarken kullan."
+description: "Kod tabanını analiz edip mühendisler ve teknik liderler için hazırlık belgesi oluşturur; yeni mühendis dahil ederken veya mimari genel bakış yazarken kullan."
 ---
 
 # Codebase Onboarding

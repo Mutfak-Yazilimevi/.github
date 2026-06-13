@@ -1,6 +1,6 @@
 ---
 name: detecting-dnp3-protocol-anomalies
-description: "SCADA sistemlerinde kullanılan DNP3 (Distributed Network Protocol 3) iletişimlerindeki anomalileri; yetkisiz kontrol komutlarını, yazılım güncelleme girişimlerini, protokol ihlallerini ve derin paket incelemesi ile makine öğrenimi yaklaşımları kullanılarak temel trafik kalıplarından sapmaları izleyerek tespit eder."
+description: "SCADA/DNP3 iletişimlerinde yetkisiz komutları, protokol ihlallerini ve trafik saplamalarını derin paket incelemesi ve ML ile tespit eder."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

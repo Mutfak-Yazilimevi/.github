@@ -1,6 +1,6 @@
 ---
 name: minimalist-review
-description: "Herhangi bir iş kararını, planı veya stratejiyi minimalist girişimci bakış açısıyla değerlendir. Birisi bir iş kararı için içgüdüsel onay almak, yaklaşımını sadeleştirmek veya seçenekler arasında karar vermek istediğinde kullan."
+description: "İş kararı, plan veya stratejiyi minimalist girişimci bakışıyla değerlendirir; yaklaşımı sadeleştirmek veya seçenekler arasında karar vermek için kullan."
 argument-hint: describe your decision or situation
 ---
 

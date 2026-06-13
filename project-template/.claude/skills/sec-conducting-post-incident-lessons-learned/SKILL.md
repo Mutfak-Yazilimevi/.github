@@ -1,6 +1,6 @@
 ---
 name: conducting-post-incident-lessons-learned
-description: "Kök nedenleri belirlemek, nelerin işe yarayıp nelerin başarısız olduğunu belgelemek ve gelecekteki olay müdahalesini iyileştirmeye yönelik eyleme geçirilebilir öneriler üretmek için yapılandırılmış olay sonrası incelemeler kolaylaştırır."
+description: "Kök nedenleri belirlemek, başarılı/başarısız olanları dokumentlemek ve olay müdahalesini iyileştirmek için yapılandırılmış olay sonrası inceleme kolaylaştırır."
 domain: cybersecurity
 subdomain: incident-response
 tags:

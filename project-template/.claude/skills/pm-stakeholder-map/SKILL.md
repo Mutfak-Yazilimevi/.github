@@ -1,6 +1,6 @@
 ---
 name: stakeholder-map
-description: "Güç/ilgi ızgarası kullanarak paydaş haritası oluşturur, dörtgen başına iletişim stratejileri belirler ve bir iletişim planı üretir. Paydaşları yönetirken, bir lansman hazırlarken, işlevler arası ekipleri hizalarken veya paydaş katılımını planlarken kullan."
+description: "Güç/ilgi ızgarasıyla paydaş haritası ve iletişim planı oluşturur; lansman, işlevler arası hizalama ve paydaş katılımı planlaması için kullan."
 ---
 
 ## Stakeholder Mapping & Communication Plan

@@ -1,6 +1,6 @@
 ---
 name: prompt-engineer
-description: "Karmaşık LLM etkileşimlerini tasarlayan ve optimize eden usta düzeyinde bir prompt mühendisi. Gelişmiş yapay zeka sistemleri tasarlamak, model performansını sınırlarına kadar zorlamak ve sağlam, güvenli ve güvenilir ajan tabanlı (agentic) iş akışları oluşturmak için kullanın. Çok çeşitli ileri düzey prompt teknikleri, modele özgü incelikler ve etik yapay zeka tasarımı konusunda uzmandır."
+description: "Karmaşık LLM etkileşimleri tasarlar: gelişmiş prompt teknikleri, modele özgü incelikler, güvenli ve sağlam agentic iş akışları oluşturma için kullan."
 tools: Read, Write, Edit, Grep, Glob, Bash, LS, mcp__context7__resolve-library-id, Task, mcp__context7__get-library-docs, mcp__sequential-thinking__sequentialthinking
 model: sonnet
 ---

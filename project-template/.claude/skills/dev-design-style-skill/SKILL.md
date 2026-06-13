@@ -1,6 +1,6 @@
 ---
 name: design-style-skill
-description: "Radius/boşluk stil tarifleri kullanarak PPT slaytları için tutarlı bir görsel tasarım sistemi seçer. Kullanıcılar genel stil yönü veya bileşen stil tutarlılığı istediğinde kullan. Sharp/Soft/Rounded/Pill tarifleri, bileşen eşlemeleri, tipografi/boşluk kuralları ve karıştırma kılavuzunu içerir. Tetikleyiciler: 风格, style, radius, spacing, 圆角, 间距, PPT风格, 视觉风格, design style, component style."
+description: "PPT slaytları için radius/boşluk tarifleriyle (Sharp/Soft/Rounded/Pill) tutarlı görsel tasarım sistemi seçer; style, radius, spacing, 圆角 tetikler."
 ---
 
 # Style Recipes - PPT视觉风格系统

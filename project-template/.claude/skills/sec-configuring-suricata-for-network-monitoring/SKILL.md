@@ -1,6 +1,6 @@
 ---
 name: configuring-suricata-for-network-monitoring
-description: "Gerçek zamanlı ağ trafiği denetimi, tehdit tespiti ve merkezi güvenlik izleme için SIEM platformlarıyla entegrasyon amacıyla Emerging Threats kural setleri, EVE JSON günlükleme ve özel kurallarla Suricata IDS/IPS dağıtır ve yapılandırır."
+description: "Emerging Threats kuralları, EVE JSON ve SIEM entegrasyonuyla Suricata IDS/IPS dağıtır; gerçek zamanlı ağ trafiği denetimi ve tehdit tespiti yapar."
 domain: cybersecurity
 subdomain: network-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: performing-dns-tunneling-detection
-description: "DNS sorgu adlarının Shannon entropisini hesaplayarak, sorgu uzunluk dağılımlarını analiz ederek, TXT kayıt yüklerini inceleyerek ve yüksek alt alan adı kardinalitesini belirleyerek DNS tünellemeyi tespit eder. Paket yakalama analizi için scapy ve meşru DNS'i gizli kanallardan ayırt etmek için istatistiksel yöntemler kullanır. Veri sızdırma avı yaparken kullan."
+description: "DNS sorgu Shannon entropisi, uzunluk dağılımı ve TXT kayıt yükü analizi ile scapy kullanarak DNS tünelleme ve veri sızdırma avı yapar."
 domain: cybersecurity
 subdomain: security-operations
 tags:

@@ -1,6 +1,6 @@
 ---
 name: performing-cloud-penetration-testing-with-pacu
-description: "IAM yapılandırmalarını numaralandırmak, ayrıcalık yükseltme yollarını keşfetmek, kimlik bilgisi toplama işlemini test etmek ve sistematik saldırı simülasyonu aracılığıyla güvenlik denetimlerini doğrulamak için açık kaynaklı AWS istismar çerçevesi olan Pacu kullanarak yetkili AWS sızma testi gerçekleştirir."
+description: "Pacu açık kaynak AWS istismar çerçevesi ile IAM numaralandırma, ayrıcalık yükseltme ve kimlik bilgisi toplama testi dahil yetkili AWS sızma testi yapar."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

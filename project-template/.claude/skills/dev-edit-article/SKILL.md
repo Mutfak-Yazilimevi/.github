@@ -1,6 +1,6 @@
 ---
 name: edit-article
-description: "Bölümleri yeniden yapılandırarak, netliği artırarak ve yazıyı sıkılaştırarak makaleleri düzenle ve geliştir. Kullanıcı bir makale taslağını düzenlemek, revize etmek veya geliştirmek istediğinde kullan."
+description: "Bölümleri yeniden yapılandırarak, netliği artırarak ve yazıyı sıkılaştırarak makale taslağını düzenler ve geliştirir."
 ---
 
 1. First, divide the article into sections based on its headings. Think about the main points you want to make during those sections.

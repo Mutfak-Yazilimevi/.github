@@ -1,6 +1,6 @@
 ---
 name: "agent-protocol"
-description: "C-suite ajan ekipleri için ajanlar arası iletişim protokolü. Çağrı sözdizimini, döngü önlemeyi, izolasyon kurallarını ve yanıt formatlarını tanımlar. C-suite ajanlarının birbirine sorgu atması, çapraz fonksiyonlu analiz koordinasyonu veya birden fazla ajan rolüyle yönetim kurulu toplantıları yapması gerektiğinde kullan."
+description: "C-suite ajan ekipleri için çağrı sözdizimi, döngü önleme ve yanıt formatı tanımlayan ajanlar arası iletişim protokolü; çapraz fonksiyonlu ajan koordinasyonu için kullan."
 license: MIT
 metadata:
   version: 1.0.0

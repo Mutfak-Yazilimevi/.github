@@ -1,6 +1,6 @@
 ---
 name: performing-serverless-function-security-review
-description: "Aşırı izin verilmiş yürütme rollerini, güvensiz ortam değişkenlerini, enjeksiyon güvenlik açıklarını ve eksik çalışma zamanı korumalarını tespit etmek amacıyla AWS Lambda, Azure Functions ve GCP Cloud Functions genelinde sunucusuz işlevlerin güvenlik incelemelerini gerçekleştirir."
+description: "AWS Lambda, Azure Functions ve GCP Cloud Functions genelinde aşırı izinli roller, güvensiz env değişkenleri ve enjeksiyon açıklarını tespit eden sunucusuz güvenlik incelemesi."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

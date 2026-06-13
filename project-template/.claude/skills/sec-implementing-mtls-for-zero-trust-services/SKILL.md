@@ -1,6 +1,6 @@
 ---
 name: implementing-mtls-for-zero-trust-services
-description: "Sertifika oluşturma için Python cryptography kütüphanesini ve TLS doğrulaması için ssl modülünü kullanarak mikro servisler arasında karşılıklı TLS (mTLS) kimlik doğrulamasını yapılandırır. Sertifika zincirlerini doğrular, süre sonu kontrol eder ve mTLS dağıtım durumunu denetler. Sıfır güven servis-servis kimlik doğrulaması uygularken kullan."
+description: "Python cryptography ve ssl modülü kullanarak mikro servisler arası mTLS kimlik doğrulaması kurar; sıfır güven servis-servis auth için kullan."
 domain: cybersecurity
 subdomain: security-operations
 tags:

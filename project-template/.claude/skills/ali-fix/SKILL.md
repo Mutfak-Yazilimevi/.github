@@ -1,6 +1,6 @@
 ---
 name: "fix"
-description: "Başarısız veya kararsız Playwright testlerini düzeltir. Kullanıcı \"testi düzelt\", \"kararsız test\", \"test başarısız\", \"testi hata ayıkla\", \"test bozuk\", \"test bazen geçiyor\" veya \"aralıklı hata\" dediğinde kullan."
+description: "Başarısız veya kararsız Playwright testlerini düzeltir; \"testi düzelt\", \"kararsız test\", \"test başarısız\", \"aralıklı hata\" dediğinde kullan."
 ---
 
 # Fix Failing or Flaky Tests

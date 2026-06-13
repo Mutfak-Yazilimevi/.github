@@ -1,6 +1,6 @@
 ---
 name: hunting-for-dns-tunneling-with-zeek
-description: "Gizli kanal iletişimini gösteren yüksek entropi alt alan sorguları, aşırı sorgu hacmi, uzun sorgu uzunlukları ve olağandışı DNS kayıt türleri için Zeek dns.log'u analiz ederek DNS tünelleme ve veri sızdırma girişimlerini tespit eder."
+description: "Zeek dns.log'u yüksek entropi alt alan, aşırı sorgu hacmi, uzun sorgu uzunluğu ve olağandışı DNS kayıt türleri için analiz ederek DNS tünelleme ve veri sızdırma girişimlerini tespit eder."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

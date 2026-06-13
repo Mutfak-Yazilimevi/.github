@@ -1,6 +1,6 @@
 ---
 name: "transcribe"
-description: "Ses dosyalarını isteğe bağlı konuşmacı ayrımı ve bilinen konuşmacı ipuçlarıyla metne dönüştürür. Kullanıcı ses/videodan konuşma döküm almak, kayıtlardan metin çıkarmak veya röportaj ya da toplantılarda konuşmacıları etiketlemek istediğinde kullan."
+description: "Ses/video dosyalarını konuşmacı ayrımı ve ipuçlarıyla metne dönüştürür; transkript, konuşmacı etiketleme veya kayıt metni çıkarmak için kullan."
 ---
 
 

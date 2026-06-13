@@ -1,6 +1,6 @@
 ---
 name: implementing-envelope-encryption-with-aws-kms
-description: "Zarf şifreleme, verilerin bir veri şifreleme anahtarıyla (DEK) şifrelendiği ve DEK'in kendisinin AWS KMS tarafından yönetilen bir ana anahtarla (KEK) şifrelendiği bir stratejidir. Bu yaklaşım büyük verilerin şifrelenmesini kolaylaştırır."
+description: "AWS KMS ile DEK/KEK zarf şifreleme stratejisi uygular; büyük veri şifreleme ve anahtar yönetimi için kullan."
 domain: cybersecurity
 subdomain: cryptography
 tags:

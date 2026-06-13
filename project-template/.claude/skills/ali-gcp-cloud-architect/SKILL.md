@@ -1,6 +1,6 @@
 ---
 name: "gcp-cloud-architect"
-description: "Startuplar ve kurumsal şirketler için GCP mimarileri tasarla. Google Cloud altyapısı tasarlamak, GKE veya Cloud Run'a dağıtmak, BigQuery pipeline'ları yapılandırmak, GCP maliyetlerini optimize etmek veya GCP'ye geçiş yapmak için istendiğinde kullan. Cloud Run, GKE, Cloud Functions, Cloud SQL, BigQuery ve maliyet optimizasyonunu kapsar."
+description: "GKE, Cloud Run, BigQuery, Cloud SQL ve maliyet optimizasyonu dahil GCP mimarileri tasarlar ve dağıtır. Google Cloud altyapısı için kullan."
 ---
 
 # GCP Cloud Architect

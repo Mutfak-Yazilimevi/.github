@@ -1,6 +1,6 @@
 ---
 name: "executive-mentor"
-description: "Kurucular ve yöneticiler için çelişkili düşünce ortağı. Planları stres testine tabi tutar, zorlu yönetim kurulu toplantılarına hazırlar, iyi seçeneği olmayan kararları inceler ve dürüst post-mortem analizler yapar. Yönetim kurulu bulmadan önce delikleri bulmak, kaçındığın bir karar vermek veya gerçekte ne yanlış gittiğini anlamak istediğinde kullan."
+description: "Kurucular ve yöneticiler için çelişkili düşünce ortağı; plan stres testi, yönetim kurulu hazırlığı, zor kararlar ve dürüst post-mortem analizi için kullan."
 license: MIT
 metadata:
   version: 1.0.0

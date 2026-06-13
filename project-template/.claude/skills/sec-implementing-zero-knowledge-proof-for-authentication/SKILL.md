@@ -1,6 +1,6 @@
 ---
 name: implementing-zero-knowledge-proof-for-authentication
-description: "Sıfır-Bilgi İspatları (ZKP'ler), bir kanıtlayıcının sırrın kendisini açıklamadan bir sırrı (parola veya özel anahtar gibi) bildiğini göstermesine olanak tanır. Bu beceri Schnorr kimlik doğrulama protokolünü uygular"
+description: "Sırrı açıklamadan bilgi kanıtı için Schnorr protokolü tabanlı Sıfır-Bilgi İspatı (ZKP) kimlik doğrulaması uygular."
 domain: cybersecurity
 subdomain: cryptography
 tags:

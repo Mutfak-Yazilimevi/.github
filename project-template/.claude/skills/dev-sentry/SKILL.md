@@ -1,6 +1,6 @@
 ---
 name: "sentry"
-description: "Kullanıcı Sentry sorunlarını veya olaylarını incelemek, son üretim hatalarını özetlemek veya Sentry CLI aracılığıyla temel Sentry sağlık verilerini çekmek istediğinde kullan; `sentry` komutunu kullanarak yalnızca okuma amaçlı sorgular gerçekleştir."
+description: "Sentry sorunlarını incelemek, son üretim hatalarını özetlemek veya Sentry CLI ile temel sağlık verilerini çekmek için kullan."
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 name: graphviz
-description: "DOT diliyle otomatik düzen kullanarak yönlendirilmiş/yönlendirilmemiş grafikler oluştur. Bağımlılık ağaçları, çağrı grafikleri, paket hiyerarşileri ve ayrıntılı kenar yönlendirmesi gerektiren modül ilişkileri için en uygun seçenektir."
+description: "DOT diliyle yönlendirilmiş/yönlendirilmemiş grafikler oluşturur. Bağımlılık ağaçları, çağrı grafikleri ve modül ilişkileri için en uygun seçenektir."
 metadata:
   author: Graphviz is powered by Markdown Viewer — the best multi-platform Markdown extension (Chrome/Edge/Firefox/VS Code) with diagrams, formulas, and one-click Word export. Learn more at https://docu.md
 ---

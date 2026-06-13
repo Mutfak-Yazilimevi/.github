@@ -1,6 +1,6 @@
 ---
 name: detecting-lateral-movement-with-zeek
-description: "Zeek (eski adıyla Bro) günlük analizi kullanarak ağ trafiğindeki lateral movement'ı tespit eder. SMB dosya transferlerini, NTLM hesap spreyi faaliyetini, uzak servis yürütmesini ve anormal iç bağlantıları belirlemek için conn.log, smb_mapping.log, smb_files.log, dce_rpc.log, kerberos.log ve ntlm.log dosyalarını ayrıştırır."
+description: "Zeek günlüklerini (conn, smb, dce_rpc, kerberos, ntlm) ayrıştırarak SMB transferleri, NTLM spreyi ve anormal iç bağlantılar gibi lateral movement'ı tespit eder."
 domain: cybersecurity
 subdomain: network-security
 tags:

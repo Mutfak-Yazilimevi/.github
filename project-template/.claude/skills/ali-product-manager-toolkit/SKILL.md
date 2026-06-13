@@ -1,6 +1,6 @@
 ---
 name: "product-manager-toolkit"
-description: "RICE önceliklendirme, müşteri görüşmesi analizi, PRD şablonları, keşif çerçeveleri ve pazara giriş stratejilerini kapsayan ürün yöneticileri için kapsamlı araç seti. Özellik önceliklendirme, kullanıcı araştırması sentezi, gereksinim belgeleme ve ürün stratejisi geliştirme için kullanılır."
+description: "RICE önceliklendirme, müşteri görüşmesi analizi, PRD şablonları, keşif çerçeveleri ve GTM stratejileri içeren PM araç seti; özellik önceliklendirme ve ürün stratejisi için kullan."
 ---
 
 # Product Manager Toolkit

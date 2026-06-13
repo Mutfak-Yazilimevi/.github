@@ -1,6 +1,6 @@
 ---
 name: ideal-customer-profile
-description: "Araştırma verilerinden demografi, davranışlar, JTBD ve ihtiyaçlarla birlikte İdeal Müşteri Profili (ICP) tanımla. ICP'ini tanımlarken, PMF anket verilerini analiz ederken veya en iyi müşterilerinin kimler olduğunu anlamak istediğinde kullan."
+description: "Araştırma verilerinden demografi, davranış, JTBD ve ihtiyaçlarla İdeal Müşteri Profili (ICP) tanımla; PMF analizi ve en iyi müşteri tespiti için kullan."
 ---
 # Ideal Customer Profile
 

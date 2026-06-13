@@ -1,6 +1,6 @@
 ---
 name: monetization-strategy
-description: "Kitle uyumu, riskler ve doğrulama deneyleriyle birlikte 3-5 para kazanma stratejisi üretir. Gelir modellerini keşfederken, fiyatlandırma stratejilerini değerlendirirken veya bir ürünü nasıl para kazandıracağına karar verirken kullanılır."
+description: "Kitle uyumu, riskler ve doğrulama deneyleriyle 3-5 para kazanma stratejisi üretir; gelir modeli keşfi, fiyatlandırma veya monetizasyon kararları için kullan."
 ---
 # Monetization Strategy
 

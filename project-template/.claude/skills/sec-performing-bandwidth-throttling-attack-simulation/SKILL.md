@@ -1,6 +1,6 @@
 ---
 name: performing-bandwidth-throttling-attack-simulation
-description: "Hizmet kalitesi denetimlerini, uygulama dayanıklılığını ve trafik manipülasyonu saldırılarına yönelik ağ izleme tespitini test etmek amacıyla yetkili ortamlarda tc, iperf3 ve Scapy kullanarak bant genişliği kısıtlama ve ağ bozunumu saldırılarını simüle eder."
+description: "Yetkili ortamlarda tc, iperf3 ve Scapy ile bant genişliği kısıtlama ve ağ bozunumu saldırıları simüle eder; QoS, dayanıklılık ve trafik manipülasyon tespitini test eder."
 domain: cybersecurity
 subdomain: network-security
 tags:

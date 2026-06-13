@@ -1,6 +1,6 @@
 ---
 name: "marketing-psychology"
-description: "Kullanıcı pazarlamaya psikolojik ilkeler, zihinsel modeller veya davranış bilimleri uygulamak istediğinde kullan. Ayrıca 'psychology', 'mental models', 'cognitive bias', 'persuasion', 'behavioral science', 'why people buy', 'decision-making' veya 'consumer behavior' ifadelerini kullandığında da kullan. Bu skill pazarlama uygulaması için düzenlenmiş 70'ten fazla zihinsel model sunar."
+description: "Pazarlamada 70+ zihinsel model sunar: psikolojik ilkeler, bilişsel önyargı, ikna, davranış bilimleri ve tüketici kararları uygulamaları için kullan."
 license: MIT
 metadata:
   version: 1.1.0

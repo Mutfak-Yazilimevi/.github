@@ -1,6 +1,6 @@
 ---
 name: "capa-officer"
-description: "Tıbbi cihaz QMS için CAPA sistem yönetimi. Kök neden analizi, düzeltici faaliyet planlaması, etkinlik doğrulama ve CAPA metrikleri. CAPA soruşturmaları, 5-Neden analizi, balık kılçığı diyagramları, kök neden belirleme, düzeltici faaliyet takibi, etkinlik doğrulama veya CAPA programı optimizasyonu için kullan."
+description: "Tıbbi cihaz QMS için CAPA yönetimi; kök neden analizi (5-Neden, balık kılçığı), düzeltici faaliyet planlaması, etkinlik doğrulama ve CAPA metrikleri için kullan."
 triggers:
   - CAPA investigation
   - root cause analysis

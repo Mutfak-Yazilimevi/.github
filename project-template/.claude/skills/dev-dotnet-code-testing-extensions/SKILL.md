@@ -1,6 +1,6 @@
 ---
 name: code-testing-extensions
-description: "Kod testi pipeline'ı için dile özgü uzantı dosyalarına giden dosya yollarını sağlar. Mevcut uzantı rehberi dosyalarını (.NET için dotnet.md, C++ için cpp.md gibi) keşfetmek için bu beceriyi çağır. Doğrudan kullanılmaz — dile özgü referanslara ihtiyaç duyan kod testi ajanları ve becerileri tarafından çağrılır."
+description: "Kod testi pipeline'ı için dile özgü uzantı dosyası yolları sağlar (.NET için dotnet.md, C++ için cpp.md); dile özgü referans gereken test ajanları tarafından çağrılır."
 user-invocable: false
 license: MIT
 ---

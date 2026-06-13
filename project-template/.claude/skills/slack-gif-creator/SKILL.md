@@ -1,6 +1,6 @@
 ---
 name: slack-gif-creator
-description: "Slack için optimize edilmiş animasyonlu GIF oluşturma bilgisi ve araçları. Kısıtlamalar, doğrulama araçları ve animasyon konseptleri sağlar. Kullanıcılar \"Slack için X'in Y yapmasını gösteren bir GIF yap\" gibi Slack için animasyonlu GIF talep ettiğinde kullanılır."
+description: "Slack için optimize edilmiş animasyonlu GIF oluşturma; kısıtlamalar, doğrulama araçları ve animasyon konseptleri sağlar. \"Slack için X'in Y yapmasını gösteren GIF\" taleplerinde kullan."
 license: Complete terms in LICENSE.txt
 ---
 

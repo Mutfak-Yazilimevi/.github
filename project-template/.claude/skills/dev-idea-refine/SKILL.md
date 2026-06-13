@@ -1,6 +1,6 @@
 ---
 name: idea-refine
-description: "Ham fikirleri yapılandırılmış ıraksak ve yakınsak düşünce yoluyla keskin, eyleme geçirilebilir kavramlara dönüştürür. Bir fikir hâlâ belirsiz olduğunda, bir plana bağlanmadan önce varsayımları stres testinden geçirmeniz gerektiğinde veya bire indirmeden önce seçenekleri genişletmek istediğinizde kullan. \"Ideate\", \"refine this idea\" veya \"stress-test my plan\" üzerinde tetiklenir."
+description: "Ham fikirleri ıraksak/yakınsak düşünce yoluyla eyleme geçirilebilir kavramlara dönüştürür. \"Ideate\", \"refine this idea\" veya \"stress-test my plan\" tetikler."
 ---
 
 # Idea Refine

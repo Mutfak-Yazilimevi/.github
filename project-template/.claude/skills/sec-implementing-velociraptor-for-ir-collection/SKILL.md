@@ -1,6 +1,6 @@
 ---
 name: implementing-velociraptor-for-ir-collection
-description: "Windows, Linux ve macOS ortamlarında VQL sorguları, avlar ve önceden hazırlanmış artifact paketlerini kullanarak olay müdahalesi sırasında ölçeklenebilir uç nokta adli artifact toplaması için Velociraptor'ı dağıtır ve yapılandırır."
+description: "IR sırasında Windows/Linux/macOS uç noktalarında VQL sorguları ve artifact paketleriyle ölçeklenebilir adli toplama için Velociraptor dağıt ve yapılandır."
 domain: cybersecurity
 subdomain: incident-response
 tags:

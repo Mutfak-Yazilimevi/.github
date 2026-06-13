@@ -1,6 +1,6 @@
 ---
 name: ubiquitous-language
-description: "Mevcut konuşmadan DDD tarzı ortak dil sözlüğü çıkarır, belirsizlikleri işaretler ve kanonik terimler önerir. UBIQUITOUS_LANGUAGE.md dosyasına kaydeder. Kullanıcı alan terimlerini tanımlamak, sözlük oluşturmak, terminolojiyi sağlamlaştırmak, ortak dil oluşturmak veya \"domain model\" ya da \"DDD\" ifadelerini kullandığında kullan."
+description: "Konuşmadan DDD ortak dil sözlüğü çıkarır, belirsizlikleri işaretler ve UBIQUITOUS_LANGUAGE.md'ye kaydeder; domain model/terminoloji tanımlamak için kullan."
 disable-model-invocation: true
 ---
 

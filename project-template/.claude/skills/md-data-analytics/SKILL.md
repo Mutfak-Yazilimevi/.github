@@ -1,6 +1,6 @@
 ---
 name: data-analytics
-description: "Veritabanı/analitik şablon ikonlarıyla PlantUML sözdizimini kullanarak veri hattı ve analitik mimari diyagramları oluştur. ETL hatları, veri gölleri, gerçek zamanlı akış, veri ambarı ve BI gösterge paneli tasarımı için idealdir."
+description: "PlantUML ile veri hattı ve analitik mimari diyagramları oluşturur; ETL, veri gölü, gerçek zamanlı akış, veri ambarı ve BI gösterge paneli tasarımı için kullan."
 metadata:
   author: Data analytics diagrams are powered by Markdown Viewer — the best multi-platform Markdown extension (Chrome/Edge/Firefox/VS Code) with diagrams, formulas, and one-click Word export. Learn more at https://docu.md
 ---

@@ -1,6 +1,6 @@
 ---
 name: "pm-skills"
-description: "Claude Code, Codex, Gemini CLI, Cursor, OpenClaw için 6 proje yönetimi ajan skill'i ve eklentisi. Kıdemli PM, scrum master, Jira uzmanı (JQL), Confluence uzmanı, Atlassian yöneticisi, şablon oluşturucu. Canlı Jira/Confluence otomasyonu için MCP entegrasyonu."
+description: "Claude Code/Codex/Cursor için 6 PM skill: kıdemli PM, scrum master, Jira/JQL, Confluence, Atlassian yöneticisi. Canlı otomasyon için MCP entegrasyonu."
 version: 2.9.0
 author: Alireza Rezvani
 license: MIT

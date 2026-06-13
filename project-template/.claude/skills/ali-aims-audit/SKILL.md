@@ -1,6 +1,6 @@
 ---
 name: "aims-audit"
-description: "/cs:aims-audit <kapsam> — ISO/IEC 42001 AIMS iç denetimi için 6 soruluk zorlayıcı sorgulama. Sertifikasyon 1. aşamasından önce, yıllık iç denetim döngülerinden önce veya mevcut bir AIMS'e yeni bir yapay zeka sistemi dahil edilirken kullan."
+description: "ISO/IEC 42001 AIMS iç denetimi için 6 soruluk zorlayıcı sorgulama. Sertifikasyon öncesi, yıllık denetim döngüsü veya yeni yapay zeka sistemi dahil edilirken kullan."
 ---
 
 # /cs:aims-audit — AIMS ISO 42001 Forcing Questions

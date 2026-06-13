@@ -1,6 +1,6 @@
 ---
 name: analyzing-dns-logs-for-exfiltration
-description: "Entropi analizi, sorgu hacmi anomalileri ve SIEM platformlarında alt alan adı uzunluğu tespiti kullanarak DNS tünel oluşturma, DGA alan iletişimi ve gizli C2 kanalları aracılığıyla veri sızdırmayı tespit etmek için DNS sorgu günlüklerini analiz eder. SOC ekiplerinin geleneksel ağ güvenlik kontrollerini atlayan DNS tabanlı tehditleri belirlemesi gerektiğinde kullan."
+description: "DNS sorgularında entropi analizi ve hacim anomalisiyle DNS tüneli, DGA ve gizli C2 üzerinden veri sızdırmayı SIEM'de tespit eder."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

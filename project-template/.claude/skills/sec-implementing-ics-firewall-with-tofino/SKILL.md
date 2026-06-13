@@ -1,6 +1,6 @@
 ---
 name: implementing-ics-firewall-with-tofino
-description: "ICS güvenlik bölgeleri arasında ayrıntılı erişim denetimi uygulayarak Modbus, EtherNet/IP, OPC ve S7comm dahil OT protokolleri için derin paket inceleme kullanarak SCADA sistemlerini ve PLC'leri korumak amacıyla Belden/Hirschmann'dan Tofino endüstriyel güvenlik duvarlarını dağıt ve yapılandır."
+description: "Belden/Hirschmann Tofino endüstriyel güvenlik duvarını dağıt; Modbus, EtherNet/IP, OPC, S7comm için derin paket inceleme ile SCADA ve PLC koruma için kullan."
 domain: cybersecurity
 subdomain: ot-ics-security
 tags:

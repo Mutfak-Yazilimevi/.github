@@ -1,6 +1,6 @@
 ---
 name: detecting-port-scanning-with-fail2ban
-description: "Port tarama faaliyetini, SSH brute force girişimlerini ve ağ keşfini tespit etmek, saldıran IP adreslerini otomatik olarak yasaklamak ve güvenlik ekiplerini şüpheli ağ problamalarına karşı uyarmak amacıyla Fail2ban'ı özel filtreler ve eylemlerle yapılandırır."
+description: "Fail2ban özel filtreleriyle port tarama, SSH brute force ve ağ keşfini tespit ederek saldıran IP'leri otomatik yasaklar."
 domain: cybersecurity
 subdomain: network-security
 tags:

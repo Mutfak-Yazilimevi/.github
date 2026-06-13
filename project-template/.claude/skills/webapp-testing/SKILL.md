@@ -1,6 +1,6 @@
 ---
 name: webapp-testing
-description: "Playwright kullanarak yerel web uygulamalarıyla etkileşim kurmak ve test etmek için araç takımı. Frontend işlevselliğini doğrulamayı, UI davranışlarını hata ayıklamayı, tarayıcı ekran görüntüsü almayı ve tarayıcı günlüklerini görüntülemeyi destekler."
+description: "Playwright ile yerel web uygulaması etkileşimi ve testi; UI doğrulama, tarayıcı ekran görüntüsü ve günlük görüntüleme için kullan."
 license: Complete terms in LICENSE.txt
 ---
 

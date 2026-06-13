@@ -1,6 +1,6 @@
 ---
 name: community-marketing
-description: "Ürün büyümesini ve marka sadakatini artırmak için çevrimiçi topluluklar oluştur ve yönet. Kullanıcı topluluk stratejisi oluşturmak, Discord veya Slack topluluğu büyütmek, forum veya subreddit yönetmek, marka savunucuları oluşturmak, ağızdan ağıza artırmak, topluluk odaklı büyüme sağlamak, kayıt sonrası kullanıcıları etkileşime sokmak veya müşterileri evangelistlere dönüştürmek istediğinde kullan."
+description: "Ürün büyümesi ve marka sadakati için Discord/Slack topluluğu kurma, forum/subreddit yönetimi, marka savunucusu geliştirme ve topluluk odaklı büyüme stratejisi için kullan."
 metadata:
   version: 2.0.0
 ---

@@ -1,6 +1,6 @@
 ---
 name: canvas-design
-description: "Tasarım felsefesi kullanarak .png ve .pdf belgelerinde güzel görsel sanat oluştur. Kullanıcı poster, sanat eseri, tasarım veya başka bir statik parça oluşturmasını istediğinde bu beceriyi kullan. Telif hakkı ihlalini önlemek için mevcut sanatçıların çalışmalarını kopyalamadan orijinal görsel tasarımlar oluştur."
+description: "Tasarım felsefesiyle .png ve .pdf'te orijinal görsel sanat/poster/tasarım oluşturur; mevcut sanatçı çalışmalarını kopyalamadan telif hakkına uygun yaratıcı içerik için kullan."
 license: Complete terms in LICENSE.txt
 ---
 

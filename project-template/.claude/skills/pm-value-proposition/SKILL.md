@@ -1,6 +1,6 @@
 ---
 name: value-proposition
-description: "6 parçalı JTBD şablonu kullanarak ayrıntılı bir değer önerisi tasarla — Kim, Neden, Önceki Durum, Nasıl, Sonraki Durum, Alternatifler. Değer önerisi oluştururken, müşteri değeri teslimatını analiz ederken veya müşterilerin neden ürününü seçmesi gerektiğini ifade ederken kullan."
+description: "6 parçalı JTBD şablonuyla (Kim, Neden, Önceki/Sonraki Durum, Nasıl, Alternatifler) ayrıntılı değer önerisi tasarla."
 ---
 # Value Proposition
 
