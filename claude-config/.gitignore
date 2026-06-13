@@ -3,3 +3,4 @@
 # reposunda yayımlamak için: bu satırları kaldır veya `git add -f plugins/`.
 plugins/*/skills/
 plugins/*/agents/
+plugins/*/commands/

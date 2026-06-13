@@ -3,8 +3,12 @@
 #
 # Skill/agent'lar TEK kaynaktan (Mutfak skill kütüphanesi) gelir; bu script
 # onları önek/eşleşmeye göre plugins/<ad>/{skills,agents}/ altına materyalize
-# eder. Marketplace repo'su yalnız manifest + bu script tutar; ağır içerik
-# build aninda gelir (repo şişmez, .gitignore ile plugins/*/skills hariç).
+# eder. Slash komutları (commands/) ise mutfak-core/commands/ altına kopyalanır
+# (böylece /onboard, /intake, /review … plugin'le dağıtılır). Marketplace repo'su
+# yalnız manifest + bu script tutar; ağır içerik build aninda gelir.
+#
+# NOT: rules/, hooks/, CLAUDE.md, .mcp.json plugin ile DAĞITILMAZ — bunlar proje
+# scaffold'udur; tam kurulum için project-template kopyalanır.
 #
 # Kullanım:
 #   bash scripts/build-marketplace.sh --source /path/to/.claude
@@ -73,9 +77,21 @@ if [ -d "$AG" ]; then
   done
 fi
 
+echo "== Komutlar materyalize ediliyor (→ mutfak-core) =="
+CMD="$SRC/commands"; ccount=0
+if [ -d "$CMD" ]; then
+  dest="plugins/mutfak-core/commands"; mkdir -p "$dest"
+  for f in "$CMD"/*.md; do
+    [ -f "$f" ] || continue
+    cp "$f" "$dest/"; ccount=$(( ccount + 1 ))
+  done
+fi
+echo "  $ccount komut → mutfak-core (/review, /onboard, /intake, /deploy …)"
+
 echo
 echo "== Özet (plugin: skill / agent) =="
 for pl in $(ls plugins); do
   printf '  %-22s %4s skill  %3s agent\n' "$pl" "${scount[$pl]:-0}" "${acount[$pl]:-0}"
 done
-echo "✔ Marketplace dolduruldu. (plugins/*/skills ve agents .gitignore'da değilse commit edilir.)"
+echo "  (komutlar: $ccount → mutfak-core/commands)"
+echo "✔ Marketplace dolduruldu. (plugins/*/{skills,agents,commands} .gitignore'da; publish force-add eder.)"

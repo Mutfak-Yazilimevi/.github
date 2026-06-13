@@ -28,7 +28,7 @@ echo "→ Scaffold (manifest + script + şablon) kopyalanıyor…"
 cp -r "$SRC_CFG/." ./
 
 echo "→ Eski materyalize içerik temizleniyor (republish'te silmeleri yansıt)…"
-rm -rf plugins/*/skills plugins/*/agents 2>/dev/null || true
+rm -rf plugins/*/skills plugins/*/agents plugins/*/commands 2>/dev/null || true
 
 echo "→ Plugin'ler materyalize ediliyor…"
 bash scripts/build-marketplace.sh --source "$SRC_LIB"
