@@ -1,6 +1,6 @@
 ---
 name: warp-ui-skills
-description: Warp's UI design system. Use when building interfaces inspired by Warp's aesthetic - light mode, Inter font, 4px grid.
+description: "Warp'ın UI tasarım sistemi. Warp'ın estetiğinden esinlenen arayüzler oluştururken kullan — aydınlık mod, Inter yazı tipi, 4px grid."
 license: MIT
 metadata:
   author: design-skills

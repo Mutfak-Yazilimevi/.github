@@ -1,8 +1,6 @@
 ---
 name: performing-clickjacking-attack-test
-description: Testing web applications for clickjacking vulnerabilities by assessing
-  frame embedding controls and crafting proof-of-concept overlay attacks during authorized
-  security assessments.
+description: "Yetkili güvenlik değerlendirmeleri sırasında çerçeve gömme denetimlerini değerlendirerek ve kavram kanıtı katman saldırıları oluşturarak web uygulamalarını clickjacking güvenlik açıkları açısından test eder."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

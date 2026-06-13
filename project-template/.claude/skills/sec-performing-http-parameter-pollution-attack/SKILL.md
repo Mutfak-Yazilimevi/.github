@@ -1,8 +1,6 @@
 ---
 name: performing-http-parameter-pollution-attack
-description: Execute HTTP Parameter Pollution attacks to bypass input validation,
-  WAF rules, and security controls by injecting duplicate parameters that are processed
-  differently by front-end and back-end systems.
+description: "Girdi doğrulamasını atlatmak için HTTP Parameter Pollution saldırıları gerçekleştir"
 domain: cybersecurity
 subdomain: web-application-security
 tags:

@@ -1,8 +1,6 @@
 ---
 name: implementing-mimecast-targeted-attack-protection
-description: Deploy Mimecast Targeted Threat Protection including URL Protect, Attachment
-  Protect, Impersonation Protect, and Internal Email Protect to defend against advanced
-  phishing and spearphishing attacks.
+description: "URL Koruma, Ek Koruma dahil Mimecast Targeted Threat Protection dağıt"
 domain: cybersecurity
 subdomain: phishing-defense
 tags:

@@ -1,8 +1,6 @@
 ---
 name: hunting-for-lolbins-execution-in-endpoint-logs
-description: Hunt for adversary abuse of Living Off the Land Binaries (LOLBins) by
-  analyzing endpoint process creation logs for suspicious execution patterns of legitimate
-  Windows system binaries used for malicious purposes.
+description: "Endpoint günlüklerinde Living Off the Land Binaries (LOLBins) kötüye kullanımını avlar."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

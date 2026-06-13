@@ -1,13 +1,6 @@
 ---
 name: deploying-decoy-files-for-ransomware-detection
-description: 'Deploys canary files (honeytokens) across file systems to detect ransomware
-  encryption activity in real time. Uses strategically placed decoy documents monitored
-  via file integrity monitoring or OS-level watchdogs to trigger alerts when ransomware
-  modifies or encrypts them. Activates for requests involving ransomware canary deployment,
-  honeyfile setup, deception-based ransomware detection, or file integrity monitoring
-  for encryption.
-
-  '
+description: "Fidye yazılımı şifreleme etkinliğini gerçek zamanlı olarak tespit etmek için dosya sistemleri genelinde canary dosyaları (honeytoken) dağıtır. Fidye yazılımı bunları değiştirdiğinde veya şifrelediğinde uyarı tetiklemek için dosya bütünlüğü izleme veya işletim sistemi düzeyinde izleme araçlarıyla izlenen, stratejik olarak yerleştirilmiş sahte belgeler kullanır. Fidye yazılımı canary dağıtımı, honeyfile kurulumu, yanıltma tabanlı fidye yazılımı tespiti veya şifreleme için dosya bütünlüğü izlemeye yönelik isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

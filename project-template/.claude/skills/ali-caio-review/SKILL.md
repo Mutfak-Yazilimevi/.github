@@ -1,6 +1,6 @@
 ---
 name: "caio-review"
-description: "/cs:caio-review <plan> — Eval-demanding Chief AI Officer interrogation of any plan that involves AI: model selection, risk classification, cost economics, or AI hiring."
+description: "/cs:caio-review <plan> — AI içeren herhangi bir planın (model seçimi, risk sınıflandırması, maliyet ekonomisi veya AI istihdamı) değerlendirme odaklı Chief AI Officer sorgulaması."
 ---
 
 # /cs:caio-review — CAIO Forcing Questions

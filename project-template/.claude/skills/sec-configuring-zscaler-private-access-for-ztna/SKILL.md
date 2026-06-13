@@ -1,11 +1,6 @@
 ---
 name: configuring-zscaler-private-access-for-ztna
-description: 'Configuring Zscaler Private Access (ZPA) to replace traditional VPN
-  with zero trust network access by deploying App Connectors, defining application
-  segments, configuring access policies based on user identity and device posture,
-  and integrating with IdPs.
-
-  '
+description: "App Connector'lar dağıtarak, uygulama segmentleri tanımlayarak, kullanıcı kimliği ve cihaz duruşuna dayalı erişim politikaları yapılandırarak ve IdP'lerle entegrasyon sağlayarak geleneksel VPN'i sıfır güven ağ erişimiyle değiştirmek için Zscaler Private Access (ZPA) yapılandırır."
 domain: cybersecurity
 subdomain: zero-trust-architecture
 tags:

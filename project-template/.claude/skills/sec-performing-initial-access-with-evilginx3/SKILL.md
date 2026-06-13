@@ -1,8 +1,6 @@
 ---
 name: performing-initial-access-with-evilginx3
-description: Perform authorized initial access using EvilGinx3 adversary-in-the-middle
-  phishing framework to capture session tokens and bypass multi-factor authentication
-  during red team engagements.
+description: "Kırmızı takım tatbikatları sırasında oturum belirteçlerini yakalamak ve çok faktörlü kimlik doğrulamayı atlatmak için EvilGinx3 düşman-ortadaki-adam kimlik avı çerçevesini kullanarak yetkili ilk erişim gerçekleştirir."
 domain: cybersecurity
 subdomain: red-teaming
 tags:

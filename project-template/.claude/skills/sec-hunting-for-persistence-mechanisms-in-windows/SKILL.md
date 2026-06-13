@@ -1,7 +1,6 @@
 ---
 name: hunting-for-persistence-mechanisms-in-windows
-description: Systematically hunt for adversary persistence mechanisms across Windows
-  endpoints including registry, services, startup folders, and WMI subscriptions.
+description: "Windows genelinde rakip kalıcılık mekanizmalarını sistematik olarak tespit et"
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

@@ -1,8 +1,6 @@
 ---
 name: analyzing-mft-for-deleted-file-recovery
-description: Analyze the NTFS Master File Table ($MFT) to recover metadata and content
-  of deleted files by examining MFT record entries, $LogFile, $UsnJrnl, and MFT slack
-  space using MFTECmd, analyzeMFT, and X-Ways Forensics.
+description: "MFTECmd, analyzeMFT ve X-Ways Forensics kullanarak MFT kayıt girişlerini, $LogFile'ı, $UsnJrnl'yi ve MFT boş alanını inceleyerek silinen dosyaların meta verilerini ve içeriğini kurtarmak için NTFS Ana Dosya Tablosunu ($MFT) analiz et."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

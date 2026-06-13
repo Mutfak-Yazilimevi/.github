@@ -1,6 +1,6 @@
 ---
 name: free-tools
-description: When the user wants to plan, evaluate, or build a free tool for marketing purposes — lead generation, SEO value, or brand awareness. Also use when the user mentions "engineering as marketing," "free tool," "marketing tool," "calculator," "generator," "interactive tool," "lead gen tool," "build a tool for leads," "free resource," "ROI calculator," "grader tool," "audit tool," "should I build a free tool," or "tools for lead gen." Use this whenever someone wants to build something useful and give it away to attract leads or earn links. For downloadable content lead magnets (ebooks, checklists, templates), see lead-magnets.
+description: "Kullanıcı pazarlama amaçlı ücretsiz bir araç planlamak, değerlendirmek veya oluşturmak istediğinde kullanılır — potansiyel müşteri oluşturma, SEO değeri veya marka farkındalığı. Ayrıca kullanıcı \"pazarlama aracı olarak mühendislik\", \"ücretsiz araç\", \"pazarlama aracı\", \"hesap makinesi\", \"oluşturucu\", \"etkileşimli araç\", \"potansiyel müşteri oluşturma aracı\", \"ücretsiz kaynak\", \"ROI hesap makinesi\", \"değerlendirme aracı\", \"denetim aracı\", \"ücretsiz araç oluşturmalı mıyım\" veya \"potansiyel müşteriler için araçlar\" söylediğinde de kullanılır. Birinin faydalı bir şey oluşturup ücretsiz vererek potansiyel müşteri çekmek veya bağlantı kazanmak istediği her durumda kullanılır. İndirilebilir içerik potansiyel müşteri mıknatısları (e-kitaplar, kontrol listeleri, şablonlar) için bkz. lead-magnets."
 metadata:
   version: 2.0.0
 ---

@@ -1,12 +1,6 @@
 ---
 name: performing-dynamic-analysis-with-any-run
-description: 'Performs interactive dynamic malware analysis using the ANY.RUN cloud
-  sandbox to observe real-time execution behavior, interact with malware prompts,
-  and capture process trees, network traffic, and system changes. Activates for requests
-  involving interactive sandbox analysis, cloud-based malware detonation, real-time
-  behavioral observation, or ANY.RUN usage.
-
-  '
+description: "Gerçek zamanlı yürütme davranışını gözlemlemek, kötü amaçlı yazılım istemleriyle etkileşim kurmak ve işlem ağaçlarını, ağ trafiğini ve sistem değişikliklerini yakalamak için ANY.RUN bulut sandbox'ını kullanarak etkileşimli dinamik kötü amaçlı yazılım analizi gerçekleştirir. Etkileşimli sandbox analizi, bulut tabanlı kötü amaçlı yazılım patlama, gerçek zamanlı davranışsal gözlem veya ANY.RUN kullanımı içeren isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: malware-analysis
 tags:

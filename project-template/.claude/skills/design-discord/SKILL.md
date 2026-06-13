@@ -1,6 +1,6 @@
 ---
 name: discord-ui-skills
-description: Discord's UI design system. Use when building interfaces inspired by Discord's aesthetic - light mode, Inter font, 4px grid.
+description: "Discord'un UI tasarım sistemi. Discord estetiğinden ilham alan arayüzler oluştururken kullan — light mode, Inter font, 4px grid"
 license: MIT
 metadata:
   author: design-skills

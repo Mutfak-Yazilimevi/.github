@@ -1,11 +1,6 @@
 ---
 name: detecting-supply-chain-attacks-in-ci-cd
-description: 'Scans GitHub Actions workflows and CI/CD pipeline configurations for
-  supply chain attack vectors including unpinned actions, script injection via expressions,
-  dependency confusion, and secrets exposure. Uses PyGithub and YAML parsing for automated
-  audit. Use when hardening CI/CD pipelines or investigating compromised build systems.
-
-  '
+description: "Sabitlenmemiş action'lar, ifadeler aracılığıyla script injection, bağımlılık karışıklığı ve sırların açığa çıkması dahil tedarik zinciri saldırı vektörleri için GitHub Actions iş akışlarını ve CI/CD pipeline yapılandırmalarını tarar. Otomatik denetim için PyGithub ve YAML ayrıştırma kullanır. CI/CD pipeline'larını güçlendirirken veya ele geçirilmiş derleme sistemlerini araştırırken kullanın."
 domain: cybersecurity
 subdomain: security-operations
 tags:

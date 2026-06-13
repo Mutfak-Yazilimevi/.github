@@ -1,6 +1,6 @@
 ---
 name: notion-ui-skills
-description: Notion's UI design system. Use when building interfaces inspired by Notion's aesthetic - light mode, Inter font, 4px grid.
+description: "Notion'ın UI tasarım sistemi. Notion estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter font, 4px grid."
 license: MIT
 metadata:
   author: design-skills

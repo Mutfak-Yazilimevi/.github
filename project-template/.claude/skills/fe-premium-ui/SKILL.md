@@ -1,6 +1,6 @@
 ---
 name: premium-ui-builder-skill
-description: Use this skill when the user wants to design, plan, redesign, upgrade, or improve the UI of a website, app, SaaS, dashboard, AI tool, landing page, portfolio, admin panel, mobile screen, or Vibe Coding project, especially when the user asks for a more premium, polished, real-product-like, modern, high-end, aesthetic, less generic, less AI-looking, or implementation-ready UI direction.
+description: "Kullanıcı bir web sitesi, uygulama, SaaS, dashboard, yapay zeka aracı, açılış sayfası, portföy, yönetim paneli, mobil ekran veya Vibe Coding projesinin UI'sini tasarlamak, planlamak, yeniden tasarlamak, yükseltmek veya geliştirmek istediğinde; özellikle kullanıcı daha premium, cilalı, gerçek ürün benzeri, modern, üst düzey, estetik, az jenerik, az yapay zeka görünümlü veya uygulamaya hazır bir UI yönü talep ettiğinde kullan."
 version: 1.0.0
 author: ziguishian
 license: MIT

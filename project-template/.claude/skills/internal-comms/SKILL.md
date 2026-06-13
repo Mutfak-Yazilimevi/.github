@@ -1,6 +1,6 @@
 ---
 name: internal-comms
-description: A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).
+description: "Her türlü iç iletişimi, şirketimin kullandığı biçimlere uygun olarak yazmama yardımcı olan kaynak seti. Bir tür iç iletişim (durum raporları, liderlik güncellemeleri, 3P güncellemeleri, şirket bültenleri, SSS'ler, olay raporları, proje güncellemeleri vb.) yazması istendiğinde Claude bu beceriyi kullanmalıdır."
 license: Complete terms in LICENSE.txt
 ---
 

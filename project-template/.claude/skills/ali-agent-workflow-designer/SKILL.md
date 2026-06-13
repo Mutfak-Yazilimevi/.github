@@ -1,6 +1,6 @@
 ---
 name: "agent-workflow-designer"
-description: "Design production-grade multi-agent workflows with clear pattern choice (sequential, parallel, hierarchical), handoff contracts, failure handling, and cost/context controls. Use when architecting a multi-step agent pipeline, choosing between single-agent vs multi-agent approaches, or refactoring an LLM workflow that suffers from context bloat or unreliable handoffs."
+description: "Açık kalıp seçimi (sıralı, paralel, hiyerarşik), teslim sözleşmeleri, hata yönetimi ve maliyet/bağlam kontrolleriyle üretim kalitesinde çok ajanlı iş akışları tasarla. Çok adımlı bir ajan pipeline'ı mimarlarken, tek ajan vs çok ajan yaklaşımları arasında seçim yaparken veya bağlam şişmesi veya güvenilmez teslimlerden muzdarip bir LLM iş akışını yeniden düzenlerken kullan."
 ---
 
 # Agent Workflow Designer

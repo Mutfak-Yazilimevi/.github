@@ -1,6 +1,6 @@
 ---
 name: metrics-dashboard
-description: "Define and design a product metrics dashboard with key metrics, data sources, visualization types, and alert thresholds. Use when creating a metrics dashboard, defining KPIs, setting up product analytics, or building a data monitoring plan."
+description: "Temel metrikler, veri kaynakları, görselleştirme türleri ve uyarı eşikleriyle bir ürün metrikleri panosu tanımla ve tasarla. Metrikler panosu oluştururken, KPI'ları tanımlarken, ürün analitiği kurarken veya veri izleme planı oluştururken kullan."
 ---
 
 ## Product Metrics Dashboard

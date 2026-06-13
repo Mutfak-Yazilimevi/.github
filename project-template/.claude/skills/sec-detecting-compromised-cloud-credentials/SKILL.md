@@ -1,11 +1,6 @@
 ---
 name: detecting-compromised-cloud-credentials
-description: 'Detecting compromised cloud credentials across AWS, Azure, and GCP by
-  analyzing anomalous API activity, impossible travel patterns, unauthorized resource
-  provisioning, and credential abuse indicators using GuardDuty, Defender for Identity,
-  and SCC Event Threat Detection.
-
-  '
+description: "GuardDuty, Defender for Identity ve SCC Event Threat Detection kullanarak anormal API etkinliğini, imkânsız seyahat modellerini, yetkisiz kaynak sağlamayı ve kimlik bilgisi kötüye kullanım göstergelerini analiz ederek AWS, Azure ve GCP genelinde güvenliği ihlal edilmiş bulut kimlik bilgilerini tespit eder."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

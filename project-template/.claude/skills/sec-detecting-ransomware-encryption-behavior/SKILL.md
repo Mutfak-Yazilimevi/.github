@@ -1,13 +1,6 @@
 ---
 name: detecting-ransomware-encryption-behavior
-description: 'Detects ransomware encryption activity in real time using entropy analysis,
-  file system I/O monitoring, and behavioral heuristics. Identifies mass file modification
-  patterns, abnormal entropy spikes in written data, and suspicious process behavior
-  characteristic of ransomware encryption routines. Activates for requests involving
-  ransomware behavioral detection, entropy-based file monitoring, I/O anomaly detection,
-  or real-time encryption activity alerting.
-
-  '
+description: "Entropi analizi, dosya sistemi G/Ç izleme ve davranışsal buluşsal yöntemler kullanarak fidye yazılımı şifreleme faaliyetini gerçek zamanlı olarak tespit eder. Toplu dosya değiştirme kalıplarını, yazılan verideki anormal entropi artışlarını ve fidye yazılımı şifreleme rutinlerine özgü şüpheli süreç davranışlarını belirler. Fidye yazılımı davranışsal tespiti, entropi tabanlı dosya izleme, G/Ç anomalisi tespiti veya gerçek zamanlı şifreleme faaliyeti uyarısı içeren isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

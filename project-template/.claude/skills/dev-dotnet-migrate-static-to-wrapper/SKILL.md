@@ -1,19 +1,6 @@
 ---
 name: migrate-static-to-wrapper
-description: >
-  Mechanically replace static dependency call sites with wrapper or built-in
-  abstraction calls across a bounded scope (file, project, or namespace).
-  Performs codemod-style bulk replacement of DateTime.UtcNow to TimeProvider.GetUtcNow(),
-  File.ReadAllText to IFileSystem, and similar transformations. Adds constructor
-  injection parameters and updates DI registration.
-  USE FOR: replace DateTime.UtcNow with TimeProvider, replace DateTime.Now with
-  TimeProvider, migrate static calls to wrapper, bulk replace File.* with IFileSystem,
-  codemod static to injectable, add constructor injection for time provider,
-  mechanical migration of statics, refactor DateTime to TimeProvider, swap static
-  for injected dependency, convert static calls to use abstraction, replace statics
-  in a class, migrate one file to TimeProvider, scoped migration, update call sites.
-  DO NOT USE FOR: detecting statics (use detect-static-dependencies), generating
-  wrappers (use generate-testability-wrappers), migrating between test frameworks.
+description: "Sınırlı bir kapsamda (dosya, proje veya namespace) statik bağımlılık çağrı noktalarını wrapper veya yerleşik soyutlama çağrılarıyla mekanik olarak değiştirir. DateTime.UtcNow'u TimeProvider.GetUtcNow()'a, File.ReadAllText'i IFileSystem'a ve benzeri dönüşümleri toplu codemod tarzında gerçekleştirir. Constructor injection parametreleri ekler ve DI kaydını günceller. KULLANIM ALANLARI: DateTime.UtcNow'u TimeProvider ile değiştirme, DateTime.Now'u TimeProvider ile değiştirme, statik çağrıları wrapper'a geçirme, File.*'ı IFileSystem ile toplu değiştirme, statik'ten injectable'a codemod, zaman sağlayıcısı için constructor injection ekleme, statiklerin mekanik geçişi, DateTime'ı TimeProvider'a yeniden düzenleme, statik'i enjekte edilmiş bağımlılıkla değiştirme, statik çağrıları soyutlama kullanacak şekilde dönüştürme, bir sınıftaki statikleri değiştirme, bir dosyayı TimeProvider'a geçirme, kapsamlı geçiş, çağrı noktalarını güncelleme. KULLANMA: statikleri tespit etme (detect-static-dependencies kullan), wrapper üretme (generate-testability-wrappers kullan), test framework'leri arasında geçiş."
 license: MIT
 ---
 

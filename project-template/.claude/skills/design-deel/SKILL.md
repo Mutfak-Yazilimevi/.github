@@ -1,6 +1,6 @@
 ---
 name: deel-ui-skills
-description: Deel's UI design system. Use when building interfaces inspired by Deel's aesthetic - light mode, Inter font, 4px grid.
+description: "Deel'in UI tasarım sistemi. Deel'in estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter yazı tipi, 4px grid."
 license: MIT
 metadata:
   author: design-skills

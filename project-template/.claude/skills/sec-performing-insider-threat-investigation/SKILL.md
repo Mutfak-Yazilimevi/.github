@@ -1,13 +1,6 @@
 ---
 name: performing-insider-threat-investigation
-description: 'Investigates insider threat incidents involving employees, contractors,
-  or trusted partners who misuse authorized access to steal data, sabotage systems,
-  or violate security policies. Combines digital forensics, user behavior analytics,
-  and HR/legal coordination to build an evidence-based case. Activates for requests
-  involving insider threat investigation, employee data theft, privilege misuse, user
-  behavior anomaly, or internal threat detection.
-
-  '
+description: "Yetkili erişimi veri çalmak, sistemleri sabote etmek veya güvenlik politikalarını ihlal etmek için kötüye kullanan çalışanları, yüklenicileri veya güvenilen ortakları kapsayan iç tehdit olaylarını araştırır. Kanıta dayalı bir dava oluşturmak için dijital adli bilim, kullanıcı davranış analitiği ve İK/hukuki koordinasyonu birleştirir. İç tehdit soruşturması, çalışan veri hırsızlığı, ayrıcalık kötüye kullanımı, kullanıcı davranış anormalliği veya dahili tehdit tespiti içeren isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: incident-response
 tags:

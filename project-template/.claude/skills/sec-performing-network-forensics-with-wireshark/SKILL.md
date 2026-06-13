@@ -1,7 +1,6 @@
 ---
 name: performing-network-forensics-with-wireshark
-description: Capture and analyze network traffic using Wireshark and tshark to reconstruct
-  network events, extract artifacts, and identify malicious communications.
+description: "Ağ trafiğini yeniden oluşturmak için Wireshark ve tshark kullanarak ağ trafiğini yakala ve analiz et."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

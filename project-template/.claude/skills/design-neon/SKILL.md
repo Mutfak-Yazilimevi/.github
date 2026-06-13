@@ -1,6 +1,6 @@
 ---
 name: neon-ui-skills
-description: Neon's UI design system. Use when building interfaces inspired by Neon's aesthetic - dark mode, Inter font, 4px grid.
+description: "Neon'un UI tasarım sistemi. Neon estetiğinden ilham alarak arayüzler oluştururken kullanılır — karanlık mod, Inter yazı tipi, 4 piksel ızgara."
 license: MIT
 metadata:
   author: design-skills

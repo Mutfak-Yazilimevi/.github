@@ -1,6 +1,6 @@
 ---
 name: programmatic-seo
-description: When the user wants to create SEO-driven pages at scale using templates and data. Also use when the user mentions "programmatic SEO," "template pages," "pages at scale," "directory pages," "location pages," "[keyword] + [city] pages," "comparison pages," "integration pages," "building many pages for SEO," "pSEO," "generate 100 pages," "data-driven pages," or "templated landing pages." Use this whenever someone wants to create many similar pages targeting different keywords or locations. For auditing existing SEO issues, see seo-audit. For content strategy planning, see content-strategy.
+description: "Kullanıcı şablonlar ve veriler kullanarak ölçekli SEO odaklı sayfalar oluşturmak istediğinde kullan. Ayrıca kullanıcı \"programatik SEO\", \"şablon sayfalar\", \"ölçekli sayfalar\", \"dizin sayfaları\", \"konum sayfaları\", \"[anahtar kelime] + [şehir] sayfaları\", \"karşılaştırma sayfaları\", \"entegrasyon sayfaları\", \"SEO için pek çok sayfa oluşturma\", \"pSEO\", \"100 sayfa oluştur\", \"veri odaklı sayfalar\" veya \"şablonlu açılış sayfaları\" ifadelerinden bahsettiğinde de kullan. Birisinin farklı anahtar kelimeleri veya konumları hedefleyen çok sayıda benzer sayfa oluşturmak istediğinde her zaman kullan. Mevcut SEO sorunlarını denetlemek için seo-audit'e bak. İçerik stratejisi planlaması için content-strategy'ye bak."
 metadata:
   version: 2.0.0
 ---

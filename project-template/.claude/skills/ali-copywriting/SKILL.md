@@ -1,6 +1,6 @@
 ---
 name: "copywriting"
-description: "When the user wants to write, rewrite, or improve marketing copy for any page — including homepage, landing pages, pricing pages, feature pages, about pages, or product pages. Also use when the user says \"write copy for,\" \"improve this copy,\" \"rewrite this page,\" \"marketing copy,\" \"headline help,\" or \"CTA copy.\" For email copy, see email-sequence. For popup copy, see popup-cro."
+description: "Kullanıcı herhangi bir sayfa için pazarlama metni yazmak, yeniden yazmak veya geliştirmek istediğinde kullan — ana sayfa, açılış sayfaları, fiyatlandırma sayfaları, özellik sayfaları, hakkında sayfaları veya ürün sayfaları dahil. Ayrıca kullanıcı \"write copy for\", \"improve this copy\", \"rewrite this page\", \"marketing copy\", \"headline help\" veya \"CTA copy\" dediğinde de kullan. E-posta metni için email-sequence, açılır pencere metni için popup-cro skill'ini kullan."
 license: MIT
 metadata:
   version: 1.0.0

@@ -1,6 +1,6 @@
 ---
 name: ppt-editing-skill
-description: "Edit existing PowerPoint files or templates with XML-safe workflows. Use for template-based deck updates: analyze layouts, map content to slides, duplicate/reorder/delete slides safely, edit slide XML in parallel, clean orphaned assets, and repack validated PPTX output."
+description: "XML güvenli iş akışlarıyla mevcut PowerPoint dosyalarını veya şablonları düzenler. Şablon tabanlı deste güncellemeleri için kullan: düzenleri analiz et, içeriği slaytlara eşle, slaytları güvenle kopyala/yeniden sırala/sil, slayt XML'ini paralel düzenle, yalnız kalmış varlıkları temizle ve doğrulanmış PPTX çıktısını yeniden paketle"
 license: Proprietary. LICENSE.txt has complete terms
 ---
 

@@ -1,11 +1,6 @@
 ---
 name: configuring-identity-aware-proxy-with-google-iap
-description: 'Configuring Google Cloud Identity-Aware Proxy (IAP) to enforce per-request
-  identity verification for Compute Engine, App Engine, Cloud Run, and GKE services
-  using access levels, context-aware policies, and programmatic access with service
-  accounts.
-
-  '
+description: "Erişim düzeyleri, bağlam bilincine sahip politikalar ve service account'larla programatik erişim kullanarak Compute Engine, App Engine, Cloud Run ve GKE servislerine istek başına kimlik doğrulaması uygulamak için Google Cloud Identity-Aware Proxy (IAP) yapılandırır."
 domain: cybersecurity
 subdomain: zero-trust-architecture
 tags:

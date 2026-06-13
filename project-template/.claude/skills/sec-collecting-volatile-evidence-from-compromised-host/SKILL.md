@@ -1,8 +1,6 @@
 ---
 name: collecting-volatile-evidence-from-compromised-host
-description: Collect volatile forensic evidence from a compromised system following
-  order of volatility, preserving memory, network connections, processes, and system
-  state before they are lost.
+description: "Uçuculuk sırasına uyarak, kaybolmadan önce belleği, ağ bağlantılarını, süreçleri ve sistem durumunu koruyarak güvenliği ihlal edilmiş bir sistemden uçucu adli kanıt toplar."
 domain: cybersecurity
 subdomain: incident-response
 tags:

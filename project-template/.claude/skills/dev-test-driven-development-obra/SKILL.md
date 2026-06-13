@@ -1,6 +1,6 @@
 ---
 name: test-driven-development-obra
-description: Use when implementing any feature or bugfix, before writing implementation code
+description: "Herhangi bir özellik veya hata düzeltmesi uygularken, yazılım kodu yazmadan önce kullan"
 ---
 
 # Test-Driven Development (TDD)

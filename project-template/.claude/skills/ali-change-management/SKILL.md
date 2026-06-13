@@ -1,6 +1,6 @@
 ---
 name: "change-management"
-description: "Framework for rolling out organizational changes without chaos. Covers the ADKAR model adapted for startups, communication templates, resistance patterns, and change fatigue management. Handles process changes, org restructures, strategy pivots, and culture changes. Use when announcing a reorg, switching tools, pivoting strategy, killing a product, changing leadership, or when user mentions change management, change rollout, managing resistance, org change, reorg, or pivot communication."
+description: "Organizasyonel değişiklikleri kaotik olmadan hayata geçirme çerçevesi. Girişimler için uyarlanmış ADKAR modelini, iletişim şablonlarını, direnç örüntülerini ve değişim yorgunluğu yönetimini kapsar. Süreç değişikliklerini, organizasyon yeniden yapılanmalarını, strateji değişimlerini ve kültür değişikliklerini ele alır. Yeniden yapılanma duyurusu, araç değişimi, strateji değişimi, ürün kapatma, liderlik değişimi sırasında veya kullanıcı değişim yönetimi, değişim sunumu, direnci yönetme, organizasyon değişikliği, yeniden yapılanma veya değişim iletişiminden bahsettiğinde kullanılır."
 license: MIT
 metadata:
   version: 1.0.0

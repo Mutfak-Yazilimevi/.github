@@ -1,6 +1,6 @@
 ---
 name: engineering-team-status
-description: "Memory health dashboard showing line counts, topic files, capacity, stale entries, and recommendations."
+description: "Satır sayıları, konu dosyaları, kapasite, eski girişler ve öneriler gösteren bellek sağlık panosu."
 ---
 
 # /si:status — Memory Health Dashboard

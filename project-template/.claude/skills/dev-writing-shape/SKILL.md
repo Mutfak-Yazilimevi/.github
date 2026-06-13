@@ -1,6 +1,6 @@
 ---
 name: writing-shape
-description: Take a markdown file of raw material and shape it into an article through a conversational session — drafting candidate openings, growing the piece paragraph by paragraph, arguing about format (lists, tables, callouts, quotes) at each step. Use when the user has a pile of notes, fragments, or a rough draft and wants help turning it into something publishable.
+description: "Ham materyalin bulunduğu bir markdown dosyasını alarak konuşma oturumu aracılığıyla bir makaleye dönüştür — aday açılışlar taslak, paragraf paragraf büyüt, her adımda biçim (listeler, tablolar, uyarılar, alıntılar) üzerine tartış. Kullanıcının notlar, parçalar veya kaba taslak yığını olduğunda ve bunu yayımlanabilir bir şeye dönüştürmeye yardım istediğinde kullan."
 ---
 
 <what-to-do>

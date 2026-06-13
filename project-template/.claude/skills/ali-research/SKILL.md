@@ -1,6 +1,6 @@
 ---
 name: research
-description: Default entry point for any research request — a hybrid router that classifies the question deterministically and either delegates to a specialist research skill (pulse for trends/sentiment, grants for NIH funding, litreview for academic literature, syllabus for course reading, patent for prior-art + IP landscape, dossier for entity research) or runs its own plan-decompose-multi-source-search-synthesize-cite fallback workflow when no specialist matches. Always surfaces the routing decision so users can override. Triggers — "research [topic]", "look into [topic]", "what do we know about [topic]", "investigate [topic]", "find me information on [topic]", "do some research on [topic]", "I need to understand [topic]", or any research request that doesn't obviously match a more-specific specialist skill. Output is a markdown briefing (default) or .docx document (on request) with full citations and an audit log.
+description: "Herhangi bir araştırma isteği için varsayılan giriş noktası — soruyu belirleyici olarak sınıflandıran ve uzman bir araştırma becerisine (eğilimler/duyarlılık için pulse, NIH finansmanı için grants, akademik literatür için litreview, ders okumalar için syllabus, önceki sanat + IP ortamı için patent, kurum araştırması için dossier) devreden ya da hiçbir uzman eşleşmediğinde kendi plan-ayrıştır-çok kaynak-arama-sentezle-atıf geri dönüş iş akışını çalıştıran hibrit bir yönlendirici."
 ---
 
 # Research — Hybrid Router + Fallback

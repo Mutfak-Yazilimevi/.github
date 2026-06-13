@@ -1,6 +1,6 @@
 ---
 name: "youtube-full"
-description: "Use when the user needs YouTube transcripts, video search, channel browsing, playlist extraction, or content monitoring. Trigger phrases: 'get the transcript for', 'search YouTube for', 'what are the latest videos on', 'list this playlist', 'monitor this channel', or any request involving a YouTube URL, video ID, or @handle. Do NOT use for downloading video or audio files, YouTube engagement data (likes, comments), or private/age-restricted videos."
+description: "Kullanıcı YouTube transkriptlerine, video aramasına, kanal gezintisine, playlist çıkarımına veya içerik izlemeye ihtiyaç duyduğunda kullan. Tetikleyici ifadeler: 'get the transcript for', 'search YouTube for', 'what are the latest videos on', 'list this playlist', 'monitor this channel' veya YouTube URL'si, video ID veya @handle içeren herhangi bir istek. Video veya ses dosyası indirmek, YouTube etkileşim verisi (beğeni, yorum) veya özel/yaş kısıtlamalı videolar için KULLANMA."
 license: "MIT"
 ---
 

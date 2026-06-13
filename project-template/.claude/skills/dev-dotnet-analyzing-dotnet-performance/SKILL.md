@@ -1,10 +1,6 @@
 ---
 name: analyzing-dotnet-performance
-description: >-
-  Scans .NET code for ~50 performance anti-patterns across async, memory,
-  strings, collections, LINQ, regex, serialization, and I/O with tiered
-  severity classification. Use when analyzing .NET code for optimization
-  opportunities, reviewing hot paths, or auditing allocation-heavy patterns.
+description: "Katmanlı önem sınıflandırmasıyla async, bellek, string'ler, koleksiyonlar, LINQ, regex, serileştirme ve G/Ç genelinde yaklaşık 50 .NET performans karşı-kalıbı tarar. Optimizasyon fırsatları için .NET kodunu analiz ederken, kritik yolları incelerken veya bellek yoğun kalıpları denetlerken kullan."
 license: MIT
 ---
 

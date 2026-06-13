@@ -1,11 +1,6 @@
 ---
 name: scanning-network-with-nmap-advanced
-description: 'Performs advanced network reconnaissance using Nmap''s scripting engine,
-  timing controls, evasion techniques, and output parsing to discover hosts, enumerate
-  services, detect vulnerabilities, and fingerprint operating systems across authorized
-  target networks.
-
-  '
+description: "Yetkili hedef ağlar genelinde ana bilgisayarları keşfetmek, servisleri numaralandırmak, güvenlik açıklarını tespit etmek ve işletim sistemlerini parmak izi almak için Nmap'in scripting motorunu, zamanlama kontrollerini, kaçınma tekniklerini ve çıktı ayrıştırmasını kullanarak gelişmiş ağ keşfi gerçekleştirir."
 domain: cybersecurity
 subdomain: network-security
 tags:

@@ -1,10 +1,6 @@
 ---
 name: auditing-kubernetes-cluster-rbac
-description: 'Auditing Kubernetes cluster RBAC configurations to identify overly permissive
-  roles, wildcard permissions, dangerous ClusterRoleBindings, service account abuse,
-  and privilege escalation paths using kubectl, rbac-tool, KubiScan, and Kubeaudit.
-
-  '
+description: "kubectl, rbac-tool, KubiScan ve Kubeaudit kullanarak aşırı izin veren rolleri, joker karakter izinlerini, tehlikeli ClusterRoleBinding'leri, service account kötüye kullanımını ve ayrıcalık yükseltme yollarını belirlemek için Kubernetes küme RBAC yapılandırmalarını denetler."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

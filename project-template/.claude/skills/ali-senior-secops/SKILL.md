@@ -1,6 +1,6 @@
 ---
 name: "senior-secops"
-description: Senior SecOps engineer skill for application security, vulnerability management, compliance verification, and secure development practices. Runs SAST/DAST scans, generates CVE remediation plans, checks dependency vulnerabilities, creates security policies, enforces secure coding patterns, and automates compliance checks against SOC2, PCI-DSS, HIPAA, and GDPR. Use when conducting a security review or audit, responding to a CVE or security incident, hardening infrastructure, implementing authentication or secrets management, running penetration test prep, checking OWASP Top 10 exposure, or enforcing security controls in CI/CD pipelines.
+description: "Uygulama güvenliği, güvenlik açığı yönetimi, uyumluluk doğrulaması ve güvenli geliştirme uygulamaları için Kıdemli SecOps mühendisi skill'i. SAST/DAST taramaları çalıştırır, CVE düzeltme planları oluşturur, bağımlılık güvenlik açıklarını kontrol eder, güvenlik politikaları oluşturur, güvenli kodlama kalıplarını uygular ve SOC2, PCI-DSS, HIPAA ve GDPR'ye karşı uyumluluk denetimlerini otomatikleştirir. Güvenlik incelemesi veya denetimi yaparken, bir CVE'ye veya güvenlik olayına yanıt verirken, altyapıyı sertleştirirken, kimlik doğrulama veya sırlar yönetimi uygularken, sızma testi hazırlığı yaparken, OWASP Top 10 maruziyetini kontrol ederken veya CI/CD pipeline'larında güvenlik kontrollerini uygularken kullan."
 ---
 
 # Senior SecOps Engineer

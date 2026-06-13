@@ -1,8 +1,6 @@
 ---
 name: performing-graphql-security-assessment
-description: Assessing GraphQL API endpoints for introspection leaks, injection attacks,
-  authorization flaws, and denial-of-service vulnerabilities during authorized security
-  tests.
+description: "Yetkili güvenlik testleri sırasında GraphQL API uç noktalarını iç gözlem sızıntıları, enjeksiyon saldırıları, yetkilendirme açıkları ve hizmet reddi güvenlik açıkları açısından değerlendirir."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

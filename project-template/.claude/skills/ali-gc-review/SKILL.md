@@ -1,6 +1,6 @@
 ---
 name: "gc-review"
-description: "/cs:gc-review <plan> — General Counsel interrogation of contracts, IP, regulatory, term sheets, and employment-law surface."
+description: "/cs:gc-review <plan> — Sözleşme, fikri mülkiyet, düzenleyici, term sheet ve iş hukuku yüzeyinin Genel Müdür sorgulaması."
 ---
 
 # /cs:gc-review — General Counsel Forcing Questions

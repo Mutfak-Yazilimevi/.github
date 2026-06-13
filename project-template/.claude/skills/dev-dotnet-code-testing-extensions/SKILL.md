@@ -1,10 +1,6 @@
 ---
 name: code-testing-extensions
-description: >-
-  Provides file paths to language-specific extension files for the code-testing
-  pipeline. Call this skill to discover available extension guidance files
-  (e.g., dotnet.md for .NET, cpp.md for C++). Do not use directly — invoked
-  by code-testing agents and skills that need language-specific references.
+description: "Kod testi pipeline'ı için dile özgü uzantı dosyalarına giden dosya yollarını sağlar. Mevcut uzantı rehberi dosyalarını (.NET için dotnet.md, C++ için cpp.md gibi) keşfetmek için bu beceriyi çağır. Doğrudan kullanılmaz — dile özgü referanslara ihtiyaç duyan kod testi ajanları ve becerileri tarafından çağrılır."
 user-invocable: false
 license: MIT
 ---

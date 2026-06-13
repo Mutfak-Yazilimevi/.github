@@ -1,14 +1,6 @@
 ---
 name: mcp-csharp-debug
-description: >
-  Run and debug C# MCP servers locally. Covers IDE configuration, MCP Inspector testing,
-  GitHub Copilot Agent Mode integration, logging setup, and troubleshooting.
-  USE FOR: running MCP servers locally with dotnet run, configuring VS Code or Visual Studio
-  for MCP debugging, testing tools with MCP Inspector, testing with GitHub Copilot Agent Mode,
-  diagnosing tool registration issues, setting up mcp.json configuration, debugging MCP
-  protocol messages, configuring logging for stdio and HTTP servers.
-  DO NOT USE FOR: creating new MCP servers (use mcp-csharp-create), writing automated tests
-  (use mcp-csharp-test), publishing or deploying to production (use mcp-csharp-publish).
+description: "C# MCP sunucularını yerel olarak çalıştır ve hata ayıkla. IDE yapılandırmasını, MCP Inspector testini, GitHub Copilot Agent Mode entegrasyonunu, günlükleme kurulumunu ve sorun gidermeyi kapsar. ŞUNLAR İÇİN KULLAN: dotnet run ile MCP sunucularını yerel olarak çalıştırma, MCP hata ayıklama için VS Code veya Visual Studio yapılandırması, MCP Inspector ile araçları test etme, GitHub Copilot Agent Mode ile test etme, araç kayıt sorunlarını tanılama, mcp.json yapılandırmasını ayarlama, MCP protokol mesajlarında hata ayıklama, stdio ve HTTP sunucuları için günlükleme yapılandırma. ŞUNLAR İÇİN KULLANMA: yeni MCP sunucuları oluşturma (mcp-csharp-create kullan), otomatik testler yazma (mcp-csharp-test kullan), üretime yayınlama veya dağıtma (mcp-csharp-publish kullan)."
 license: MIT
 ---
 

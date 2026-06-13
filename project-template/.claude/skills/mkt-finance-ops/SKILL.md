@@ -1,6 +1,6 @@
 ---
 name: finance-ops
-description: "AI-powered financial analysis suite. Generates executive CFO briefings from QuickBooks exports (P&L, Balance Sheet, General Ledger, Cash Flow, etc.) with anomaly detection, burn rate, runway analysis, and scenario modeling. Also estimates codebase development costs with organizational overhead and AI ROI analysis. Triggers on: 'CFO briefing', 'financial analysis', 'cost briefing', 'expense review', 'runway analysis', 'burn rate', 'cost estimate', 'how much would this cost to build', 'development cost', 'Claude ROI'."
+description: "Yapay zeka destekli finansal analiz paketi. QuickBooks dışa aktarmalarından (K&Z, Bilanço, Genel Muhasebe, Nakit Akışı vb.) anomali tespiti, burn rate, runway analizi ve senaryo modellemesiyle yönetici CFO brifingleri oluşturur. Ayrıca organizasyonel yük ve yapay zeka ROI analizi ile kod tabanı geliştirme maliyetlerini tahmin eder. Tetikleyiciler: \"CFO brifing\", \"finansal analiz\", \"maliyet brifing\", \"harcama incelemesi\", \"runway analizi\", \"burn rate\", \"maliyet tahmini\", \"bunu oluşturmak ne kadar tutar\", \"geliştirme maliyeti\", \"Claude ROI\"."
 ---
 
 

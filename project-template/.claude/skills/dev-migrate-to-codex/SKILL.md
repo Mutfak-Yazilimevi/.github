@@ -1,6 +1,6 @@
 ---
 name: migrate-to-codex
-description: Migrate supported instruction files, skills, agents, and MCP config into Codex project and global files.
+description: "Desteklenen talimat dosyalarını, skill'leri, ajanları ve MCP yapılandırmasını Codex proje ve global dosyalarına taşır"
 ---
 
 # Migrate to Codex

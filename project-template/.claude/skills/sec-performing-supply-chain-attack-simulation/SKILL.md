@@ -1,9 +1,6 @@
 ---
 name: performing-supply-chain-attack-simulation
-description: Simulate and detect software supply chain attacks including typosquatting
-  detection via Levenshtein distance, dependency confusion testing against private
-  registries, package hash verification with pip, and known vulnerability scanning
-  with pip-audit.
+description: "Levenshtein mesafesi ile yazım hatası tabanlı paket tespiti, özel registry'lere karşı bağımlılık karışıklığı testi, pip ile paket hash doğrulaması ve pip-audit ile bilinen güvenlik açığı taraması dahil olmak üzere yazılım tedarik zinciri saldırılarını simüle eder ve tespit eder."
 domain: cybersecurity
 subdomain: application-security
 tags:

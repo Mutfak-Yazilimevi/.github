@@ -1,6 +1,6 @@
 ---
 name: code-review-and-quality
-description: Conducts multi-axis code review. Use before merging any change. Use when reviewing code written by yourself, another agent, or a human. Use when you need to assess code quality across multiple dimensions before it enters the main branch.
+description: "Çok eksenli kod incelemesi yapar. Herhangi bir değişikliği birleştirmeden önce kullan. Kendinizin, başka bir ajanın veya bir insanın yazdığı kodu incelerken kullan. Ana dala girmeden önce kodu birden fazla boyutta kalite açısından değerlendirmeniz gerektiğinde kullan."
 ---
 
 # Code Review and Quality

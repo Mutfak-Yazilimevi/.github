@@ -1,6 +1,6 @@
 ---
 name: "pricing-strategy"
-description: "Design, optimize, and communicate SaaS pricing — tier structure, value metrics, pricing pages, and price increase strategy. Use when building a pricing model from scratch, redesigning existing pricing, planning a price increase, or improving a pricing page. Trigger keywords: pricing tiers, pricing page, price increase, packaging, value metric, per seat pricing, usage-based pricing, freemium, good-better-best, pricing strategy, monetization, pricing page conversion, Van Westendorp. NOT for broader product strategy — use product-strategist for that. NOT for customer success or renewals — use customer-success-manager for expansion revenue."
+description: "SaaS fiyatlandırmasını tasarla, optimize et ve ilet — kademe yapısı, değer metrikleri, fiyatlandırma sayfaları ve fiyat artışı stratejisi. Sıfırdan bir fiyatlandırma modeli oluştururken, mevcut fiyatlandırmayı yeniden tasarlarken, bir fiyat artışı planlarken veya bir fiyatlandırma sayfasını iyileştirirken kullan. Tetikleyici anahtar kelimeler: fiyatlandırma kademeleri, fiyatlandırma sayfası, fiyat artışı, paketleme, değer metriği, kullanıcı başına fiyatlandırma, kullanım tabanlı fiyatlandırma, freemium, iyi-daha iyi-en iyi, fiyatlandırma stratejisi, para kazanma, fiyatlandırma sayfası dönüşümü, Van Westendorp. Daha geniş ürün stratejisi için KULLANMA — bunun için product-strategist kullan. Müşteri başarısı veya yenilemeler için KULLANMA — genişleme geliri için customer-success-manager kullan."
 license: MIT
 metadata:
   version: 1.0.0

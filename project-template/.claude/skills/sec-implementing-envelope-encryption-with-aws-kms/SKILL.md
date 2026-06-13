@@ -1,8 +1,6 @@
 ---
 name: implementing-envelope-encryption-with-aws-kms
-description: Envelope encryption is a strategy where data is encrypted with a data
-  encryption key (DEK), and the DEK itself is encrypted with a master key (KEK) managed
-  by AWS KMS. This approach allows encrypting
+description: "Zarf şifreleme, verilerin bir veri şifreleme anahtarıyla (DEK) şifrelendiği ve DEK'in kendisinin AWS KMS tarafından yönetilen bir ana anahtarla (KEK) şifrelendiği bir stratejidir. Bu yaklaşım büyük verilerin şifrelenmesini kolaylaştırır."
 domain: cybersecurity
 subdomain: cryptography
 tags:

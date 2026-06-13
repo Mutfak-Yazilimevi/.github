@@ -1,6 +1,6 @@
 ---
 name: product-analytics
-description: Use when defining product KPIs, building metric dashboards, running cohort or retention analysis, or interpreting feature adoption trends across product stages.
+description: "Ürün KPI'larını tanımlarken, metrik panoları oluştururken, kohort veya elde tutma analizi yaparken ya da ürün aşamaları genelinde özellik benimseme eğilimlerini yorumlarken kullan."
 ---
 
 # Product Analytics

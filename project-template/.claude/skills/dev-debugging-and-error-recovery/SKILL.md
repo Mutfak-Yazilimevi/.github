@@ -1,6 +1,6 @@
 ---
 name: debugging-and-error-recovery
-description: Guides systematic root-cause debugging. Use when tests fail, builds break, behavior doesn't match expectations, or you encounter any unexpected error. Use when you need a systematic approach to finding and fixing the root cause rather than guessing.
+description: "Sistematik kök neden hata ayıklamasına rehberlik eder. Testler başarısız olduğunda, build'ler bozulduğunda, davranış beklentilerle örtüşmediğinde veya beklenmedik bir hatayla karşılaşıldığında kullan. Tahmin yapmak yerine kök nedeni bulup düzeltmek için sistematik bir yaklaşıma ihtiyaç duyulduğunda kullan."
 ---
 
 # Debugging and Error Recovery

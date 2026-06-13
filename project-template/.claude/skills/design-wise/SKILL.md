@@ -1,6 +1,6 @@
 ---
 name: wise-ui-skills
-description: Wise's UI design system. Use when building interfaces inspired by Wise's aesthetic - light mode, Inter font, 4px grid.
+description: "Wise'ın UI tasarım sistemi. Wise estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter font, 4px grid."
 license: MIT
 metadata:
   author: design-skills

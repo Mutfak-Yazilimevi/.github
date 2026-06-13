@@ -1,6 +1,6 @@
 ---
 name: spec-driven-development
-description: Creates specs before coding. Use when starting a new project, feature, or significant change and no specification exists yet. Use when requirements are unclear, ambiguous, or only exist as a vague idea.
+description: "Kodlamadan önce spec oluşturur. Yeni bir proje, özellik veya önemli değişikliğe başlarken ve henüz bir spesifikasyon yokken kullan. Gereksinimler belirsiz, muğlak veya yalnızca vague bir fikir olarak mevcutsa kullan"
 ---
 
 # Spec-Driven Development

@@ -1,6 +1,6 @@
 ---
 name: web-design-guidelines
-description: Review UI code for Web Interface Guidelines compliance. Use when asked to "review my UI", "check accessibility", "audit design", "review UX", or "check my site against best practices".
+description: "Web Arayüz Kuralları uyumluluğu için UI kodunu incele. Kullanıcı \"UI'mı incele\", \"erişilebilirliği kontrol et\", \"tasarımı denetle\", \"UX'i incele\" veya \"sitemin en iyi uygulamalara uygunluğunu kontrol et\" istediğinde kullan."
 argument-hint: <file-or-pattern>
 ---
 

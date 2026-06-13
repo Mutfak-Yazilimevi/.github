@@ -1,14 +1,6 @@
 ---
 name: analyzing-cyber-kill-chain
-description: 'Analyzes intrusion activity against the Lockheed Martin Cyber Kill Chain
-  framework to identify which phases an adversary has completed, where defenses succeeded
-  or failed, and what controls would have interrupted the attack at earlier phases.
-  Use when conducting post-incident analysis, building prevention-focused security
-  controls, or mapping detection gaps to kill chain phases. Activates for requests
-  involving kill chain analysis, intrusion kill chain, attack phase mapping, or Lockheed
-  Martin kill chain framework.
-
-  '
+description: "Saldırganın hangi aşamaları tamamladığını, savunmaların nerede başarılı olduğunu veya başarısız olduğunu ve hangi kontrollerin saldırıyı daha erken aşamalarda kesintiye uğratacağını belirlemek için Lockheed Martin Cyber Kill Chain çerçevesine karşı izinsiz giriş faaliyetini analiz eder. Olay sonrası analiz yaparken, önleme odaklı güvenlik kontrolleri oluştururken veya tespit boşluklarını kill chain aşamalarıyla eşleştirirken kullan. Kill chain analizi, izinsiz giriş kill chain'i, saldırı aşama haritalama veya Lockheed Martin kill chain çerçevesini içeren istekler için etkinleşir."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

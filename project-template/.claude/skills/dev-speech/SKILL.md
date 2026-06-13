@@ -1,6 +1,6 @@
 ---
 name: "speech"
-description: "Use when the user asks for text-to-speech narration or voiceover, accessibility reads, audio prompts, or batch speech generation via the OpenAI Audio API; run the bundled CLI (`scripts/text_to_speech.py`) with built-in voices and require `OPENAI_API_KEY` for live calls. Custom voice creation is out of scope."
+description: "Kullanıcı metin okuma anlatımı veya seslendirme, erişilebilirlik okumaları, sesli istemler veya OpenAI Audio API üzerinden toplu konuşma üretimi istediğinde kullan; yerleşik sesler ve canlı çağrılar için `OPENAI_API_KEY` gerektiren paketlenmiş CLI'yi (`scripts/text_to_speech.py`) çalıştır. Özel ses oluşturma kapsam dışıdır."
 ---
 
 

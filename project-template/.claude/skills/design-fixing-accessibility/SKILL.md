@@ -1,6 +1,6 @@
 ---
 name: fixing-accessibility
-description: Audit and fix HTML accessibility issues including ARIA labels, keyboard navigation, focus management, color contrast, and form errors. Use when adding interactive controls, forms, dialogs, or reviewing WCAG compliance.
+description: "ARIA etiketleri, klavye navigasyonu, odak yönetimi, renk kontrastı ve form hataları dahil HTML erişilebilirlik sorunlarını denetle ve düzelt. Etkileşimli kontroller, formlar, diyaloglar eklerken veya WCAG uyumluluğunu incelerken kullan."
 ---
 
 # fixing-accessibility

@@ -1,6 +1,6 @@
 ---
 name: mercury-ui-skills
-description: Mercury's UI design system. Use when building interfaces inspired by Mercury's aesthetic - light mode, Inter font, 4px grid.
+description: "Mercury'nin UI tasarım sistemi. Mercury'nin estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter font, 4px ızgara."
 license: MIT
 metadata:
   author: design-skills

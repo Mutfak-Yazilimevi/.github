@@ -1,6 +1,6 @@
 ---
 name: requesting-code-review
-description: Use when completing tasks, implementing major features, or before merging to verify work meets requirements
+description: "Görevleri tamamlarken, büyük özellikler uygularken veya çalışmanın gereksinimleri karşıladığını doğrulamak için birleştirmeden önce kullan."
 ---
 
 # Requesting Code Review

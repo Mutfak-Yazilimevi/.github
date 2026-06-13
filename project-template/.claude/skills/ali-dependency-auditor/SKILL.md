@@ -1,6 +1,6 @@
 ---
 name: "dependency-auditor"
-description: "Audit and manage dependencies across multi-language projects. Identifies vulnerabilities, license conflicts, transitive dependency risks, and safe-upgrade paths. Use when auditing third-party packages before release, investigating a CVE, planning a major version bump, or running a license-compliance review."
+description: "Çok dilli projeler genelinde bağımlılıkları denetler ve yönetir. Güvenlik açıklarını, lisans çakışmalarını, geçişli bağımlılık risklerini ve güvenli yükseltme yollarını belirler. Sürüm öncesinde üçüncü taraf paketleri denetlerken, bir CVE araştırırken, büyük sürüm güncellemesi planlarken veya lisans uyumluluk incelemesi yaparken kullan."
 ---
 
 # Dependency Auditor

@@ -1,10 +1,6 @@
 ---
 name: blog-seo
-description: >
-  Blog yazıları için SEO optimizasyon uzmanı. Yazım sonrası sayfa içi SEO
-  öğelerini doğrular: title tag, meta açıklama, başlık hiyerarşisi,
-  iç/dış bağlantılar, canonical URL, OG meta etiketleri, Twitter Card,
-  URL yapısı. Spesifik düzeltmelerle bir geçti/kaldı kontrol listesi üretir.
+description: "Blog yazıları için SEO optimizasyon uzmanı. Yazım sonrası sayfa içi SEO öğelerini doğrular: title tag, meta açıklama, başlık hiyerarşisi, iç/dış bağlantılar, canonical URL, OG meta etiketleri, Twitter Card, URL yapısı. Spesifik düzeltmelerle bir geçti/kaldı kontrol listesi üretir."
 tools:
   - Read
   - Grep

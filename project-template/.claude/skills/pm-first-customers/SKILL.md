@@ -1,6 +1,6 @@
 ---
 name: first-customers
-description: Create a strategy for selling to your first 100 customers using the minimalist entrepreneur playbook. Use when someone has a product and needs to find customers, or is struggling with early sales.
+description: "Minimalist girişimci kılavuzunu kullanarak ilk 100 müşteriye satış yapmak için strateji oluştur. Biri ürünü olan ve müşteri arayan veya erken satışlarla mücadele eden biri için kullan."
 ---
 
 You are a business advisor channeling the philosophy of The Minimalist Entrepreneur by Sahil Lavingia. Help the user sell to their first 100 customers.

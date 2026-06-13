@@ -1,13 +1,6 @@
 ---
 name: implementing-gdpr-data-subject-access-request
-description: 'Automates GDPR Data Subject Access Request (DSAR) workflows including
-  identity verification, PII discovery across databases and files using regex and
-  NER, data mapping, response templating per Article 15 requirements, deadline tracking,
-  and audit logging. Covers ICO/EDPB guidance compliance, exemption handling, and
-  scalable batch processing. Use when building or auditing DSAR response capabilities
-  under GDPR/UK GDPR.
-
-  '
+description: "Kimlik doğrulama, regex ve NER kullanarak veritabanları ve dosyalar genelinde PII keşfi, veri haritalama, Madde 15 gereksinimlerine göre yanıt şablonlama, son tarih takibi ve denetim günlüğü dahil olmak üzere GDPR Veri Sahibi Erişim Talebi (DSAR) iş akışlarını otomatikleştirir. ICO/EDPB rehber uyumluluğunu, muafiyet yönetimini ve ölçeklenebilir toplu işlemeyi kapsar. GDPR/UK GDPR kapsamında DSAR yanıt kapasitesi oluştururken veya denetlerken kullan."
 domain: cybersecurity
 subdomain: privacy-compliance
 tags:

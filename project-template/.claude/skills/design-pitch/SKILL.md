@@ -1,6 +1,6 @@
 ---
 name: pitch-ui-skills
-description: Pitch's UI design system. Use when building interfaces inspired by Pitch's aesthetic - light mode, Inter font, 4px grid.
+description: "Pitch'in UI tasarım sistemi. Pitch estetiğinden ilham alarak arayüzler oluştururken kullanılır — açık mod, Inter yazı tipi, 4 piksel ızgara."
 license: MIT
 metadata:
   author: design-skills

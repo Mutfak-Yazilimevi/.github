@@ -1,6 +1,6 @@
 ---
 name: arc-ui-skills
-description: Arc's UI design system. Use when building interfaces inspired by Arc's aesthetic - light mode, Inter font, 4px grid.
+description: "Arc'ın UI tasarım sistemi. Arc estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter font, 4px grid."
 license: MIT
 metadata:
   author: design-skills

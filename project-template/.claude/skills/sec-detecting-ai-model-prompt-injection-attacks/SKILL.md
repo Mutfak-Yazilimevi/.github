@@ -1,17 +1,6 @@
 ---
 name: detecting-ai-model-prompt-injection-attacks
-description: 'Detects prompt injection attacks targeting LLM-based applications using
-  a multi-layered defense combining regex pattern matching for known attack signatures,
-  heuristic scoring for structural anomalies, and transformer-based classification
-  with DeBERTa models. The detector analyzes user inputs before they reach the LLM,
-  flagging direct injections (system prompt overrides, role-play escapes, instruction
-  hijacking) and indirect injections (encoded payloads, multi-language obfuscation,
-  delimiter-based escapes). Based on the OWASP LLM Top 10 (LLM01:2025 Prompt Injection)
-  and Simon Willison''s prompt injection taxonomy. Activates for requests involving
-  prompt injection detection, LLM input sanitization, AI security scanning, or prompt
-  attack classification.
-
-  '
+description: "LLM tabanlı uygulamaları hedef alan prompt injection saldırılarını, bilinen saldırı imzaları için regex desen eşleştirme, yapısal anormallikler için sezgisel puanlama ve DeBERTa modelleriyle transformer tabanlı sınıflandırmayı birleştiren çok katmanlı bir savunma kullanarak tespit eder. Dedektör, kullanıcı girdilerini LLM'e ulaşmadan önce analiz eder; doğrudan enjeksiyonları (sistem istemi geçersiz kılma, rol yapma kaçışları, talimat ele geçirme) ve dolaylı enjeksiyonları (kodlanmış yükler, çok dilli gizleme, ayırıcı tabanlı kaçışlar) işaretler. OWASP LLM Top 10 (LLM01:2025 Prompt Injection) ve Simon Willison'ın prompt injection taksonomisine dayanır. Prompt injection tespiti, LLM girdi temizleme, yapay zeka güvenliği taraması veya prompt saldırısı sınıflandırmasına yönelik isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: ai-security
 tags:

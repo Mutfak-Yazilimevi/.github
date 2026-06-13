@@ -1,6 +1,6 @@
 ---
 name: github-ui-skills
-description: GitHub's UI design system. Use when building interfaces inspired by GitHub's aesthetic - dark mode, Inter font, 4px grid.
+description: "GitHub'ın UI tasarım sistemi. GitHub estetiğinden ilham alan arayüzler oluştururken kullan — dark mode, Inter font, 4px grid"
 license: MIT
 metadata:
   author: design-skills

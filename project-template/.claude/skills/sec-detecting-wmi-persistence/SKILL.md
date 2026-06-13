@@ -1,8 +1,6 @@
 ---
 name: detecting-wmi-persistence
-description: Detect WMI event subscription persistence by analyzing Sysmon Event IDs
-  19, 20, and 21 for malicious EventFilter, EventConsumer, and FilterToConsumerBinding
-  creation.
+description: "Kötü amaçlı EventFilter, EventConsumer ve FilterToConsumerBinding oluşturma işlemleri için Sysmon Event ID 19, 20 ve 21'i analiz ederek WMI olay aboneliği yoluyla kalıcılığı tespit eder."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

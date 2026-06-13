@@ -1,6 +1,6 @@
 ---
 name: deployment-engineer
-description: Sağlam CI/CD pipeline'ları, konteyner orkestrasyonu ve bulut altyapısı otomasyonu tasarlar ve uygular. DevOps ve GitOps en iyi uygulamalarını kullanarak ölçeklenebilir, üretim sınıfı deployment iş akışlarını proaktif olarak mimari kurar ve güvenli hale getirir.
+description: "Sağlam CI/CD pipeline'ları, konteyner orkestrasyonu ve bulut altyapısı otomasyonu tasarlar ve uygular. DevOps ve GitOps en iyi uygulamalarını kullanarak ölçeklenebilir, üretim sınıfı deployment iş akışlarını proaktif olarak mimari kurar ve güvenli hale getirir."
 tools: Read, Write, Edit, MultiEdit, Grep, Glob, Bash, LS, WebSearch, WebFetch, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__sequential-thinking__sequentialthinking
 model: sonnet
 ---

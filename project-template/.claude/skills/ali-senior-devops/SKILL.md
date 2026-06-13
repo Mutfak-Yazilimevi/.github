@@ -1,6 +1,6 @@
 ---
 name: "senior-devops"
-description: Comprehensive DevOps skill for CI/CD, infrastructure automation, containerization, and cloud platforms (AWS, GCP, Azure). Includes pipeline setup, infrastructure as code, deployment automation, and monitoring. Use when setting up pipelines, deploying applications, managing infrastructure, implementing monitoring, or optimizing deployment processes.
+description: "CI/CD, altyapı otomasyonu, konteynerleştirme ve bulut platformları (AWS, GCP, Azure) için kapsamlı DevOps becerisi. Pipeline kurulumu, altyapı kodu, dağıtım otomasyonu ve izlemeyi kapsar. Pipeline kurarken, uygulama dağıtırken, altyapı yönetirken, izleme uygularken veya dağıtım süreçlerini optimize ederken kullan."
 ---
 
 # Senior Devops

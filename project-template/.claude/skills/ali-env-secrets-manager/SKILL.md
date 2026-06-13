@@ -1,6 +1,6 @@
 ---
 name: "env-secrets-manager"
-description: "Manage environment-variable hygiene and secrets safety across local development and production. Practical auditing, drift awareness, rotation readiness. Use when auditing .env files for committed secrets, planning a credential rotation, debugging missing-env-var production incidents, or hardening a new project against secrets leakage."
+description: "Yerel geliştirme ve üretim genelinde ortam değişkeni hijyenini ve gizli güvenliğini yönet. Pratik denetim, sapma farkındalığı, rotasyon hazırlığı. .env dosyalarını işlenmiş gizliler için denetlerken, kimlik bilgisi rotasyonu planlarken, eksik ortam değişkeni üretim olaylarında hata ayıklarken veya yeni bir projeyi gizli sızıntısına karşı sertleştirirken kullan."
 ---
 
 # Env & Secrets Manager

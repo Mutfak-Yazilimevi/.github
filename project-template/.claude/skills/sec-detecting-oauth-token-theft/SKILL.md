@@ -1,13 +1,6 @@
 ---
 name: detecting-oauth-token-theft
-description: 'Detects and responds to OAuth token theft and replay attacks in cloud
-  environments, focusing on Microsoft Entra ID (Azure AD) token protection, conditional
-  access policies, and sign-in anomaly detection. Covers access token theft, refresh
-  token replay, Primary Refresh Token (PRT) abuse, and pass-the-cookie attacks. Activates
-  for requests involving OAuth token theft detection, token replay prevention, Azure
-  AD conditional access token protection, or cloud identity attack investigation.
-
-  '
+description: "Bulut ortamlarında OAuth token hırsızlığını ve yeniden oynatma saldırılarını tespit eder ve yanıt verir; Microsoft Entra ID (Azure AD) token korumasına, koşullu erişim politikalarına ve oturum açma anomalisi tespitine odaklanır. Erişim token'ı hırsızlığını, refresh token yeniden oynatmayı, Primary Refresh Token (PRT) kötüye kullanımını ve pass-the-cookie saldırılarını kapsar. OAuth token hırsızlığı tespiti, token yeniden oynatma önleme, Azure AD koşullu erişim token koruması veya bulut kimlik saldırısı soruşturması içeren isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: retro
-description: "Facilitate a structured sprint retrospective — what went well, what didn't, and prioritized action items with owners and deadlines. Use when running a retrospective, reflecting on a sprint, creating action items from team feedback, or learning how to run effective retros."
+description: "Yapılandırılmış bir sprint retrospektifi yönetir — iyi gidenler, gitmeyenler ve sahipleri ile son tarihli önceliklendirilmiş eylem maddeleri. Retrospektif yaparken, bir sprint üzerine düşünürken, ekip geri bildiriminden eylem maddeleri oluştururken veya etkili retrospektif nasıl yürütülür öğrenirken kullan."
 ---
 
 ## Sprint Retrospective Facilitator

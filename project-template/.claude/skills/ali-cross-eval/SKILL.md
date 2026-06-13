@@ -1,6 +1,6 @@
 ---
 name: "cross-eval"
-description: "/cs:cross-eval <memo> — Multi-model consensus on a board memo or strategy brief. Claude + Codex + Gemini cross-review with graceful degradation."
+description: "/cs:cross-eval <memo> — Bir yönetim kurulu notu veya strateji brifing'i üzerinde çok model konsensüsü. Zarif bozunma ile Claude + Codex + Gemini çapraz incelemesi."
 ---
 
 # /cs:cross-eval — Multi-Model Consensus

@@ -1,6 +1,6 @@
 ---
 name: "scenario-war-room"
-description: "Cross-functional what-if modeling for cascading multi-variable scenarios. Unlike single-assumption stress testing, this models compound adversity across all business functions simultaneously. Use when facing complex risk scenarios, strategic decisions with major downside, or when the user asks 'what if X AND Y both happen?'"
+description: "Birleşik çok değişkenli senaryolar için çapraz fonksiyonel ne-olursa-olsun modellemesi. Tek varsayım stres testinin aksine, tüm iş fonksiyonlarında bileşik olumsuzluğu aynı anda modeller. Karmaşık risk senaryolarıyla karşılaşırken, büyük olumsuz tarafı olan stratejik kararlar alırken veya kullanıcı 'X VE Y aynı anda olursa?' diye sorduğunda kullan."
 license: MIT
 metadata:
   version: 1.0.0

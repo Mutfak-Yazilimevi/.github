@@ -1,6 +1,6 @@
 ---
 name: team-communications
-description: Write internal company communications — 3P updates (Progress/Plans/Problems), company-wide newsletters, FAQ roundups, incident reports, leadership updates, status reports, project updates, and general internal comms. Use this skill any time the user asks to draft, edit, or format something meant for internal audiences. Trigger on keywords like "3P", "weekly update", "newsletter", "FAQ", "internal comms", "status report", "company update", "team update", "incident report", or any request to summarize work for leadership, teammates, or the broader company. Even casual requests like "write my update" or "summarize what my team did this week" should trigger this skill.
+description: "Dahili şirket iletişimleri yaz — 3P güncellemeleri (İlerleme/Planlar/Sorunlar), şirket geneli bültenler, SSS özetleri, olay raporları, liderlik güncellemeleri, durum raporları, proje güncellemeleri ve genel iç iletişimler. Kullanıcı dahili kitlelere yönelik bir şey taslak oluşturmasını, düzenlemesini veya biçimlendirmesini istediğinde bu beceriyi kullan. \"3P\", \"haftalık güncelleme\", \"bülten\", \"SSS\", \"dahili iletişim\", \"durum raporu\", \"şirket güncellemesi\", \"ekip güncellemesi\", \"olay raporu\" gibi anahtar kelimelerde veya liderliğe, ekip arkadaşlarına ya da şirkete yönelik çalışma özetleme isteklerinde tetikle."
 ---
 
 # Internal Comms

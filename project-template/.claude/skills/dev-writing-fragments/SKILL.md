@@ -1,6 +1,6 @@
 ---
 name: writing-fragments
-description: Grilling session that mines the user for fragments — heterogeneous nuggets of writing (claims, vignettes, sharp sentences, half-thoughts) — and appends them to a single document as raw material for a future article. Use when the user wants to develop ideas before imposing structure, or mentions "fragments", "ideate", or "raw material" for writing.
+description: "Kullanıcıyı fragment'lar — heterojen yazı parçacıkları (iddialar, sahneler, keskin cümleler, yarım düşünceler) — için sorgular ve bunları gelecekteki bir makalenin ham materyali olarak tek bir belgeye ekler. Kullanıcı yapı dayatmadan önce fikirlerini geliştirmek istediğinde ya da yazı için \"fragments\", \"ideate\" veya \"raw material\" ifadelerinden bahsettiğinde kullan."
 ---
 
 <what-to-do>

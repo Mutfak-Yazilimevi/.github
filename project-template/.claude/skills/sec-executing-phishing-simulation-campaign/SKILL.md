@@ -1,14 +1,6 @@
 ---
 name: executing-phishing-simulation-campaign
-description: 'Executes authorized phishing simulation campaigns to assess an organization''s
-  susceptibility to email-based social engineering attacks. The tester designs realistic
-  phishing scenarios, builds credential harvesting infrastructure, sends targeted
-  phishing emails, and tracks open rates, click-through rates, and credential submission
-  rates to measure human security awareness. Activates for requests involving phishing
-  simulation, social engineering assessment, email security testing, or security awareness
-  measurement.
-
-  '
+description: "Bir kuruluşun e-posta tabanlı sosyal mühendislik saldırılarına duyarlılığını değerlendirmek amacıyla yetkili kimlik avı simülasyon kampanyaları yürütür. Test uzmanı gerçekçi kimlik avı senaryoları tasarlar, kimlik bilgisi toplama altyapısı kurar, hedefli kimlik avı e-postaları gönderir ve insan güvenlik farkındalığını ölçmek için açılma oranlarını, tıklama oranlarını ve kimlik bilgisi gönderme oranlarını takip eder. Kimlik avı simülasyonu, sosyal mühendislik değerlendirmesi, e-posta güvenliği testi veya güvenlik farkındalığı ölçümü içeren isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

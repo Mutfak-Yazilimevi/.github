@@ -1,6 +1,6 @@
 ---
 name: slack-ui-skills
-description: Slack's UI design system. Use when building interfaces inspired by Slack's aesthetic - light mode, Inter font, 4px grid.
+description: "Slack'in UI tasarım sistemi. Slack estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter fontu, 4px ızgara."
 license: MIT
 metadata:
   author: design-skills

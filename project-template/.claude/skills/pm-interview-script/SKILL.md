@@ -1,6 +1,6 @@
 ---
 name: interview-script
-description: "Create a structured customer interview script with JTBD probing questions, warm-up, core exploration, and wrap-up sections. Follows The Mom Test principles — no leading questions, no pitching, focus on past behavior. Use when preparing for user interviews, creating interview guides, or planning discovery research."
+description: "JTBD sorgulama soruları, ısınma, temel keşif ve kapanış bölümleri içeren yapılandırılmış bir müşteri görüşme senaryosu oluştur. The Mom Test ilkelerini takip eder — yönlendirici sorular yok, sunum yok, geçmiş davranışa odaklan. Kullanıcı görüşmelerine hazırlanırken, görüşme kılavuzu oluştururken veya keşif araştırması planlarken kullan."
 ---
 
 ## Customer Interview Script

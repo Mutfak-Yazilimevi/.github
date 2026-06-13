@@ -1,6 +1,6 @@
 ---
 name: "c-level-agents"
-description: "Founder-mode executive team. 8 cs-* C-suite agents (CFO, CMO, CRO, CPO, COO, CHRO, CISO, Chief of Staff) and 17 /cs:* slash commands for forcing-question office hours, multi-role boardroom deliberation, strategic sprint pipeline, and meta routing. Use when the founder needs a virtual executive team, when invoking /cs:* commands, or when orchestrating multi-role decisions."
+description: "Kurucu modu yönetici ekibi. 8 adet cs-* C-suite ajan (CFO, CMO, CRO, CPO, COO, CHRO, CISO, Personel Başkanı) ve zorlu soru ofis saatleri, çok rollü yönetim kurulu müzakeresi, stratejik sprint hattı ve meta yönlendirme için 17 adet /cs:* slash komutu. Kurucu sanal bir yönetici ekibine ihtiyaç duyduğunda, /cs:* komutlarını çalıştırırken veya çok rollü kararları orkestre ederken kullan."
 license: MIT
 metadata:
   version: 1.0.0

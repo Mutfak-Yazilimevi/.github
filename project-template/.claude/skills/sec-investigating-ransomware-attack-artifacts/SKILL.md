@@ -1,7 +1,6 @@
 ---
 name: investigating-ransomware-attack-artifacts
-description: Identify, collect, and analyze ransomware attack artifacts to determine
-  the variant, initial access vector, encryption scope, and recovery options.
+description: "Fidye yazılımı saldırı eserlerini belirler, toplar ve analiz eder."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

@@ -1,6 +1,6 @@
 ---
 name: raycast-ui-skills
-description: Raycast's UI design system. Use when building interfaces inspired by Raycast's aesthetic - light mode, Inter font, 4px grid.
+description: "Raycast'in UI tasarım sistemi. Raycast estetiğinden ilham alan arayüzler oluştururken kullan — light mode, Inter font, 4px grid"
 license: MIT
 metadata:
   author: design-skills

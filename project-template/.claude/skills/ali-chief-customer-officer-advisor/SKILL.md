@@ -1,6 +1,6 @@
 ---
 name: "chief-customer-officer-advisor"
-description: "Chief Customer Officer advisory for startups: retention decomposition (gross retention vs NRR honesty, churn root-cause taxonomy), customer segmentation strategy (differential investment across tiers + ICP fit scoring), CS team coverage model (pooled vs named CSM thresholds + ratio math), and CS team org evolution (CS vs Support vs AM distinctions). Use when designing retention strategy, segmenting customers for differential investment, sizing CS team, or sequencing CS hires. Strategic only — does not duplicate engineering/business-growth tactical skills."
+description: "Girişimler için Chief Customer Officer danışmanlığı: elde tutma analizi (brüt elde tutma vs NRR dürüstlüğü, churn kök neden sınıflandırması), müşteri segmentasyon stratejisi (katmanlar arası diferansiyel yatırım ve ICP uyum puanlaması), CS ekip kapsama modeli (havuzlanmış vs named CSM eşikleri ve oran hesabı), CS ekip organizasyon evrimi (CS vs Destek vs AM ayrımları). Ne zaman kullanılır: elde tutma stratejisi tasarlarken, müşterileri diferansiyel yatırım için segmentlere ayırırken, CS ekibini boyutlandırırken veya CS işe alım sırasını belirlerken. Yalnızca stratejik — mühendislik/iş büyümesi taktik becerilerini tekrar etmez."
 license: MIT
 metadata:
   version: 1.0.0

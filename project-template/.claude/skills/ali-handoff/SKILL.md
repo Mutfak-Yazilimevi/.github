@@ -1,6 +1,6 @@
 ---
 name: handoff
-description: "Compact the current conversation into a handoff document for another agent to pick up. Save to a user-configured location (OS temp, home folder, or per-project .handoff/), redact secrets before write, suggest skills for the next session, and auto-load the latest handoff on the next SessionStart. First-run setup asks where to save so the project folder never gets cluttered. Use when the user says 'hand this off', 'handoff doc', 'summarize this for a new session', 'compact this conversation', 'I'm ending this session', 'pick this up later', or any variation signaling intent to pass work to a fresh agent. Also trigger on implicit signals: the user announcing they're switching machines, ending the day mid-task, or context is growing long without a natural stopping point."
+description: "Mevcut konuşmayı başka bir ajanın devralması için bir devir teslim belgesine sıkıştırır. Kullanıcı yapılandırılmış bir konuma kaydeder (işletim sistemi geçici klasörü, ana klasör veya proje başına .handoff/), yazmadan önce sırları düzenler, sonraki oturum için beceriler önerir ve bir sonraki SessionStart'ta en son devir teslimini otomatik yükler. Kullanıcı 'hand this off', 'handoff doc', 'summarize this for a new session', 'compact this conversation', 'I'm ending this session', 'pick this up later' veya çalışmayı yeni bir ajana geçirme niyetini gösteren herhangi bir varyasyon söylediğinde kullan."
 license: MIT
 argument-hint: "What will the next session be used for?"
 metadata:

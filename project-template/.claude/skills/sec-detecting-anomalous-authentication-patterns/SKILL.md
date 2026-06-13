@@ -1,12 +1,6 @@
 ---
 name: detecting-anomalous-authentication-patterns
-description: 'Detects anomalous authentication patterns using UEBA analytics, statistical
-  baselines, and machine learning models to identify impossible travel, credential
-  stuffing, brute force, password spraying, and compromised account behaviors across
-  authentication logs. Activates for requests involving authentication anomaly detection,
-  login behavior analysis, UEBA implementation, or suspicious sign-in investigation.
-
-  '
+description: "İmkânsız seyahat, kimlik bilgisi doldurma, kaba kuvvet, parola püskürtme ve ele geçirilmiş hesap davranışlarını kimlik doğrulama günlükleri genelinde belirlemek için UEBA analitiği, istatistiksel temel çizgiler ve makine öğrenmesi modelleri kullanarak anormal kimlik doğrulama modellerini tespit eder. Kimlik doğrulama anomalisi tespiti, oturum açma davranışı analizi, UEBA uygulaması veya şüpheli oturum açma soruşturmasına yönelik isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

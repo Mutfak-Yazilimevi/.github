@@ -1,14 +1,6 @@
 ---
 name: conducting-wireless-network-penetration-test
-description: 'Conducts authorized wireless network penetration tests to assess the
-  security of WiFi infrastructure by testing for weak encryption protocols, captive
-  portal bypasses, evil twin attacks, WPA2/WPA3 handshake capture, rogue access point
-  detection, and client-side attacks. The tester evaluates wireless authentication,
-  network segmentation, and the effectiveness of wireless intrusion detection systems.
-  Activates for requests involving wireless pentest, WiFi security assessment, WPA2/WPA3
-  testing, or rogue access point detection.
-
-  '
+description: "Zayıf şifreleme protokollerini, esir portal atlamalarını, evil twin saldırılarını, WPA2/WPA3 el sıkışma yakalamayı, sahte erişim noktası tespitini ve istemci taraflı saldırıları test ederek WiFi altyapısının güvenliğini değerlendirmek için yetkili kablosuz ağ penetrasyon testleri gerçekleştirir. Test uzmanı kablosuz kimlik doğrulamayı, ağ segmentasyonunu ve kablosuz saldırı tespit sistemlerinin etkinliğini değerlendirir. Kablosuz pentest, WiFi güvenliği değerlendirmesi, WPA2/WPA3 testi veya sahte erişim noktası tespitine yönelik isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

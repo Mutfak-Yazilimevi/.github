@@ -1,6 +1,6 @@
 ---
 name: gusto-ui-skills
-description: Gusto's UI design system. Use when building interfaces inspired by Gusto's aesthetic - light mode, Inter font, 4px grid.
+description: "Gusto'nun UI tasarım sistemi. Gusto'nun estetiğinden esinlenen arayüzler oluştururken kullan — aydınlık mod, Inter yazı tipi, 4px grid."
 license: MIT
 metadata:
   author: design-skills

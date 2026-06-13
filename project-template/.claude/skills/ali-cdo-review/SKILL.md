@@ -1,6 +1,6 @@
 ---
 name: "cdo-review"
-description: "/cs:cdo-review <plan> — Decision-driven Chief Data Officer interrogation of any plan that touches training data, data architecture, data productization, or data team hiring."
+description: "/cs:cdo-review <plan> — Eğitim verisi, veri mimarisi, veri ürünleştirilmesi veya veri ekibi istihdamına dokunan herhangi bir planın karar odaklı Chief Data Officer sorgulaması."
 ---
 
 # /cs:cdo-review — CDO Forcing Questions

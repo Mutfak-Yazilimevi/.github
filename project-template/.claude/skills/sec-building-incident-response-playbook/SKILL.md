@@ -1,13 +1,6 @@
 ---
 name: building-incident-response-playbook
-description: 'Designs and documents structured incident response playbooks that define
-  step-by-step procedures for specific incident types aligned with NIST SP 800-61r3
-  and SANS PICERL frameworks. Covers playbook structure, decision trees, escalation
-  criteria, RACI matrices, and integration with SOAR platforms. Activates for requests
-  involving IR playbook creation, incident response procedure documentation, response
-  runbook development, or SOAR playbook design.
-
-  '
+description: "NIST SP 800-61r3 ve SANS PICERL çerçeveleriyle uyumlu belirli olay türleri için adım adım prosedürler tanımlayan yapılandırılmış olay müdahale playbook'larını tasarlar ve belgeler. Playbook yapısını, karar ağaçlarını, eskalasyon kriterlerini, RACI matrislerini ve SOAR platformlarıyla entegrasyonu kapsar. IR playbook oluşturma, olay müdahale prosedürü belgeleme, yanıt runbook geliştirme veya SOAR playbook tasarımına yönelik isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: incident-response
 tags:

@@ -1,6 +1,6 @@
 ---
 name: "marketing-psychology"
-description: "When the user wants to apply psychological principles, mental models, or behavioral science to marketing. Also use when the user mentions 'psychology,' 'mental models,' 'cognitive bias,' 'persuasion,' 'behavioral science,' 'why people buy,' 'decision-making,' or 'consumer behavior.' This skill provides 70+ mental models organized for marketing application."
+description: "Kullanıcı pazarlamaya psikolojik ilkeler, zihinsel modeller veya davranış bilimleri uygulamak istediğinde kullan. Ayrıca 'psychology', 'mental models', 'cognitive bias', 'persuasion', 'behavioral science', 'why people buy', 'decision-making' veya 'consumer behavior' ifadelerini kullandığında da kullan. Bu skill pazarlama uygulaması için düzenlenmiş 70'ten fazla zihinsel model sunar."
 license: MIT
 metadata:
   version: 1.1.0

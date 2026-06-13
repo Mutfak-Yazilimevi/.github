@@ -1,6 +1,6 @@
 ---
 name: engineering-slo-architect
-description: Use when defining, reviewing, or operating SLOs/SLIs/error budgets. Triggers on "define an SLO", "what should our SLO be", "error budget", "burn rate", "SLI", "service level objective", "Google SRE workbook", "multi-window burn-rate alert", or any reliability-target question. Ships SLO designer, error-budget calculator with multi-window burn-rate thresholds, and SLO reviewer that catches the common bugs (target too aggressive, window too short, conflicting SLOs, no SLI definition). 4 references on SLO principles + SLI design + error budget math + composition with feature-flags-architect/chaos-engineering/kubernetes-operator. NOT a generic observability skill — specifically the SLO discipline.
+description: "SLO/SLI/error budget tanımlarken, incelerken veya işletirken kullan. \"define an SLO\", \"what should our SLO be\", \"error budget\", \"burn rate\", \"SLI\", \"service level objective\", \"Google SRE workbook\", \"multi-window burn-rate alert\" veya herhangi bir güvenilirlik hedefi sorusuyla tetiklenir. SLO tasarımcısı, çok pencereli burn-rate eşikleriyle error-budget hesaplayıcısı ve yaygın hataları (çok agresif hedef, çok kısa pencere, çakışan SLO'lar, SLI tanımı eksik) yakalayan SLO gözden geçirici içerir. SLO prensipleri + SLI tasarımı + error budget matematiği + feature-flags-architect/chaos-engineering/kubernetes-operator ile kompozisyon üzerine 4 referans. Genel bir gözlemlenebilirlik skill'i değil — özellikle SLO disiplini."
 context: fork
 version: 2.9.0
 author: claude-code-skills

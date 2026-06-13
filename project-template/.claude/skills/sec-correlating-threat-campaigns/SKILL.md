@@ -1,14 +1,6 @@
 ---
 name: correlating-threat-campaigns
-description: 'Correlates disparate security incidents, IOCs, and adversary behaviors
-  across time and organizations to identify unified threat campaigns, attribute them
-  to common threat actors, and extract shared indicators for improved detection. Use
-  when multiple incidents exhibit overlapping indicators, when sector-wide attack
-  campaigns require cross-organizational analysis, or when building campaign-level
-  intelligence products. Activates for requests involving campaign analysis, incident
-  clustering, cross-organizational IOC correlation, or MISP correlation engine.
-
-  '
+description: "Birleşik tehdit kampanyalarını belirlemek, bunları ortak tehdit aktörlerine atfetmek ve iyileştirilmiş tespit için paylaşılan göstergeler çıkarmak amacıyla zaman ve kuruluşlar genelindeki dağınık güvenlik olaylarını, IOC'leri ve saldırgan davranışlarını ilişkilendirir. Birden fazla olay örtüşen göstergeler sergilediğinde, sektör genelindeki saldırı kampanyaları kuruluşlar arası analiz gerektirdiğinde veya kampanya düzeyinde istihbarat ürünleri oluşturulurken kullan. Kampanya analizi, olay kümeleme, kuruluşlar arası IOC korelasyonu veya MISP korelasyon motoruna yönelik isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

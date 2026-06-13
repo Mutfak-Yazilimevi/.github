@@ -1,6 +1,6 @@
 ---
 name: using-superpowers
-description: Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions
+description: "Herhangi bir konuşmaya başlarken kullan — skill'lerin nasıl bulunacağını ve kullanılacağını belirler; açıklayıcı sorular dahil HER yanıttan önce Skill aracı çağrısını zorunlu kılar."
 ---
 
 <SUBAGENT-STOP>

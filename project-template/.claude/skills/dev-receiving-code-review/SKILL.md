@@ -1,6 +1,6 @@
 ---
 name: receiving-code-review
-description: Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation
+description: "Kod incelemesi geri bildirimi alırken, önerileri uygulamadan önce, özellikle geri bildirim belirsiz veya teknik açıdan sorgulanabilir görünüyorsa kullan — performatif onay veya kör uygulama değil, teknik titizlik ve doğrulama gerektirir."
 ---
 
 # Code Review Reception

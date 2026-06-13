@@ -1,10 +1,6 @@
 ---
 name: implementing-log-integrity-with-blockchain
-description: Build an append-only log integrity chain using SHA-256 hash chaining
-  for tamper detection. Each log entry is hashed with the previous entry's hash to
-  create a blockchain-like structure where modifying any entry invalidates all subsequent
-  hashes. Implements log ingestion, chain verification, tamper detection with pinpoint
-  identification, and periodic checkpoint anchoring to external timestamping services.
+description: "Kurcalama tespiti için SHA-256 hash zincirleme kullanarak yalnızca ekleme yapılabilir log bütünlüğü zinciri oluştur. Her log girişi, herhangi bir girdiyi değiştirmenin sonraki tüm hash'leri geçersiz kıldığı blockchain benzeri bir yapı oluşturmak için önceki girdiyle birlikte hash'lenir. Log alımı, zincir doğrulaması, hassas nokta tespitli kurcalama tespiti ve harici zaman damgalama servislerine periyodik kontrol noktası ankrajı uygular."
 domain: cybersecurity
 subdomain: security-operations
 tags:

@@ -1,6 +1,6 @@
 ---
 name: summarize-interview
-description: "Summarize a customer interview transcript into a structured template with JTBD, satisfaction signals, and action items. Use when processing interview recordings or transcripts, synthesizing discovery interviews, or creating interview summaries."
+description: "Müşteri görüşmesi transkriptini JTBD, memnuniyet sinyalleri ve aksiyon maddeleri içeren yapılandırılmış bir şablona özetler. Görüşme kayıtlarını veya transkriptlerini işlerken, keşif görüşmelerini sentezlerken veya görüşme özetleri oluştururken kullanılır."
 ---
 
 ## Summarize Customer Interview

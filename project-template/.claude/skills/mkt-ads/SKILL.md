@@ -1,6 +1,6 @@
 ---
 name: ads
-description: "When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X, or other ad platforms. Also use when the user mentions 'PPC,' 'paid media,' 'ROAS,' 'CPA,' 'ad campaign,' 'retargeting,' 'audience targeting,' 'Google Ads,' 'Facebook ads,' 'LinkedIn ads,' 'ad budget,' 'cost per click,' 'ad spend,' or 'should I run ads.' Use this for campaign strategy, audience targeting, bidding, and optimization. For bulk ad creative generation and iteration, see ad-creative. For landing page optimization, see cro."
+description: "Kullanıcı Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X veya diğer reklam platformlarında ücretli reklam kampanyalarıyla ilgili yardım istediğinde kullan. Ayrıca kullanıcı 'PPC,' 'paid media,' 'ROAS,' 'CPA,' 'reklam kampanyası,' 'yeniden hedefleme,' 'kitle hedefleme,' 'Google Ads,' 'Facebook ads,' 'LinkedIn ads,' 'reklam bütçesi,' 'tıklama başına maliyet,' 'reklam harcaması' veya 'reklam yayınlamalı mıyım' gibi terimler belirttiğinde kullan. Kampanya stratejisi, kitle hedefleme, teklif verme ve optimizasyon için kullan. Toplu reklam kreatifi üretimi için bkz. ad-creative. Açılış sayfası optimizasyonu için bkz. cro."
 metadata:
   version: 2.0.1
 ---

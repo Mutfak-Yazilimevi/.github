@@ -1,11 +1,6 @@
 ---
 name: minimax-music-playlist
-description: >
-  Generate personalized music playlists by analyzing the user's music taste
-  and generation feedback history. Triggers
-  on any request involving playlist generation, music taste profiling, or personalized
-  music recommendations. Supports multilingual triggers — match equivalent phrases in
-  any language.
+description: "Kullanıcının müzik zevkini ve üretim geri bildirim geçmişini analiz ederek kişiselleştirilmiş müzik çalma listeleri oluşturur. Çalma listesi oluşturma, müzik zevki profilleme veya kişiselleştirilmiş müzik önerisi içeren her istekte tetiklenir. Çok dilli tetikleyicileri destekler — herhangi bir dildeki eşdeğer ifadeleri eşleştirir."
 license: MIT
 metadata:
   version: "2.0"

@@ -1,6 +1,6 @@
 ---
 name: "jupyter-notebook"
-description: "Use when the user asks to create, scaffold, or edit Jupyter notebooks (`.ipynb`) for experiments, explorations, or tutorials; prefer the bundled templates and run the helper script `new_notebook.py` to generate a clean starting notebook."
+description: "Kullanıcı deneyler, keşifler veya eğitimler için Jupyter notebook (.ipynb) oluşturmak, iskelet kurmak veya düzenlemek istediğinde kullan; temiz başlangıç notebook'u oluşturmak için `new_notebook.py` yardımcı scriptini çalıştır."
 ---
 
 

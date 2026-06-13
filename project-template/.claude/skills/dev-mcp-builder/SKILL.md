@@ -1,6 +1,6 @@
 ---
 name: mcp-builder
-description: Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP), Node/TypeScript (MCP SDK), or C#/.NET (Microsoft MCP SDK).
+description: "LLM'lerin iyi tasarlanmış araçlar aracılığıyla harici servislerle etkileşime girmesini sağlayan yüksek kaliteli MCP (Model Context Protocol) sunucuları oluşturma rehberi. Python (FastMCP), Node/TypeScript (MCP SDK) veya C#/.NET (Microsoft MCP SDK) ile harici API'leri veya servisleri entegre etmek için MCP sunucuları oluştururken kullan."
 ---
 
 # MCP Server Development Guide

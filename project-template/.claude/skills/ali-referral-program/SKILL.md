@@ -1,6 +1,6 @@
 ---
 name: "referral-program"
-description: "When the user wants to design, launch, or optimize a referral or affiliate program. Use when they mention 'referral program,' 'affiliate program,' 'word of mouth,' 'refer a friend,' 'incentive program,' 'customer referrals,' 'brand ambassador,' 'partner program,' 'referral link,' or 'growth through referrals.' Covers program mechanics, incentive design, and optimization — not just the idea of referrals but the actual system."
+description: "Kullanıcı bir referral veya affiliate programı tasarlamak, başlatmak veya optimize etmek istediğinde kullan. 'Referral programı', 'affiliate programı', 'ağızdan ağıza', 'arkadaşı davet et', 'teşvik programı', 'müşteri referansları', 'marka elçisi', 'partner programı', 'referral linki' veya 'referral ile büyüme' gibi ifadeleri kullandığında kullan. Program mekaniği, teşvik tasarımı ve optimizasyonu kapsar — yalnızca referral fikri değil, gerçek sistemi"
 license: MIT
 metadata:
   version: 1.0.0

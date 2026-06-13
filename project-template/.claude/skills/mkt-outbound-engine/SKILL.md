@@ -1,6 +1,6 @@
 ---
 name: cold-outbound-optimizer
-description: Design, analyze, and optimize cold outbound email campaigns for Instantly. Handles end-to-end ICP definition, expert panel scoring (recursive to 90+), sequence copywriting, infrastructure audit, capacity planning, and implementation docs. Use when asked to build cold outbound sequences, optimize cold email, analyze outbound campaigns, build sales sequences, build Instantly sequences, create cold outbound strategies, or design email campaigns. Supports both "start from scratch" and "optimize existing" modes.
+description: "Instantly için soğuk outbound e-posta kampanyaları tasarla, analiz et ve optimize et. Uçtan uca ICP tanımı, uzman panel puanlaması (90+'a özyinelemeli), dizi metin yazımı, altyapı denetimi, kapasite planlaması ve uygulama dokümanlarını kapsar. Soğuk outbound dizileri oluştururken, soğuk e-postayı optimize ederken, outbound kampanyaları analiz ederken, satış dizileri oluştururken, Instantly dizileri oluştururken, soğuk outbound stratejileri yaratırken veya e-posta kampanyaları tasarlarken kullan. Hem \"sıfırdan başla\" hem de \"mevcutu optimize et\" modlarını destekler."
 ---
 
 

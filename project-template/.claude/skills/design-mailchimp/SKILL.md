@@ -1,6 +1,6 @@
 ---
 name: mailchimp-ui-skills
-description: Mailchimp's UI design system. Use when building interfaces inspired by Mailchimp's aesthetic - light mode, Inter font, 4px grid.
+description: "Mailchimp'in UI tasarım sistemi. Mailchimp'in estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter yazı tipi, 4px grid."
 license: MIT
 metadata:
   author: design-skills

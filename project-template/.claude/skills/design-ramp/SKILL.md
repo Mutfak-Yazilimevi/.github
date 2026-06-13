@@ -1,6 +1,6 @@
 ---
 name: ramp-ui-skills
-description: Ramp's UI design system. Use when building interfaces inspired by Ramp's aesthetic - light mode, Inter font, 4px grid.
+description: "Ramp'ın UI tasarım sistemi. Ramp'ın estetiğinden esinlenen arayüzler oluştururken kullan — aydınlık mod, Inter yazı tipi, 4px grid."
 license: MIT
 metadata:
   author: design-skills

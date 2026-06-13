@@ -1,6 +1,6 @@
 ---
 name: user-stories
-description: "Create user stories following the 3 C's (Card, Conversation, Confirmation) and INVEST criteria with descriptions, design links, and acceptance criteria. Use when writing user stories, breaking down features into backlog items, or defining acceptance criteria."
+description: "3 C (Kart, Konuşma, Onay) ve INVEST kriterlerini izleyerek açıklamalar, tasarım bağlantıları ve kabul kriterleriyle kullanıcı hikayeleri oluşturur. Kullanıcı hikayeleri yazarken, özellikleri backlog öğelerine ayırırken veya kabul kriterleri tanımlarken kullanılır."
 ---
 # User Stories
 

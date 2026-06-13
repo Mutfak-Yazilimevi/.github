@@ -1,6 +1,6 @@
 ---
 name: planning-and-task-breakdown
-description: Breaks work into ordered tasks. Use when you have a spec or clear requirements and need to break work into implementable tasks. Use when a task feels too large to start, when you need to estimate scope, or when parallel work is possible.
+description: "Çalışmayı sıralı görevlere böler. Bir şartname veya net gereksinimlerin olduğunda ve çalışmayı uygulanabilir görevlere bölmek gerektiğinde kullan. Bir görev başlamak için fazla büyük hissettirdiğinde, kapsam tahmin etmek gerektiğinde veya paralel çalışma mümkün olduğunda kullan."
 ---
 
 # Planning and Task Breakdown

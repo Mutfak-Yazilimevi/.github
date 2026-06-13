@@ -1,6 +1,6 @@
 ---
 name: "risk-management-specialist"
-description: Medical device risk management specialist implementing ISO 14971 throughout product lifecycle. Provides risk analysis, risk evaluation, risk control, and post-production information analysis. Use when user mentions risk management, ISO 14971, risk analysis, FMEA, fault tree analysis, hazard identification, risk control, risk matrix, benefit-risk analysis, residual risk, risk acceptability, or post-market risk.
+description: "Ürün yaşam döngüsü boyunca ISO 14971'i uygulayan tıbbi cihaz risk yönetimi uzmanı. Risk analizi, risk değerlendirmesi, risk kontrolü ve üretim sonrası bilgi analizi sağlar. Kullanıcı risk yönetimi, ISO 14971, risk analizi, FMEA, hata ağacı analizi, tehlike tanımlama, risk kontrolü, risk matrisi, fayda-risk analizi, artık risk, risk kabul edilebilirliği veya pazar sonrası risk konularını söz ettiğinde kullan."
 ---
 
 # Risk Management Specialist

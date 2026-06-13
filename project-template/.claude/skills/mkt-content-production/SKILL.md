@@ -1,6 +1,6 @@
 ---
 name: "content-production"
-description: "Full content production pipeline — takes a topic from blank page to published-ready piece. Use when you need to execute content: write a blog post, article, or guide end-to-end. Triggers: 'write a post about', 'draft an article', 'create content for', 'help me write', 'I need a blog post'. NOT for content strategy or calendar planning (use content-strategy). NOT for repurposing existing content (use content-repurposing). NOT for social captions only."
+description: "Tam içerik üretim hattı — bir konuyu boş sayfadan yayına hazır parçaya dönüştürür. İçerik üretmek gerektiğinde kullan: blog yazısı, makale veya rehber uçtan uca yaz. Tetikleyiciler: 'hakkında yazı yaz', 'makale taslağı çıkar', 'için içerik oluştur', 'yazmama yardım et', 'blog yazısına ihtiyacım var'. İçerik stratejisi veya takvim planlaması için değil (content-strategy'yi kullan). Mevcut içeriği yeniden amaçlandırmak için değil (content-repurposing'i kullan). Yalnızca sosyal medya başlıkları için değil"
 license: MIT
 metadata:
   version: 1.0.0

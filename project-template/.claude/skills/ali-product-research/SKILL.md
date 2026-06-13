@@ -1,6 +1,6 @@
 ---
 name: product-research
-description: Use when planning and synthesizing product/user research as a method-and-repository discipline — selecting the right method for the goal (generative interviews vs usability test vs concept test vs validation), computing method-based saturation/sample size with an explicit confidence level, or synthesizing coded observations into insights while flagging single-source anecdotes. Never fabricates user insight; an insight requires recurrence across independent participants. Distinct from product-team/ux-researcher-designer (persona/journey artifacts), product-discovery (discovery-sprint planning), and experiment-designer (live A/B) — this is the research-ops method + insight-repository layer.
+description: "Ürün/kullanıcı araştırmasını yöntem ve havuz disiplini olarak planlarken ve sentezlerken kullan — hedefe uygun doğru yöntemi seçmek (üretici görüşmeler vs kullanılabilirlik testi vs konsept testi vs doğrulama), açık güven düzeyi ile yöntem tabanlı doygunluk/örneklem büyüklüğü hesaplamak veya tek kaynaklı anekdotları işaretlerken gözlemleri içgörülere kodlamak. Kullanıcı içgörüsü uydurmaz; bir içgörü, bağımsız katılımcılar arasında tekrarlama gerektirir."
 version: 2.9.0
 author: claude-code-skills
 license: MIT

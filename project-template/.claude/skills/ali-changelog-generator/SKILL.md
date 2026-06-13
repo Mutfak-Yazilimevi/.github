@@ -1,6 +1,6 @@
 ---
 name: "changelog-generator"
-description: "Produce consistent, auditable release notes from Conventional Commits. Separates commit parsing, semantic-bump logic, and changelog rendering for automated releases with editorial control. Use when cutting a release, generating CHANGELOG.md from git history, or automating release notes in CI."
+description: "Conventional Commits'ten tutarlı, denetlenebilir sürüm notları üretir. Otomatik sürümler için editorial kontrol ile commit ayrıştırma, semantic-bump mantığı ve changelog oluşturmayı birbirinden ayırır. Sürüm keserken, git geçmişinden CHANGELOG.md oluştururken veya CI'da sürüm notlarını otomatikleştirirken kullan."
 ---
 
 # Changelog Generator

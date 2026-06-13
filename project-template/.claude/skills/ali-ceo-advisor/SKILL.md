@@ -1,6 +1,6 @@
 ---
 name: "ceo-advisor"
-description: "Executive leadership guidance for strategic decision-making, organizational development, and stakeholder management. Use when planning strategy, preparing board presentations, managing investors, developing organizational culture, making executive decisions, fundraising, or when user mentions CEO, strategic planning, board meetings, investor updates, organizational leadership, or executive strategy."
+description: "Stratejik karar verme, organizasyonel gelişim ve paydaş yönetimi için yönetici liderlik rehberliği. Strateji planlarken, yönetim kurulu sunumları hazırlarken, yatırımcıları yönetirken, organizasyon kültürü geliştirirken, yönetici kararları alırken, fon toplarken veya kullanıcı CEO, stratejik planlama, yönetim kurulu toplantıları, yatırımcı güncellemeleri, organizasyonel liderlik ya da yönetici stratejisinden bahsettiğinde kullan."
 license: MIT
 metadata:
   version: 2.0.0

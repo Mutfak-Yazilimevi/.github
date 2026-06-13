@@ -1,6 +1,6 @@
 ---
 name: "free-tool-strategy"
-description: "When the user wants to build a free tool for marketing — lead generation, SEO value, or brand awareness. Use when they mention 'engineering as marketing,' 'free tool,' 'calculator,' 'generator,' 'checker,' 'grader,' 'marketing tool,' 'lead gen tool,' 'build something for traffic,' 'interactive tool,' or 'free resource.' Covers idea evaluation, tool design, and launch strategy. For pure SEO content strategy (no tool), use seo-audit or content-strategy instead."
+description: "Kullanıcı pazarlama amaçlı ücretsiz bir araç oluşturmak istediğinde kullan — potansiyel müşteri oluşturma, SEO değeri veya marka farkındalığı. \"engineering as marketing\", \"free tool\", \"calculator\", \"generator\", \"checker\", \"grader\", \"marketing tool\", \"lead gen tool\", \"build something for traffic\", \"interactive tool\" veya \"free resource\" ifadelerinden bahsettiğinde kullan. Fikir değerlendirmesi, araç tasarımı ve lansman stratejisini kapsar. Araçsız saf SEO içerik stratejisi için seo-audit veya content-strategy becerisini kullan."
 license: MIT
 metadata:
   version: 1.0.0

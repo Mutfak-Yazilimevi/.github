@@ -1,12 +1,6 @@
 ---
 name: securing-github-actions-workflows
-description: 'This skill covers hardening GitHub Actions workflows against supply
-  chain attacks, credential theft, and privilege escalation. It addresses pinning
-  actions to SHA digests, minimizing GITHUB_TOKEN permissions, protecting secrets
-  from exfiltration, preventing script injection in workflow expressions, and implementing
-  required reviewers for workflow changes.
-
-  '
+description: "Bu skill, GitHub Actions iş akışlarını tedarik zinciri saldırılarına, kimlik bilgisi hırsızlığına ve ayrıcalık yükseltmeye karşı sertleştirmeyi kapsar. Action'ları SHA özetlerine sabitlemeyi, GITHUB_TOKEN izinlerini en aza indirmeyi, sırları sızdırmadan korumayı, iş akışı ifadelerindeki script enjeksiyonunu önlemeyi ve iş akışı değişiklikleri için zorunlu gözden geçirenleri uygulamayı ele alır."
 domain: cybersecurity
 subdomain: devsecops
 tags:

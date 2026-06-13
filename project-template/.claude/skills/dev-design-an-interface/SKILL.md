@@ -1,6 +1,6 @@
 ---
 name: design-an-interface
-description: Generate multiple radically different interface designs for a module using parallel sub-agents. Use when user wants to design an API, explore interface options, compare module shapes, or mentions "design it twice".
+description: "Paralel alt ajanlar kullanarak bir modül için birden fazla kökten farklı arayüz tasarımı oluşturur. Kullanıcı bir API tasarlamak, arayüz seçeneklerini keşfetmek, modül biçimlerini karşılaştırmak veya \"iki kez tasarla\" ifadesini kullandığında kullan."
 ---
 
 # Design an Interface

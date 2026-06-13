@@ -1,6 +1,6 @@
 ---
 name: "tdd-guide"
-description: "Test-driven development skill for writing unit tests, generating test fixtures and mocks, analyzing coverage gaps, and guiding red-green-refactor workflows across Jest, Pytest, JUnit, Vitest, and Mocha. Use when the user asks to write tests, improve test coverage, practice TDD, generate mocks or stubs, or mentions testing frameworks like Jest, pytest, or JUnit."
+description: "Jest, Pytest, JUnit, Vitest ve Mocha genelinde birim testleri yazmak, test fikstürleri ve mock'lar oluşturmak, kapsama boşluklarını analiz etmek ve kırmızı-yeşil-yeniden düzenleme iş akışlarına rehberlik etmek için test güdümlü geliştirme becerisi. Kullanıcı test yazmak, test kapsamını iyileştirmek, TDD uygulamak, mock veya stub oluşturmak istediğinde ya da Jest, pytest veya JUnit gibi test çerçevelerinden bahsettiğinde kullan."
 ---
 
 # TDD Guide

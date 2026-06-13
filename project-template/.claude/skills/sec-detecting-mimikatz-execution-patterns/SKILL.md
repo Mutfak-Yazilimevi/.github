@@ -1,7 +1,6 @@
 ---
 name: detecting-mimikatz-execution-patterns
-description: Detect Mimikatz execution through command-line patterns, LSASS access
-  signatures, binary indicators, and in-memory detection of known modules.
+description: "Komut satırı kalıpları, LSASS erişimi ve diğer göstergeler aracılığıyla Mimikatz yürütmesini tespit eder"
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

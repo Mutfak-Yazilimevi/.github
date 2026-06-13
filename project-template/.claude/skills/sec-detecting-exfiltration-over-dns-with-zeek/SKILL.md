@@ -1,7 +1,6 @@
 ---
 name: detecting-exfiltration-over-dns-with-zeek
-description: Detect DNS-based data exfiltration by analyzing Zeek dns.log for high-entropy
-  subdomains and anomalous query patterns
+description: "Yüksek entropi alt alanları ve anormal sorgu kalıpları için Zeek dns.log'u analiz ederek DNS tabanlı veri sızdırma girişimlerini tespit eder."
 domain: cybersecurity
 subdomain: network-security
 tags:

@@ -1,10 +1,6 @@
 ---
 name: configuring-pfsense-firewall-rules
-description: 'Configures pfSense firewall rules, NAT policies, VPN tunnels, and traffic
-  shaping to enforce network segmentation, control traffic flow, and protect internal
-  network zones in enterprise and small-to-medium business environments.
-
-  '
+description: "Kurumsal ve küçük-orta ölçekli işletme ortamlarında ağ segmentasyonunu uygulamak, trafik akışını kontrol etmek ve dahili ağ bölgelerini korumak için pfSense güvenlik duvarı kurallarını, NAT politikalarını, VPN tünellerini ve trafik şekillendirmeyi yapılandırır."
 domain: cybersecurity
 subdomain: network-security
 tags:

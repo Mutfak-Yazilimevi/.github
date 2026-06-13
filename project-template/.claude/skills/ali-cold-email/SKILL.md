@@ -1,6 +1,6 @@
 ---
 name: "cold-email"
-description: "When the user wants to write, improve, or build a sequence of B2B cold outreach emails to prospects who haven't asked to hear from them. Use when the user mentions 'cold email,' 'cold outreach,' 'prospecting emails,' 'SDR emails,' 'sales emails,' 'first touch email,' 'follow-up sequence,' or 'email prospecting.' Also use when they share an email draft that sounds too sales-y and needs to be humanized. Distinct from email-sequence (lifecycle/nurture to opted-in subscribers) — this is unsolicited outreach to new prospects. NOT for lifecycle emails, newsletters, or drip campaigns (use email-sequence)."
+description: "Kullanıcı henüz haber almak istememiş potansiyel müşterilere B2B soğuk giden e-posta yazmak, geliştirmek veya bir e-posta dizisi oluşturmak istediğinde kullan. Kullanıcı 'soğuk e-posta', 'soğuk giden iletişim', 'potansiyel müşteri e-postaları', 'SDR e-postaları', 'satış e-postaları', 'ilk temas e-postası', 'takip dizisi' veya 'e-posta ile aday bulma' ifadelerinden bahsettiğinde kullan. Ayrıca çok satışı andıran ve insanlaştırılması gereken bir e-posta taslağı paylaştıklarında da kullan. Onay almış abonelere gönderilen email-sequence (yaşam döngüsü/besleyici içerik) becerisinden farklıdır — bu, yeni adaylara yönelik istenmeyen bir giden iletişimdir. Yaşam döngüsü e-postaları, bültenler veya damla kampanyaları için KULLANMA (email-sequence kullan)."
 license: MIT
 metadata:
   version: 1.0.0

@@ -1,8 +1,6 @@
 ---
 name: configuring-oauth2-authorization-flow
-description: Configure secure OAuth 2.0 authorization flows including Authorization
-  Code with PKCE, Client Credentials, and Device Authorization Grant. This skill covers
-  flow selection, PKCE implementation, token
+description: "PKCE ile Authorization Code, Client Credentials ve Device Authorization Grant dahil olmak üzere güvenli OAuth 2.0 yetkilendirme akışlarını yapılandırır. Bu skill akış seçimini, PKCE uygulamasını ve token yönetimini kapsar."
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

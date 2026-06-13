@@ -1,6 +1,6 @@
 ---
 name: product-vision
-description: "Brainstorm an inspiring, achievable, and emotional product vision that motivates teams and aligns stakeholders. Use when defining or refining a product vision, creating a vision statement, or aligning the team around a shared direction."
+description: "Ekipleri motive eden ve paydaşları hizalayan ilham verici, ulaşılabilir ve duygusal bir ürün vizyonu üretir. Bir ürün vizyonu tanımlarken veya rafine ederken, bir vizyon bildirimi oluştururken ya da ekibi ortak bir yön etrafında hizalarken kullan."
 ---
 # Product Vision
 

@@ -1,6 +1,6 @@
 ---
 name: experiment-designer
-description: Use when planning product experiments, writing testable hypotheses, estimating sample size, prioritizing tests, or interpreting A/B outcomes with practical statistical rigor.
+description: "Ürün deneyleri planlarken, test edilebilir hipotezler yazarken, örneklem büyüklüğü tahmin ederken, testleri önceliklendirirken veya pratik istatistiksel titizlikle A/B sonuçlarını yorumlarken kullan."
 ---
 
 # Experiment Designer

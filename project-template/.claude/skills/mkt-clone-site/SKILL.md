@@ -1,6 +1,6 @@
 ---
 name: clone-site
-description: Clone and adapt a reference/competitor website's structure, layout, and copy into a marketing site draft. Use to replicate a site's information architecture as a starting point for a new landing or marketing site.
+description: "Bir referans/rakip web sitesinin yapısını, düzenini ve metnini bir pazarlama sitesi taslağına klonlar ve uyarlar. Yeni bir açılış veya pazarlama sitesi için başlangıç noktası olarak bir sitenin bilgi mimarisini kopyalamak için kullan."
 ---
 
 ---

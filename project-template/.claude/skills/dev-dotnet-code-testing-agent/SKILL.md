@@ -1,22 +1,6 @@
 ---
 name: code-testing-agent
-description: >-
-  Generates and writes new unit tests for any programming language —
-  scaffolds .NET test projects, pytest suites, Vitest/Jest suites,
-  Go test files, and JUnit suites, and configures coverage tooling
-  (coverlet, pytest-cov, @vitest/coverage-v8) as part of test
-  generation. Use when asked to generate tests, generate pytest
-  tests, generate Vitest tests, write unit tests, add tests, improve
-  coverage, comprehensive tests, or scaffold a new test project or
-  suite for an app, service, library, REST API, blueprint, or
-  package — including project-wide, multi-file test generation
-  across services, repositories, routes, and modules. Supports
-  C#/.NET, Python (pytest, Flask/Django), TypeScript/JavaScript
-  (Vitest, Jest, Mocha), Go, Rust, Java (JUnit). Runs a research,
-  planning, and implementation pipeline so tests compile and pass.
-  DO NOT USE FOR: running existing tests (use run-tests); analyzing
-  existing coverage reports (use coverage-analysis or crap-score);
-  MSTest modernization (use writing-mstest-tests).
+description: "Herhangi bir programlama dili için yeni birim testleri üretir ve yazar — .NET test projeleri, pytest süitleri, Vitest/Jest süitleri, Go test dosyaları ve JUnit süitleri oluşturur; test oluşturmanın bir parçası olarak kapsam araçlarını (coverlet, pytest-cov, @vitest/coverage-v8) yapılandırır. Test oluştur, pytest testleri üret, Vitest testleri üret, birim testleri yaz, test ekle, kapsamı artır, kapsamlı testler oluştur veya uygulama, servis, kütüphane, REST API, blueprint ya da paket için yeni test projesi veya süiti oluştur — servisler, repository'ler, rotalar ve modüller genelinde proje çapında, çok dosyalı test oluşturma dahil — istendiğinde kullanılır. C#/.NET, Python (pytest, Flask/Django), TypeScript/JavaScript (Vitest, Jest, Mocha), Go, Rust, Java (JUnit) destekler. Testlerin derlenmesini ve geçmesini sağlamak için araştırma, planlama ve uygulama pipeline'ı çalıştırır. BUNUN İÇİN KULLANMA: mevcut testleri çalıştırma (run-tests kullan); mevcut kapsam raporlarını analiz etme (coverage-analysis veya crap-score kullan); MSTest modernizasyonu (writing-mstest-tests kullan)."
 license: MIT
 ---
 

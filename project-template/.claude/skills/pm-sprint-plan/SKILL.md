@@ -1,6 +1,6 @@
 ---
 name: sprint-plan
-description: "Plan a sprint with capacity estimation, story selection, dependency mapping, and risk identification. Use when preparing for sprint planning, estimating team capacity, selecting stories, or balancing sprint scope against velocity."
+description: "Kapasite tahmini, hikaye seçimi, bağımlılık haritalama ve risk belirleme ile bir sprint planla. Sprint planlamasına hazırlanırken, ekip kapasitesini tahmin ederken, hikayeleri seçerken veya sprint kapsamını hız ile dengelerken kullan."
 ---
 
 ## Sprint Planning

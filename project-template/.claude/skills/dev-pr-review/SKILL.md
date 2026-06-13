@@ -1,10 +1,6 @@
 ---
 name: pr-review
-description: >
-  Review pull requests for the MiniMax Skills repository. Use when reviewing PRs,
-  validating new skill submissions, or checking existing skills for compliance.
-  Run the validation script first for hard checks, then apply quality guidelines
-  for content review. Triggers: PR review, pull request, validate skill, check skill.
+description: "MiniMax Skills deposu için pull request'leri inceler. PR inceleme, yeni skill gönderilerini doğrulama veya mevcut skill'leri uyumluluk açısından kontrol ederken kullan. Katı kontroller için önce doğrulama scriptini çalıştır, ardından içerik incelemesi için kalite yönergelerini uygula. Tetikleyiciler: PR inceleme, pull request, skill doğrulama, skill kontrolü."
 license: MIT
 metadata:
   version: "1.0"

@@ -1,6 +1,6 @@
 ---
 name: intercom-ui-skills
-description: Intercom's UI design system. Use when building interfaces inspired by Intercom's aesthetic - light mode, Inter font, 4px grid.
+description: "Intercom'un UI tasarım sistemi. Intercom estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter fontu, 4px ızgara."
 license: MIT
 metadata:
   author: design-skills

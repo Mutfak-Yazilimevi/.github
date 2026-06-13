@@ -1,6 +1,6 @@
 ---
 name: "intl-expansion"
-description: "International market expansion strategy. Market selection, entry modes, localization, regulatory compliance, and go-to-market by region. Use when expanding to new countries, evaluating international markets, planning localization, or building regional teams."
+description: "Uluslararası pazar genişleme stratejisi. Pazar seçimi, giriş modları, yerelleştirme, düzenleyici uyumluluk ve bölgeye göre go-to-market. Yeni ülkelere genişlerken, uluslararası pazarları değerlendirirken, yerelleştirme planlarken veya bölgesel ekipler oluştururken kullan."
 license: MIT
 metadata:
   version: 1.0.0

@@ -1,7 +1,6 @@
 ---
 name: building-soc-escalation-matrix
-description: Build a structured SOC escalation matrix defining severity tiers, response
-  SLAs, escalation paths, and notification procedures for security incidents.
+description: "Güvenlik olayları için önem derecesi katmanlarını, yanıt SLA'larını, eskalasyon yollarını ve bildirim prosedürlerini tanımlayan yapılandırılmış bir SOC eskalasyon matrisi oluşturur."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

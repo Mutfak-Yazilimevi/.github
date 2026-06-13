@@ -1,6 +1,6 @@
 ---
 name: "general-counsel-advisor"
-description: "General Counsel advisory for startups: contract review (MSA, SaaS, NDA, DPA, employment), IP strategy, term sheet decoding, and regulatory landscape mapping. Use when reviewing any contract or term sheet, deciding when to engage outside counsel, defining IP strategy, evaluating regulatory exposure (HIPAA, GDPR, FDA, fintech), or when user mentions general counsel, GC, legal review, contract risk, term sheet, IP assignment, or regulatory exposure. NOT a substitute for licensed counsel — surfaces questions to bring to qualified attorneys."
+description: "Girişimler için Genel Hukuk Müşaviri danışmanlığı: sözleşme incelemesi (MSA, SaaS, NDA, DPA, iş sözleşmesi), IP stratejisi, term sheet çözümleme ve düzenleyici ortam haritalama. Herhangi bir sözleşme veya term sheet incelenirken, dış hukuk müşavirinin ne zaman devreye alınacağına karar verilirken, IP stratejisi tanımlanırken, düzenleyici maruziyet değerlendirilirken (HIPAA, GDPR, FDA, fintech) ya da kullanıcı genel hukuk müşaviri, GC, hukuki inceleme, sözleşme riski, term sheet, IP devri veya düzenleyici maruziyet gibi kavramlardan bahsettiğinde kullan. Lisanslı hukuk müşavirinin yerini tutmaz — nitelikli avukatlara taşınacak soruları gün yüzüne çıkarır"
 license: MIT
 metadata:
   version: 1.0.0

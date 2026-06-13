@@ -1,15 +1,6 @@
 ---
 name: implementing-sigstore-for-software-signing
-description: 'Implements Sigstore-based software signing and verification using Cosign
-  keyless signing, Rekor transparency log verification, and Fulcio certificate authority
-  integration to establish cryptographic provenance for container images, binaries,
-  and software artifacts. The practitioner configures OIDC-based identity binding,
-  verifies signing events against the Rekor transparency log, and integrates signing
-  workflows into CI/CD pipelines. Activates for requests involving software supply
-  chain signing, keyless container signing, Sigstore deployment, or artifact provenance
-  verification.
-
-  '
+description: "Konteyner görüntüleri, ikili dosyalar ve yazılım yapıtları için kriptografik köken oluşturmak amacıyla Cosign anahtarsız imzalama, Rekor şeffaflık log doğrulaması ve Fulcio sertifika otoritesi entegrasyonunu kullanarak Sigstore tabanlı yazılım imzalama ve doğrulama uygular. Uygulayıcı OIDC tabanlı kimlik bağlamasını yapılandırır, Rekor şeffaflık loguna karşı imzalama olaylarını doğrular ve imzalama iş akışlarını CI/CD ardışık düzenlerine entegre eder. Yazılım tedarik zinciri imzalama, anahtarsız konteyner imzalama, Sigstore dağıtımı veya yapıt köken doğrulaması içeren istekler için etkinleşir."
 domain: cybersecurity
 subdomain: supply-chain-security
 tags:

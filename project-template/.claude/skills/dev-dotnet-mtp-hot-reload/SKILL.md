@@ -1,16 +1,6 @@
 ---
 name: mtp-hot-reload
-description: >
-  Suggests using Microsoft Testing Platform (MTP) hot reload to iterate fixes
-  on failing tests without rebuilding. Use when user says "hot reload tests",
-  "iterate on test fix", "run tests without rebuilding", "speed up test loop",
-  "fix test faster", or needs to set up MTP hot reload to rapidly iterate on
-  test failures. Covers setup (NuGet package, environment variable,
-  launchSettings.json) and the iterative workflow for fixing tests.
-  DO NOT USE FOR: writing test code, diagnosing test failures, running tests
-  normally with dotnet test (use run-tests), applying test filters, producing
-  TRX reports, CI/CD pipeline configuration, or Visual Studio Test Explorer
-  hot reload (which is a different feature).
+description: "Yeniden derleme yapmadan başarısız testleri düzeltmeye yönelik döngüleri hızlandırmak için Microsoft Testing Platform (MTP) hot reload kullanımını önerir. Kullanıcı \"hot reload tests\", \"iterate on test fix\", \"run tests without rebuilding\", \"speed up test loop\", \"fix test faster\" dediğinde veya test başarısızlıklarını hızla düzeltmek için MTP hot reload kurulumuna ihtiyaç duyduğunda kullan. Kurulumu (NuGet paketi, ortam değişkeni, launchSettings.json) ve test düzeltme için yinelemeli iş akışını kapsar. KULLANMA: test kodu yazma, test başarısızlıklarını teşhis etme, dotnet test ile normal test çalıştırma (run-tests kullan), test filtresi uygulama, TRX raporu üretme, CI/CD hattı yapılandırması veya Visual Studio Test Explorer hot reload (farklı bir özellik) için."
 license: MIT
 ---
 

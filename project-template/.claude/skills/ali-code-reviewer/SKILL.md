@@ -1,6 +1,6 @@
 ---
 name: "code-reviewer"
-description: Code review automation for TypeScript, JavaScript, Python, Go, Swift, Kotlin, C#, .NET, Java, C, C++, Rust, Ruby, PHP, and Dart/Flutter. Analyzes PRs for complexity and risk, checks code quality for SOLID violations and code smells, generates review reports. Use when reviewing pull requests, analyzing code quality, identifying issues, generating review checklists.
+description: "TypeScript, JavaScript, Python, Go, Swift, Kotlin, C#, .NET, Java, C, C++, Rust, Ruby, PHP ve Dart/Flutter için kod inceleme otomasyonu. PR'ları karmaşıklık ve risk açısından analiz eder, SOLID ihlalleri ve kod kokuları için kod kalitesini kontrol eder, inceleme raporları oluşturur. Pull request'leri incelerken, kod kalitesini analiz ederken, sorunları tespit ederken, inceleme kontrol listeleri oluştururken kullanılır."
 ---
 
 # Code Reviewer

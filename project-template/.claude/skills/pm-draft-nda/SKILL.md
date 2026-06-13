@@ -1,6 +1,6 @@
 ---
 name: draft-nda
-description: "Draft a detailed Non-Disclosure Agreement between two parties covering information types, jurisdiction, and clauses needing legal review. Use when creating confidentiality agreements or preparing an NDA for a partnership."
+description: "İki taraf arasında bilgi türlerini, yargı yetkisini ve hukuki inceleme gerektiren maddeleri kapsayan ayrıntılı bir Gizlilik Sözleşmesi taslağı hazırlar. Gizlilik anlaşmaları oluştururken veya bir ortaklık için NDA hazırlarken kullan."
 ---
 # NDA (Non-Disclosure Agreement) Drafting
 

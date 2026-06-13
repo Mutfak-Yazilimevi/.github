@@ -1,17 +1,6 @@
 ---
 name: amazing-seo-skill
-description: >
-  SEO + AEO + GEO analysis for any website (SaaS, e-commerce, local, publisher,
-  agency). Full-site audits, single-page deep-dive, technical SEO (crawl,
-  index, CWV with INP, JS-rendering), Schema.org detection/validation/gen,
-  E-E-A-T content quality, image optimization, sitemap, hreflang, programmatic
-  SEO, competitor pages, and Generative/Answer Engine Optimization (AI
-  Overviews, ChatGPT, Perplexity, Claude, Gemini citations). Detects business
-  type, applies industry thresholds. 4-layer model: reasoning, deterministic
-  Python checkers, real-browser CWV, 5-LLM citation ensemble. Triggers on:
-  "SEO", "audit", "schema", "Core Web Vitals", "INP", "sitemap", "E-E-A-T",
-  "AI Overviews", "GEO", "AEO", "technical SEO", "hreflang", "programmatic
-  SEO", "competitor pages".
+description: "Her web sitesi türü için (SaaS, e-ticaret, yerel, yayıncı, ajans) SEO + AEO + GEO analizi. Tam site denetimleri, tek sayfa derinlemesine inceleme, teknik SEO (tarama, dizin, INP dahil CWV, JS render), Schema.org tespiti/doğrulaması/oluşturması, E-E-A-T içerik kalitesi, görüntü optimizasyonu, site haritası, hreflang, programatik SEO, rakip sayfalar ve Üretken/Yanıt Motoru Optimizasyonu (AI Overviews, ChatGPT, Perplexity, Claude, Gemini alıntıları). Tetikleyiciler: \"SEO\", \"audit\", \"schema\", \"Core Web Vitals\", \"INP\", \"sitemap\", \"E-E-A-T\", \"AI Overviews\", \"GEO\", \"AEO\", \"technical SEO\", \"hreflang\", \"programmatic SEO\", \"competitor pages\"."
 allowed-tools:
   - Read
   - Grep

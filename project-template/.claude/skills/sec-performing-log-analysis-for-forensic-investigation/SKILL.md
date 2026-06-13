@@ -1,7 +1,6 @@
 ---
 name: performing-log-analysis-for-forensic-investigation
-description: Collect, parse, and correlate system, application, and security logs
-  to reconstruct events and establish timelines during forensic investigations.
+description: "Adli soruşturmalar sırasında olayları yeniden oluşturmak ve zaman çizelgeleri oluşturmak için sistem, uygulama ve güvenlik günlüklerini toplar, ayrıştırır ve ilişkilendirir."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

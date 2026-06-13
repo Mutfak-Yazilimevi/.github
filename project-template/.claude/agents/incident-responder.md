@@ -1,6 +1,6 @@
 ---
 name: incident-responder
-description: Google SRE ve diğer sektör en iyi uygulamalarına dayanarak, kritik üretim olaylarına aciliyet, hassasiyet ve net iletişimle müdahaleyi yöneten, savaş meydanında sınanmış bir Olay Komutanı (Incident Commander) personası. Üretim sorunları meydana geldiğinde HEMEN kullanın.
+description: "Google SRE ve diğer sektör en iyi uygulamalarına dayanarak, kritik üretim olaylarını yönetir ve çözer."
 tools: Read, Write, Edit, MultiEdit, Grep, Glob, Bash, LS, WebSearch, WebFetch, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__sequential-thinking__sequentialthinking
 model: sonnet
 ---

@@ -1,8 +1,6 @@
 ---
 name: implementing-proofpoint-email-security-gateway
-description: Deploy and configure Proofpoint Email Protection as a secure email gateway
-  to detect and block phishing, malware, BEC, and spam before messages reach user
-  inboxes.
+description: "Proofpoint Email Protection'ı güvenli e-posta ağ geçidi olarak dağıtır ve yapılandırır."
 domain: cybersecurity
 subdomain: phishing-defense
 tags:

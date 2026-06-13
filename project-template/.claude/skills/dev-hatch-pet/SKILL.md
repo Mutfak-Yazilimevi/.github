@@ -1,6 +1,6 @@
 ---
 name: hatch-pet
-description: Create, repair, validate, visually QA, and package Codex-compatible animated pets and pet spritesheets from character art, generated images, company or prospect brand cues, or visual references. Use when a user wants a lightweight-worker Codex pet workflow, a non-pixel custom pet style, a prospect or company mascot pet, or a full 8x9 animated pet atlas with transparent unused cells, QA contact sheets, and pet.json packaging. This skill composes the installed $imagegen system skill for visual generation and uses bundled scripts for deterministic spritesheet assembly.
+description: "Codex uyumlu animasyonlu evcil hayvanlar ve evcil hayvan spritesheet'leri oluştur, onar, doğrula, görsel kalite kontrolü yap ve paketler. Kullanıcı hafif-worker Codex evcil hayvan iş akışı, piksel olmayan özel evcil hayvan stili, aday veya şirket maskot evcil hayvanı ya da şeffaf kullanılmayan hücreler, QA iletişim sayfaları ve pet.json paketlemesiyle tam 8x9 animasyonlu evcil hayvan atlası istediğinde kullan. Bu skill, görsel üretim için kurulu $imagegen sistem skill'ini birleştirir ve deterministik spritesheet montajı için paketlenmiş scriptler kullanır."
 ---
 
 # Hatch Pet

@@ -1,11 +1,6 @@
 ---
 name: performing-container-image-hardening
-description: 'This skill covers hardening container images by minimizing attack surface,
-  removing unnecessary packages, implementing multi-stage builds, configuring non-root
-  users, and applying CIS Docker Benchmark recommendations to produce secure production-ready
-  images.
-
-  '
+description: "Bu beceri, güvenli üretime hazır görüntüler üretmek için saldırı yüzeyini en aza indirerek, gereksiz paketleri kaldırarak, çok aşamalı derlemeler uygulayarak, root olmayan kullanıcılar yapılandırarak ve CIS Docker Benchmark önerilerini uygulayarak konteyner görüntülerini sertleştirmeyi kapsar."
 domain: cybersecurity
 subdomain: devsecops
 tags:

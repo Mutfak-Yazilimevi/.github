@@ -1,6 +1,6 @@
 ---
 name: content-eval
-description: Evaluate marketing content against clarity, persuasion, SEO, and brand criteria; score it and list concrete improvements. Use to review or grade blog posts, landing copy, or campaign content before publishing.
+description: "Pazarlama içeriğini netlik, ikna, SEO ve marka kriterleri açısından değerlendirir; puanlar ve somut iyileştirmeleri listeler. Yayınlamadan önce blog yazılarını, açılış sayfası metnini veya kampanya içeriğini incelemek veya puanlamak için kullan."
 ---
 
 ---

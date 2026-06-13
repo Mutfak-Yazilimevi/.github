@@ -1,6 +1,6 @@
 ---
 name: ghost-ui-skills
-description: Ghost's UI design system. Use when building interfaces inspired by Ghost's aesthetic - dark mode, Inter font, 4px grid.
+description: "Ghost'un UI tasarım sistemi. Ghost'un estetiğinden ilham alan arayüzler oluştururken kullan — karanlık mod, Inter font, 4px ızgara."
 license: MIT
 metadata:
   author: design-skills

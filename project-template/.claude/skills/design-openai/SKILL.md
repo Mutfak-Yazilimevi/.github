@@ -1,6 +1,6 @@
 ---
 name: openai-ui-skills
-description: OpenAI's UI design system. Use when building interfaces inspired by OpenAI's aesthetic - light mode, Inter font, 4px grid.
+description: "OpenAI'ın UI tasarım sistemi. OpenAI estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter font, 4px grid."
 license: MIT
 metadata:
   author: design-skills

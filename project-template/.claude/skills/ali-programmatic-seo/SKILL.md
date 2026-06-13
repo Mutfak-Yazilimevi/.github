@@ -1,6 +1,6 @@
 ---
 name: "programmatic-seo"
-description: When the user wants to create SEO-driven pages at scale using templates and data. Also use when the user mentions "programmatic SEO," "template pages," "pages at scale," "directory pages," "location pages," "[keyword] + [city] pages," "comparison pages," "integration pages," or "building many pages for SEO." For auditing existing SEO issues, see seo-audit.
+description: "Kullanıcı şablonlar ve veriler kullanarak ölçekli SEO odaklı sayfalar oluşturmak istediğinde kullanılır. Ayrıca kullanıcı \"programatik SEO\", \"şablon sayfalar\", \"ölçekli sayfalar\", \"dizin sayfaları\", \"konum sayfaları\", \"[anahtar kelime] + [şehir] sayfaları\", \"karşılaştırma sayfaları\", \"entegrasyon sayfaları\" veya \"SEO için çok sayıda sayfa oluşturma\" söylediğinde de kullanılır. Mevcut SEO sorunlarını denetlemek için bkz. seo-audit."
 license: MIT
 metadata:
   version: 1.0.0

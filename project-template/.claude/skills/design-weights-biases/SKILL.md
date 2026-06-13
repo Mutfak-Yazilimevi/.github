@@ -1,6 +1,6 @@
 ---
 name: weights-biases-ui-skills
-description: Weights Biases's UI design system. Use when building interfaces inspired by Weights Biases's aesthetic - light mode, Inter font, 4px grid.
+description: "Weights & Biases'ın UI tasarım sistemi. Weights & Biases estetiğinden ilham alarak arayüzler oluştururken kullanılır — açık mod, Inter yazı tipi, 4 piksel ızgara."
 license: MIT
 metadata:
   author: design-skills

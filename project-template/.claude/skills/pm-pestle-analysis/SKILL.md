@@ -1,6 +1,6 @@
 ---
 name: pestle-analysis
-description: "Perform a PESTLE analysis covering Political, Economic, Social, Technological, Legal, and Environmental factors. Use when assessing the macro environment, doing strategic planning, or evaluating external factors affecting your business."
+description: "Siyasi, Ekonomik, Sosyal, Teknolojik, Yasal ve Çevresel faktörleri kapsayan bir PESTLE analizi gerçekleştir. Makro ortamı değerlendirirken, stratejik planlama yaparken veya işletmenizi etkileyen dışsal faktörleri değerlendirirken kullan."
 ---
 # PESTLE Analysis
 

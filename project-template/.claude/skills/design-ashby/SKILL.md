@@ -1,6 +1,6 @@
 ---
 name: ashby-ui-skills
-description: Ashby's UI design system. Use when building interfaces inspired by Ashby's aesthetic - dark mode, Inter font, 4px grid.
+description: "Ashby'nin UI tasarım sistemi. Ashby'nin estetiğinden ilham alan arayüzler oluştururken kullan — koyu mod, Inter font, 4px grid."
 license: MIT
 metadata:
   author: design-skills

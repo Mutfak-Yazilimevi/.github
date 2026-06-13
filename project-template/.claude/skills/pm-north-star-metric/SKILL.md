@@ -1,6 +1,6 @@
 ---
 name: north-star-metric
-description: "Define a North Star Metric and 3-5 supporting input metrics that form a metrics constellation. Classify the business game (Attention, Transaction, Productivity) and validate against 7 criteria for an effective North Star. Use when choosing a North Star Metric, setting up a metrics framework, learning about the North Star Framework, or deciding what to measure."
+description: "Bir metrik takımyıldızı oluşturan North Star Metriği ve 3-5 destekleyici girdi metrikleri tanımlar. İş oyununu (Dikkat, İşlem, Verimlilik) sınıflandırır ve etkili bir North Star için 7 kriter karşısında doğrular. North Star Metriği seçerken, metrik çerçevesi kurarken, North Star Çerçevesi öğrenirken veya neyin ölçüleceğine karar verirken kullan."
 ---
 # North Star Metric
 

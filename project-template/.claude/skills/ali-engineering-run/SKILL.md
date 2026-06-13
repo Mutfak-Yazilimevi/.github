@@ -1,6 +1,6 @@
 ---
 name: engineering-run
-description: "One-shot lifecycle command that chains init → baseline → spawn → eval → merge in a single invocation."
+description: "Tek seferde init → baseline → spawn → eval → merge zincirini çağıran tek seferlik yaşam döngüsü komutu."
 command: /hub:run
 ---
 

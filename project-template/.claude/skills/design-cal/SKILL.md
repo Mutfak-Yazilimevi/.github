@@ -1,6 +1,6 @@
 ---
 name: cal-ui-skills
-description: Cal's UI design system. Use when building interfaces inspired by Cal's aesthetic - light mode, Inter font, 4px grid.
+description: "Cal'ın UI tasarım sistemi. Cal'ın estetiğinden esinlenen arayüzler oluştururken kullan — aydınlık mod, Inter yazı tipi, 4px grid."
 license: MIT
 metadata:
   author: design-skills

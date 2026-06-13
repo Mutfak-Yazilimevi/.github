@@ -1,6 +1,6 @@
 ---
 name: ppt-orchestra-skill
-description: "Plan and orchestrate multi-slide PowerPoint creation from scratch. Use before generating a full deck with subagents: classify each slide type, enforce visual variety, set typography/spacing rules, and run text-based QA to catch content issues."
+description: "Sıfırdan çok slaytlı PowerPoint oluşturmayı planlar ve orkestre eder. Alt ajanlı tam deste oluşturmadan önce kullan: her slayt türünü sınıflandır, görsel çeşitliliği zorla, tipografi/aralık kurallarını belirle ve içerik sorunlarını yakalamak için metin tabanlı QA yürüt"
 license: Proprietary. LICENSE.txt has complete terms
 ---
 

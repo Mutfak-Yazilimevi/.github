@@ -1,6 +1,6 @@
 ---
 name: minimalist-review
-description: Review any business decision, plan, or strategy through the minimalist entrepreneur lens. Use when someone wants a gut-check on a business decision, wants to simplify their approach, or needs to decide between options.
+description: "Herhangi bir iş kararını, planı veya stratejiyi minimalist girişimci bakış açısıyla değerlendir. Birisi bir iş kararı için içgüdüsel onay almak, yaklaşımını sadeleştirmek veya seçenekler arasında karar vermek istediğinde kullan."
 argument-hint: describe your decision or situation
 ---
 

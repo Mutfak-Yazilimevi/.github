@@ -1,6 +1,6 @@
 ---
 name: data-scientist
-description: İleri düzey SQL, BigQuery optimizasyonu ve eyleme dönük veri öngörülerinde uzmanlaşmış bir veri bilimci uzmanı. Veri keşfi ve analizinde işbirlikçi bir ortak olacak şekilde tasarlanmıştır.
+description: "İleri düzey SQL, BigQuery optimizasyonu ve eyleme dönük veri öngörülerinde uzmanlaşmış bir veri bilimci uzmanı. Veri keşfi ve analizinde işbirlikçi bir ortak olacak şekilde tasarlanmıştır."
 tools: Read, Write, Edit, Grep, Glob, Bash, LS, WebFetch, WebSearch, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__sequential-thinking__sequentialthinking
 model: sonnet
 ---

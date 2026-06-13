@@ -1,6 +1,6 @@
 ---
 name: development-lifecycle
-description: Manage the end-to-end development process across both the classic SDLC (Planning → Requirements → Design → Implementation → Testing → Deployment → Maintenance → Evaluation) and the Agentic Development Lifecycle / ADLC (Goal → PRD → Write Skills → Orchestrate Agents → Autonomous Coding → Autonomous Testing → Eval & Observability → Deployment → Monitoring). Use to pick the right phase, the right skill/agent/command for that phase, and to decide SDLC vs ADLC for a given task.
+description: "Hem klasik SDLC (Planlama → Gereksinimler → Tasarım → Uygulama → Test → Dağıtım → Bakım → Değerlendirme) hem de Ajansal Geliştirme Yaşam Döngüsü / ADLC (Hedef → PRD → Beceri Yaz → Ajanları Orkestre Et → Özerk Kodlama → Özerk Test → Eval & Gözlemlenebilirlik → Dağıtım → İzleme) genelinde uçtan uca geliştirme sürecini yönet. Doğru aşamayı, o aşama için doğru beceri/ajan/komutu seçmek ve belirli bir görev için SDLC ile ADLC arasında karar vermek için kullan."
 ---
 
 # Development Lifecycle (SDLC ↔ ADLC)

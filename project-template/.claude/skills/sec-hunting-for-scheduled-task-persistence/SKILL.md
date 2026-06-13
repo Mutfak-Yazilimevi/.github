@@ -1,7 +1,6 @@
 ---
 name: hunting-for-scheduled-task-persistence
-description: Hunt for adversary persistence via Windows Scheduled Tasks by analyzing
-  task creation events, suspicious task actions, and unusual scheduling patterns.
+description: "Görev oluşturma olaylarını, şüpheli görev eylemlerini ve olağandışı zamanlama kalıplarını analiz ederek Windows Zamanlanmış Görevler aracılığıyla saldırgan kalıcılığını avlar."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

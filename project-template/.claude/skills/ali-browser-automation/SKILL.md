@@ -1,6 +1,6 @@
 ---
 name: "browser-automation"
-description: "Use when the user asks to automate browser tasks, scrape websites, fill forms, capture screenshots, extract structured data from web pages, or build web automation workflows. NOT for testing — use playwright-pro for that."
+description: "Kullanıcı tarayıcı görevlerini otomatikleştirmek, web sitelerini taramak, form doldurmak, ekran görüntüsü almak, web sayfalarından yapılandırılmış veri çıkarmak veya web otomasyon iş akışları oluşturmak istediğinde kullan. Test için KULLANMA — bunun için playwright-pro kullan."
 ---
 
 # Browser Automation - POWERFUL

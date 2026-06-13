@@ -1,10 +1,6 @@
 ---
 name: detecting-port-scanning-with-fail2ban
-description: 'Configures Fail2ban with custom filters and actions to detect port scanning
-  activity, SSH brute force attempts, and network reconnaissance, automatically banning
-  offending IP addresses and alerting security teams to suspicious network probing.
-
-  '
+description: "Port tarama faaliyetini, SSH brute force girişimlerini ve ağ keşfini tespit etmek, saldıran IP adreslerini otomatik olarak yasaklamak ve güvenlik ekiplerini şüpheli ağ problamalarına karşı uyarmak amacıyla Fail2ban'ı özel filtreler ve eylemlerle yapılandırır."
 domain: cybersecurity
 subdomain: network-security
 tags:

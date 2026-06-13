@@ -1,17 +1,6 @@
 ---
 name: generate-testability-wrappers
-description: >
-  Generate wrapper interfaces and DI registration for hard-to-test static dependencies in C#.
-  Produces IFileSystem, IEnvironmentProvider, IConsole, IProcessRunner wrappers, or guides adoption
-  of TimeProvider and IHttpClientFactory.
-  USE FOR: generate wrapper for static, create IFileSystem wrapper, wrap DateTime.Now,
-  make static testable, make class testable, create abstraction for File.*, generate
-  DI registration, TimeProvider adoption, IHttpClientFactory setup, testability wrapper,
-  mock-friendly interface, mock time in tests, create the right abstraction to mock,
-  how to mock DateTime, test code using File.ReadAllText, what abstraction for Environment,
-  how to make statics injectable, adopt System.IO.Abstractions, make file calls testable.
-  DO NOT USE FOR: detecting statics (use detect-static-dependencies), migrating call
-  sites (use migrate-static-to-wrapper), general interface design not about testability.
+description: "C#'ta test etmesi zor statik bağımlılıklar için wrapper arayüzleri ve DI kaydı oluştur. IFileSystem, IEnvironmentProvider, IConsole, IProcessRunner wrapper'ları üretir veya TimeProvider ve IHttpClientFactory benimsenmesine rehberlik eder. ŞUNLAR İÇİN KULLAN: statik için wrapper oluştur, IFileSystem wrapper'ı oluştur, DateTime.Now'u sar, statik olanı test edilebilir yap, sınıfı test edilebilir yap, File.* için soyutlama oluştur, DI kaydı oluştur, TimeProvider benimsemesi, IHttpClientFactory kurulumu, test edilebilirlik wrapper'ı, mock dostu arayüz, testlerde zamanı mock'la, doğru soyutlamayı mock için oluştur, DateTime'ı nasıl mock'layacağım, File.ReadAllText kullanan kodu test et, Environment için hangi soyutlama, statikleri enjekte edilebilir yapma, System.IO.Abstractions benimseme, dosya çağrılarını test edilebilir yapma. ŞUNLAR İÇİN KULLANMA: statikleri tespit etme (detect-static-dependencies kullan), çağrı sitelerini taşıma (migrate-static-to-wrapper kullan), test edilebilirlikle ilgili olmayan genel arayüz tasarımı."
 license: MIT
 ---
 

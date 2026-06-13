@@ -1,11 +1,6 @@
 ---
 name: auditing-terraform-infrastructure-for-security
-description: 'Auditing Terraform infrastructure-as-code for security misconfigurations
-  using Checkov, tfsec, Terrascan, and OPA/Rego policies to detect overly permissive
-  IAM policies, public resource exposure, missing encryption, and insecure defaults
-  before cloud deployment.
-
-  '
+description: "Bulut dağıtımından önce aşırı izin veren IAM politikalarını, herkese açık kaynak açıklamalarını, eksik şifrelemeyi ve güvensiz varsayılan ayarları tespit etmek için Checkov, tfsec, Terrascan ve OPA/Rego politikaları kullanarak Terraform infrastructure-as-code'u güvenlik yanlış yapılandırmaları açısından denetler."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

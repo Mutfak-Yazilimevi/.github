@@ -1,15 +1,6 @@
 ---
 name: detecting-command-and-control-over-dns
-description: 'Detects command-and-control (C2) communications tunneled through DNS
-  protocol including DNS tunneling tools (Iodine, dnscat2, dns2tcp, Cobalt Strike
-  DNS beacon), domain generation algorithms (DGA), encoded payload delivery via TXT/CNAME
-  records, and DNS beaconing patterns. Covers Shannon entropy analysis of query subdomains,
-  statistical anomaly detection, ML-based DGA classification, passive DNS correlation,
-  and Zeek/Suricata signature development. Activates for requests involving DNS-based
-  C2 detection, DNS tunnel identification, suspicious DNS traffic investigation, or
-  DGA domain classification.
-
-  '
+description: "DNS protokolü üzerinden tünellenen komuta ve kontrol (C2) iletişimlerini tespit eder; DNS tünelleme araçları (Iodine, dnscat2, dns2tcp, Cobalt Strike DNS beacon), alan adı oluşturma algoritmaları (DGA), TXT/CNAME kayıtları aracılığıyla kodlanmış yük iletimi ve DNS beaconing modellerini kapsar. Sorgu alt alanlarının Shannon entropi analizini, istatistiksel anomali tespitini, ML tabanlı DGA sınıflandırmasını, pasif DNS korelasyonunu ve Zeek/Suricata imza geliştirmeyi kapsar. DNS tabanlı C2 tespiti, DNS tünel tanımlama, şüpheli DNS trafiği araştırması veya DGA alan adı sınıflandırmasına yönelik isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: network-security
 tags:

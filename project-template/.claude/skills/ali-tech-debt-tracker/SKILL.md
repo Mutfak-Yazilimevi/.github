@@ -1,6 +1,6 @@
 ---
 name: tech-debt-tracker
-description: Scan codebases for technical debt, score severity, track trends, and generate prioritized remediation plans. Use when users mention tech debt, code quality, refactoring priority, debt scoring, cleanup sprints, or code health assessment. Also use for legacy code modernization planning and maintenance cost estimation.
+description: "Kod tabanlarını teknik borç için tarar, önem derecesini puanlar, eğilimleri takip eder ve önceliklendirilmiş iyileştirme planları üretir. Kullanıcılar teknik borç, kod kalitesi, yeniden düzenleme önceliği, borç puanlama, temizlik sprint'leri veya kod sağlığı değerlendirmesinden bahsettiğinde kullan. Ayrıca eski kod modernizasyon planlaması ve bakım maliyeti tahmini için de kullan"
 ---
 
 # Tech Debt Tracker

@@ -1,6 +1,6 @@
 ---
 name: "cfo-review"
-description: "/cs:cfo-review <plan> — Numerate-skeptic interrogation of any plan that touches money. Unit economics, runway, dilution, capital allocation."
+description: "/cs:cfo-review <plan> — Para dokunduğu her planın sayısal-şüpheci sorgulaması. Birim ekonomisi, runway, dilüsyon, sermaye tahsisi."
 ---
 
 # /cs:cfo-review — CFO Forcing Questions

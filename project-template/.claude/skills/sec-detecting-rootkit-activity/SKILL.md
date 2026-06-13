@@ -1,12 +1,6 @@
 ---
 name: detecting-rootkit-activity
-description: 'Detects rootkit presence on compromised systems by identifying hidden
-  processes, hooked system calls, modified kernel structures, hidden files, and covert
-  network connections using memory forensics, cross-view detection, and integrity
-  checking techniques. Activates for requests involving rootkit detection, hidden
-  process discovery, kernel integrity checking, or system call hook analysis.
-
-  '
+description: "Bellek adli bilişimi, çapraz görünüm tespiti ve bütünlük kontrolü teknikleri kullanarak gizli süreçleri, kancalanmış sistem çağrılarını, değiştirilmiş çekirdek yapılarını, gizli dosyaları ve gizli ağ bağlantılarını belirleyerek ele geçirilmiş sistemlerdeki rootkit varlığını tespit eder. Rootkit tespiti, gizli süreç keşfi, çekirdek bütünlüğü kontrolü veya sistem çağrısı kanca analizi içeren isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: malware-analysis
 tags:

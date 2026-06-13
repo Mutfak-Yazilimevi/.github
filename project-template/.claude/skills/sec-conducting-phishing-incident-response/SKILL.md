@@ -1,13 +1,6 @@
 ---
 name: conducting-phishing-incident-response
-description: 'Responds to phishing incidents by analyzing reported emails, extracting
-  indicators, assessing credential compromise, quarantining malicious messages across
-  the organization, and remediating affected accounts. Covers email header analysis,
-  URL/attachment sandboxing, and mailbox-wide purge operations. Activates for requests
-  involving phishing response, email incident, credential phishing, spear phishing
-  investigation, or phishing remediation.
-
-  '
+description: "Raporlanan e-postaları analiz ederek, göstergeleri çıkararak, kimlik bilgisi ihlalini değerlendirerek, kötü amaçlı iletileri kuruluş genelinde karantinaya alarak ve etkilenen hesapları düzelterek kimlik avı olaylarına yanıt verir. E-posta başlık analizini, URL/ek sandbox'lamasını ve posta kutusu genelinde temizleme işlemlerini kapsar. Kimlik avı müdahalesi, e-posta olayı, kimlik bilgisi kimlik avı, spear phishing soruşturması veya kimlik avı düzeltmesine yönelik isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: incident-response
 tags:

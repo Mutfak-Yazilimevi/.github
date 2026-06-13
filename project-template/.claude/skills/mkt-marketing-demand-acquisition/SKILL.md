@@ -1,6 +1,6 @@
 ---
 name: "marketing-demand-acquisition"
-description: Creates demand generation campaigns, optimizes paid ad spend across LinkedIn, Google, and Meta, develops SEO strategies, and structures partnership programs for Series A+ startups scaling internationally. Use when planning marketing strategy, growth marketing, advertising campaigns, PPC optimization, lead generation, pipeline generation, or startup marketing budgets. Covers multi-channel acquisition (Google Ads, LinkedIn Ads, Meta Ads), CAC analysis, MQL/SQL workflows, attribution modeling, technical SEO, and co-marketing partnerships for hybrid PLG/Sales-Led motions in EU/US/Canada markets.
+description: "Uluslararası ölçeklenen Series A+ girişimler için talep oluşturma kampanyaları oluşturur, LinkedIn, Google ve Meta'daki ücretli reklam harcamalarını optimize eder, SEO stratejileri geliştirir ve ortaklık programları yapılandırır. Pazarlama stratejisi, büyüme pazarlaması, reklam kampanyaları, PPC optimizasyonu, lead üretimi, pipeline oluşturma veya girişim pazarlama bütçeleri planlarken kullan. Çok kanallı edinim (Google Ads, LinkedIn Ads, Meta Ads), CAC analizi, MQL/SQL iş akışları, attribution modelleme, teknik SEO ve AB/ABD/Kanada pazarlarındaki hibrit PLG/Satış Odaklı hareketler için ortak pazarlama ortaklıklarını kapsar."
 triggers:
   - demand gen
   - demand generation

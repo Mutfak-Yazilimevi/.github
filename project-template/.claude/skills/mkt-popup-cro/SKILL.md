@@ -1,6 +1,6 @@
 ---
 name: "popup-cro"
-description: When the user wants to create or optimize popups, modals, overlays, slide-ins, or banners for conversion purposes. Also use when the user mentions "exit intent," "popup conversions," "modal optimization," "lead capture popup," "email popup," "announcement banner," or "overlay." For forms outside of popups, see form-cro. For general page conversion optimization, see page-cro.
+description: "Kullanıcı dönüşüm amacıyla açılır pencereler, modaller, katmanlar, slayt içerenler veya afişler oluşturmak veya optimize etmek istediğinde kullan. Ayrıca kullanıcı \"exit intent\", \"popup conversions\", \"modal optimization\", \"lead capture popup\", \"email popup\", \"announcement banner\" veya \"overlay\" dediğinde de kullan. Açılır pencereler dışındaki formlar için form-cro'ya; genel sayfa dönüşüm optimizasyonu için page-cro'ya bakın."
 license: MIT
 metadata:
   version: 1.0.0

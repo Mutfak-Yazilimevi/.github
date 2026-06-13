@@ -1,6 +1,6 @@
 ---
 name: codeium-ui-skills
-description: Codeium's UI design system. Use when building interfaces inspired by Codeium's aesthetic - dark mode, Inter font, 4px grid.
+description: "Codeium'un UI tasarım sistemi. Codeium estetiğinden ilham alan arayüzler oluştururken kullan — koyu mod, Inter fontu, 4px ızgara."
 license: MIT
 metadata:
   author: design-skills

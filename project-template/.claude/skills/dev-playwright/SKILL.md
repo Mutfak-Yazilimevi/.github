@@ -1,6 +1,6 @@
 ---
 name: "playwright"
-description: "Use when the task requires automating a real browser from the terminal (navigation, form filling, snapshots, screenshots, data extraction, UI-flow debugging) via `playwright-cli` or the bundled wrapper script."
+description: "Görev `playwright-cli` veya paketlenmiş sarmalayıcı betik aracılığıyla terminalden gerçek bir tarayıcıyı otomatikleştirmeyi (gezinme, form doldurma, anlık görüntüler, ekran görüntüleri, veri çıkarma, UI akışı hata ayıklama) gerektirdiğinde kullan."
 ---
 
 

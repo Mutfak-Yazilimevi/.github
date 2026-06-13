@@ -1,8 +1,6 @@
 ---
 name: implementing-zero-standing-privilege-with-cyberark
-description: Deploy CyberArk Secure Cloud Access to eliminate standing privileges
-  in hybrid and multi-cloud environments using just-in-time access with time, entitlement,
-  and approval controls.
+description: "Kalıcı ayrıcalıkları ortadan kaldırmak için CyberArk Secure Cloud Access dağıt"
 domain: cybersecurity
 subdomain: identity-access-management
 tags:

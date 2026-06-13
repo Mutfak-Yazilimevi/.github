@@ -1,6 +1,6 @@
 ---
 name: "cro-advisor"
-description: "Revenue leadership for B2B SaaS companies. Revenue forecasting, sales model design, pricing strategy, net revenue retention, and sales team scaling. Use when designing the revenue engine, setting quotas, modeling NRR, evaluating pricing, building board forecasts, or when user mentions CRO, chief revenue officer, revenue strategy, sales model, ARR growth, NRR, expansion revenue, churn, pricing strategy, or sales capacity."
+description: "B2B SaaS şirketleri için gelir liderliği. Gelir tahmini, satış modeli tasarımı, fiyatlandırma stratejisi, net gelir elde tutma ve satış ekibi ölçeklendirme. Gelir motorunu tasarlarken, kotalar belirlerken, NRR modellerken, fiyatlandırmayı değerlendirirken, yönetim kurulu tahminleri oluştururken veya kullanıcı CRO, chief revenue officer, revenue strategy, satış modeli, ARR büyümesi, NRR, expansion revenue, churn, fiyatlandırma stratejisi veya satış kapasitesinden bahsettiğinde kullan."
 license: MIT
 metadata:
   version: 1.0.0

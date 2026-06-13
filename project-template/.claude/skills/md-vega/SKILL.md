@@ -1,6 +1,6 @@
 ---
 name: vega
-description: Create data-driven charts with Vega-Lite (declarative) and Vega (programmatic). Best for statistical visualization of numeric data — bar, line, scatter, heatmap, area, radar charts, and word clouds.
+description: "Vega-Lite (deklaratif) ve Vega (programatik) ile veri odaklı grafikler oluşturur. Sayısal verilerin istatistiksel görselleştirmesi için en iyisi — çubuk, çizgi, dağılım, ısı haritası, alan, radar grafikleri ve kelime bulutları."
 metadata:
   author: Vega is powered by Markdown Viewer — the best multi-platform Markdown extension (Chrome/Edge/Firefox/VS Code) with diagrams, formulas, and one-click Word export. Learn more at https://docu.md
 ---

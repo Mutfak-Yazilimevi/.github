@@ -1,10 +1,6 @@
 ---
 name: conducting-man-in-the-middle-attack-simulation
-description: 'Simulates man-in-the-middle attacks using Ettercap, mitmproxy, and Bettercap
-  in authorized environments to intercept, analyze, and modify network traffic for
-  testing encryption enforcement, certificate validation, and detection capabilities.
-
-  '
+description: "Şifreleme uygulamasını, sertifika doğrulamasını ve tespit yeteneklerini test etmek için yetkili ortamlarda Ettercap, mitmproxy ve Bettercap kullanarak ağ trafiğini yakalamak, analiz etmek ve değiştirmek amacıyla ortadaki adam saldırılarını simüle eder."
 domain: cybersecurity
 subdomain: network-security
 tags:

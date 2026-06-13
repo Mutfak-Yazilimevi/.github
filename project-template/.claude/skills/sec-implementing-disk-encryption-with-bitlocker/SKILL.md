@@ -1,13 +1,6 @@
 ---
 name: implementing-disk-encryption-with-bitlocker
-description: 'Implements full disk encryption using Microsoft BitLocker on Windows
-  endpoints to protect data at rest from unauthorized access in case of device loss
-  or theft. Use when deploying encryption for compliance requirements, securing mobile
-  workstations, or implementing data protection controls across the enterprise. Activates
-  for requests involving BitLocker encryption, disk encryption, TPM configuration,
-  or data-at-rest protection.
-
-  '
+description: "Cihaz kaybı veya hırsızlık durumunda yetkisiz erişime karşı beklemedeki verileri korumak amacıyla Windows uç noktalarında Microsoft BitLocker kullanarak tam disk şifreleme uygular. Uyumluluk gereksinimleri için şifreleme dağıtırken, mobil iş istasyonlarını güvence altına alırken veya kuruluş genelinde veri koruma denetimleri uygularken kullan. BitLocker şifreleme, disk şifreleme, TPM yapılandırma veya beklemedeki veri koruma içeren istekler için etkinleşir."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

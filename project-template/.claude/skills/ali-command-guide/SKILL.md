@@ -1,15 +1,6 @@
 ---
 name: "command-guide"
-description: >
-  Claude Code Command Selection Guide - Automatically recommend and select the right
-  commands, agents, and skills in Claude Code.
-  Use when: (1) user is unsure which command or tool to use, (2) needs to decide which
-  agent/skill best fits the current task, (3) querying usage scenarios for /plan, /tdd,
-  /compact, /loop and other commands, (4) understanding when to invoke planner,
-  code-reviewer, build-error-resolver and other agents, (5) needs command cheat sheet
-  or decision flowchart.
-  Triggers: "which command to use", "which agent", "command selection", "how to use /plan",
-  "when to use /compact", "agent selection guide", "command cheat sheet", "skill recommendation".
+description: "Claude Code Komut Seçim Rehberi — Claude Code'daki doğru komutları, ajanları ve skill'leri otomatik olarak önerir ve seçer. Şunlar için kullan: (1) kullanıcı hangi komutu veya aracı kullanacağından emin değil, (2) mevcut göreve en uygun ajan/skill'e karar verme, (3) /plan, /tdd, /compact, /loop ve diğer komutların kullanım senaryolarını sorgulama, (4) planner, code-reviewer, build-error-resolver ve diğer ajanları ne zaman çağıracağını anlama, (5) komut hızlı başvurusu veya karar akış şemasına ihtiyaç duyma. Tetikleyiciler: 'hangi komutu kullanayım', 'hangi ajan', 'komut seçimi', '/plan nasıl kullanılır', '/compact ne zaman kullanılır', 'ajan seçim rehberi', 'komut hızlı başvurusu', 'skill önerisi'"
 ---
 
 # Claude Code Command Selection Guide

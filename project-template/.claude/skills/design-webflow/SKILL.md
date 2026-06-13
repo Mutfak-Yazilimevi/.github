@@ -1,6 +1,6 @@
 ---
 name: webflow-ui-skills
-description: Webflow's UI design system. Use when building interfaces inspired by Webflow's aesthetic - dark mode, Inter font, 4px grid.
+description: "Webflow UI tasarım sistemi. Webflow estetiğinden ilham alan arayüzler oluştururken kullan — koyu mod, Inter font, 4px grid."
 license: MIT
 metadata:
   author: design-skills

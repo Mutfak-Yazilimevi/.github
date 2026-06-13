@@ -1,9 +1,6 @@
 ---
 name: "coverage"
-description: >-
-  Analyze test coverage gaps. Use when user says "test coverage",
-  "what's not tested", "coverage gaps", "missing tests", "coverage report",
-  or "what needs testing".
+description: "Test kapsam boşluklarını analiz eder. Kullanıcı \"test coverage\", \"neyin test edilmediği\", \"kapsam boşlukları\", \"eksik testler\", \"kapsam raporu\" veya \"nelerin test edilmesi gerekiyor\" dediğinde kullan."
 ---
 
 # Analyze Test Coverage Gaps

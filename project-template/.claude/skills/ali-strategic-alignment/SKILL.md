@@ -1,6 +1,6 @@
 ---
 name: "strategic-alignment"
-description: "Cascades strategy from boardroom to individual contributor. Detects and fixes misalignment between company goals and team execution. Covers strategy articulation, cascade mapping, orphan goal detection, silo identification, communication gap analysis, and realignment protocols. Use when teams are pulling in different directions, OKRs don't connect, departments optimize locally at company expense, or when user mentions alignment, strategy cascade, silo, conflicting OKRs, or strategy communication."
+description: "Stratejiyi yönetim kurulundan bireysel katkıda bulunanlara kadar basamaklandırır. Şirket hedefleri ile ekip uygulaması arasındaki hizalanma sorunlarını tespit eder ve düzeltir. Strateji ifadesi, basamak haritalama, sahipsiz hedef tespiti, silo belirleme, iletişim boşluğu analizi ve yeniden hizalama protokollerini kapsar. Ekipler farklı yönlere çekiştiğinde, OKR'lar bağlantı kurmadığında, departmanlar şirket pahasına yerel optimizasyon yaptığında veya kullanıcı hizalanma, strateji basamaklandırma, silo, çakışan OKR'lar ya da strateji iletişiminden bahsettiğinde kullan."
 license: MIT
 metadata:
   version: 1.0.0

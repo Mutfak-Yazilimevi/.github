@@ -1,6 +1,6 @@
 ---
 name: convertkit-ui-skills
-description: Convertkit's UI design system. Use when building interfaces inspired by Convertkit's aesthetic - light mode, Inter font, 4px grid.
+description: "Convertkit'in UI tasarım sistemi. Convertkit estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter font, 4px grid."
 license: MIT
 metadata:
   author: design-skills

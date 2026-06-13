@@ -1,8 +1,6 @@
 ---
 name: ios-application-dev
-description: |
-  iOS application development guide covering UIKit, SnapKit, and SwiftUI. Includes touch targets, safe areas, navigation patterns, Dynamic Type, Dark Mode, accessibility, collection views, common UI components, and SwiftUI design guidelines. For detailed references on specific topics, see the reference files.
-  Use when: developing iOS apps, implementing UI, reviewing iOS code, working with UIKit/SnapKit/SwiftUI layouts, building iPhone interfaces, Swift mobile development, Apple HIG compliance, iOS accessibility implementation.
+description: "UIKit, SnapKit ve SwiftUI'yi kapsayan iOS uygulama geliştirme kılavuzu. Dokunma hedefleri, güvenli alanlar, gezinme kalıpları, Dynamic Type, Dark Mode, erişilebilirlik, koleksiyon görünümleri, yaygın UI bileşenleri ve SwiftUI tasarım yönergelerini içerir. Şu durumlarda kullan: iOS uygulamaları geliştirme, UI uygulama, iOS kodunu inceleme, UIKit/SnapKit/SwiftUI düzenleriyle çalışma, iPhone arayüzleri oluşturma, Swift mobil geliştirme, Apple HIG uyumluluğu, iOS erişilebilirlik uygulaması."
 license: MIT
 metadata:
   author: MiniMax-OpenSource

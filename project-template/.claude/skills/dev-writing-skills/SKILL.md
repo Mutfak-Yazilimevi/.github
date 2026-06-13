@@ -1,6 +1,6 @@
 ---
 name: writing-skills
-description: Use when creating new skills, editing existing skills, or verifying skills work before deployment
+description: "Yeni skill'ler oluştururken, mevcut skill'leri düzenlerken veya skill'lerin dağıtım öncesi çalıştığını doğrularken kullan."
 ---
 
 # Writing Skills

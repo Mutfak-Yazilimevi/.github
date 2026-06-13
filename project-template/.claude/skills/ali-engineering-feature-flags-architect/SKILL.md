@@ -1,6 +1,6 @@
 ---
 name: engineering-feature-flags-architect
-description: Use when adding, retiring, or auditing feature flags. Triggers on "add a flag", "ship behind a flag", "rollout plan", "kill switch", "stale flags", "flag debt", "LaunchDarkly", "GrowthBook", "Statsig", "Unleash", "Flipt", or any progressive-delivery question. Ships flag debt scanner, rollout planner, and kill-switch auditor (all stdlib Python), 4 references on flag taxonomy + provider trade-offs + rollout strategies + lifecycle, plus a /flag-cleanup slash command.
+description: "Özellik bayrağı eklerken, devre dışı bırakırken veya denetlerken kullan. \"add a flag\", \"ship behind a flag\", \"rollout plan\", \"kill switch\", \"stale flags\", \"flag debt\", \"LaunchDarkly\", \"GrowthBook\", \"Statsig\", \"Unleash\", \"Flipt\" veya herhangi bir aşamalı dağıtım sorusunda tetiklenir. Flag borcu tarayıcısı, dağıtım planlayıcısı ve kill-switch denetçisi (tümü stdlib Python), flag taksonomisi + sağlayıcı karşılaştırması + dağıtım stratejileri + yaşam döngüsü üzerine 4 referans ve bir /flag-cleanup slash komutu içerir."
 context: fork
 version: 2.9.0
 author: claude-code-skills

@@ -1,6 +1,6 @@
 ---
 name: shopify-ui-skills
-description: Shopify's UI design system. Use when building interfaces inspired by Shopify's aesthetic - light mode, Inter font, 4px grid.
+description: "Shopify'ın UI tasarım sistemi. Shopify estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter font, 4px grid."
 license: MIT
 metadata:
   author: design-skills

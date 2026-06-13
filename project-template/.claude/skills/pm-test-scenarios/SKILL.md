@@ -1,6 +1,6 @@
 ---
 name: test-scenarios
-description: "Create comprehensive test scenarios from user stories with test objectives, starting conditions, user roles, step-by-step actions, and expected outcomes. Use when writing QA test cases, creating test plans, defining acceptance tests, or preparing for feature validation."
+description: "Test hedefleri, başlangıç koşulları, kullanıcı rolleri, adım adım eylemler ve beklenen sonuçlarla kullanıcı hikayelerinden kapsamlı test senaryoları oluşturur. QA test senaryoları yazarken, test planları oluştururken, kabul testleri tanımlarken veya özellik doğrulamasına hazırlanırken kullan."
 ---
 # Test Scenarios
 

@@ -1,8 +1,6 @@
 ---
 name: hunting-for-dns-based-persistence
-description: Hunt for DNS-based persistence mechanisms including DNS hijacking, dangling
-  CNAME records, wildcard DNS abuse, and unauthorized zone modifications using passive
-  DNS databases, SecurityTrails API, and DNS audit log analysis.
+description: "DNS ele geçirme, sarkan kayıtlar ve diğer yöntemler dahil DNS tabanlı kalıcılık mekanizmalarını avla."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

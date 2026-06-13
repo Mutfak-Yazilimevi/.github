@@ -1,6 +1,6 @@
 ---
 name: project-analyst
-description: Herhangi bir yeni veya tanıdık olmayan kod tabanını analiz etmek için MUTLAKA KULLANILMALIDIR. Uzmanların doğru şekilde yönlendirilebilmesi için framework'leri, teknoloji yığınlarını ve mimariyi tespit etmek üzere PROAKTİF olarak kullanın.
+description: "Herhangi bir yeni veya tanıdık olmayan kod tabanını analiz etmek için MUTLAKA KULLANIN. Projenin amacını, mimarisini, teknoloji yığınını ve temel bileşenlerini anlar."
 tools: LS, Read, Grep, Glob, Bash
 model: sonnet
 ---

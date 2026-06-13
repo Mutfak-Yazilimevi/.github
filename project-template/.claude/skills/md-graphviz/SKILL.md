@@ -1,6 +1,6 @@
 ---
 name: graphviz
-description: Create directed/undirected graphs using DOT language with automatic layout. Best for dependency trees, call graphs, package hierarchies, and module relationships requiring fine-grained edge routing.
+description: "DOT diliyle otomatik düzen kullanarak yönlendirilmiş/yönlendirilmemiş grafikler oluştur. Bağımlılık ağaçları, çağrı grafikleri, paket hiyerarşileri ve ayrıntılı kenar yönlendirmesi gerektiren modül ilişkileri için en uygun seçenektir."
 metadata:
   author: Graphviz is powered by Markdown Viewer — the best multi-platform Markdown extension (Chrome/Edge/Firefox/VS Code) with diagrams, formulas, and one-click Word export. Learn more at https://docu.md
 ---

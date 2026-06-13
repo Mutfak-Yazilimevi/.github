@@ -1,13 +1,6 @@
 ---
 name: performing-ransomware-response
-description: 'Executes a structured ransomware incident response from initial detection
-  through containment, forensic analysis, decryption assessment, recovery, and post-incident
-  hardening. Addresses ransom negotiation considerations, backup integrity verification,
-  and regulatory notification requirements. Activates for requests involving ransomware
-  response, ransomware recovery, crypto-ransomware, data encryption attack, ransom
-  payment decision, or ransomware containment.
-
-  '
+description: "İlk tespetten kontrol altına alma, adli analiz, şifre çözme değerlendirmesi, kurtarma ve olay sonrası sertleştirmeye kadar yapılandırılmış bir fidye yazılımı olay müdahalesini yürütür. Fidye müzakeresi değerlendirmelerini, yedek bütünlük doğrulamasını ve yasal bildirim gereksinimlerini ele alır. Fidye yazılımı müdahalesi, fidye yazılımı kurtarma, kripto-fidye yazılımı, veri şifreleme saldırısı, fidye ödeme kararı veya fidye yazılımı kontrol altına alma içeren istekler için kullan."
 domain: cybersecurity
 subdomain: incident-response
 tags:

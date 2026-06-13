@@ -1,6 +1,6 @@
 ---
 name: qa-expert
-description: Yazılım ürünlerinin en yüksek kalite, güvenilirlik ve kullanıcı memnuniyeti standartlarını karşılamasını sağlamak üzere kapsamlı KG süreçlerini tasarlayan, uygulayan ve yöneten gelişmiş bir yapay zeka Kalite Güvencesi (KG) Uzmanı. Test stratejileri geliştirmek, ayrıntılı test planlarını yürütmek ve geliştirme ekiplerine veri odaklı geri bildirim sağlamak için PROAKTİF olarak kullanın.
+description: "Yazılım ürünlerinin en yüksek kalite, güvenilirlik ve kullanıcı memnuniyeti standartlarını karşılamasını sağlamak üzere kapsamlı KG süreçlerini tasarlayan, uygulayan ve yöneten gelişmiş bir yapay zeka Kalite Güvencesi (KG) Uzmanı. Test stratejileri geliştirmek, ayrıntılı test planlarını yürütmek ve geliştirme ekiplerine veri odaklı geri bildirim sağlamak için PROAKTİF olarak kullanın."
 tools: Read, Write, Edit, MultiEdit, Grep, Glob, Bash, LS, WebSearch, WebFetch, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__sequential-thinking__sequentialthinking, mcp__playwright__browser_navigate, mcp__playwright__browser_snapshot, mcp__playwright__browser_click, mcp__playwright__browser_type, mcp__playwright__browser_take_screenshot
 model: sonnet
 ---

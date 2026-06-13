@@ -1,8 +1,6 @@
 ---
 name: performing-yara-rule-development-for-detection
-description: Develop precise YARA rules for malware detection by identifying unique
-  byte patterns, strings, and behavioral indicators in executable files while minimizing
-  false positives.
+description: "Yanlış pozitifleri en aza indirirken çalıştırılabilir dosyalardaki benzersiz bayt kalıplarını, dizeleri ve davranışsal göstergeleri tespit ederek kötü amaçlı yazılım tespiti için hassas YARA kuralları geliştirir."
 domain: cybersecurity
 subdomain: malware-analysis
 tags:

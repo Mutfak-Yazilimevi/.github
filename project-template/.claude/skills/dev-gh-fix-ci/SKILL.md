@@ -1,6 +1,6 @@
 ---
 name: "gh-fix-ci"
-description: "Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub Actions; use `gh` to inspect checks and logs, summarize failure context, draft a fix plan, and implement only after explicit approval. Treat external providers (for example Buildkite) as out of scope and report only the details URL."
+description: "Kullanıcı GitHub Actions'ta çalışan başarısız GitHub PR kontrollerini hata ayıklamak veya düzeltmek istediğinde kullan; kontrolleri ve günlükleri incelemek için `gh` kullan, hata bağlamını özetle, bir düzeltme planı hazırla ve yalnızca açık onaydan sonra uygula. Harici sağlayıcıları (örneğin Buildkite) kapsam dışı olarak değerlendir ve yalnızca ayrıntılar URL'sini raporla."
 ---
 
 

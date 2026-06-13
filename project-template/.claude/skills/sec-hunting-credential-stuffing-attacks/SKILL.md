@@ -1,12 +1,6 @@
 ---
 name: hunting-credential-stuffing-attacks
-description: 'Detects credential stuffing attacks by analyzing authentication logs
-  for login velocity anomalies, ASN diversity, password spray patterns, and geographic
-  distribution of failed logins. Uses statistical analysis on Splunk or raw log data.
-  Use when investigating account takeover campaigns or building detection rules for
-  auth abuse.
-
-  '
+description: "Giriş hızı anomalileri, ASN çeşitliliği, parola spreyI kalıpları ve başarısız girişlerin coğrafi dağılımı için kimlik doğrulama günlüklerini analiz ederek credential stuffing saldırılarını tespit eder. Splunk veya ham günlük verilerinde istatistiksel analiz kullanır. Hesap ele geçirme kampanyalarını araştırırken veya kimlik doğrulama kötüye kullanımı için tespit kuralları oluştururken kullanın."
 domain: cybersecurity
 subdomain: security-operations
 tags:

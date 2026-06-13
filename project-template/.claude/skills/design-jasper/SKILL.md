@@ -1,6 +1,6 @@
 ---
 name: jasper-ui-skills
-description: Jasper's UI design system. Use when building interfaces inspired by Jasper's aesthetic - light mode, Inter font, 4px grid.
+description: "Jasper'ın UI tasarım sistemi. Jasper estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter font, 4px grid."
 license: MIT
 metadata:
   author: design-skills

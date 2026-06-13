@@ -1,6 +1,6 @@
 ---
 name: gtm-motions
-description: "Identify the best GTM motions and tools across 7 motion types: Inbound, Outbound, Paid Digital, Community, Partners, ABM, and PLG. Use when selecting marketing channels, choosing between inbound and outbound strategy, or planning cross-channel campaigns."
+description: "7 hareket türünde en iyi GTM hareketlerini ve araçlarını belirle: Inbound, Outbound, Paid Digital, Community, Partners, ABM ve PLG. Pazarlama kanalları seçerken, inbound ve outbound strateji arasında karar verirken veya çok kanallı kampanyalar planlarken kullan."
 ---
 # GTM Motions
 

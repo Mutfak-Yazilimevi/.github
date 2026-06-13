@@ -1,6 +1,6 @@
 ---
 name: design-system
-description: Captures the user's brand identity once via a 10-question onboarding wizard (primary/accent HEX + heading + body Google Fonts + design style editorial/technical/minimal/playful + default output directory + syntax theme + TOC behavior + optional logo/company), validates body-text and link contrast against WCAG 2.2 AA, derives 12 CSS custom properties in HSL space, and stores the result for every markdown-html converter to consume. Use before any markdown-html conversion. Triggers on first-run onboarding ("set up the brand", "configure markdown-html", "run onboarding"), on explicit reset ("reset the design system", "re-onboard"), and is checked by every converter via config_loader.py before rendering. Refuses to save if body-text contrast fails AA 4.5:1 or the output dir isn't writable. Precedence: project (./.markdown-html/) > global (~/.config/markdown-html/) > built-in defaults; MARKDOWN_HTML_NO_CONFIG=1 bypasses.
+description: "Kullanıcının marka kimliğini 10 soruluk bir ekleme sihirbazıyla bir kez yakalar (birincil/vurgu HEX + başlık + gövde Google Fonts + tasarım stili editorial/technical/minimal/playful + varsayılan çıktı dizini + sözdizim teması + TOC davranışı + isteğe bağlı logo/şirket), gövde metni ve bağlantı kontrastını WCAG 2.2 AA'ya göre doğrular, HSL uzayında 12 CSS özel özelliği türetir ve sonucu her markdown-html dönüştürücüsünün kullanması için saklar. Herhangi bir markdown-html dönüşümünden önce kullan."
 version: 2.10.0
 author: Alireza Rezvani
 license: MIT

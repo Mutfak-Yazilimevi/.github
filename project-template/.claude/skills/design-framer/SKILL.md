@@ -1,6 +1,6 @@
 ---
 name: framer-ui-skills
-description: Framer's UI design system. Use when building interfaces inspired by Framer's aesthetic - dark mode, Inter font, 4px grid.
+description: "Framer'ın UI tasarım sistemi. Framer'ın estetiğinden ilham alan arayüzler oluştururken kullan — karanlık mod, Inter yazı tipi, 4px ızgara."
 license: MIT
 metadata:
   author: design-skills

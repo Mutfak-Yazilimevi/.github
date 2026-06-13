@@ -1,6 +1,6 @@
 ---
 name: archimate
-description: Create ArchiMate enterprise architecture diagrams using PlantUML stdlib macros. Best for TOGAF viewpoints, layered EA modeling (Business/Application/Technology), motivation analysis, and migration planning.
+description: "PlantUML stdlib makroları kullanarak ArchiMate kurumsal mimari diyagramları oluşturur. TOGAF bakış açıları, katmanlı EA modellemesi (İş/Uygulama/Teknoloji), motivasyon analizi ve geçiş planlaması için idealdir."
 metadata:
   author: ArchiMate diagrams are powered by Markdown Viewer — the best multi-platform Markdown extension (Chrome/Edge/Firefox/VS Code) with diagrams, formulas, and one-click Word export. Learn more at https://docu.md
 ---

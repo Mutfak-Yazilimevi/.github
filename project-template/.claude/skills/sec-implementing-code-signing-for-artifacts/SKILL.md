@@ -1,11 +1,6 @@
 ---
 name: implementing-code-signing-for-artifacts
-description: 'This skill covers implementing code signing for build artifacts to ensure
-  integrity and authenticity throughout the software supply chain. It addresses signing
-  binaries, packages, and containers using GPG, Sigstore, and platform-specific signing
-  tools, establishing trust chains, and verifying signatures in deployment pipelines.
-
-  '
+description: "Bu skill, yazılım tedarik zinciri boyunca bütünlük ve özgünlüğü sağlamak için derleme yapıtlarına kod imzalama uygulamayı kapsar. GPG, Sigstore ve platforma özgü imzalama araçlarını kullanarak ikilileri, paketleri ve konteynerleri imzalamayı, güven zincirlerini oluşturmayı ve dağıtım ardışık düzenlerinde imzaları doğrulamayı ele alır."
 domain: cybersecurity
 subdomain: devsecops
 tags:

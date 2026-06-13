@@ -1,6 +1,6 @@
 ---
 name: context-engineering
-description: Optimizes agent context setup. Use when starting a new session, when agent output quality degrades, when switching between tasks, or when you need to configure rules files and context for a project.
+description: "Ajan bağlamı kurulumunu optimize eder. Yeni bir oturum başlarken, ajan çıktı kalitesi düştüğünde, görevler arasında geçiş yaparken veya bir proje için kural dosyalarını ve bağlamı yapılandırmanız gerektiğinde kullan."
 ---
 
 # Context Engineering

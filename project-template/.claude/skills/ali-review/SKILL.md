@@ -1,6 +1,6 @@
 ---
 name: "review"
-description: "Analyze auto-memory for promotion candidates, stale entries, consolidation opportunities, and health metrics."
+description: "Promosyon adayları, eski girişler, birleştirme fırsatları ve sağlık metrikleri için otomatik belleği analiz eder"
 ---
 
 # /si:review — Analyze Auto-Memory

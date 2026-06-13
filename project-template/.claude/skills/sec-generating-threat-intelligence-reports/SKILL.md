@@ -1,14 +1,6 @@
 ---
 name: generating-threat-intelligence-reports
-description: 'Generates structured cyber threat intelligence reports at strategic,
-  operational, and tactical levels tailored to specific audiences including executives,
-  security operations teams, and technical analysts. Use when producing finished intelligence
-  products from raw collection data, creating sector threat briefings, or delivering
-  post-incident intelligence assessments. Activates for requests involving CTI report
-  writing, threat briefings, intelligence products, finished intelligence, or executive
-  security reporting.
-
-  '
+description: "Yöneticiler, güvenlik operasyon ekipleri ve teknik analistler dahil belirli kitlelere göre uyarlanmış stratejik, operasyonel ve taktik düzeylerde yapılandırılmış siber tehdit istihbarat raporları oluşturur. Ham toplama verilerinden tamamlanmış istihbarat ürünleri üretirken, sektör tehdit brifingleri oluştururken veya olay sonrası istihbarat değerlendirmeleri sunarken kullanın. CTI rapor yazımı, tehdit brifingleri, istihbarat ürünleri, tamamlanmış istihbarat veya yönetici güvenlik raporlaması içeren isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

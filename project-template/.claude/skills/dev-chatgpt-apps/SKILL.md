@@ -1,6 +1,6 @@
 ---
 name: chatgpt-apps
-description: Build, scaffold, refactor, and troubleshoot ChatGPT Apps SDK applications that combine an MCP server and widget UI. Use when Codex needs to design tools, register UI resources, wire the MCP Apps bridge or ChatGPT compatibility APIs, apply Apps SDK metadata or CSP or domain settings, or produce a docs-aligned project scaffold. Prefer a docs-first workflow by invoking the openai-docs skill or OpenAI developer docs MCP tools before generating code.
+description: "MCP sunucusunu ve widget UI'ını birleştiren ChatGPT Apps SDK uygulamaları oluşturur, iskelet kurar, yeniden düzenler ve sorun giderir. Codex'in araçlar tasarlaması, UI kaynakları kaydetmesi, MCP Apps köprüsünü veya ChatGPT uyumluluk API'larını bağlaması, Apps SDK meta verisini, CSP veya etki alanı ayarlarını uygulaması ya da belgelerle uyumlu bir proje iskeleti üretmesi gerektiğinde kullan. Kod oluşturmadan önce openai-docs becerisini veya OpenAI geliştirici belgeleri MCP araçlarını çağırarak belgeler öncelikli bir iş akışını tercih et."
 ---
 
 # ChatGPT Apps

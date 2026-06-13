@@ -1,6 +1,6 @@
 ---
 name: product-discovery
-description: Use when validating product opportunities, mapping assumptions, planning discovery sprints, or testing problem-solution fit before committing delivery resources.
+description: "Ürün fırsatlarını doğrularken, varsayımları haritalandırırken, keşif sprint'leri planlarken veya teslimat kaynaklarını taahhüt etmeden önce problem-çözüm uyumunu test ederken kullan."
 ---
 
 # Product Discovery

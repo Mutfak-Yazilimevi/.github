@@ -1,8 +1,6 @@
 ---
 name: detecting-privilege-escalation-attempts
-description: Detect privilege escalation attempts including token manipulation, UAC
-  bypass, unquoted service paths, kernel exploits, and sudo/doas abuse across Windows
-  and Linux.
+description: "Token manipülasyonu, UAC atlatma ve diğer yöntemler dahil yetki yükseltme girişimlerini tespit eder."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

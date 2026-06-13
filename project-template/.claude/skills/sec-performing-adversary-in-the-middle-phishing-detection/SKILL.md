@@ -1,8 +1,6 @@
 ---
 name: performing-adversary-in-the-middle-phishing-detection
-description: Detect and respond to Adversary-in-the-Middle (AiTM) phishing attacks
-  that use reverse proxy kits like EvilProxy, Evilginx, and Tycoon 2FA to bypass MFA
-  and steal session tokens.
+description: "Adversary-in-the-Middle (AiTM) kimlik avı saldırılarını tespit eder ve yanıt verir"
 domain: cybersecurity
 subdomain: phishing-defense
 tags:

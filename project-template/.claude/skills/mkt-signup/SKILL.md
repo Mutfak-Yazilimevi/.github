@@ -1,6 +1,6 @@
 ---
 name: signup
-description: When the user wants to optimize signup, registration, account creation, or trial activation flows. Also use when the user mentions "signup conversions," "registration friction," "signup form optimization," "free trial signup," "reduce signup dropoff," "account creation flow," "people aren't signing up," "signup abandonment," "trial conversion rate," "nobody completes registration," "too many steps to sign up," or "simplify our signup." Use this whenever the user has a signup or registration flow that isn't performing. For post-signup onboarding, see onboarding. For lead capture forms (not account creation), see cro.
+description: "Kullanıcı kayıt, hesap oluşturma veya deneme aktivasyon akışlarını optimize etmek istediğinde kullan. Ayrıca kullanıcı \"signup conversions\", \"registration friction\", \"signup form optimization\", \"free trial signup\", \"reduce signup dropoff\", \"account creation flow\", \"people aren't signing up\", \"signup abandonment\", \"trial conversion rate\", \"nobody completes registration\", \"too many steps to sign up\" veya \"simplify our signup\" dediğinde de kullan. Kayıt sonrası ekleme için onboarding'e; potansiyel müşteri yakalama formları (hesap oluşturma değil) için cro'ya bakın."
 metadata:
   version: 2.0.0
 ---

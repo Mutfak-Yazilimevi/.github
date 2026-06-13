@@ -1,6 +1,6 @@
 ---
 name: dotnet-architecture-selection
-description: Choose the right .NET application architecture — Monolithic, N-Tier, Clean (Onion), Vertical Slice, Microservices, CQRS, or Event-Driven — with concrete pros/cons and best-fit guidance. Use when starting a new .NET solution, evaluating an architecture change or migration, justifying a structural decision, or deciding how to combine patterns (e.g. Clean + Vertical Slice + CQRS).
+description: "Doğru .NET uygulama mimarisini seçer — Monolitik, N-Tier, Clean (Onion), Vertical Slice, Mikroservisler, CQRS veya Event-Driven — somut artılar/eksiler ve en uygun rehberlikle. Yeni bir .NET çözümüne başlarken, mimari değişiklik veya geçişi değerlendirirken, yapısal kararı gerekçelendirirken veya desenleri nasıl birleştireceğine karar verirken kullan (ör. Clean + Vertical Slice + CQRS)."
 ---
 
 # .NET Core — Architecture Selection

@@ -1,22 +1,6 @@
 ---
 name: migrate-mstest-v1v2-to-v3
-description: >
-  Migrate MSTest v1 or v2 test project to MSTest v3. Use when user says
-  "upgrade MSTest", "upgrade to MSTest v3", "migrate to MSTest v3",
-  "update test framework", "modernize tests", "MSTest v3 migration",
-  "MSTest compatibility", "MSTest v2 to v3", or build errors after
-  updating MSTest packages from 1.x/2.x to 3.x.
-  USE FOR: upgrading from MSTest v1 assembly references
-  (Microsoft.VisualStudio.QualityTools.UnitTestFramework) or MSTest v2 NuGet
-  (MSTest.TestFramework 1.x-2.x) to MSTest v3, fixing assertion overload
-  errors (AreEqual/AreNotEqual), updating DataRow constructors, replacing
-  .testsettings with .runsettings, timeout behavior changes, target framework
-  compatibility (.NET 5 dropped -- use .NET 6+; .NET Fx older than 4.6.2 dropped),
-  adopting MSTest.Sdk.
-  First step toward MSTest v4 -- after this, use migrate-mstest-v3-to-v4.
-  DO NOT USE FOR: migrating to MSTest v4 (use migrate-mstest-v3-to-v4),
-  migrating between frameworks (MSTest to xUnit/NUnit), or general .NET
-  upgrades unrelated to MSTest.
+description: "MSTest v1 veya v2 test projesini MSTest v3'e taşır. Kullanıcı \"upgrade MSTest\", \"upgrade to MSTest v3\", \"migrate to MSTest v3\", \"update test framework\", \"modernize tests\", \"MSTest v3 migration\", \"MSTest compatibility\", \"MSTest v2 to v3\" dediğinde ya da MSTest paketlerini 1.x/2.x'ten 3.x'e güncelledikten sonra derleme hataları aldığında kullan. ŞU DURUMLAR İÇİN KULLAN: MSTest v1 derleme referanslarından (Microsoft.VisualStudio.QualityTools.UnitTestFramework) veya MSTest v2 NuGet'ten (MSTest.TestFramework 1.x-2.x) MSTest v3'e yükseltme, assertion aşırı yükleme hatalarını düzeltme (AreEqual/AreNotEqual), DataRow kurucularını güncelleme, .testsettings'i .runsettings ile değiştirme, timeout davranışı değişiklikleri, hedef framework uyumluluğu (.NET 5 kaldırıldı -- .NET 6+ kullan; 4.6.2'den eski .NET Fx kaldırıldı), MSTest.Sdk benimseme. MSTest v4'e geçişin ilk adımı — bundan sonra migrate-mstest-v3-to-v4 kullan. ŞU DURUMLAR İÇİN KULLANMA: MSTest v4'e geçiş (migrate-mstest-v3-to-v4 kullan), framework değiştirme (MSTest'ten xUnit/NUnit'e geçiş), MSTest ile ilgisi olmayan genel .NET yükseltmeleri."
 license: MIT
 ---
 

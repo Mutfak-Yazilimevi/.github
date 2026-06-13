@@ -1,13 +1,6 @@
 ---
 name: collecting-indicators-of-compromise
-description: 'Systematically collects, categorizes, and distributes indicators of
-  compromise (IOCs) during and after security incidents to enable detection, blocking,
-  and threat intelligence sharing. Covers network, host, email, and behavioral indicators
-  using STIX/TAXII formats and threat intelligence platforms. Activates for requests
-  involving IOC collection, indicator extraction, threat indicator sharing, compromise
-  indicators, STIX export, or IOC enrichment.
-
-  '
+description: "Tespit, engelleme ve tehdit istihbaratı paylaşımını etkinleştirmek için güvenlik olayları sırasında ve sonrasında uzlaşma göstergelerini (IOC) sistematik biçimde toplar, kategorize eder ve dağıtır. STIX/TAXII formatlarını ve tehdit istihbaratı platformlarını kullanarak ağ, ana bilgisayar, e-posta ve davranışsal göstergeleri kapsar. IOC toplama, gösterge çıkarma, tehdit göstergesi paylaşımı, uzlaşma göstergeleri, STIX dışa aktarımı veya IOC zenginleştirmesine yönelik isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: incident-response
 tags:

@@ -1,6 +1,6 @@
 ---
 name: "financial-analyst"
-description: Performs financial ratio analysis, DCF valuation, budget variance analysis, and rolling forecast construction for strategic decision-making. Use when analyzing financial statements, building valuation models, assessing budget variances, or constructing financial projections and forecasts. Also applicable when users mention financial modeling, cash flow analysis, company valuation, financial projections, or spreadsheet analysis.
+description: "Stratejik karar alma için finansal oran analizi, DCF değerleme, bütçe sapma analizi ve yuvarlanan tahmin oluşturur. Finansal tabloları analiz ederken, değerleme modelleri inşa ederken, bütçe sapmalarını değerlendirirken veya finansal projeksiyonlar ve tahminler oluştururken kullan. Kullanıcılar finansal modelleme, nakit akışı analizi, şirket değerlemesi, finansal projeksiyonlar veya elektronik tablo analizi gibi konulardan bahsettiğinde de uygulanabilir."
 ---
 
 # Financial Analyst Skill

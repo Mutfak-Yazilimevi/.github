@@ -1,6 +1,6 @@
 ---
 name: "incident-commander"
-description: "Comprehensive incident response framework from detection through resolution and post-incident review. Battle-tested SRE/DevOps practices: severity classification, timeline reconstruction, structured post-incident analysis. Use when declaring an incident, coordinating multi-team response during an outage, leading a post-mortem, or setting up on-call practices for a new service."
+description: "Tespitden çözüme ve olay sonrası incelemeye kadar kapsamlı olay müdahale çerçevesi. Savaşta test edilmiş SRE/DevOps uygulamaları: önem sınıflandırması, zaman çizelgesi yeniden oluşturma, yapılandırılmış olay sonrası analiz. Olay ilan ederken, bir kesinti sırasında çok ekipli müdahaleyi koordine ederken, post-mortem yönetirken veya yeni bir servis için nöbet uygulamaları kurarken kullan."
 ---
 
 # Incident Commander Skill

@@ -1,6 +1,6 @@
 ---
 name: "content-strategy"
-description: "When the user wants to plan a content strategy, decide what content to create, or figure out what topics to cover. Also use when the user mentions \"content strategy,\" \"what should I write about,\" \"content ideas,\" \"blog strategy,\" \"topic clusters,\" or \"content planning.\" For writing individual pieces, see copywriting. For SEO-specific audits, see seo-audit."
+description: "Kullanıcı bir içerik stratejisi planlamak, ne tür içerik oluşturacağına karar vermek veya hangi konuları ele alacağını bulmak istediğinde kullan. Ayrıca kullanıcı \"içerik stratejisi\", \"ne hakkında yazmalıyım\", \"içerik fikirleri\", \"blog stratejisi\", \"konu kümeleri\" veya \"içerik planlama\" ifadelerinden bahsettiğinde de kullan. Bireysel parçalar yazmak için copywriting'e bak. SEO'ya özgü denetimler için seo-audit'e bak."
 license: MIT
 metadata:
   version: 1.0.0

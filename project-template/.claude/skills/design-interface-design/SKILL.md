@@ -1,6 +1,6 @@
 ---
 name: interface-design
-description: This skill is for interface design — dashboards, admin panels, apps, tools, and interactive products. NOT for marketing design (landing pages, marketing sites, campaigns).
+description: "Bu skill arayüz tasarımı içindir — dashboard'lar, yönetici panelleri, uygulamalar, araçlar ve etkileşimli ürünler. Pazarlama tasarımı (açılış sayfaları, pazarlama siteleri, kampanyalar) için değil."
 ---
 
 # Interface Design

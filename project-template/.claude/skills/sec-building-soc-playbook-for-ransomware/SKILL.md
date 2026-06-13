@@ -1,12 +1,6 @@
 ---
 name: building-soc-playbook-for-ransomware
-description: 'Builds a structured SOC incident response playbook for ransomware attacks
-  covering detection, containment, eradication, and recovery phases with specific
-  SIEM queries, isolation procedures, and decision trees. Use when SOC teams need
-  formalized response procedures for ransomware incidents aligned to NIST SP 800-61
-  and MITRE ATT&CK ransomware techniques.
-
-  '
+description: "Belirli SIEM sorguları, izolasyon prosedürleri ve karar ağaçlarıyla birlikte tespit, izolasyon, temizleme ve kurtarma aşamalarını kapsayan fidye yazılımı saldırıları için yapılandırılmış bir SOC olay müdahale playbook'u oluşturur. SOC ekiplerinin NIST SP 800-61 ve MITRE ATT&CK fidye yazılımı tekniklerine uyumlu fidye yazılımı olayları için resmileştirilmiş yanıt prosedürlerine ihtiyaç duyduğunda kullan."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

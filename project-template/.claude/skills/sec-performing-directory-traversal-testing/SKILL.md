@@ -1,7 +1,6 @@
 ---
 name: performing-directory-traversal-testing
-description: Testing web applications for path traversal vulnerabilities that allow
-  reading or writing arbitrary files on the server by manipulating file path parameters.
+description: "Dosya yolu parametrelerini manipüle ederek sunucuda rastgele dosya okuma veya yazmaya olanak tanıyan yol geçiş güvenlik açıkları için web uygulamalarını test eder."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

@@ -1,10 +1,6 @@
 ---
 name: design-style-skill
-description: >
-  Select a consistent visual design system for PPT slides using radius/spacing style recipes.
-  Use when users ask for overall style direction or component styling consistency.
-  Includes Sharp/Soft/Rounded/Pill recipes, component mappings, typography/spacing rules, and mixing guidance.
-  Triggers: 风格, style, radius, spacing, 圆角, 间距, PPT风格, 视觉风格, design style, component style.
+description: "Radius/boşluk stil tarifleri kullanarak PPT slaytları için tutarlı bir görsel tasarım sistemi seçer. Kullanıcılar genel stil yönü veya bileşen stil tutarlılığı istediğinde kullan. Sharp/Soft/Rounded/Pill tarifleri, bileşen eşlemeleri, tipografi/boşluk kuralları ve karıştırma kılavuzunu içerir. Tetikleyiciler: 风格, style, radius, spacing, 圆角, 间距, PPT风格, 视觉风格, design style, component style."
 ---
 
 # Style Recipes - PPT视觉风格系统

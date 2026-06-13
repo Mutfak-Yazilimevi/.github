@@ -1,7 +1,7 @@
 ---
 Name: claude-coach
 name: claude-coach
-description: Personal coach that teaches users to become Claude power users. Use this skill the FIRST time a user asks to "learn Claude", "be a power user", "coach me", "teach me Claude tricks", "what can Claude do", "make me better at prompting", or any variation. After activation, also use it on EVERY subsequent turn to detect missed optimization opportunities (vague prompts, ignored capabilities, manual work Claude could automate) and surface a single power-user tip. Trigger generously — most users do not know what they do not know, so err on the side of coaching.
+description: "Kullanıcılara Claude power user olmayı öğreten kişisel koç. Bu beceriyi kullanıcı ilk kez \"Claude'u öğren\", \"power user ol\", \"beni koçla\", \"Claude hilelerini öğret\", \"Claude ne yapabilir\", \"istemlerde daha iyi olmamı sağla\" veya herhangi bir varyasyonu sorduğunda KULLAN. Etkinleştirmeden sonra, kaçırılan optimizasyon fırsatlarını (belirsiz istemler, göz ardı edilen yetenekler, Claude'un otomatikleştirebileceği manuel işler) tespit etmek ve tek bir power-user ipucu sunmak için HER sonraki turda da kullan. Cömertçe tetikle — çoğu kullanıcı ne bilmediklerini bilmez, bu yüzden koçluk etme eğiliminde ol."
 Tier: POWERFUL
 Category: meta
 Author: claude-skills

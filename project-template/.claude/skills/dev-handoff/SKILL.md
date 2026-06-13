@@ -1,6 +1,6 @@
 ---
 name: handoff
-description: Compact the current conversation into a handoff document for another agent to pick up.
+description: "Mevcut konuşmayı başka bir ajanın devralması için devir belgesi hâline getirir."
 argument-hint: "What will the next session be used for?"
 ---
 

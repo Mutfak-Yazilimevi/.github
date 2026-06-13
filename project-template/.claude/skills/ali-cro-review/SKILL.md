@@ -1,6 +1,6 @@
 ---
 name: "cro-review"
-description: "/cs:cro-review <plan> — Pipeline-paranoid interrogation of revenue, win rate, NRR, and ramp time."
+description: "/cs:cro-review <plan> — Gelir, kazanma oranı, NRR ve rampa süresine yönelik boru hattı odaklı sorgulama."
 ---
 
 # /cs:cro-review — CRO Forcing Questions

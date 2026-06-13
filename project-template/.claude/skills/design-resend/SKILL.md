@@ -1,6 +1,6 @@
 ---
 name: resend-ui-skills
-description: Resend's UI design system. Use when building interfaces inspired by Resend's aesthetic - dark mode, Inter font, 4px grid.
+description: "Resend'in UI tasarım sistemi. Resend'in estetiğinden ilham alan arayüzler oluştururken kullan — karanlık mod, Inter yazı tipi, 4px grid."
 license: MIT
 metadata:
   author: design-skills

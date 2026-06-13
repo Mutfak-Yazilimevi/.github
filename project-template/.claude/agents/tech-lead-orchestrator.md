@@ -1,6 +1,6 @@
 ---
 name: tech-lead-orchestrator
-description: Karmaşık yazılım projelerini analiz eden ve stratejik öneriler sunan kıdemli teknik lider. Çok adımlı her geliştirme görevi, özellik uygulaması veya mimari karar için MUTLAKA KULLANILMALIDIR. Optimum ajan koordinasyonu için yapılandırılmış bulgular ve görev dökümleri döndürür.
+description: "Karmaşık yazılım projelerini analiz eden ve stratejik öneriler sunan kıdemli teknik lider orkestratörü."
 tools: Read, Grep, Glob, LS, Bash
 model: opus
 ---

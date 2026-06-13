@@ -1,8 +1,6 @@
 ---
 name: conducting-internal-network-penetration-test
-description: Execute an internal network penetration test simulating an insider threat
-  or post-breach attacker to identify lateral movement paths, privilege escalation
-  vectors, and sensitive data exposure within the corporate network.
+description: "İçeriden tehdit simülasyonu yaparak dahili ağ sızma testi gerçekleştir"
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

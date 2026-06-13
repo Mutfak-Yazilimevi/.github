@@ -1,8 +1,6 @@
 ---
 name: implementing-network-access-control-with-cisco-ise
-description: Deploy Cisco Identity Services Engine for 802.1X wired and wireless authentication,
-  MAC Authentication Bypass, posture assessment, and dynamic VLAN assignment for network
-  access control.
+description: "Ağ erişim denetimi için 802.1X kablolu ve kablosuz kimlik doğrulama, MAC Authentication Bypass, duruş değerlendirmesi ve dinamik VLAN ataması için Cisco Identity Services Engine dağıt."
 domain: cybersecurity
 subdomain: network-security
 tags:

@@ -1,6 +1,6 @@
 ---
 name: plaid-ui-skills
-description: Plaid's UI design system. Use when building interfaces inspired by Plaid's aesthetic - dark mode, Inter font, 4px grid.
+description: "Plaid'in UI tasarım sistemi. Plaid'in estetiğinden — karanlık mod, Inter font, 4px grid — ilham alarak arayüz oluştururken kullan."
 license: MIT
 metadata:
   author: design-skills

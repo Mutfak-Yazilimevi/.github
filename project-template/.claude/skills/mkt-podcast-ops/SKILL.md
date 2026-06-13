@@ -1,16 +1,6 @@
 ---
 name: podcast-pipeline
-description: >-
-  Podcast-to-Everything content pipeline. Takes a podcast RSS feed or raw
-  transcript and generates a full cross-platform content calendar: short-form
-  video clips, Twitter/X threads, LinkedIn articles, newsletter sections, quote
-  cards, blog outlines with SEO keywords, and YouTube Shorts/TikTok scripts.
-  Scores each piece by viral potential (novelty × controversy × utility) and
-  deduplicates against recent output. Use when asked to: "repurpose this podcast",
-  "turn this episode into content", "podcast content calendar", "extract clips
-  from this episode", "podcast to social", "content from RSS feed", "batch
-  process episodes", or any request to turn podcast/audio content into a
-  multi-platform content plan.
+description: "Podcast'ten-Her Şeye içerik işlem hattı. Bir podcast RSS beslemesi veya ham transkript alır ve tam bir çapraz platform içerik takvimi oluşturur: kısa form video klipleri, Twitter/X dizileri, LinkedIn makaleleri, bülten bölümleri, alıntı kartları, SEO anahtar kelimeleriyle blog ana hatları ve YouTube Shorts/TikTok senaryoları. Her parçayı viral potansiyele göre puanlar (yenilik × tartışma × fayda) ve son çıktıya karşı tekilleştirir. Şunlar istendiğinde kullan: \"bu podcast'i yeniden kullan\", \"bu bölümü içeriğe çevir\", \"podcast içerik takvimi\", \"bu bölümden klipler çıkar\", \"podcast'ten sosyal medyaya\", \"RSS beslemesinden içerik\", \"bölümleri toplu işle\" veya podcast/ses içeriğini çok platformlu bir içerik planına dönüştürme talebi."
 ---
 
 

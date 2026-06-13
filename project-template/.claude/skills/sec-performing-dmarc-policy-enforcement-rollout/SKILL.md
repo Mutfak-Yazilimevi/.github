@@ -1,8 +1,6 @@
 ---
 name: performing-dmarc-policy-enforcement-rollout
-description: Execute a phased DMARC rollout from p=none monitoring through p=quarantine
-  to p=reject enforcement, ensuring all legitimate email sources are authenticated
-  before blocking unauthorized senders.
+description: "Yetkisiz gönderenleri engellemeden önce tüm meşru e-posta kaynaklarının kimliğinin doğrulandığından emin olarak p=none izleme aşamasından p=quarantine aşaması üzerinden p=reject uygulama aşamasına aşamalı DMARC dağıtımı gerçekleştirir."
 domain: cybersecurity
 subdomain: phishing-defense
 tags:

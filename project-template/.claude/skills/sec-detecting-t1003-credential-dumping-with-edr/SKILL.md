@@ -1,8 +1,6 @@
 ---
 name: detecting-t1003-credential-dumping-with-edr
-description: Detect OS credential dumping techniques targeting LSASS memory, SAM database,
-  NTDS.dit, and cached credentials using EDR telemetry, Sysmon process access monitoring,
-  and Windows security event correlation.
+description: "LSASS belleğini, SAM veritabanını ve diğer kaynakları hedef alan T1003 işletim sistemi kimlik bilgisi dökme tekniklerini EDR ile tespit eder"
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

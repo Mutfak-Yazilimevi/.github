@@ -1,6 +1,6 @@
 ---
 name: "iso27001-audit-prep"
-description: "/cs:iso27001-audit-prep <scope> — ISO 27001 ISMS audit readiness 6-question forcing interrogation. Use before annual Clause 9.2 internal audit, surveillance audit prep, or stage 1 certification readiness."
+description: "/cs:iso27001-audit-prep <kapsam> — ISO 27001 ISMS denetim hazırlığı için 6 soruluk zorlayıcı sorgulama. Yıllık Madde 9.2 iç denetim, gözetim denetimi hazırlığı veya aşama 1 sertifikasyon hazırlığından önce kullan."
 ---
 
 # /cs:iso27001-audit-prep — ISO 27001 ISMS Audit Forcing Questions

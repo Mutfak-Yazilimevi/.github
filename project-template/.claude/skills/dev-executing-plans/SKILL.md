@@ -1,6 +1,6 @@
 ---
 name: executing-plans
-description: Use when you have a written implementation plan to execute in a separate session with review checkpoints
+description: "İnceleme kontrol noktalarıyla ayrı bir oturumda yürütülecek yazılı bir uygulama planın olduğunda kullan"
 ---
 
 # Executing Plans

@@ -1,6 +1,6 @@
 ---
 name: "tc-tracker"
-description: "Use when the user asks to track technical changes, create change records, manage TC lifecycles, or hand off work between AI sessions. Covers init/create/update/status/resume/close/export workflows for structured code change documentation."
+description: "Kullanıcı teknik değişiklikleri takip etmek, değişiklik kayıtları oluşturmak, TC yaşam döngülerini yönetmek veya AI oturumları arasında iş devretmek istediğinde kullan. Yapılandırılmış kod değişikliği belgelendirmesi için init/create/update/status/resume/close/export iş akışlarını kapsar."
 ---
 
 # TC Tracker

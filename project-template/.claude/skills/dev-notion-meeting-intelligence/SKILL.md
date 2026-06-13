@@ -1,6 +1,6 @@
 ---
 name: notion-meeting-intelligence
-description: Prepare meeting materials with Notion context and Codex research; use when gathering context, drafting agendas/pre-reads, and tailoring materials to attendees.
+description: "Notion bağlamı ve Codex araştırmasıyla toplantı materyalleri hazırlar; bağlam toplarken, gündem/ön okuma taslakları hazırlarken ve materyalleri katılımcılara göre uyarlarken kullan."
 metadata:
   short-description: Prep meetings with Notion context and tailored agendas
 ---

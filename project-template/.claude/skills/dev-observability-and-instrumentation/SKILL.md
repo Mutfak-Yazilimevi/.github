@@ -1,6 +1,6 @@
 ---
 name: observability-and-instrumentation
-description: Instruments code so production behavior is visible and diagnosable. Use when adding logging, metrics, tracing, or alerting. Use when shipping any feature that runs in production and you need evidence it works. Use when production issues are reported but you can't tell what happened from the available data.
+description: "Üretimdeki davranışı görünür ve teşhis edilebilir kılmak için kodu enstrümante eder. Günlük kaydı, metrik, izleme veya uyarı eklerken kullan. Üretimde çalışan herhangi bir özelliği gönderirken ve çalıştığına dair kanıta ihtiyaç duyulduğunda kullan. Üretim sorunları bildirildiğinde ancak mevcut verilerden ne olduğu anlaşılamadığında kullan."
 ---
 
 # Observability and Instrumentation

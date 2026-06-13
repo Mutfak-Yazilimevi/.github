@@ -1,6 +1,6 @@
 ---
 name: "x-twitter-growth"
-description: "X/Twitter growth engine for building audience, crafting viral content, and analyzing engagement. Use when the user wants to grow on X/Twitter, write tweets or threads, analyze their X profile, research competitors on X, plan a posting strategy, or optimize engagement. Complements social-content (generic multi-platform) with X-specific depth: algorithm mechanics, thread engineering, reply strategy, profile optimization, and competitive intelligence via web search."
+description: "X/Twitter'da kitle oluşturma, viral içerik oluşturma ve etkileşim analizi için büyüme motoru. Kullanıcı X/Twitter'da büyümek, tweet veya thread yazmak, X profilini analiz etmek, X'teki rakipleri araştırmak, yayın stratejisi planlamak veya etkileşimi optimize etmek istediğinde kullanılır. Sosyal içeriği (genel çok platform) X'e özgü derinlikle tamamlar: algoritma mekaniği, thread mühendisliği, yanıt stratejisi, profil optimizasyonu ve web araması aracılığıyla rekabet istihbaratı."
 license: MIT
 metadata:
   version: 1.0.0

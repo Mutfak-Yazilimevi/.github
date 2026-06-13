@@ -1,6 +1,6 @@
 ---
 name: liveblocks-ui-skills
-description: Liveblocks's UI design system. Use when building interfaces inspired by Liveblocks's aesthetic - dark mode, Inter font, 4px grid.
+description: "Liveblocks'un UI tasarım sistemi. Liveblocks'un estetiğinden — karanlık mod, Inter font, 4px grid — ilham alarak arayüz oluştururken kullan."
 license: MIT
 metadata:
   author: design-skills

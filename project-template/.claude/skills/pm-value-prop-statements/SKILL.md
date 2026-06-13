@@ -1,6 +1,6 @@
 ---
 name: value-prop-statements
-description: "Generate value proposition statements for marketing, sales, and onboarding from existing value propositions. Use when writing marketing copy, creating sales messaging, or crafting onboarding messages."
+description: "Mevcut değer önerilerinden pazarlama, satış ve katılım için değer önerisi ifadeleri oluştur. Pazarlama metni yazarken, satış mesajları oluştururken veya katılım mesajları hazırlarken kullan."
 ---
 # Value Proposition Statements
 

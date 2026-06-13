@@ -1,6 +1,6 @@
 ---
 name: writing-beats
-description: Shape an article as a journey of beats, choose-your-own-adventure style. The user picks a starting beat from the raw material, you write only that beat, then offer options for where to pivot next, beat by beat, until the article reaches a natural end. Use when the user has raw material and wants to assemble it as a narrative rather than an argument.
+description: "Bir makaleyi beat yolculuğu olarak şekillendirir; choose-your-own-adventure tarzında. Kullanıcı ham materyalden bir başlangıç beat'i seçer, siz yalnızca o beat'i yazarsınız, ardından sıradaki pivot için seçenekler sunarsınız — makale doğal bir bitişe ulaşana kadar beat beat devam eder. Kullanıcının ham materyali olduğunda ve bunu argüman yerine anlatı olarak bir araya getirmek istediğinde kullan."
 ---
 
 <what-to-do>

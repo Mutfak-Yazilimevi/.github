@@ -1,6 +1,6 @@
 ---
 name: "board"
-description: "Read, write, and browse the AgentHub message board for agent coordination."
+description: "Ajan koordinasyonu için AgentHub mesaj panosunu oku, yaz ve gezin."
 command: /hub:board
 ---
 

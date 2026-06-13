@@ -1,11 +1,6 @@
 ---
 name: performing-container-escape-detection
-description: 'Detects container escape attempts by analyzing namespace configurations,
-  privileged container checks, dangerous capability assignments, and host path mounts
-  using the kubernetes Python client. Identifies CVE-2022-0492 style escapes via cgroup
-  abuse. Use when auditing container security posture or investigating escape attempts.
-
-  '
+description: "kubernetes Python istemcisini kullanarak ad alanı yapılandırmalarını, ayrıcalıklı konteyner denetimlerini, tehlikeli yetenek atamalarını ve ana makine yolu montajlarını analiz ederek konteyner kaçış girişimlerini tespit eder. CVE-2022-0492 tarzı cgroup kötüye kullanımı yoluyla gerçekleşen kaçışları belirler. Konteyner güvenlik duruşunu denetlerken veya kaçış girişimlerini araştırırken kullan."
 domain: cybersecurity
 subdomain: container-security
 tags:

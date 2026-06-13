@@ -1,13 +1,6 @@
 ---
 name: detecting-fileless-attacks-on-endpoints
-description: 'Detects fileless malware and in-memory attacks that execute entirely
-  in RAM without writing persistent files to disk, evading traditional antivirus.
-  Use when building detections for PowerShell-based attacks, reflective DLL injection,
-  WMI persistence, and registry-resident malware. Activates for requests involving
-  fileless malware detection, in-memory attacks, PowerShell exploitation, or living-off-the-land
-  techniques.
-
-  '
+description: "Geleneksel antivirüsü atlatarak kalıcı dosyalar yazmadan tamamen RAM'de çalışan dosyasız kötü amaçlı yazılımları ve bellek içi saldırıları tespit eder. PowerShell tabanlı saldırılar, reflective DLL injection, WMI kalıcılığı ve kayıt defteri tabanlı kötü amaçlı yazılımlar için tespit oluştururken kullanın. Dosyasız kötü amaçlı yazılım tespiti, bellek içi saldırılar, PowerShell istismarı veya living-off-the-land teknikleri içeren isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

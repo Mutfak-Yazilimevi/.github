@@ -1,6 +1,6 @@
 ---
 name: plugin-creator
-description: Create and scaffold plugin directories for Codex with a required `.codex-plugin/plugin.json`, optional plugin folders/files, and baseline placeholders you can edit before publishing or testing. Use when Codex needs to create a new local plugin, add optional plugin structure, or generate or update repo-root `.agents/plugins/marketplace.json` entries for plugin ordering and availability metadata.
+description: "Zorunlu `.codex-plugin/plugin.json` ile isteğe bağlı eklenti klasörleri/dosyaları ve yayınlamadan veya test etmeden önce düzenleyebileceğin temel yer tutucularla birlikte Codex için eklenti dizinleri oluştur ve iskeletle. Codex'in yeni yerel eklenti oluşturması, isteğe bağlı eklenti yapısı eklemesi veya eklenti sıralaması ve kullanılabilirlik meta verileri için repo kökündeki `.agents/plugins/marketplace.json` girişlerini oluşturması ya da güncellemesi gerektiğinde kullan."
 ---
 
 # Plugin Creator

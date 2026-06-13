@@ -1,6 +1,6 @@
 ---
 name: railway-ui-skills
-description: Railway's UI design system. Use when building interfaces inspired by Railway's aesthetic - dark mode, Inter font, 4px grid.
+description: "Railway'in UI tasarım sistemi. Railway estetiğinden ilham alan arayüzler oluştururken kullan — dark mode, Inter font, 4px grid"
 license: MIT
 metadata:
   author: design-skills

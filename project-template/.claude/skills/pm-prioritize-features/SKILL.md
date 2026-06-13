@@ -1,6 +1,6 @@
 ---
 name: prioritize-features
-description: "Prioritize a backlog of feature ideas based on impact, effort, risk, and strategic alignment with top 5 recommendations. Use when prioritizing a feature backlog, making scope decisions, or ranking product ideas."
+description: "İlk 5 öneriyle etki, çaba, risk ve stratejik uyumu temel alarak bir özellik fikri birikimini önceliklendirir. Bir özellik birikimini önceliklendirirken, kapsam kararları alırken veya ürün fikirlerini sıralarken kullan."
 ---
 
 ## Prioritize Feature Backlog

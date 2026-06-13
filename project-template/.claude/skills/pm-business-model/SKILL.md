@@ -1,6 +1,6 @@
 ---
 name: business-model
-description: "Generate a Business Model Canvas with all 9 building blocks. Use when creating a business model, documenting how a business creates value, or analyzing an existing business model."
+description: "9 yapı bloğunun tamamını içeren bir Business Model Canvas oluştur. İş modeli yaratırken, bir işletmenin değer nasıl yarattığını belgelerken veya mevcut bir iş modelini analiz ederken kullan."
 ---
 # Business Model Canvas
 

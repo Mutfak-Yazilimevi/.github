@@ -1,19 +1,6 @@
 ---
 name: migrate-mstest-v3-to-v4
-description: >
-  Fix build errors and breaking changes after upgrading MSTest from v3 to v4,
-  or plan a complete MSTest v3-to-v4 migration. Use when user says "upgrade to
-  MSTest v4", "MSTest 4 migration", "MSTest v4 breaking changes", "tests don't
-  compile after upgrading MSTest", or has errors CS0507, CS0103, CS1061, CS1615 after updating MSTest packages from 3.x to 4.x.
-  USE FOR: Execute to ExecuteAsync, CallerInfo constructor on TestMethodAttribute,
-  sealed custom attributes, ClassCleanupBehavior removal, TestContext.Properties
-  Contains to ContainsKey, Assert.ThrowsException to ThrowsExactly,
-  Assert.IsInstanceOfType out parameter removal, ExpectedExceptionAttribute
-  removal, TestTimeout enum removal, [TestMethod("name")] to DisplayName syntax,
-  TreatDiscoveryWarningsAsErrors, TestContext.TestName in ClassInitialize,
-  MSTest.Sdk MTP changes, dropped TFMs (net6.0/net7.0 to net8.0+).
-  DO NOT USE FOR: migrating from MSTest v1/v2 to v3 (use migrate-mstest-v1v2-to-v3
-  first), migrating between test frameworks, or general .NET upgrades.
+description: "MSTest'i v3'ten v4'e yükselttikten sonra derleme hatalarını ve kırıcı değişiklikleri düzelt veya tam bir MSTest v3-to-v4 geçişi planla. Kullanıcı \"MSTest v4'e yükselt\", \"MSTest 4 geçişi\", \"MSTest v4 kırıcı değişiklikler\", \"MSTest yükselttikten sonra testler derlenmiyor\" dediğinde veya MSTest paketlerini 3.x'ten 4.x'e güncelledikten sonra CS0507, CS0103, CS1061, CS1615 hatalarına sahip olduğunda kullan. ŞUNLAR İÇİN KULLAN: Execute'dan ExecuteAsync'e, TestMethodAttribute üzerinde CallerInfo kurucusu, mühürlü özel nitelikler, ClassCleanupBehavior kaldırılması, TestContext.Properties Contains'den ContainsKey'e, Assert.ThrowsException'dan ThrowsExactly'e, Assert.IsInstanceOfType out parametre kaldırılması, ExpectedExceptionAttribute kaldırılması, TestTimeout enum kaldırılması, [TestMethod(\"name\")]'den DisplayName sözdizimine, TreatDiscoveryWarningsAsErrors, ClassInitialize'de TestContext.TestName, MSTest.Sdk MTP değişiklikleri, bırakılan TFM'ler (net6.0/net7.0'dan net8.0+'a). ŞUNLAR İÇİN KULLANMA: MSTest v1/v2'den v3'e geçiş (önce migrate-mstest-v1v2-to-v3 kullan), test çerçeveleri arasında geçiş veya genel .NET yükseltmeleri."
 license: MIT
 ---
 

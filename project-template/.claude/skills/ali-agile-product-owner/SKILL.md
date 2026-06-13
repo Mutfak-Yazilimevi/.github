@@ -1,6 +1,6 @@
 ---
 name: "agile-product-owner"
-description: Agile product ownership for backlog management and sprint execution. Covers user story writing, acceptance criteria, sprint planning, and velocity tracking. Use for writing user stories, creating acceptance criteria, planning sprints, estimating story points, breaking down epics, or prioritizing backlog.
+description: "Backlog yönetimi ve sprint yürütme için Agile ürün sahipliği. Kullanıcı hikayesi yazımı, kabul kriterleri, sprint planlaması ve hız takibini kapsar. Kullanıcı hikayeleri yazarken, kabul kriterleri oluştururken, sprint planlama yaparken, hikaye puanlarını tahmin ederken, epic'leri parçalara ayırırken veya backlog'u önceliklendirirken kullan"
 not_for: Kanban-only workflows, waterfall project planning, general task management, non-Scrum agile frameworks (SAFe, LeSS) without adaptation
 triggers:
   - write user story

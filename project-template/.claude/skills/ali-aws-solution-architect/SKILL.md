@@ -1,6 +1,6 @@
 ---
 name: "aws-solution-architect"
-description: Design AWS architectures for startups using serverless patterns and IaC templates. Use when asked to design serverless architecture, create CloudFormation templates, optimize AWS costs, set up CI/CD pipelines, or migrate to AWS. Covers Lambda, API Gateway, DynamoDB, ECS, Aurora, and cost optimization.
+description: "Sunucusuz desenler ve IaC şablonları kullanarak startuplar için AWS mimarileri tasarla. Sunucusuz mimari tasarlamak, CloudFormation şablonları oluşturmak, AWS maliyetlerini optimize etmek, CI/CD pipeline kurmak veya AWS'ye geçiş yapmak için istendiğinde kullan. Lambda, API Gateway, DynamoDB, ECS, Aurora ve maliyet optimizasyonunu kapsar."
 ---
 
 # AWS Solution Architect

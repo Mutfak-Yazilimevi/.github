@@ -1,9 +1,6 @@
 ---
 name: "fix"
-description: >-
-  Fix failing or flaky Playwright tests. Use when user says "fix test",
-  "flaky test", "test failing", "debug test", "test broken", "test passes
-  sometimes", or "intermittent failure".
+description: "Başarısız veya kararsız Playwright testlerini düzeltir. Kullanıcı \"testi düzelt\", \"kararsız test\", \"test başarısız\", \"testi hata ayıkla\", \"test bozuk\", \"test bazen geçiyor\" veya \"aralıklı hata\" dediğinde kullan."
 ---
 
 # Fix Failing or Flaky Tests

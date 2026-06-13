@@ -1,8 +1,6 @@
 ---
 name: testing-for-xxe-injection-vulnerabilities
-description: Discovering and exploiting XML External Entity injection vulnerabilities
-  to read server files, perform SSRF, and exfiltrate data during authorized penetration
-  tests.
+description: "Yetkili sızma testleri sırasında sunucu dosyalarını okumak, SSRF gerçekleştirmek ve veri sızdırmak için XML External Entity enjeksiyon güvenlik açıklarını keşfeder ve istismar eder."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

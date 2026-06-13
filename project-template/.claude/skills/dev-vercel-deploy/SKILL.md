@@ -1,6 +1,6 @@
 ---
 name: vercel-deploy
-description: Deploy applications and websites to Vercel. Use when the user requests deployment actions like "deploy my app", "deploy and give me the link", "push this live", or "create a preview deployment".
+description: "Uygulamaları ve web sitelerini Vercel'e dağıtır. Kullanıcı \"deploy my app\", \"deploy and give me the link\", \"push this live\" veya \"create a preview deployment\" gibi dağıtım eylemleri istediğinde kullan."
 ---
 
 # Vercel Deploy

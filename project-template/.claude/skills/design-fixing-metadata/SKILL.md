@@ -1,10 +1,6 @@
 ---
 name: fixing-metadata
-description: >
-  Audit and fix HTML metadata including page titles, meta descriptions, canonical URLs, Open Graph
-  tags, Twitter cards, favicons, JSON-LD structured data, and robots directives. Use when adding
-  SEO metadata, fixing social share previews, reviewing Open Graph tags, setting up canonical URLs,
-  or shipping new pages that need correct meta tags.
+description: "Sayfa başlıkları, meta açıklamaları, kanonik URL'ler, Open Graph etiketleri, Twitter kartları, favicon'lar, JSON-LD yapılandırılmış veriler ve robots yönergelerini içeren HTML meta verilerini denetle ve düzelt. SEO meta verileri eklerken, sosyal paylaşım önizlemelerini düzeltirken, Open Graph etiketlerini incelerken, kanonik URL'ler ayarlarken veya doğru meta etiketlere ihtiyaç duyan yeni sayfalar yayınlarken kullan."
 version: 1.0.1
 license: MIT
 ---

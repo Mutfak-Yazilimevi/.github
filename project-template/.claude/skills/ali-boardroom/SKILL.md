@@ -1,6 +1,6 @@
 ---
 name: "boardroom"
-description: "/cs:boardroom <brief> — 6-phase multi-role deliberation across the C-suite with Phase 2 isolation, critic pre-screen, and synthesis. Outputs a board memo."
+description: "/cs:boardroom <brief> — Faz 2 izolasyonu, eleştirmen ön taraması ve sentez ile üst yönetim genelinde 6 aşamalı çok rollü müzakere. Bir yönetim kurulu notu çıktılar."
 ---
 
 # /cs:boardroom — Multi-Role Boardroom Deliberation

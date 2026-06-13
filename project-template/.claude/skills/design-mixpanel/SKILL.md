@@ -1,6 +1,6 @@
 ---
 name: mixpanel-ui-skills
-description: Mixpanel's UI design system. Use when building interfaces inspired by Mixpanel's aesthetic - light mode, Inter font, 4px grid.
+description: "Mixpanel'in UI tasarım sistemi. Mixpanel estetiğinden ilham alan arayüzler oluştururken kullan — light mode, Inter font, 4px grid"
 license: MIT
 metadata:
   author: design-skills

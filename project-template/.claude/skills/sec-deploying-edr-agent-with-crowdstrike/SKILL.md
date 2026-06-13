@@ -1,13 +1,6 @@
 ---
 name: deploying-edr-agent-with-crowdstrike
-description: 'Deploys and configures CrowdStrike Falcon EDR agents across enterprise
-  endpoints to enable real-time threat detection, behavioral analysis, and automated
-  response. Use when onboarding endpoints to EDR coverage, configuring detection policies,
-  or integrating Falcon telemetry with SIEM platforms. Activates for requests involving
-  CrowdStrike deployment, Falcon sensor installation, EDR policy configuration, or
-  endpoint detection and response.
-
-  '
+description: "Gerçek zamanlı tehdit tespiti, davranışsal analiz ve otomatik yanıt etkinleştirmek için kurumsal uç noktalar genelinde CrowdStrike Falcon EDR ajanlarını dağıtır ve yapılandırır. Uç noktaları EDR kapsamına alırken, tespit politikalarını yapılandırırken veya Falcon telemetrisini SIEM platformlarıyla entegre ederken kullan. CrowdStrike dağıtımı, Falcon sensor kurulumu, EDR politika yapılandırması veya uç nokta tespit ve müdahalesine yönelik isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

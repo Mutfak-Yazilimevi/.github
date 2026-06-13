@@ -1,8 +1,6 @@
 ---
 name: implementing-gdpr-data-protection-controls
-description: The General Data Protection Regulation (EU) 2016/679 (GDPR) is the EU's
-  comprehensive data protection law governing the collection, processing, storage,
-  and transfer of personal data. This skill cover
+description: "Genel Veri Koruma Yönetmeliği (AB) 2016/679 (GDPR), kişisel verilerin toplanması, işlenmesi, saklanması ve aktarılmasını düzenleyen AB'nin kapsamlı veri koruma yasasıdır. Bu skill ilgili kontrolleri kapsar."
 domain: cybersecurity
 subdomain: compliance-governance
 tags:

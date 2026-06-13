@@ -1,6 +1,6 @@
 ---
 name: prototype
-description: Build a throwaway prototype to flesh out a design before committing to it. Routes between two branches — a runnable terminal app for state/business-logic questions, or several radically different UI variations toggleable from one route. Use when the user wants to prototype, sanity-check a data model or state machine, mock up a UI, explore design options, or says "prototype this", "let me play with it", "try a few designs".
+description: "Taahhüt vermeden önce tasarımı netleştirmek için kullanılıp atılacak prototip oluşturur. İki dal arasında yönlendirir — durum/iş mantığı soruları için çalıştırılabilir terminal uygulaması ya da tek rotadan açılıp kapanabilen birkaç farklı UI varyasyonu. Kullanıcı prototipleme, veri modeli veya state machine'i doğrulama, UI taslağı çıkarma, tasarım seçeneklerini keşfetme ya da \"prototype this\", \"let me play with it\", \"try a few designs\" dediğinde kullan."
 ---
 
 # Prototype

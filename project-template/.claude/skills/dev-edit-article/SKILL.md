@@ -1,6 +1,6 @@
 ---
 name: edit-article
-description: Edit and improve articles by restructuring sections, improving clarity, and tightening prose. Use when user wants to edit, revise, or improve an article draft.
+description: "Bölümleri yeniden yapılandırarak, netliği artırarak ve yazıyı sıkılaştırarak makaleleri düzenle ve geliştir. Kullanıcı bir makale taslağını düzenlemek, revize etmek veya geliştirmek istediğinde kullan."
 ---
 
 1. First, divide the article into sections based on its headings. Think about the main points you want to make during those sections.

@@ -1,6 +1,6 @@
 ---
 name: kubernetes-operator
-description: Use when building a Kubernetes Operator — custom controllers that reconcile CRD state. Triggers on "build an operator", "CRD design", "reconcile loop", "controller-runtime", "kubebuilder", "operator-sdk", "metacontroller", "KOPF", "operator capability levels", or "custom resource". Ships CRD validator, reconcile-loop linter, and OperatorHub capability auditor (all stdlib Python), 4 references on the operator pattern + CRD design + reconcile patterns + tooling landscape, and a /operator-audit slash command. NOT a generic k8s skill — specifically the Operator pattern.
+description: "Kubernetes Operator oluştururken kullan — CRD durumunu mutabık kılan özel denetleyiciler. \"Bir operator oluştur\", \"CRD tasarımı\", \"mutabık döngüsü\", \"controller-runtime\", \"kubebuilder\", \"operator-sdk\", \"metacontroller\", \"KOPF\", \"operator yetenek seviyeleri\" veya \"özel kaynak\" ifadelerinde tetikle. CRD doğrulayıcı, mutabık döngüsü linter ve OperatorHub yetenek denetçisi (tümü stdlib Python), operator kalıbı + CRD tasarımı + mutabık kalıpları + araç ortamı hakkında 4 referans ve /operator-audit slash komutu sunar. Genel bir k8s skill'i DEĞİL — özellikle Operator kalıbı."
 context: fork
 version: 2.9.0
 author: claude-code-skills

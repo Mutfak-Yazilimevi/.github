@@ -1,6 +1,6 @@
 ---
 name: matter-ui-skills
-description: Matter's UI design system. Use when building interfaces inspired by Matter's aesthetic - dark mode, Inter font, 4px grid.
+description: "Matter'ın UI tasarım sistemi. Matter estetiğinden ilham alan arayüzler oluştururken kullan — koyu mod, Inter fontu, 4px ızgara."
 license: MIT
 metadata:
   author: design-skills

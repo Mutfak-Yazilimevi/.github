@@ -1,6 +1,6 @@
 ---
 name: posthog-ui-skills
-description: Posthog's UI design system. Use when building interfaces inspired by Posthog's aesthetic - dark mode, Inter font, 4px grid.
+description: "Posthog'un UI tasarım sistemi. Posthog estetiğinden ilham alan arayüzler oluştururken kullan — koyu mod, Inter font, 4px grid."
 license: MIT
 metadata:
   author: design-skills

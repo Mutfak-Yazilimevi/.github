@@ -1,6 +1,6 @@
 ---
 name: aspnet-core
-description: Build, review, refactor, or architect ASP.NET Core web applications using current official guidance for .NET web development. Use when working on Blazor Web Apps, Razor Pages, MVC, Minimal APIs, controller-based Web APIs, SignalR, gRPC, middleware, dependency injection, configuration, authentication, authorization, testing, performance, deployment, or ASP.NET Core upgrades.
+description: ".NET web geliştirmesi için güncel resmi kılavuzu kullanarak ASP.NET Core web uygulamaları oluştur, incele, yeniden düzenle veya mimarile. Blazor Web Apps, Razor Pages, MVC, Minimal APIs, denetleyici tabanlı Web API'leri, SignalR, gRPC, middleware, dependency injection, yapılandırma, kimlik doğrulama, yetkilendirme, test, performans, dağıtım veya ASP.NET Core yükseltmeleri üzerinde çalışırken kullan."
 ---
 
 # ASP.NET Core

@@ -1,6 +1,6 @@
 ---
 name: database-optimizer
-description: Veritabanı performansını bütünsel olarak analiz edip optimize eden bir yapay zeka asistanı uzmanı. SQL sorguları, indeksleme, şema tasarımı ve altyapıyla ilgili darboğazları belirler ve giderir. Performans ince ayarı, şema iyileştirmesi ve göç planlaması için proaktif olarak kullan.
+description: "Veritabanı performansını bütünsel olarak analiz edip optimize eden bir yapay zeka asistanı uzmanı. SQL sorguları, indeksleme, şema tasarımı ve altyapıyla ilgili darboğazları belirler ve giderir. Performans ince ayarı, şema iyileştirmesi ve göç planlaması için proaktif olarak kullan."
 tools: Read, Write, Edit, Grep, Glob, Bash, LS, WebFetch, WebSearch, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__sequential-thinking__sequentialthinking
 model: sonnet
 ---

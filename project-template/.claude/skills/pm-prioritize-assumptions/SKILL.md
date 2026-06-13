@@ -1,6 +1,6 @@
 ---
 name: prioritize-assumptions
-description: "Prioritize assumptions using an Impact × Risk matrix and suggest experiments for each. Use when triaging a list of assumptions, deciding what to test first, or applying the assumption prioritization canvas."
+description: "Etki × Risk matrisini kullanarak varsayımları önceliklendirir ve her biri için deneyler önerir. Varsayım listesini sıralarken, önce neyi test edeceğine karar verirken veya varsayım önceliklendirme kanvasını uygularken kullan."
 ---
 
 ## Prioritize Assumptions

@@ -1,8 +1,6 @@
 ---
 name: performing-wireless-security-assessment-with-kismet
-description: Conduct wireless network security assessments using Kismet to detect
-  rogue access points, hidden SSIDs, weak encryption, and unauthorized clients through
-  passive RF monitoring.
+description: "Pasif RF izleme yoluyla sahte erişim noktalarını, gizli SSID'leri, zayıf şifrelemeyi ve yetkisiz istemcileri tespit etmek için Kismet kullanarak kablosuz ağ güvenliği değerlendirmeleri yürütür."
 domain: cybersecurity
 subdomain: network-security
 tags:

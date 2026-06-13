@@ -1,6 +1,6 @@
 ---
 name: "security-threat-model"
-description: "Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities, abuse paths, and mitigations, and writes a concise Markdown threat model. Trigger only when the user explicitly asks to threat model a codebase or path, enumerate threats/abuse paths, or perform AppSec threat modeling. Do not trigger for general architecture summaries, code review, or non-security design work."
+description: "Güven sınırlarını, varlıkları, saldırgan yeteneklerini, kötüye kullanım yollarını ve azaltmaları listeleyen ve özlü bir Markdown tehdit modeli yazan, repoya dayalı tehdit modellemesi. Yalnızca kullanıcı açıkça bir kod tabanı veya yol için tehdit modellemesi, tehdit/kötüye kullanım yolları listeleme veya AppSec tehdit modellemesi yapmayı istediğinde tetikle. Genel mimari özetler, kod inceleme veya güvenlik dışı tasarım çalışmaları için tetikleme."
 ---
 
 # Threat Model Source Code Repo

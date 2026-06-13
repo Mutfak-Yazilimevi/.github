@@ -1,6 +1,6 @@
 ---
 name: skill-creator-openai
-description: Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Codex's capabilities with specialized knowledge, workflows, or tool integrations.
+description: "Etkili skill'ler oluşturma rehberi. Kullanıcılar Codex'in yeteneklerini özel bilgi, iş akışları veya araç entegrasyonlarıyla genişleten yeni bir skill oluşturmak (veya mevcut bir skill'i güncellemek) istediğinde kullan."
 metadata:
   short-description: Create or update a skill
 ---

@@ -1,6 +1,6 @@
 ---
 name: lead-dossier
-description: Build a research dossier on a lead/prospect — company, stakeholders, pains, triggers, and outreach angles. Use before sales outreach to assemble a complete, sourced lead profile.
+description: "Potansiyel müşteri/aday hakkında araştırma dosyası oluştur — şirket, paydaşlar, sorunlar, tetikleyiciler ve iletişim açıları. Eksiksiz, kaynaklı bir potansiyel müşteri profili oluşturmak için satış iletişiminden önce kullan."
 ---
 
 ---

@@ -1,22 +1,6 @@
 ---
 name: migrate-vstest-to-mtp
-description: >
-  Migrates .NET test projects from VSTest to Microsoft.Testing.Platform (MTP).
-  Use when user asks to "migrate to MTP", "switch from VSTest", "enable
-  Microsoft.Testing.Platform", "use MTP runner", or mentions EnableMSTestRunner,
-  EnableNUnitRunner, or UseMicrosoftTestingPlatformRunner.
-  USE FOR: MTP behavioral differences vs VSTest (exit code 8, zero tests
-  discovered, --ignore-exit-code, TESTINGPLATFORM_EXITCODE_IGNORE),
-  conditioning OutputType=Exe to test projects when centralizing MTP
-  properties in Directory.Build.props.
-  Supports MSTest, NUnit, xUnit.net v2 (via YTest.MTP.XUnit2), and
-  xUnit.net v3 (native MTP). Covers runner enablement, CLI argument
-  translation, xUnit.net v3 filter migration (--filter-class,
-  --filter-trait, --filter-query), Directory.Build.props and global.json
-  config, CI/CD pipeline updates, and MTP extension packages.
-  DO NOT USE FOR: migrating between test frameworks (MSTest/xUnit/NUnit),
-  xUnit.net v2 to v3 API migration, MSTest version upgrades, TFM upgrades,
-  or UWP/WinUI test projects.
+description: ".NET test projelerini VSTest'ten Microsoft.Testing.Platform'a (MTP) geçirir. Kullanıcı \"MTP'ye geçir\", \"VSTest'ten geç\", \"Microsoft.Testing.Platform etkinleştir\", \"MTP runner kullan\" dediğinde ya da EnableMSTestRunner, EnableNUnitRunner veya UseMicrosoftTestingPlatformRunner'dan bahsettiğinde kullan. KULLANIM: MTP ile VSTest arasındaki davranışsal farklar (çıkış kodu 8, sıfır test bulundu, --ignore-exit-code, TESTINGPLATFORM_EXITCODE_IGNORE), Directory.Build.props'ta MTP özelliklerini merkezileştirirken test projelerine OutputType=Exe koşullaması. MSTest, NUnit, xUnit.net v2 (YTest.MTP.XUnit2 aracılığıyla) ve xUnit.net v3'ü (native MTP) destekler. Runner etkinleştirme, CLI argüman çevirisi, xUnit.net v3 filtre geçişi (--filter-class, --filter-trait, --filter-query), Directory.Build.props ve global.json yapılandırması, CI/CD pipeline güncellemeleri ve MTP uzantı paketlerini kapsar. KULLANMA: test framework'leri arasında geçiş (MSTest/xUnit/NUnit), xUnit.net v2'den v3'e API geçişi, MSTest sürüm yükseltmeleri, TFM yükseltmeleri veya UWP/WinUI test projeleri."
 license: MIT
 ---
 

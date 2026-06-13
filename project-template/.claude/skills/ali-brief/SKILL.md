@@ -1,6 +1,6 @@
 ---
 name: "brief"
-description: "/cs:brief <topic> — Generate a one-page strategy brief from an office-hours intake. First step in the strategic sprint pipeline."
+description: "/cs:brief <konu> — Ofis saatleri alımından tek sayfalık strateji brifing'i oluşturur. Stratejik sprint pipeline'ının ilk adımı."
 ---
 
 # /cs:brief — One-Page Strategy Brief

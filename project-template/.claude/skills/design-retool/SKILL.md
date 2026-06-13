@@ -1,6 +1,6 @@
 ---
 name: retool-ui-skills
-description: Retool's UI design system. Use when building interfaces inspired by Retool's aesthetic - light mode, Inter font, 4px grid.
+description: "Retool'un UI tasarım sistemi. Retool'un estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter yazı tipi, 4px ızgara."
 license: MIT
 metadata:
   author: design-skills

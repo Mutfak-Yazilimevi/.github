@@ -1,6 +1,6 @@
 ---
 name: shipping-and-launch
-description: Prepares production launches. Use when preparing to deploy to production. Use when you need a pre-launch checklist, when setting up monitoring, when planning a staged rollout, or when you need a rollback strategy.
+description: "Üretim lansmanlarını hazırlar. Üretime dağıtıma hazırlanırken kullan. Lansman öncesi kontrol listesine ihtiyaç duyulduğunda, izleme kurulumu yapılırken, aşamalı dağıtım planlanırken veya geri alma stratejisine ihtiyaç duyulduğunda kullan."
 ---
 
 # Shipping and Launch

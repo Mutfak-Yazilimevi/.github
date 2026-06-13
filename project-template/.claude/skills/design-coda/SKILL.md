@@ -1,6 +1,6 @@
 ---
 name: coda-ui-skills
-description: Coda's UI design system. Use when building interfaces inspired by Coda's aesthetic - light mode, Inter font, 4px grid.
+description: "Coda'nın UI tasarım sistemi. Coda'nın estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter font, 4px ızgara."
 license: MIT
 metadata:
   author: design-skills

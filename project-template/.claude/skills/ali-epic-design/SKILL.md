@@ -1,16 +1,6 @@
 ---
 name: epic-design
-description: >
-  Build immersive, cinematic 2.5D interactive websites using scroll storytelling,
-  parallax depth, text animations, and premium scroll effects — no WebGL required.
-  Use this skill for any web design task: landing pages, product sites, hero sections,
-  scroll animations, parallax, sticky sections, section overlaps, floating products
-  between sections, clip-path reveals, text that flies in from sides, words that light
-  up on scroll, curtain drops, iris opens, card stacks, bleed typography, and any
-  site that should feel cinematic or premium. Trigger on phrases like "make it feel
-  alive", "Apple-style animation", "sections that overlap", "product rises between
-  sections", "immersive", "scrollytelling", or any scroll-driven visual effect.
-  Covers 45+ techniques across 8 categories. Always inspects, judges, and plans assets before coding. Use aggressively for ANY web design task.
+description: "Scroll hikaye anlatımı, parallax derinliği, metin animasyonları ve premium scroll efektleri kullanarak sürükleyici, sinematik 2.5D etkileşimli web siteleri oluştur — WebGL gerekmez. Herhangi bir web tasarım görevi için bu skill'i kullan: açılış sayfaları, ürün siteleri, hero bölümleri, scroll animasyonları, parallax, sticky bölümler, bölüm örtüşmeleri, bölümler arasında yüzen ürünler, clip-path açılımları, yandan uçan metinler, scroll ile aydınlanan kelimeler, perde düşüşleri, iris açılışları, kart yığınları, kanamış tipografi ve sinematik veya premium hissetmesi gereken her site. \"Canlı hissettir\", \"Apple tarzı animasyon\", \"örtüşen bölümler\", \"ürün bölümler arasında yükselir\", \"sürükleyici\", \"scrollytelling\" veya herhangi bir scroll odaklı görsel efekt ifadelerinde tetikle."
 license: MIT
 metadata:
   version: 1.0.0

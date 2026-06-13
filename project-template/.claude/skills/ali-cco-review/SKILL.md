@@ -1,6 +1,6 @@
 ---
 name: "cco-review"
-description: "/cs:cco-review <plan> — Retention-obsessed Chief Customer Officer interrogation of any plan that touches customer retention, segmentation, CS team sizing, or CS team hiring."
+description: "/cs:cco-review <plan> — Müşteri elde tutma, segmentasyon, CS ekip boyutlandırma veya CS ekip işe alımına değinen herhangi bir planın elde tutma odaklı Chief Customer Officer sorgulaması."
 ---
 
 # /cs:cco-review — CCO Forcing Questions

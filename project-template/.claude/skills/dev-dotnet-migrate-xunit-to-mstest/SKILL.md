@@ -1,18 +1,6 @@
 ---
 name: migrate-xunit-to-mstest
-description: >
-  Migrate .NET test projects from xUnit.net (v2 or v3) to MSTest v4.
-  USE FOR: convert/migrate xUnit tests to MSTest, replace xunit/xunit.v3 packages,
-  port [Fact]/[Theory]/[InlineData]/[MemberData]/[ClassData] to
-  [TestMethod]/[DataRow]/[DynamicData], port Assert.Equal/True/Throws/ThrowsAsync
-  to Assert.AreEqual/IsTrue/ThrowsExactly/ThrowsExactlyAsync, port IClassFixture/
-  ICollectionFixture/IDisposable/IAsyncLifetime/ITestOutputHelper/[Trait]/[Fact(Skip)]
-  to MSTest equivalents, preserve xUnit parallel-class default via
-  [assembly: Parallelize(Scope = ClassLevel)], remove xunit.runner.json.
-  DO NOT USE FOR: xUnit v2 -> v3 upgrade (use migrate-xunit-to-xunit-v3); MSTest ->
-  xUnit, NUnit/TUnit -> MSTest (no skills exist); MSTest version upgrades (use
-  migrate-mstest-v1v2-to-v3 or migrate-mstest-v3-to-v4); VSTest <-> MTP only
-  (use migrate-vstest-to-mtp); general .NET upgrades.
+description: ".NET test projelerini xUnit.net'ten (v2 veya v3) MSTest v4'e taşır. ŞU DURUMLARDA KULLAN: xUnit testlerini MSTest'e dönüştürme/taşıma, xunit/xunit.v3 paketlerini değiştirme, [Fact]/[Theory]/[InlineData]/[MemberData]/[ClassData]'yı [TestMethod]/[DataRow]/[DynamicData]'ya taşıma, Assert.Equal/True/Throws/ThrowsAsync'i Assert.AreEqual/IsTrue/ThrowsExactly/ThrowsExactlyAsync'e taşıma, IClassFixture/ICollectionFixture/IDisposable/IAsyncLifetime/ITestOutputHelper/[Trait]/[Fact(Skip)]'i MSTest karşılıklarına taşıma, [assembly: Parallelize(Scope = ClassLevel)] ile xUnit paralel sınıf varsayılanını koruma, xunit.runner.json'ı kaldırma. ŞU DURUMLARDA KULLANMA: xUnit v2 -> v3 yükseltme (migrate-xunit-to-xunit-v3 kullan); MSTest -> xUnit, NUnit/TUnit -> MSTest (beceri yok); MSTest sürüm yükseltme (migrate-mstest-v1v2-to-v3 veya migrate-mstest-v3-to-v4 kullan); yalnızca VSTest <-> MTP (migrate-vstest-to-mtp kullan); genel .NET yükseltmeleri."
 license: MIT
 ---
 

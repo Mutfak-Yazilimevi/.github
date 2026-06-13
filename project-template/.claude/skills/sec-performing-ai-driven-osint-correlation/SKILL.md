@@ -1,9 +1,6 @@
 ---
 name: performing-ai-driven-osint-correlation
-description: Use AI and LLM-based reasoning to correlate findings across multiple
-  OSINT sources—username enumeration, email lookups, social media profiles, domain
-  records, breach databases, and dark-web mentions—into unified intelligence profiles
-  with confidence scoring and link analysis.
+description: "Kullanıcı adı numaralandırma, e-posta aramaları, sosyal medya profilleri, alan kayıtları, ihlal veritabanları ve dark-web söylemlerini kapsayan birden fazla OSINT kaynağındaki bulguları güven puanlaması ve bağlantı analiziyle birleşik istihbarat profillerine dönüştürmek için yapay zeka ve LLM tabanlı akıl yürütme kullanır."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

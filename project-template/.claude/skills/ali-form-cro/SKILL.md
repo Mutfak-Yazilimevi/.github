@@ -1,6 +1,6 @@
 ---
 name: "form-cro"
-description: When the user wants to optimize any form that is NOT signup/registration — including lead capture forms, contact forms, demo request forms, application forms, survey forms, or checkout forms. Also use when the user mentions "form optimization," "lead form conversions," "form friction," "form fields," "form completion rate," or "contact form." For signup/registration forms, see signup-flow-cro. For popups containing forms, see popup-cro.
+description: "Kullanıcı kayıt/üyelik formu OLMAYAN herhangi bir formu optimize etmek istediğinde kullan — potansiyel müşteri yakalama formları, iletişim formları, demo talep formları, başvuru formları, anket formları veya ödeme formları dahil. Ayrıca kullanıcı 'form optimizasyonu', 'potansiyel müşteri formu dönüşümleri', 'form sürtünmesi', 'form alanları', 'form tamamlama oranı' veya 'iletişim formu' dediğinde kullan. Kayıt/üyelik formları için signup-flow-cro'ya, form içeren popup'lar için popup-cro'ya bakın"
 license: MIT
 metadata:
   version: 1.0.0

@@ -1,6 +1,6 @@
 ---
 name: devops-incident-responder
-description: Olay müdahalesini yönetmek, derinlemesine kök neden analizi yapmak ve üretim sistemleri için sağlam düzeltmeler uygulamak üzere uzmanlaşmış bir ajan. Bu ajan, sistem kesintilerini ve performans düşüşlerini proaktif olarak tespit edip çözmek için izleme ve gözlemlenebilirlik araçlarından yararlanma konusunda uzmandır.
+description: "Olay müdahalesini yönetmek, derinlemesine kök neden analizi yapmak ve üretim sistemleri için sağlam düzeltmeler uygulamak üzere uzmanlaşmış bir ajan. Bu ajan, sistem kesintilerini ve performans düşüşlerini proaktif olarak tespit edip çözmek için izleme ve gözlemlenebilirlik araçlarından yararlanma konusunda uzmandır."
 tools: Read, Write, Edit, MultiEdit, Grep, Glob, Bash, LS, WebSearch, WebFetch, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__sequential-thinking__sequentialthinking
 model: sonnet
 ---

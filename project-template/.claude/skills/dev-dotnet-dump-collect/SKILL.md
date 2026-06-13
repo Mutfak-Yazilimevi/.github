@@ -1,6 +1,6 @@
 ---
 name: dump-collect
-description: "Configure and collect crash dumps for modern .NET applications. USE FOR: enabling automatic crash dumps for CoreCLR or NativeAOT, capturing dumps from running .NET processes, setting up dump collection in Docker or Kubernetes, using dotnet-dump collect or createdump. DO NOT USE FOR: analyzing or debugging dumps, post-mortem investigation with lldb/windbg/dotnet-dump analyze, profiling or tracing, or for .NET Framework processes."
+description: "Modern .NET uygulamaları için kilitlenme dökümlerini yapılandırır ve toplar. ŞU DURUMLARDA KULLAN: CoreCLR veya NativeAOT için otomatik kilitlenme dökümleri etkinleştirme, çalışan .NET süreçlerinden döküm alma, Docker veya Kubernetes'te döküm toplama kurulumu, dotnet-dump collect veya createdump kullanımı. ŞU DURUMLARDA KULLANMA: döküm analizi veya hata ayıklama, lldb/windbg/dotnet-dump analyze ile post-mortem araştırma, profil oluşturma veya izleme, .NET Framework süreçleri."
 license: MIT
 ---
 

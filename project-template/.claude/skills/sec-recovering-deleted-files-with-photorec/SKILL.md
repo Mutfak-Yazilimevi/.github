@@ -1,7 +1,6 @@
 ---
 name: recovering-deleted-files-with-photorec
-description: Recover deleted files from disk images and storage media using PhotoRec's
-  file signature-based carving engine regardless of file system damage.
+description: "Dosya sistemi hasarından bağımsız olarak PhotoRec'in dosya imzası tabanlı oyma motorunu kullanarak disk görüntülerinden ve depolama ortamından silinen dosyaları kurtarır."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

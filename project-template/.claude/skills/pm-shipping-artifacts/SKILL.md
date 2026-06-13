@@ -1,6 +1,6 @@
 ---
 name: shipping-artifacts
-description: "The durable documentation set that makes an AI-built (vibe-coded) app reviewable before shipping. A small core every app needs — architecture, user/permission flows, permissions, variables/secrets, and a test-coverage map — plus conditional docs added only when they apply: emails, scheduled work, SEO, and embedded agents/automation. Defines what each doc must capture and how a reviewer or auditor uses it. Use when documenting a codebase for handoff, mapping user journeys and trust-boundary crossings, planning test coverage, or preparing for a security or performance audit."
+description: "AI ile geliştirilmiş (vibe-coded) bir uygulamayı yayınlamadan önce incelenebilir kılan kalıcı dokümantasyon seti. Her uygulamanın ihtiyaç duyduğu küçük bir temel — mimari, kullanıcı/izin akışları, izinler, değişkenler/sırlar ve test kapsam haritası — artı yalnızca geçerli olduğunda eklenen koşullu belgeler: e-postalar, zamanlanmış işler, SEO ve gömülü ajan/otomasyon. Her belgenin ne yakalaması gerektiğini ve bir gözden geçiren ya da denetçinin bunu nasıl kullandığını tanımlar. Bir kod tabanını teslim için belgelerken, kullanıcı yolculuklarını ve güven sınırı geçişlerini haritalandırırken, test kapsamını planlarken veya güvenlik ya da performans denetimi için hazırlanırken kullan."
 ---
 
 # Shipping Artifacts: The Docs That Make AI-Built Code Reviewable

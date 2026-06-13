@@ -1,21 +1,6 @@
 ---
 name: writing-mstest-tests
-description: >
-  Write new MSTest unit tests and fix existing MSTest code using MSTest 3.x/4.x
-  modern APIs and best practices.
-  USE FOR: write or create MSTest unit tests, fix or modernize MSTest assertions,
-  better MSTest assertion than Assert.IsTrue, replace hard cast with MSTest type assertion,
-  MSTest assertion APIs (IsInstanceOfType, Contains, ContainsSingle, HasCount,
-  IsEmpty, IsNotEmpty, DoesNotContain, StartsWith, EndsWith, MatchesRegex,
-  IsGreaterThan, IsInRange, IsNull),
-  fix swapped Assert.AreEqual arguments, replace ExpectedException with Assert.Throws,
-  data-driven tests (DataRow, DynamicData, ValueTuples),
-  test lifecycle (sealed classes, TestInitialize, TestCleanup),
-  async tests and cancellation tokens, test parallelization (Parallelize / DoNotParallelize),
-  MSTest.Sdk project setup.
-  DO NOT USE FOR: broad test quality audits (use test-anti-patterns),
-  running tests (use run-tests), MSTest version migration (use migrate-mstest-v1v2-to-v3
-  or migrate-mstest-v3-to-v4), xUnit/NUnit/TUnit, or non-.NET languages.
+description: "MSTest 3.x/4.x modern API'leri ve en iyi uygulamalarla yeni MSTest birim testleri yaz ve mevcut MSTest kodunu düzelt. KULLANIM ALANLARI: MSTest birim testleri yaz veya oluştur, MSTest assertion'larını düzelt veya modernleştir, daha iyi MSTest assertion'ları (Assert.IsTrue yerine), sabit cast'i MSTest tip assertion'ıyla değiştir, MSTest assertion API'leri (IsInstanceOfType, Contains, ContainsSingle, HasCount, IsEmpty, IsNotEmpty, DoesNotContain, StartsWith, EndsWith, MatchesRegex, IsGreaterThan, IsInRange, IsNull), yer değiştirmiş Assert.AreEqual argümanlarını düzelt, ExpectedException'ı Assert.Throws ile değiştir, veri güdümlü testler (DataRow, DynamicData, ValueTuples), test yaşam döngüsü (sealed sınıflar, TestInitialize, TestCleanup), async testler ve iptal token'ları, test paralelleştirme (Parallelize / DoNotParallelize), MSTest.Sdk proje kurulumu. KULLANMA: genel test kalite denetimleri (test-anti-patterns kullan), testleri çalıştırma (run-tests kullan), MSTest sürüm geçişi (migrate-mstest-v1v2-to-v3 veya migrate-mstest-v3-to-v4 kullan), xUnit/NUnit/TUnit veya .NET dışı diller."
 license: MIT
 ---
 

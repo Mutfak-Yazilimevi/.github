@@ -1,8 +1,6 @@
 ---
 name: analyzing-linux-system-artifacts
-description: Examine Linux system artifacts including auth logs, cron jobs, shell
-  history, and system configuration to uncover evidence of compromise or unauthorized
-  activity.
+description: "Güvenlik ihlali veya yetkisiz etkinlik kanıtlarını ortaya çıkarmak için auth günlükleri, cron görevleri, kabuk geçmişi ve sistem yapılandırması dahil Linux sistem artifaktlarını incele."
 domain: cybersecurity
 subdomain: digital-forensics
 tags:

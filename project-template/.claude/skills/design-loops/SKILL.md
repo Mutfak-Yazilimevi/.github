@@ -1,6 +1,6 @@
 ---
 name: loops-ui-skills
-description: Loops's UI design system. Use when building interfaces inspired by Loops's aesthetic - light mode, Inter font, 4px grid.
+description: "Loops'un UI tasarım sistemi. Loops estetiğinden ilham alan arayüzler oluştururken kullan — light mode, Inter font, 4px grid"
 license: MIT
 metadata:
   author: design-skills

@@ -1,8 +1,6 @@
 ---
 name: detecting-azure-lateral-movement
-description: Detect lateral movement in Azure AD/Entra ID environments using Microsoft
-  Graph API audit logs, Azure Sentinel KQL hunting queries, and sign-in anomaly correlation
-  to identify privilege escalation, token theft, and cross-tenant pivoting.
+description: "Ayrıcalık yükseltmeyi, token hırsızlığını ve çapraz kiracı pivotlamayı belirlemek için Microsoft Graph API denetim günlüklerini, Azure Sentinel KQL avlanma sorgularını ve oturum açma anomalisi korelasyonunu kullanarak Azure AD/Entra ID ortamlarında yanal hareketi tespit eder."
 domain: cybersecurity
 subdomain: cloud-security
 tags:

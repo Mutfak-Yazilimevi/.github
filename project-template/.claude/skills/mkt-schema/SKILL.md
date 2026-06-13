@@ -1,6 +1,6 @@
 ---
 name: schema
-description: When the user wants to add, fix, or optimize schema markup and structured data on their site. Also use when the user mentions "schema markup," "structured data," "JSON-LD," "rich snippets," "schema.org," "FAQ schema," "product schema," "review schema," "breadcrumb schema," "Google rich results," "knowledge panel," "star ratings in search," or "add structured data." Use this whenever someone wants their pages to show enhanced results in Google. For broader SEO issues, see seo-audit. For AI search optimization, see ai-seo.
+description: "Kullanıcı sitesine şema işaretlemesi ve yapılandırılmış veri eklemek, düzeltmek veya optimize etmek istediğinde kullan. Ayrıca kullanıcı \"schema markup\", \"structured data\", \"JSON-LD\", \"rich snippets\", \"schema.org\", \"FAQ schema\", \"product schema\", \"review schema\", \"breadcrumb schema\", \"Google rich results\", \"knowledge panel\", \"arama sonuçlarında yıldız derecelendirmeleri\" veya \"add structured data\" dediğinde kullan. Sayfaların Google'da gelişmiş sonuçlar göstermesini isteyen biri için her zaman kullan. Daha geniş SEO sorunları için seo-audit'e, yapay zeka arama optimizasyonu için ai-seo'ya bak."
 metadata:
   version: 2.0.0
 ---

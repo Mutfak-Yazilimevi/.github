@@ -1,20 +1,6 @@
 ---
 name: test-smell-detection
-description: >
-  Deep-dive audit using the full testsmells.org 19-smell academic catalog
-  for tests in any language. Every finding maps to a named, citable smell
-  from the research literature (Assertion Roulette, Duplicate Assert,
-  Mystery Guest, Eager Test, Sensitive Equality, Conditional Test Logic,
-  Sleepy Test, Magic Number Test, etc.) with research-backed severity.
-  Polyglot: .NET (MSTest/xUnit/NUnit/TUnit), Python (pytest/unittest),
-  TS/JS (Jest/Vitest/Mocha/node:test), Java (JUnit/TestNG), Go, Ruby
-  (RSpec/Minitest), Rust, Swift, Kotlin (JUnit/Kotest), PowerShell
-  (Pester), C++ (GoogleTest/Catch2).
-  INVOKE ONLY when explicitly asked for the testsmells.org 19-smell
-  academic catalog or citable smell names from the literature.
-  DO NOT USE FOR: general or pragmatic audits — use test-anti-patterns;
-  writing new tests (use code-testing-agent, or writing-mstest-tests for
-  MSTest); running tests (use run-tests); framework migration.
+description: "Herhangi bir dildeki testler için testsmells.org 19-koku akademik kataloğunu kullanan derinlemesine denetim. Her bulgu, araştırma destekli önem derecesiyle birlikte araştırma literatüründen adlandırılmış ve atıflanabilir bir kokuya (Assertion Roulette, Duplicate Assert, Mystery Guest, Eager Test, Sensitive Equality, Conditional Test Logic, Sleepy Test, Magic Number Test vb.) eşleştirilir. Çok dilli: .NET (MSTest/xUnit/NUnit/TUnit), Python (pytest/unittest), TS/JS (Jest/Vitest/Mocha/node:test), Java (JUnit/TestNG), Go, Ruby (RSpec/Minitest), Rust, Swift, Kotlin (JUnit/Kotest), PowerShell (Pester), C++ (GoogleTest/Catch2). YALNIZCA testsmells.org 19-koku akademik kataloğu veya literatürden atıflanabilir koku adları istendiğinde KULLANILIR. BUNUN İÇİN KULLANMA: genel veya pragmatik denetimler — test-anti-patterns kullan; yeni testler yazma (code-testing-agent ya da MSTest için writing-mstest-tests kullan); testleri çalıştırma (run-tests kullan); çerçeve geçişi."
 license: MIT
 ---
 

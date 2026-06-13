@@ -1,14 +1,6 @@
 ---
 name: deploying-ransomware-canary-files
-description: 'Deploys and monitors ransomware canary files across critical directories
-  using Python''s watchdog library for real-time filesystem event detection. Places
-  strategically named decoy files that mimic high-value targets (financial records,
-  credentials, database exports) in locations ransomware typically enumerates first.
-  Monitors for any read, modify, rename, or delete operations on canary files and
-  triggers immediate alerts via email, Slack webhook, or syslog when interaction is
-  detected, providing early warning before full encryption begins.
-
-  '
+description: "Gerçek zamanlı dosya sistemi olay tespiti için Python'ın watchdog kütüphanesini kullanarak fidye yazılımı canary dosyalarını kritik dizinler genelinde dağıtır ve izler. Fidye yazılımının önce numaralandırdığı konumlara yüksek değerli hedefleri (mali kayıtlar, kimlik bilgileri, veritabanı dışa aktarımları) taklit eden stratejik olarak adlandırılmış sahte dosyalar yerleştirir. Canary dosyalarında herhangi bir okuma, değiştirme, yeniden adlandırma veya silme işlemini izler ve tam şifreleme başlamadan önce erken uyarı sağlamak amacıyla etkileşim tespit edildiğinde e-posta, Slack webhook veya syslog aracılığıyla anında uyarılar tetikler."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

@@ -1,6 +1,6 @@
 ---
 name: "senior-backend"
-description: Designs and implements backend systems including REST APIs, microservices, database architectures, authentication flows, and security hardening. Use when the user asks to "design REST APIs", "optimize database queries", "implement authentication", "build microservices", "review backend code", "set up GraphQL", "handle database migrations", or "load test APIs". Covers Node.js/Express/Fastify development, PostgreSQL optimization, API security, and backend architecture patterns.
+description: "REST API'leri, mikroservisler, veritabanı mimarileri, kimlik doğrulama akışları ve güvenlik güçlendirmesi dahil backend sistemleri tasarlar ve uygular. Kullanıcı 'REST API tasarla', 'veritabanı sorgularını optimize et', 'kimlik doğrulama uygula', 'mikroservisler oluştur', 'backend kodunu incele', 'GraphQL kur', 'veritabanı migrasyonlarını yönet' veya 'API'leri yük testi yap' istediğinde kullan. Node.js/Express/Fastify geliştirme, PostgreSQL optimizasyonu, API güvenliği ve backend mimari kalıplarını kapsar"
 ---
 
 # Senior Backend Engineer

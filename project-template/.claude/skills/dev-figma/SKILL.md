@@ -1,6 +1,6 @@
 ---
 name: figma
-description: Use the Figma MCP server to fetch design context, screenshots, variables, and assets from Figma, and to translate Figma nodes into production code. Trigger when a task involves Figma URLs, node IDs, design-to-code implementation, or Figma MCP setup and troubleshooting.
+description: "Figma MCP sunucusunu kullanarak Figma'dan tasarım bağlamı, ekran görüntüleri, değişkenler ve varlıklar al ve Figma düğümlerini üretim koduna çevir. Bir görev Figma URL'lerini, düğüm kimliklerini, tasarımdan koda uygulamayı veya Figma MCP kurulumunu ve sorun gidermeyi içerdiğinde tetikle."
 ---
 
 # Figma MCP

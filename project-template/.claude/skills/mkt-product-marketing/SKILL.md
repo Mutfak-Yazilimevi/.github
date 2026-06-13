@@ -1,6 +1,6 @@
 ---
 name: product-marketing
-description: "When the user wants to create or update their product marketing context document. Also use when the user mentions 'product context,' 'marketing context,' 'set up context,' 'positioning,' 'who is my target audience,' 'describe my product,' 'ICP,' 'ideal customer profile,' or wants to avoid repeating foundational information across marketing tasks. Use this at the start of any new project before using other marketing skills — it creates `.agents/product-marketing.md` that all other skills reference for product, audience, and positioning context."
+description: "Kullanıcı ürün pazarlama bağlamı belgesi oluşturmak veya güncellemek istediğinde kullan. Ayrıca kullanıcı 'ürün bağlamı', 'pazarlama bağlamı', 'bağlamı ayarla', 'konumlandırma', 'hedef kitlem kim', 'ürünümü anlat', 'ICP', 'ideal müşteri profili' gibi ifadeler kullandığında ya da pazarlama görevlerinde temel bilgileri tekrar tekrar girmekten kaçınmak istediğinde kullan. Diğer marketing skill'leri kullanılmadan önce her yeni projede kullan — diğer tüm skill'lerin ürün, hedef kitle ve konumlandırma bağlamı için başvurduğu `.agents/product-marketing.md` dosyasını oluşturur"
 metadata:
   version: 2.0.0
 ---

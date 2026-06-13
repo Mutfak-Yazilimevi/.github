@@ -1,6 +1,6 @@
 ---
 name: market-research
-description: Use when doing upstream market-research methodology — sizing a market as TAM/SAM/SOM computed BOTH top-down and bottoms-up (never a single unsourced number), planning a survey sample size with finite-population correction and per-segment minimums, or scoring candidate market segments against Kotler's measurable/substantial/accessible/differentiable/actionable criteria. Outputs always show the method and the assumptions. For market-research analysts and product-marketing at the sizing/survey/segmentation moment. Distinct from marketing-skill (campaign analytics, attribution, demand-gen) — this is the evidence-building methodology, not live-campaign optimization.
+description: "Üst akım pazar araştırması metodolojisi yaparken kullan — hem yukarıdan aşağıya hem de aşağıdan yukarıya hesaplanan TAM/SAM/SOM olarak pazar büyüklüğü belirleme (tek bir kaynaksız rakam asla), sonlu popülasyon düzeltmesi ve segment başına minimumlarla anket örneklemi boyutu planlama veya aday pazar segmentlerini Kotler'ın ölçülebilir/önemli/erişilebilir/farklılaşılabilir/uygulanabilir kriterlerine göre puanlama. Çıktılar her zaman yöntemi ve varsayımları gösterir. Boyutlandırma/anket/segmentasyon anında pazar araştırması analistleri ve ürün pazarlaması için. marketing-skill'den (kampanya analitiği, atıf, talep oluşturma) farklıdır — bu, canlı kampanya optimizasyonu değil kanıt oluşturma metodolojisidir."
 version: 2.9.0
 author: claude-code-skills
 license: MIT

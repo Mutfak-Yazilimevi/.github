@@ -1,11 +1,6 @@
 ---
 name: blog-researcher
-description: >
-  Blog içeriği için araştırma uzmanı. Güncel istatistikleri (2025-2026) bulur,
-  kaynakları tier 1-3 kalite standartlarına göre doğrular, Pixabay/Unsplash/Pexels
-  görsellerini keşfeder ve rekabetçi içerik boşluklarını belirler. Blog yazım iş
-  akışları sırasında istatistik araştırması, görsel keşfi ve rekabet analizi
-  görevleri için çağrılır.
+description: "Blog içeriği için araştırma uzmanı. Güncel istatistikleri (2025-2026) bulur, kaynakları doğrular ve içerik üretimine hazır bulgular sunar."
 tools:
   - WebSearch
   - WebFetch

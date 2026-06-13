@@ -1,12 +1,6 @@
 ---
 name: performing-endpoint-forensics-investigation
-description: 'Performs digital forensics investigation on compromised endpoints including
-  memory acquisition, disk imaging, artifact analysis, and timeline reconstruction.
-  Use when investigating security incidents, collecting evidence for legal proceedings,
-  or analyzing endpoint compromise scope. Activates for requests involving endpoint
-  forensics, memory analysis, disk forensics, or incident investigation.
-
-  '
+description: "Güvenliği ihlal edilmiş uç noktalarda bellek edinimi, disk görüntüleme, artifact analizi ve zaman çizelgesi yeniden yapılandırması dahil dijital adli soruşturma gerçekleştirir. Güvenlik olaylarını araştırırken, hukuki süreçler için kanıt toplarken veya uç nokta uzlaşma kapsamını analiz ederken kullan. Uç nokta adli bilimi, bellek analizi, disk adli bilimi veya olay soruşturması içeren isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: endpoint-security
 tags:

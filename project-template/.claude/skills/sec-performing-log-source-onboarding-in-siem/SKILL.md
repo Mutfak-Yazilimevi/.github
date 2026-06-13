@@ -1,7 +1,6 @@
 ---
 name: performing-log-source-onboarding-in-siem
-description: Perform structured log source onboarding into SIEM platforms by configuring
-  collectors, parsers, normalization, and validation for complete security visibility.
+description: "Tam güvenlik görünürlüğü için toplayıcıları, ayrıştırıcıları, normalleştirmeyi ve doğrulamayı yapılandırarak SIEM platformlarına yapılandırılmış log kaynağı ekleme işlemi gerçekleştirir."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

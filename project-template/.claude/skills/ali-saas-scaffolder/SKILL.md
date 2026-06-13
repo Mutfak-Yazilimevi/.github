@@ -1,6 +1,6 @@
 ---
 name: "saas-scaffolder"
-description: "Generates complete, production-ready SaaS project boilerplate including authentication, database schemas, billing integration, API routes, and a working dashboard using Next.js 14+ App Router, TypeScript, Tailwind CSS, shadcn/ui, Drizzle ORM, and Stripe. Use when the user wants to create a new SaaS app, start a subscription-based web project, scaffold a Next.js application, or mentions terms like starter template, boilerplate, new project, or wiring up auth and payments."
+description: "Next.js 14+ App Router, TypeScript, Tailwind CSS, shadcn/ui, Drizzle ORM ve Stripe kullanarak kimlik doğrulama, veritabanı şemaları, faturalama entegrasyonu, API rotaları ve çalışan bir pano dahil eksiksiz, üretime hazır SaaS proje iskeletleri oluşturur. Kullanıcı yeni bir SaaS uygulaması oluşturmak, abonelik tabanlı bir web projesi başlatmak, Next.js uygulaması iskelet kurmak veya başlangıç şablonu, iskelet, yeni proje ya da kimlik doğrulama ve ödemeleri bağlama gibi terimler belirttiğinde kullan."
 ---
 
 # SaaS Scaffolder

@@ -1,6 +1,6 @@
 ---
 name: spotify-ui-skills
-description: Spotify's UI design system. Use when building interfaces inspired by Spotify's aesthetic - dark mode, Inter font, 4px grid.
+description: "Spotify'ın UI tasarım sistemi. Spotify estetiğinden ilham alan arayüzler oluştururken kullan — koyu mod, Inter fontu, 4px ızgara."
 license: MIT
 metadata:
   author: design-skills

@@ -1,6 +1,6 @@
 ---
 name: "snowflake-development"
-description: "Use when writing Snowflake SQL, building data pipelines with Dynamic Tables or Streams/Tasks, using Cortex AI functions, creating Cortex Agents, writing Snowpark Python, configuring dbt for Snowflake, or troubleshooting Snowflake errors."
+description: "Snowflake SQL yazarken, Dynamic Tables veya Streams/Tasks ile veri pipeline'ları oluştururken, Cortex AI fonksiyonlarını kullanırken, Cortex Agent'lar oluştururken, Snowpark Python yazarken, Snowflake için dbt yapılandırırken veya Snowflake hatalarını giderirken kullan."
 ---
 
 # Snowflake Development

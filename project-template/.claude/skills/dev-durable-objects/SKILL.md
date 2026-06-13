@@ -1,6 +1,6 @@
 ---
 name: durable-objects
-description: Create and review Cloudflare Durable Objects. Use when building stateful coordination (chat rooms, multiplayer games, booking systems), implementing RPC methods, SQLite storage, alarms, WebSockets, or reviewing DO code for best practices. Covers Workers integration, wrangler config, and testing with Vitest. Biases towards retrieval from Cloudflare docs over pre-trained knowledge.
+description: "Cloudflare Durable Objects oluştur ve incele. Durumlu koordinasyon (sohbet odaları, çok oyunculu oyunlar, rezervasyon sistemleri) oluştururken, RPC yöntemleri, SQLite depolama, alarmlar, WebSockets uygularken veya en iyi uygulamalar için DO kodunu incelerken kullan. Workers entegrasyonunu, wrangler yapılandırmasını ve Vitest ile test etmeyi kapsar. Önceden eğitilmiş bilgi yerine Cloudflare belgeleri alımını tercih eder."
 ---
 
 # Durable Objects

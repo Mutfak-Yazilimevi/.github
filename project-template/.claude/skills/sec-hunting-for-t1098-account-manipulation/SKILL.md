@@ -1,8 +1,6 @@
 ---
 name: hunting-for-t1098-account-manipulation
-description: Hunt for MITRE ATT&CK T1098 account manipulation including shadow admin
-  creation, SID history injection, group membership changes, and credential modifications
-  using Windows Security Event Logs.
+description: "Windows Security Event Logs kullanarak gölge yönetici oluşturma, SID geçmişi enjeksiyonu, grup üyeliği değişiklikleri ve kimlik bilgisi değişiklikleri dahil MITRE ATT&CK T1098 hesap manipülasyonunu avlar."
 domain: cybersecurity
 subdomain: threat-hunting
 tags:

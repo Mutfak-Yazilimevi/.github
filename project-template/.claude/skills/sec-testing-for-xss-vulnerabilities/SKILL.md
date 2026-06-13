@@ -1,14 +1,6 @@
 ---
 name: testing-for-xss-vulnerabilities
-description: 'Tests web applications for Cross-Site Scripting (XSS) vulnerabilities
-  by injecting JavaScript payloads into reflected, stored, and DOM-based contexts
-  to demonstrate client-side code execution, session hijacking, and user impersonation.
-  The tester identifies all injection points and output contexts, crafts context-appropriate
-  payloads, and bypasses sanitization and CSP protections. Activates for requests
-  involving XSS testing, cross-site scripting assessment, client-side injection testing,
-  or JavaScript injection vulnerability testing.
-
-  '
+description: "İstemci tarafı kod yürütme, oturum ele geçirme ve kullanıcı kimliğine bürünmeyi göstermek amacıyla yansıtılan, depolanan ve DOM tabanlı bağlamlara JavaScript yükleri enjekte ederek web uygulamalarını Cross-Site Scripting (XSS) güvenlik açıkları açısından test eder. Test uzmanı tüm enjeksiyon noktalarını ve çıktı bağlamlarını tespit eder, bağlama uygun yükler oluşturur ve sanitizasyon ile CSP korumalarını atlar. XSS testi, cross-site scripting değerlendirmesi, istemci tarafı enjeksiyon testi veya JavaScript enjeksiyon güvenlik açığı testi içeren istekler için kullan."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

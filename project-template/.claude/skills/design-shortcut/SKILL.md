@@ -1,6 +1,6 @@
 ---
 name: shortcut-ui-skills
-description: Shortcut's UI design system. Use when building interfaces inspired by Shortcut's aesthetic - light mode, Inter font, 4px grid.
+description: "Shortcut'ın UI tasarım sistemi. Shortcut'ın estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter yazı tipi, 4px ızgara."
 license: MIT
 metadata:
   author: design-skills

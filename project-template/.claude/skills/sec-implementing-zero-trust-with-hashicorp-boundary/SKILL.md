@@ -1,8 +1,6 @@
 ---
 name: implementing-zero-trust-with-hashicorp-boundary
-description: Implement HashiCorp Boundary for identity-aware zero trust infrastructure
-  access management with dynamic credential brokering, session recording, and Vault
-  integration.
+description: "Kimlik tabanlı sıfır güven altyapı erişimi için HashiCorp Boundary uygula"
 domain: cybersecurity
 subdomain: zero-trust-architecture
 tags:

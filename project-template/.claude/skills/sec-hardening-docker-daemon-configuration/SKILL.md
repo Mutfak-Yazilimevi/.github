@@ -1,7 +1,6 @@
 ---
 name: hardening-docker-daemon-configuration
-description: Harden the Docker daemon by configuring daemon.json with user namespace
-  remapping, TLS authentication, rootless mode, and CIS benchmark controls.
+description: "Kullanıcı namespace remapping ile daemon.json yapılandırarak Docker daemon'ı sağlamlaştır"
 domain: cybersecurity
 subdomain: container-security
 tags:

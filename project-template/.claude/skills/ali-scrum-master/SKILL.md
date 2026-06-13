@@ -1,6 +1,6 @@
 ---
 name: "scrum-master"
-description: "Advanced Scrum Master skill for data-driven agile team analysis and coaching. Use when the user asks about sprint planning, velocity tracking, retrospectives, standup facilitation, backlog grooming, story points, burndown charts, blocker resolution, or agile team health. Runs Python scripts to analyse sprint JSON exports from Jira or similar tools: velocity_analyzer.py for Monte Carlo sprint forecasting, sprint_health_scorer.py for multi-dimension health scoring, and retrospective_analyzer.py for action-item and theme tracking. Produces confidence-interval forecasts, health grade reports, and improvement-velocity trends for high-performing Scrum teams."
+description: "Veri güdümlü çevik ekip analizi ve koçluğu için gelişmiş Scrum Master becerisi. Kullanıcı sprint planlaması, hız takibi, retrospektifler, standup kolaylaştırma, product backlog yönetimi, story point'ler, burndown grafikleri, engel çözümü veya çevik ekip sağlığı hakkında sorduğunda kullan. Jira veya benzer araçlardan sprint JSON dışa aktarmalarını analiz etmek için Python betikleri çalıştırır: Monte Carlo sprint tahmini için velocity_analyzer.py, çok boyutlu sağlık puanlama için sprint_health_scorer.py ve aksiyon öğesi ile tema takibi için retrospective_analyzer.py. Yüksek performanslı Scrum ekipleri için güven aralığı tahminleri, sağlık notu raporları ve iyileştirme hızı trendleri üretir."
 license: MIT
 metadata:
   version: 2.0.0

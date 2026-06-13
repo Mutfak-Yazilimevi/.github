@@ -1,14 +1,6 @@
 ---
 name: ui-ux-design-consultant
-description: >
-  Analyze existing websites and front-end codebases to identify UI/UX design problems and execute
-  professional-grade redesigns. Use this skill whenever the user asks to improve, audit, review,
-  redesign, polish, or elevate the visual quality of an existing website, web app, landing page,
-  dashboard, or UI. Also trigger when the user says things like "make this look professional",
-  "this looks ugly", "improve the design", "redesign the frontend", "UI audit", "UX review",
-  "make this world-class", "polish the UI", or any request to evaluate and improve the visual
-  quality, layout, spacing, typography, colors, or overall aesthetics of an existing codebase.
-  Do NOT use for building from scratch — use frontend-design skill for that instead.
+description: "Mevcut web sitelerini ve frontend kod tabanlarını analiz ederek UI/UX tasarım sorunlarını tespit eder ve profesyonel kalitede yeniden tasarımlar gerçekleştirir. Kullanıcı mevcut bir web sitesi, web uygulaması, açılış sayfası, gösterge paneli veya kullanıcı arayüzünün görsel kalitesini iyileştirmesini, denetlemesini, incelemesini, yeniden tasarlamasını, parlatmasını veya yükseltmesini istediğinde bu beceriyi kullan. Ayrıca kullanıcı \"bunu profesyonel göster\", \"bu çirkin görünüyor\", \"tasarımı iyileştir\", \"frontend'i yeniden tasarla\", \"UI denetimi\", \"UX incelemesi\", \"bunu dünya standartlarında yap\", \"UI'yı parlatla\" gibi şeyler söylediğinde veya mevcut bir kod tabanının görsel kalitesini, düzenini, boşluğunu, tipografisini, renklerini veya genel estetiğini değerlendirme ve iyileştirme isteği geldiğinde tetikle. Sıfırdan oluşturma için KULLANMA — bunun yerine frontend-design becerisini kullan."
 ---
 
 # UI/UX Design Consultant

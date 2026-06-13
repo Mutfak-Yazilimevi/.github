@@ -1,6 +1,6 @@
 ---
 name: short-form-pipeline
-description: Produce short-form video clips from long-form source — select moments, cut, caption, and format for Shorts/Reels/TikTok. Use to turn a long video into platform-ready short clips.
+description: "Uzun formatlı kaynaktan kısa formatlı video klipleri üretir — anlar seçer, keser, altyazı ekler ve Shorts/Reels/TikTok için formatlar. Uzun bir videoyu platforma hazır kısa kliplere dönüştürmek için kullan."
 ---
 
 # Short-Form Video Clip Pipeline — Skill

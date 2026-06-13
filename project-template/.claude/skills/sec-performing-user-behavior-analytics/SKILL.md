@@ -1,12 +1,6 @@
 ---
 name: performing-user-behavior-analytics
-description: 'Performs User and Entity Behavior Analytics (UEBA) to detect anomalous
-  user activities including impossible travel, unusual access patterns, privilege
-  abuse, and insider threats using SIEM-based behavioral baselines and statistical
-  analysis. Use when SOC teams need to identify compromised accounts or insider threats
-  through deviation from established behavioral norms.
-
-  '
+description: "SIEM tabanlı davranışsal taban çizgileri ve istatistiksel analiz kullanarak imkansız seyahat, olağandışı erişim kalıpları, ayrıcalık kötüye kullanımı ve içeriden tehditleri kapsayan anormal kullanıcı faaliyetlerini tespit etmek için Kullanıcı ve Varlık Davranış Analitiği (UEBA) gerçekleştirir. SOC ekiplerinin kurulmuş davranışsal normlardan sapma yoluyla ele geçirilmiş hesapları veya içeriden tehditleri tanımlaması gerektiğinde kullan."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

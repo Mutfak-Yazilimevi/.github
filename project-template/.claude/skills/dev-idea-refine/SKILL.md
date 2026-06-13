@@ -1,6 +1,6 @@
 ---
 name: idea-refine
-description: Refines raw ideas into sharp, actionable concepts through structured divergent and convergent thinking. Use when an idea is still vague, when you need to stress-test assumptions before committing to a plan, or when you want to expand options before converging on one. Triggers on "ideate", "refine this idea", or "stress-test my plan".
+description: "Ham fikirleri yapılandırılmış ıraksak ve yakınsak düşünce yoluyla keskin, eyleme geçirilebilir kavramlara dönüştürür. Bir fikir hâlâ belirsiz olduğunda, bir plana bağlanmadan önce varsayımları stres testinden geçirmeniz gerektiğinde veya bire indirmeden önce seçenekleri genişletmek istediğinizde kullan. \"Ideate\", \"refine this idea\" veya \"stress-test my plan\" üzerinde tetiklenir."
 ---
 
 # Idea Refine

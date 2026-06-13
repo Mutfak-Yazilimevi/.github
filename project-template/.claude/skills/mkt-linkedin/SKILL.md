@@ -1,6 +1,6 @@
 ---
 name: linkedin
-description: LinkedIn-deep skill for professionals and founders — optimize the profile (headline, About, Featured, Experience, skills), build a content engine (posts, carousels, articles with hooks and cadence), grow the network and engagement, and run thoughtful outreach/DMs. Use for LinkedIn profile audit/optimization, personal-brand or founder-led content, LinkedIn growth strategy, connection/outreach sequences, or "improve my LinkedIn". Goes deeper than multi-platform social-content skills which treat LinkedIn as just one channel.
+description: "Profesyoneller ve kurucular için LinkedIn odaklı skill — profili optimize eder (başlık, Hakkında, Öne Çıkanlar, Deneyim, beceriler), içerik motoru oluşturur (kancalar ve kadansla gönderiler, karusel'ler, makaleler), ağı ve etkileşimi büyütür ve düşünceli giden mesajlar/DM'ler yürütür. LinkedIn profil denetimi/optimizasyonu, kişisel marka veya kurucu öncülüğünde içerik, LinkedIn büyüme stratejisi, bağlantı/giden mesaj dizileri veya \"LinkedIn'imi geliştir\" için kullan. LinkedIn'i yalnızca bir kanal olarak ele alan çok platformlu sosyal içerik skill'lerinden daha derine gider."
 ---
 
 # LinkedIn (profil · içerik · büyüme · outreach)

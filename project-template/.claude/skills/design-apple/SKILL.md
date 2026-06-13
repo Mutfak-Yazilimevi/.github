@@ -1,6 +1,6 @@
 ---
 name: apple-ui-skills
-description: Apple's UI design system. Use when building interfaces inspired by Apple's aesthetic - light mode, Inter font, 4px grid.
+description: "Apple'ın UI tasarım sistemi. Apple'ın estetiğinden — açık mod, Inter font, 4px grid — ilham alarak arayüz oluştururken kullan."
 license: MIT
 metadata:
   author: design-skills

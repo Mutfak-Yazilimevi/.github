@@ -1,6 +1,6 @@
 ---
 name: supabase-ui-skills
-description: Supabase's UI design system. Use when building interfaces inspired by Supabase's aesthetic - dark mode, Inter font, 4px grid.
+description: "Supabase'in UI tasarım sistemi. Supabase estetiğinden ilham alarak arayüzler oluştururken kullanılır — karanlık mod, Inter yazı tipi, 4 piksel ızgara."
 license: MIT
 metadata:
   author: design-skills

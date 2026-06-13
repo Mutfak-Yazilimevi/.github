@@ -1,6 +1,6 @@
 ---
 name: monetization-strategy
-description: "Brainstorm 3-5 monetization strategies with audience fit, risks, and validation experiments. Use when exploring revenue models, evaluating pricing strategies, or deciding how to monetize a product."
+description: "Kitle uyumu, riskler ve doğrulama deneyleriyle birlikte 3-5 para kazanma stratejisi üretir. Gelir modellerini keşfederken, fiyatlandırma stratejilerini değerlendirirken veya bir ürünü nasıl para kazandıracağına karar verirken kullanılır."
 ---
 # Monetization Strategy
 

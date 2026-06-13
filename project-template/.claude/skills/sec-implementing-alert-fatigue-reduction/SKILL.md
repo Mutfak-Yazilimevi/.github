@@ -1,12 +1,6 @@
 ---
 name: implementing-alert-fatigue-reduction
-description: 'Implements strategies to reduce SOC alert fatigue by tuning detection
-  rules, consolidating duplicate alerts, implementing risk-based alerting, and measuring
-  alert quality metrics to maintain analyst effectiveness and prevent critical alert
-  dismissal. Use when SOC teams face overwhelming alert volumes, high false positive
-  rates, or declining analyst performance.
-
-  '
+description: "Analist etkinliğini korumak ve kritik uyarıların göz ardı edilmesini önlemek amacıyla tespit kurallarını ayarlayarak, yinelenen uyarıları birleştirerek, risk tabanlı uyarı uygulayarak ve uyarı kalitesi metriklerini ölçerek SOC uyarı yorgunluğunu azaltma stratejileri uygular. SOC ekipleri bunaltıcı uyarı hacimleri, yüksek yanlış pozitif oranları veya düşen analist performansıyla karşılaştığında kullanın."
 domain: cybersecurity
 subdomain: soc-operations
 tags:

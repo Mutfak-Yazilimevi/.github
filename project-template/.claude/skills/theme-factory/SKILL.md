@@ -1,6 +1,6 @@
 ---
 name: theme-factory
-description: Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly.
+description: "Artifaktları bir tema ile şekillendirmek için araç seti. Bu artifaktlar slaytlar, dökümanlar, raporlar, HTML açılış sayfaları vb. olabilir. İstediğiniz herhangi bir artifakta uygulayabileceğiniz renkler/fontlar içeren 10 önceden ayarlanmış tema mevcuttur veya anında yeni bir tema oluşturabilirsiniz."
 license: Complete terms in LICENSE.txt
 ---
 

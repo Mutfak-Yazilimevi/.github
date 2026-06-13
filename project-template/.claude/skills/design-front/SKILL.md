@@ -1,6 +1,6 @@
 ---
 name: front-ui-skills
-description: Front's UI design system. Use when building interfaces inspired by Front's aesthetic - light mode, Inter font, 4px grid.
+description: "Front'un UI tasarım sistemi. Front'un estetiğinden ilham alan arayüzler oluştururken kullan — açık mod, Inter font, 4px ızgara."
 license: MIT
 metadata:
   author: design-skills

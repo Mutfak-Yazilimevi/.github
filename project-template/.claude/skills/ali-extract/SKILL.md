@@ -1,6 +1,6 @@
 ---
 name: "extract"
-description: "Turn a proven pattern or debugging solution into a standalone reusable skill with SKILL.md, reference docs, and examples."
+description: "Kanıtlanmış bir kalıbı veya hata ayıklama çözümünü SKILL.md, referans dokümanları ve örneklerle bağımsız, yeniden kullanılabilir bir skill'e dönüştürür"
 ---
 
 # /si:extract — Create Skills from Patterns

@@ -1,6 +1,6 @@
 ---
 name: engineering-status
-description: "Show DAG state, agent progress, and branch status for an AgentHub session."
+description: "Bir AgentHub oturumu için DAG durumunu, ajan ilerlemesini ve dal durumunu gösterir."
 command: /hub:status
 ---
 

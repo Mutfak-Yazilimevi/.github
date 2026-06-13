@@ -1,14 +1,6 @@
 ---
 name: crap-score
-description: >
-  Calculates targeted CRAP (Change Risk Anti-Patterns) scores for a named .NET
-  method, class, or single source file. Use when the user explicitly asks to
-  compute CRAP scores or assess risky untested code for a specific target,
-  combining Cobertura coverage data with cyclomatic complexity analysis.
-  DO NOT USE FOR: project-wide coverage analysis, coverage plateau or "stuck
-  coverage" diagnosis, what's blocking coverage, or where to add tests across
-  a project (use coverage-analysis); writing tests; running tests without
-  CRAP context.
+description: "Belirli bir .NET metodu, sınıfı veya tek kaynak dosyası için hedeflenmiş CRAP (Change Risk Anti-Patterns) skorları hesaplar. Kullanıcı belirli bir hedef için CRAP skorları hesaplamak veya riskli test edilmemiş kodu değerlendirmek istediğinde, Cobertura kapsam verilerini siklomatik karmaşıklık analiziyle birleştirerek kullan. KULLANMA: proje geneli kapsam analizi, kapsam durma veya \"takılı kapsam\" tanısı, kapsamı neyin engellediği veya bir proje genelinde test ekleme yerleri (bunun için coverage-analysis kullan); test yazma; CRAP bağlamı olmadan test çalıştırma."
 license: MIT
 ---
 

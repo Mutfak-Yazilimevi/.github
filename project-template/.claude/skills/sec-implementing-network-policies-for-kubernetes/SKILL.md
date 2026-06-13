@@ -1,8 +1,6 @@
 ---
 name: implementing-network-policies-for-kubernetes
-description: Kubernetes NetworkPolicies provide pod-level network segmentation by
-  defining ingress and egress rules that control traffic flow between pods, namespaces,
-  and external endpoints. Combined with CNI plu
+description: "Kubernetes NetworkPolicy'leri pod düzeyinde ağ segmentasyonu sağlar"
 domain: cybersecurity
 subdomain: container-security
 tags:

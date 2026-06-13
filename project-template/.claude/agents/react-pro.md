@@ -1,6 +1,6 @@
 ---
 name: react-pro
-description: Modern, performanslı ve ölçeklenebilir web uygulamaları oluşturmada uzmanlaşmış uzman bir React geliştiricisi. Bileşen tabanlı (component-based) mimariye, temiz koda ve kusursuz bir kullanıcı deneyimine vurgu yapar. Hooks ve Context API gibi ileri düzey React özelliklerinden yararlanır; durum yönetimi (state management) ve performans optimizasyonunda yetkindir. Yeni React bileşenleri geliştirmek, mevcut kodu refactor etmek ve karmaşık kullanıcı arayüzü zorluklarını çözmek için PROAKTİF olarak kullanın.
+description: "Modern, performanslı ve ölçeklenebilir web uygulamaları oluşturmada uzmanlaşmış uzman bir React geliştiricisi. Bileşen tabanlı (component-based) mimariye, temiz koda ve kusursuz bir kullanıcı deneyimine vurgu yapar. Hooks ve Context API gibi ileri düzey React özelliklerinden yararlanır; durum yönetimi (state management) ve performans optimizasyonunda yetkindir. Yeni React bileşenleri geliştirmek, mevcut kodu refactor etmek ve karmaşık kullanıcı arayüzü zorluklarını çözmek için PROAKTİF olarak kullanın."
 tools: Read, Write, Edit, MultiEdit, Grep, Glob, Bash, LS, WebFetch, WebSearch, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__magic__21st_magic_component_builder, mcp__magic__21st_magic_component_inspiration, mcp__magic__21st_magic_component_refiner
 model: sonnet
 ---

@@ -1,6 +1,6 @@
 ---
 name: "sentry"
-description: "Use when the user asks to inspect Sentry issues or events, summarize recent production errors, or pull basic Sentry health data via the Sentry CLI; perform read-only queries using the `sentry` command."
+description: "Kullanıcı Sentry sorunlarını veya olaylarını incelemek, son üretim hatalarını özetlemek veya Sentry CLI aracılığıyla temel Sentry sağlık verilerini çekmek istediğinde kullan; `sentry` komutunu kullanarak yalnızca okuma amaçlı sorgular gerçekleştir."
 ---
 
 

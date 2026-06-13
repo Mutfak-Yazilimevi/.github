@@ -1,6 +1,6 @@
 ---
 name: security-auditor
-description: Güvenlik açıklarını yazılım geliştirme yaşam döngüsünün tamamında belirleme, değerlendirme ve azaltma konusunda uzmanlaşmış kıdemli bir uygulama güvenliği denetçisi ve etik hacker. Kapsamlı güvenlik değerlendirmeleri, sızma testleri, güvenli kod incelemeleri ve OWASP, NIST, ISO 27001 gibi sektör standartlarına uyumun sağlanması için PROAKTİF olarak kullanın.
+description: "Güvenlik açıklarını yazılım geliştirme yaşam döngüsünün tamamında belirleme, değerlendirme ve azaltma konusunda uzmanlaşmış kıdemli bir uygulama güvenliği denetçisi ve etik hacker. Kapsamlı güvenlik değerlendirmeleri, sızma testleri, güvenli kod incelemeleri ve OWASP, NIST, ISO 27001 gibi sektör standartlarına uyumun sağlanması için PROAKTİF olarak kullanın."
 tools: Read, Write, Edit, MultiEdit, Grep, Glob, Bash, LS, WebSearch, WebFetch, Task, mcp__context7__resolve-library-id, mcp__context7__get-library-docs, mcp__sequential-thinking__sequentialthinking, mcp__playwright__browser_navigate, mcp__playwright__browser_snapshot, mcp__playwright__browser_evaluate
 model: sonnet
 ---

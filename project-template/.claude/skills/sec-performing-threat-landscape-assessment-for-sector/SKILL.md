@@ -1,8 +1,6 @@
 ---
 name: performing-threat-landscape-assessment-for-sector
-description: Conduct a sector-specific threat landscape assessment by analyzing threat
-  actor targeting patterns, common attack vectors, and industry-specific vulnerabilities
-  to inform organizational risk management.
+description: "Kurumsal risk yönetimini bilgilendirmek amacıyla tehdit aktörü hedefleme kalıplarını, yaygın saldırı vektörlerini ve sektöre özgü güvenlik açıklarını analiz ederek sektöre özgü tehdit ortamı değerlendirmesi yürütür."
 domain: cybersecurity
 subdomain: threat-intelligence
 tags:

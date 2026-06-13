@@ -1,6 +1,6 @@
 ---
 name: system-design-scaling
-description: Scale a system across growth stages — roughly 1K (early/MVP), 1M (scaling), and 10M+ (enterprise) users. Use when choosing architecture, database, API design, traffic handling, caching, queueing, deployment, observability, fault tolerance, and data-consistency strategies appropriate to the CURRENT scale, or planning the evolution path from MVP to enterprise without premature complexity.
+description: "Büyüme aşamaları boyunca bir sistemi ölçeklendirir — yaklaşık 1K (erken/MVP), 1M (ölçekleme) ve 10M+ (kurumsal) kullanıcı. Mimari, veritabanı, API tasarımı, trafik yönetimi, önbellekleme, kuyruk, dağıtım, gözlemlenebilirlik, hata toleransı ve veri tutarlılığı stratejilerini MEVCUT ölçeğe uygun şekilde seçerken veya MVP'den kurumsala gereksiz karmaşıklık olmadan evrim yolunu planlarken kullanılır."
 ---
 
 # System Design — Scaling by Stage

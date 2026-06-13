@@ -1,6 +1,6 @@
 ---
 name: "database-designer"
-description: "Use when the user asks to design database schemas, plan data migrations, optimize queries, choose between SQL and NoSQL, or model data relationships."
+description: "Kullanıcı veritabanı şemaları tasarlamak, veri göçlerini planlamak, sorguları optimize etmek, SQL ile NoSQL arasında seçim yapmak veya veri ilişkilerini modellemek istediğinde kullan."
 ---
 
 # Database Designer - POWERFUL Tier Skill

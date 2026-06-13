@@ -1,8 +1,6 @@
 ---
 name: testing-for-sensitive-data-exposure
-description: Identifying sensitive data exposure vulnerabilities including API key
-  leakage, PII in responses, insecure storage, and unprotected data transmission during
-  security assessments.
+description: "Güvenlik değerlendirmeleri sırasında API anahtar sızıntısı, yanıtlardaki kişisel veriler (PII), güvensiz depolama ve korumasız veri iletimi dahil olmak üzere hassas veri ifşa güvenlik açıklarını tespit eder."
 domain: cybersecurity
 subdomain: web-application-security
 tags:

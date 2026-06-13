@@ -1,13 +1,6 @@
 ---
 name: performing-privilege-escalation-assessment
-description: 'Performs privilege escalation assessments on compromised Linux and Windows
-  systems to identify paths from low-privilege access to root or SYSTEM-level control.
-  The tester enumerates misconfigurations, vulnerable services, kernel exploits, SUID
-  binaries, unquoted service paths, and credential stores to demonstrate the full
-  impact of an initial compromise. Activates for requests involving privilege escalation
-  testing, local exploitation, post-compromise escalation, or OS-level security assessment.
-
-  '
+description: "Düşük ayrıcalıklı erişimden root veya SYSTEM düzeyinde kontrole giden yolları belirlemek amacıyla ele geçirilmiş Linux ve Windows sistemlerinde ayrıcalık yükseltme değerlendirmeleri gerçekleştirir. Test uzmanı, ilk ele geçirmenin tam etkisini göstermek için yanlış yapılandırmaları, savunmasız servisleri, kernel açıklarını, SUID ikili dosyalarını, tırnaksız servis yollarını ve kimlik bilgisi depolarını numaralandırır. Ayrıcalık yükseltme testi, yerel istismar, ele geçirme sonrası yükseltme veya işletim sistemi düzeyinde güvenlik değerlendirmesi içeren istekler için kullan."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

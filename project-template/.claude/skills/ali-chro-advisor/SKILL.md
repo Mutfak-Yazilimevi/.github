@@ -1,6 +1,6 @@
 ---
 name: "chro-advisor"
-description: "People leadership for scaling companies. Hiring strategy, compensation design, org structure, culture, and retention. Use when building hiring plans, designing comp frameworks, restructuring teams, managing performance, building culture, or when user mentions CHRO, HR, people strategy, talent, headcount, compensation, org design, retention, or performance management."
+description: "Büyüyen şirketler için insan kaynakları liderliği. İşe alım stratejisi, ücret tasarımı, organizasyon yapısı, kültür ve elde tutma. İşe alım planları oluştururken, ücret çerçeveleri tasarlarken, ekipleri yeniden yapılandırırken, performansı yönetirken, kültür oluştururken veya kullanıcı CHRO, HR, people strategy, talent, headcount, compensation, org design, retention ya da performance management ifadelerini kullandığında kullan."
 license: MIT
 metadata:
   version: 1.0.0

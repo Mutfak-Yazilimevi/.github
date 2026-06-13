@@ -1,14 +1,6 @@
 ---
 name: recovering-from-ransomware-attack
-description: 'Executes structured recovery from a ransomware incident following NIST
-  and CISA frameworks, including environment isolation, forensic evidence preservation,
-  clean infrastructure rebuild, prioritized system restoration from verified backups,
-  credential reset, and validation against re-infection. Covers Active Directory recovery,
-  database restoration, and application stack rebuild in dependency order. Activates
-  for requests involving ransomware recovery, post-encryption restoration, or disaster
-  recovery from ransomware.
-
-  '
+description: "NIST ve CISA çerçevelerini izleyerek ortam izolasyonu, adli kanıt koruma, temiz altyapı yeniden inşası, doğrulanmış yedeklerden önceliklendirilmiş sistem geri yükleme, kimlik bilgisi sıfırlama ve yeniden enfeksiyona karşı doğrulama dahil olmak üzere fidye yazılımı olayından yapılandırılmış kurtarma yürütür. Bağımlılık sırasına göre Active Directory kurtarma, veritabanı geri yükleme ve uygulama yığını yeniden inşasını kapsar. Fidye yazılımı kurtarma, şifreleme sonrası geri yükleme veya fidye yazılımından olağanüstü hal kurtarma içeren istekler için kullan."
 domain: cybersecurity
 subdomain: ransomware-defense
 tags:

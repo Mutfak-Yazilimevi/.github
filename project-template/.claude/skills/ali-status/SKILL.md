@@ -1,6 +1,6 @@
 ---
 name: "status"
-description: "Show experiment dashboard with results, active loops, and progress."
+description: "Deney panosunu sonuçlar, aktif döngüler ve ilerlemeyle birlikte göster."
 command: /ar:status
 ---
 

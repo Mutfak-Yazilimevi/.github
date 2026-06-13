@@ -1,6 +1,6 @@
 ---
 name: "senior-data-engineer"
-description: Data engineering skill for building scalable data pipelines, ETL/ELT systems, and data infrastructure. Expertise in Python, SQL, Spark, Airflow, dbt, Kafka, and modern data stack. Includes data modeling, pipeline orchestration, data quality, and DataOps. Use when designing data architectures, building data pipelines, optimizing data workflows, implementing data governance, or troubleshooting data issues.
+description: "Ölçeklenebilir veri pipeline'ları, ETL/ELT sistemleri ve veri altyapısı oluşturmak için veri mühendisliği skill'i. Python, SQL, Spark, Airflow, dbt, Kafka ve modern veri yığınında uzmanlık. Veri modelleme, pipeline orkestrasyonu, veri kalitesi ve DataOps kapsar. Veri mimarileri tasarlarken, veri pipeline'ları inşa ederken, veri iş akışlarını optimize ederken, veri yönetişimi uygularken veya veri sorunlarını giderirken kullan."
 ---
 
 # Senior Data Engineer

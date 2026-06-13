@@ -1,8 +1,6 @@
 ---
 name: performing-active-directory-penetration-test
-description: Conduct a focused Active Directory penetration test to enumerate domain
-  objects, discover attack paths with BloodHound, exploit Kerberos weaknesses, escalate
-  privileges via ADCS/DCSync, and demonstrate domain compromise.
+description: "Alan nesnelerini numaralandırmak, BloodHound ile saldırı yollarını keşfetmek, Kerberos zayıflıklarını istismar etmek, ADCS/DCSync aracılığıyla ayrıcalıkları yükseltmek ve alan ele geçirimini göstermek için odaklanmış bir Active Directory sızma testi yürütür."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:

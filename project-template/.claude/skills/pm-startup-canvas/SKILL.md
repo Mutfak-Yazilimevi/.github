@@ -1,6 +1,6 @@
 ---
 name: startup-canvas
-description: "Generate a Startup Canvas combining Product Strategy (9 sections) and Business Model (costs + revenue) for a new product. An alternative to BMC and Lean Canvas that separates strategy from business model. Use when launching a new product or evaluating a startup concept."
+description: "Yeni bir ürün için Ürün Stratejisi (9 bölüm) ve İş Modeli (maliyetler + gelir) birleştiren bir Startup Canvas oluşturur. BMC ve Lean Canvas'a stratejiyi iş modelinden ayıran bir alternatif. Yeni bir ürün başlatırken veya bir girişim konseptini değerlendirirken kullan."
 ---
 # Startup Canvas
 

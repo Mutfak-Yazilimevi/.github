@@ -1,14 +1,6 @@
 ---
 name: implementing-api-key-security-controls
-description: 'Implements secure API key generation, storage, rotation, and revocation
-  controls to protect API authentication credentials from leakage, brute force, and
-  abuse. The engineer designs API key formats with sufficient entropy, implements
-  secure hashing for storage, enforces per-key scoping and rate limiting, monitors
-  for leaked keys in public repositories, and builds key rotation workflows. Activates
-  for requests involving API key management, API key security, key rotation policy,
-  or API credential protection.
-
-  '
+description: "API kimlik doğrulama kimlik bilgilerini sızıntı, brute force ve kötüye kullanımdan korumak amacıyla güvenli API anahtarı oluşturma, depolama, döndürme ve iptal etme kontrolleri uygular. Mühendis; yeterli entropi ile API anahtarı biçimleri tasarlar, güvenli depolama için karma uygular, anahtar başına kapsam ve hız sınırlaması uygular, genel depolarda sızan anahtarları izler ve anahtar döndürme iş akışları oluşturur. API anahtarı yönetimi, API anahtarı güvenliği, anahtar döndürme politikası veya API kimlik bilgisi koruması içeren isteklerde etkinleşir."
 domain: cybersecurity
 subdomain: api-security
 tags:

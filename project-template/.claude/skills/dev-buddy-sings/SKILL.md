@@ -1,10 +1,6 @@
 ---
 name: buddy-sings
-description: >
-  Use when user wants their Claude Code pet (/buddy) to sing a song. Triggers on any
-  request that combines the concept of their Claude Code buddy, pet, or companion with
-  singing or music. Supports multilingual triggers — match equivalent phrases in any
-  language.
+description: "Kullanıcı Claude Code evcil hayvanının (/buddy) şarkı söylemesini istediğinde kullan. Claude Code arkadaşı, evcil hayvanı veya yoldaşı kavramını şarkı söyleme veya müzikle birleştiren herhangi bir istekte tetikle. Çok dilli tetikleyicileri destekler — herhangi bir dildeki eşdeğer ifadelerle eşleş."
 license: MIT
 metadata:
   version: "1.1"

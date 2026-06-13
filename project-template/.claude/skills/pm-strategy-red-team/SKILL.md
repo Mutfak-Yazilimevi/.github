@@ -1,6 +1,6 @@
 ---
 name: strategy-red-team
-description: "Red-team a PRD, roadmap, or strategy by attacking its load-bearing assumptions before reality does. Steelmans then attacks each claim, ranks failure modes by impact × likelihood × cheapness-to-test, and returns the cheapest test and kill criteria for each. Use when stress-testing a plan, pressure-testing a strategy, challenging assumptions, or preparing a doc for executive review."
+description: "Gerçeklik etmeden önce bir PRD, yol haritası veya stratejinin yük taşıyan varsayımlarına saldır. Her iddiayı güçlendirir sonra saldırır, başarısızlık modlarını etki × olasılık × test edilme maliyeti sırasına göre sıralar ve her biri için en ucuz testi ve öldürme kriterini döndürür. Bir planı stres testinden geçirirken, bir strateji üzerinde baskı testine girerken, varsayımları sorgularken veya yönetici incelemesi için bir belge hazırlarken kullan."
 ---
 
 # Strategy Red-Team: Attack the Assumptions Before Reality Does

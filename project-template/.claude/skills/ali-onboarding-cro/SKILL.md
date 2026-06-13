@@ -1,6 +1,6 @@
 ---
 name: "onboarding-cro"
-description: When the user wants to optimize post-signup onboarding, user activation, first-run experience, or time-to-value. Also use when the user mentions "onboarding flow," "activation rate," "user activation," "first-run experience," "empty states," "onboarding checklist," "aha moment," or "new user experience." For signup/registration optimization, see signup-flow-cro. For ongoing email sequences, see email-sequence.
+description: "Kullanıcı kayıt sonrası alıştırma sürecini, kullanıcı aktivasyonunu, ilk çalışma deneyimini veya değere ulaşma süresini optimize etmek istediğinde kullan. Ayrıca \"onboarding flow\", \"activation rate\", \"user activation\", \"first-run experience\", \"empty states\", \"onboarding checklist\", \"aha moment\" veya \"new user experience\" ifadelerini kullandığında da kullan. Kayıt/giriş optimizasyonu için signup-flow-cro, devam eden e-posta dizileri için email-sequence skill'ini kullan."
 license: MIT
 metadata:
   version: 1.0.0

@@ -1,14 +1,6 @@
 ---
 name: conducting-external-reconnaissance-with-osint
-description: 'Conducts external reconnaissance using Open Source Intelligence (OSINT)
-  techniques to map an organization''s external attack surface without directly interacting
-  with target systems. The tester gathers information from public sources including
-  DNS records, certificate transparency logs, search engines, social media, code repositories,
-  and data breach databases to build a comprehensive target profile. Activates for
-  requests involving OSINT reconnaissance, external footprinting, attack surface mapping,
-  or passive information gathering.
-
-  '
+description: "Hedef sistemlerle doğrudan etkileşime girmeden kuruluşun harici saldırı yüzeyini haritalamak için Açık Kaynak İstihbaratı (OSINT) tekniklerini kullanarak harici keşif gerçekleştirir. Test uzmanı, kapsamlı bir hedef profili oluşturmak için DNS kayıtları, sertifika şeffaflığı logları, arama motorları, sosyal medya, kod depoları ve veri ihlali veritabanları dahil olmak üzere kamuya açık kaynaklardan bilgi toplar. OSINT keşfi, harici ayak izi belirleme, saldırı yüzeyi haritalama veya pasif bilgi toplama isteklerinde etkinleşir."
 domain: cybersecurity
 subdomain: penetration-testing
 tags:
